@@ -1,0 +1,32 @@
+#! /bin/sh
+
+sxhkd &
+redshift -t 6500:4000 &
+compton -b -c
+nm-applet &
+$HOME/.config/polybar/launch.sh
+echo "0" > /tmp/barHidden
+udiskie &
+
+if [ "`xrandr --listmonitors | wc -l`" -eq 2 ]; then
+       	bspc monitor -d I II III IV V VI VII VIII IX X
+else
+	bspc monitor eDP1 -d I II III IV V
+	bspc monitor `xrandr --listmonitors | tail -1 | rev | cut -d ' ' -f 1 | rev` -d VI VII VIII IX X
+fi
+
+bspc config border_width         2
+bspc config window_gap          12
+
+bspc config split_ratio         0.52
+bspc config borderless_monocle  true
+bspc config gapless_monocle     true
+bspc config click_to_focus	true
+
+bspc config right_padding -14
+bspc config left_padding -14
+bspc config top_padding -14
+
+# Scratchpad
+bspc rule -a scratchpad sticky=on state=floating hidden=on
+urxvt -e /home/eetu/.scripts/scratch &
