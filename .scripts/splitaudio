@@ -1,0 +1,11 @@
+#!/bin/bash
+test=`pactl list short modules | grep module-remap-sink | wc -l`
+test2=`pactl list short modules | grep module-remap-sink | cut -f1 -d$'\t' | tail -1`
+test3=`pactl list short modules | grep module-remap-sink | cut -f1 -d$'\t' | head -1`
+
+if [ $test = 0 ]; then
+	pactl load-module module-remap-sink sink_name=channels_1-2 sink_properties="device.description=CH1-2" remix=no master=alsa_output.usb-Focusrite_Scarlett_2i4_USB-00.analog-surround-40 channels=2 master_channel_map=front-left,front-right channel_map=front-left,front-right
+	pactl load-module module-remap-sink sink_name=channels_3-4 sink_properties="device.description=CH3-4" remix=no master=alsa_output.usb-Focusrite_Scarlett_2i4_USB-00.analog-surround-40 channels=2 master_channel_map=rear-left,rear-right channel_map=front-left,front-right
+else
+	notify-send "Audio already split" --icon=audio-card
+fi

@@ -1,0 +1,3 @@
+rofi.theme: ~/.config/rofi/sidetab.rasi
+rofi.font: SourceCodePro 10
+rofi.width: 50

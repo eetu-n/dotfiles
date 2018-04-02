@@ -1,0 +1,16 @@
+#!/bin/sh
+
+if (($# != 2)); then
+	echo "Usage: mpdSym [mp3/folder] target"
+	exit
+fi
+if [ $1 = mp3 ] 
+then
+	ln -s -f $2 $HOME/Music/symlinks/file.mp3
+elif [ $1 = folder ] 
+then
+	ln -s -f $2 $HOME/Music/symlinks/folder
+else
+	echo "Usage: mpdSym [mp3/folder] target"
+	exit
+fi

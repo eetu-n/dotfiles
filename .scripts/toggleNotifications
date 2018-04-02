@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ -e /tmp/notificationsHidden ]; then
+	pkill -u "$USER" -USR2 dunst && notify-send "Notifications Enabled" --icon=emblem-default && rm -f /tmp/notificationsHidden
+else
+	notify-send "Silencing Notifications..." --icon="system-hibernate" && sleep 3 && pkill -u "$USER" -USR1 dunst && touch /tmp/notificationsHidden
+
+fi

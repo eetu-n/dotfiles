@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if xrandr | grep "HDMI1 connected ("; then
+	multimon
+	resolution=`xrandr | grep HDMI1 | cut -f1 -d"+"`
+	notify-send "$resolution" --icon=video-display
+elif xrandr | grep "HDMI1 disconnected"; then
+	notify-send "No Monitor Connected" --icon=video-display
+else
+	singlemon
+	notify-send "HDMI1 Disconnected" --icon=video-display
+fi

@@ -1,0 +1,122 @@
+/*******************************************************************************
+ * ROFI Color theme
+ * User: deadguy
+ * Copyright: deadguy
+*******************************************************************************/
+
+* {
+    background-color:            #08080855;
+    text-color:                  #d3d7cf;
+    selbg:                       #08080800;
+    actbg:                       #26262655;
+    urgbg:                       #e5393555;
+    winbg:                       #26c6da;
+
+    selected-normal-foreground:  @winbg;
+    normal-foreground:           @text-color;
+    selected-normal-background:  @actbg;
+    normal-background:           #00000000;
+
+    selected-urgent-foreground:  @background-color;
+    urgent-foreground:           @text-color;
+    selected-urgent-background:  @urgbg;
+    urgent-background:           @urgbg;
+
+    selected-active-foreground:  @winbg;
+    active-foreground:           @text-color;
+    selected-active-background:  @actbg;
+    active-background:           @selbg;
+
+   margin:                       0;
+   padding:                      0;
+}
+
+window {
+	location:    northwest;
+	anchor:      northwest;
+	height:      96.6%;
+/*	width:       30%;*/
+	orientation: horizontal;
+	children:    [mainbox]; 
+}
+
+mainbox {
+	spacing:  0.8em;
+	children: [ entry,listview,sidebar ];
+}
+
+button { padding: 5px 2px; }
+
+button selected {
+	background-color: @active-background;
+	text-color:       @background-color;
+}
+
+inputbar {
+	padding: 1px;
+	spacing: 1px;
+}
+
+listview {
+	spacing: 0em;
+	dynamic: false;
+	cycle:   true;
+}
+
+element { padding: 5px; }
+
+entry {
+	expand:         false;
+	text-color:     @normal-foreground;
+	vertical-align: 1;
+	padding:        5px;
+}
+
+element normal.normal {
+  background-color: @normal-background;
+  text-color:       @normal-foreground;
+}
+
+element normal.urgent {
+  background-color: @urgent-background;
+  text-color:       @urgent-foreground;
+}
+
+element normal.active {
+    background-color: @active-background;
+    text-color:       @active-foreground;
+}
+
+element selected.normal {
+    background-color: @selected-normal-background;
+    text-color:       @selected-normal-foreground;
+	border:			  0 5px solid 0 0;
+	border-color:	  @active-background;
+}
+
+element selected.urgent {
+    background-color: @selected-urgent-background;
+    text-color:       @selected-urgent-foreground;
+}
+
+element selected.active {
+    background-color: @selected-active-background;
+    text-color:       @selected-active-foreground;
+}
+
+element alternate.normal {
+    background-color: @normal-background;
+    text-color:       @normal-foreground;
+}
+
+element alternate.urgent {
+    background-color: @urgent-background;
+    text-color:       @urgent-foreground;
+}
+
+element alternate.active {
+    background-color: @active-background;
+    text-color:       @active-foreground;
+}
+
+/* vim:ft=css */

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if [ -e /tmp/barHidden ]; then
+	polybar-msg cmd hide &&
+	rm -f /tmp/barHidden &&
+	bspc config bottom_padding -14
+else
+	polybar-msg cmd show &&
+	touch /tmp/barHidden &&
+	bspc config bottom_padding 25
+fi

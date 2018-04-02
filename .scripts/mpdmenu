@@ -1,0 +1,6 @@
+#!/bin/bash
+width=`mpc --format='Currently Playing: %artist% - %album%: %title%' playlist | wc -L`
+
+mpc play `mpc --format="%artist% - %album%: %title%" playlist | 
+	grep -n "\`cat <(echo 'Currently playing: ' | head -c -1) <(mpc --format='%artist% - %album%: %title%' | head -1) <(mpc --format=\"%artist% - %album%: %title%\" playlist) | rofi -dmenu -i -width -$width\`" | 
+	sed 's/:.*//'`

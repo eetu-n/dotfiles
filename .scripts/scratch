@@ -1,0 +1,8 @@
+#!/usr/bin/sh
+bspc query -N -n > /tmp/scratchid
+bspc node -t floating
+xdo move -x0 -y0
+xdo move -x-2 -y-2
+xdo resize -w1920 -h400
+bspc node -g hidden
+$SHELL
