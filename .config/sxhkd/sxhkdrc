@@ -76,11 +76,11 @@ super + n
 
 # New chrome incognito window
 super + shift + n
-	incognito
+	google-chrome-stable --incognito
 
 # Battery Level Timer
 super + shift + b
-	batlevNotification
+	batLev
 
 # Lock The Screen
 ctrl + alt + Delete
@@ -102,7 +102,7 @@ super + @space
 super + e
 	thunar
 
-# make sxhkd reload its configuration files:
+# Restart sxhkd and polybar
 super + Escape
 	pkill -USR1 -x sxhkd && polybar-msg cmd restart
 
