@@ -1,5 +1,6 @@
+#!/bin/bash
 
-if [ "`acpi`" = "Battery 0: Unknown, 98%" ]; then
+if [ "`acpi`" = "Battery 0: Unknown, 98%" ] || [ "`acpi`" = "Battery 0: Full, 100%" ]; then
 	notify-send --icon=battery "Battery Full";
 else
 	notify-send --icon=battery "`acpi | cut -d, -f-2 --complement | cut -d: -f-2 | cut -c1 --complement`";
