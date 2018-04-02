@@ -1,0 +1,228 @@
+#####
+# wm independent hotkeys
+#####
+
+#
+# Brightness and volume controls
+#
+
+# Brightness up
+XF86MonBrightnessUp
+	xbacklight -inc 5
+
+# Brightness down
+XF86MonBrightnessDown
+	xbacklight -dec 5
+
+# Volume down
+XF86AudioLowerVolume
+	ponymix decrease 1
+
+# Volume up 
+XF86AudioRaiseVolume
+	ponymix increase 1
+
+# Volume toggle
+XF86AudioMute
+	ponymix toggle
+
+#
+# MPD Controls
+#
+
+# MPD Pause / Play
+super + shift + f
+	mpc toggle
+
+# MPD Next
+super + shift + d
+	mpc next
+
+# MPD Previous
+super + shift + a
+	mpc prev
+
+# MPMenu Shortcut
+super + shift + w
+	mpdmenu
+
+# Shuffle toggle
+super + shift + r
+	notify-send --icon=multimedia-audio-player "MPD random `mpc random | tail -1 | cut -d ' ' -f 10`"
+
+#
+# General
+#
+
+# Take a screenshot to clipboard
+Print
+	gscreenshot-cli -c
+
+# Take a screenshot of a selection
+super + Print
+	gscreenshot-cli -c -s
+
+# Open screenshot utility
+super + shift + Print
+	gscreenshot
+
+# Name a window
+super + shift + m
+	notify-send "`xtitle`"
+
+# New chrome window
+super + n
+	google-chrome-stable
+
+# New chrome incognito window
+super + shift + n
+	incognito
+
+# Battery Level Timer
+super + shift + b
+	batlevNotification
+
+# Lock The Screen
+ctrl + alt + Delete
+	lock
+
+# Toggle Monitor
+XF86Display
+	togglemon
+
+# terminal emulator
+super + Return
+	urxvt
+
+# program launcher
+super + @space
+	rofi -show run -width -40
+
+# File Manager
+super + e
+	thunar
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd && polybar-msg cmd restart
+
+# Toggle polybar
+super + shift + g
+	togglePolybar
+
+# Toggle Notifications
+super + shift + i
+	toggleNotifications
+
+
+#
+# bspwm hotkeys
+#
+
+# Scratchpad
+super + shift + e
+	id=$(cat /tmp/scratchid);\
+	curDesk=$(bspc query -D -d focused);\
+	bspc node $id -d $curDesk;bspc node $id -g hidden;bspc node -f $id
+
+# quit bspwm normally
+super + alt + Escape
+	bspc quit
+
+# close and kill
+super + {_,shift + }q
+	bspc node -{c,k}
+
+# alternate between the tiled and monocle layout
+super + m
+	bspc desktop -l next
+
+# if the current node is automatic, send it to the last manual, otherwise pull the last leaf
+super + y
+	bspc query -N -n focused.automatic && bspc node -n last.!automatic || bspc node last.leaf -n focused
+
+# swap the current node and the biggest node
+super + g
+	bspc node -s biggest
+
+#
+# state/flags
+#
+
+# set the window state
+super + {t,shift + t,s,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+# set the node flags
+super + ctrl + {x,y,z}
+	bspc node -g {locked,sticky,private}
+
+#
+# focus/swap
+#
+
+# focus the node in the given direction
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# focus the node for the given path jump
+super + {p,b,comma,period}
+	bspc node -f @{parent,brother,first,second}
+
+# focus the next/previous node in the current desktop
+super + {_,shift + }c
+	bspc node -f {next,prev}.local
+
+# focus the next/previous desktop in the current monitor
+super + bracket{left,right}
+	bspc desktop -f {prev,next}.local
+
+# focus the last node/desktop
+super + {grave,Tab}
+	bspc {node,desktop} -f last
+
+# focus the older or newer node in the focus history
+super + {o,i}
+	bspc wm -h off; \
+	bspc node {older,newer} -f; \
+	bspc wm -h on
+
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}'
+
+#
+# preselect
+#
+
+# preselect the direction
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+# preselect the ratio
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# cancel the preselection for the focused node
+super + ctrl + space
+	bspc node -p cancel
+
+# cancel the preselection for the focused desktop
+super + ctrl + shift + space
+	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
+
+#
+# move/resize
+#
+
+# expand a window by moving one of its side outward
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# contract a window by moving one of its side inward
+super + alt + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+
+# move a floating window
+super + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
