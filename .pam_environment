@@ -1,0 +1,7 @@
+# Syntax KEY=val on separate lines
+
+PATH=":$HOME/.scripts:$HOME/esp/xtensa-esp32-elf/bin"
+_JAVA_OPTIONS="-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true"
+ESPIDF="$HOME/esp/esp-idf"
+IDF_PATH="$HOME/esp/esp-idf"
+EDITOR=vim
