@@ -1,5 +1,0 @@
-#!/bin/bash
-
-R=$(($RANDOM%9))
-
-play /home/eetu/.fart/fart-$R.wav

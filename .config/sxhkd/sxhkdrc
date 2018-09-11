@@ -48,7 +48,7 @@ super + shift + w
 
 # Shuffle toggle
 super + shift + r
-	notify-send --icon=multimedia-audio-player "MPD random `mpc random | tail -1 | cut -d ' ' -f 10`"
+	notify-send --icon=multimedia-audio-player "MPD random `mpc random | tail -1 | cut -d ' ' -f 11`"
 
 #
 # General
@@ -114,6 +114,17 @@ super + shift + g
 super + shift + i
 	toggleNotifications
 
+# Toggle bluetooth
+super + b
+    toggleBluetooth
+
+# Toggle compton
+super + c
+    toggleCompton
+
+# Toggle VPN
+super + v
+    toggleVPN
 
 #
 # bspwm hotkeys

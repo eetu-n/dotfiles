@@ -39,3 +39,7 @@ nnoremap k gk
 
 " toggle gundo
 nnoremap <leader>u :GundoToggle<CR>
+
+" Turn on spellcheck
+set spelllang=en
+set spell
