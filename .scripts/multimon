@@ -1,3 +1,11 @@
-xrandr --output eDP1 --auto --output HDMI1 --auto --right-of eDP1
-bspc monitor eDP1 -d I II III IV V
-bspc monitor HDMI1 -d VI VII VIII IX X
+#!/bin/sh
+
+monitorUpdate
+
+pMon=`cat /tmp/primaryMonitor`
+sMon=`cat /tmp/secondaryMonitor`
+
+xrandr --output $pMon --auto --output $sMon --auto --right-of $pMon
+bspc monitor $pMon -d I II III IV V
+bspc monitor $sMon -d VI VII VIII IX X
+feh --bg-scale /home/eetu/.dog.png

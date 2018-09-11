@@ -1,0 +1,12 @@
+#!/bin/bash
+
+status=`bluetoothctl show | grep Powered | awk '{ print $NF }'`
+
+if [ $status = 'yes' ]; then
+    bluetoothctl power off;
+    notify-send "Bluetooth Off" --icon="bluetooth"
+else
+    bluetoothctl agent on;
+    bluetoothctl power on;
+    notify-send "Bluetooth on" --icon="bluetooth"
+fi
