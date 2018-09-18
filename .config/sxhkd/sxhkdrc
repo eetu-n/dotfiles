@@ -118,9 +118,9 @@ super + shift + i
 super + b
     toggleBluetooth
 
-# Toggle compton
+# Toggle compositor
 super + c
-    toggleCompton
+    toggleUnagi
 
 # Toggle VPN
 super + v

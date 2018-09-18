@@ -1,7 +1,8 @@
 #! /bin/bash
 
 sxhkd &
-compton -b -c
+# compton -b -c
+unagi &
 nm-applet &
 touch /tmp/barHidden
 monitorUpdate
