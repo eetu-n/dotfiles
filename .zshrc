@@ -5,7 +5,7 @@ promptinit
 # This will set the default prompt to the walters theme
 prompt walters
 alias ls="ls --color"
-alias update="pac && pacman -Qe > /home/eetu/.installedPrograms"
+alias update="pac && pacman -Qei | grep -e Name -e Version -e Description -e '^$' | tee /home/eetu/.installedPrograms > /dev/null"
 alias config="git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME"
 alias notes="git --git-dir=$HOME/.vim/Notes/.git --work-tree=$HOME/.vim/Notes"
 
