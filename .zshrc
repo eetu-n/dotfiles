@@ -7,6 +7,6 @@ prompt walters
 alias ls="ls --color"
 alias update="pac"
 alias config="git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME"
-alias notes="git --git-dir=$HOME/.vim/misc/notes/user/.git --work-tree=$HOME/.vim/misc/notes/user"
+alias notes="git --git-dir=$HOME/.vim/Notes/.git --work-tree=$HOME/.vim/Notes"
 
 test -r ~/.dircolors && eval "$(dircolors $HOME/.dircolors)"

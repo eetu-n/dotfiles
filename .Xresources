@@ -1,7 +1,8 @@
 URxvt.scrollBar:false
-URxvt.font: xft:SourceCodePro-Regular:size=10
+URxvt.font: xft:SourceCodePro-Regular:size=10,xft:Symbola:size=10:minspace=False
 urxvt*depth: 32
 urxvt*background: rgba:0000/0000/0200/c800
+urxvt.letterSpace: 1
 
 
 *background: #0f0f0f

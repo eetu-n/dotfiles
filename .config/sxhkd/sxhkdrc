@@ -92,7 +92,7 @@ XF86Display
 
 # terminal emulator
 super + Return
-	urxvt
+    termite
 
 # program launcher
 super + @space

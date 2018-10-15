@@ -1,4 +1,14 @@
-execute pathogen#infect()
+"execute pathogen#infect()
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'sjl/gundo.vim'            "Undo utility
+Plug 'sjl/badwolf'              "Colorscheme
+Plug 'itchyny/lightline.vim'    "Statusline
+Plug 'xolox/vim-notes'          "Notes
+Plug 'xolox/vim-misc'           "Notes dependency
+
+call plug#end()
 
 " Colors
 syntax enable
@@ -13,7 +23,7 @@ set expandtab
 
 " UI stuff
 set number " show line numbers
-set showcmd " show command in bottom bar
+set noshowcmd " show command in bottom bar
 set cursorline "highlight current line
 set wildmenu "visual complete for command menu
 set lazyredraw " redraw only when necessary
@@ -43,3 +53,22 @@ nnoremap <leader>u :GundoToggle<CR>
 " Turn on spellcheck
 set spelllang=en
 set spell
+
+" Wrapping
+set wrap
+set linebreak
+
+" Statusline stuff
+set noshowmode
+set laststatus=2
+let g:lightline = {
+    \ 'colorscheme': 'wombat',
+    \ }
+
+" Clipboard
+
+set clipboard=unnamedplus
+
+" Vim Notes
+
+let g:notes_directories = ['~/.vim/Notes', '~/.vim/Shared Notes']
