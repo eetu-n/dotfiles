@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sudo ln $HOME/.config/rootConf/90-synaptics.conf /usr/share/X11/xorg.conf.d/90-synaptics.conf
