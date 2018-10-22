@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-166
+Version         : 1.1.0-168
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-source-code-pro-fonts
@@ -15,7 +15,7 @@ Version         : 1.0.29-2
 Description     : ALSA firmware package
 
 Name            : alsa-utils
-Version         : 1.1.6-1
+Version         : 1.1.7-1
 Description     : An alternative implementation of Linux sound support
 
 Name            : arandr
@@ -335,7 +335,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 4.18.14.arch1-1
+Version         : 4.18.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -411,7 +411,7 @@ Version         : 1.8.18-2
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.14.1dev+13+g0d3234478-1
+Version         : 1.14.2-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -853,10 +853,6 @@ Description     : Manage user directories like ~/Desktop and ~/Music
 Name            : xdo
 Version         : 0.5.7-1
 Description     : Utility for performing actions on windows in X
-
-Name            : xf86-input-synaptics
-Version         : 1.9.1-1
-Description     : Synaptics driver for notebook touchpads
 
 Name            : xf86-video-intel
 Version         : 1:2.99.917+847+g25c9a2fc-1

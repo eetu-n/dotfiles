@@ -10,3 +10,10 @@ alias config="git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME"
 alias notes="git --git-dir=$HOME/.vim/Notes/.git --work-tree=$HOME/.vim/Notes"
 
 test -r ~/.dircolors && eval "$(dircolors $HOME/.dircolors)"
+
+# Vim keybindings
+bindkey -v
+
+# Makes history search with what's already written
+bindkey "^[[A" history-beginning-search-backward
+bindkey "^[[B" history-beginning-search-forward
