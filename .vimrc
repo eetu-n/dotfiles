@@ -2,11 +2,12 @@
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'sjl/gundo.vim'            "Undo utility
-Plug 'sjl/badwolf'              "Colorscheme
-Plug 'itchyny/lightline.vim'    "Statusline
-Plug 'xolox/vim-notes'          "Notes
-Plug 'xolox/vim-misc'           "Notes dependency
+Plug 'sjl/gundo.vim'                "Undo utility
+Plug 'sjl/badwolf'                  "Colorscheme
+Plug 'itchyny/lightline.vim'        "Statusline
+Plug 'xolox/vim-notes'              "Notes
+Plug 'xolox/vim-misc'               "Notes dependency
+Plug 'terryma/vim-multiple-cursors' "Multiple Cursors
 
 call plug#end()
 
