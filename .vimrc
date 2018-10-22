@@ -21,6 +21,7 @@ hi NonText ctermbg=none
 set tabstop=4 " number of visual spaces per tab
 set softtabstop=4 "number of spaces in tab when editing
 set expandtab
+set shiftwidth=4 "Sets the indent to 4 spaces
 
 " UI stuff
 set number " show line numbers
