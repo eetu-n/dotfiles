@@ -48,6 +48,8 @@ set foldmethod=indent " folds based on indent level
 	" move by visual line, not actual
 nnoremap j gj
 nnoremap k gk
+nnoremap <Down> gj
+nnoremap <Up> gk
 
 " toggle gundo
 nnoremap <leader>u :GundoToggle<CR>
