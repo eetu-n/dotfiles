@@ -35,6 +35,7 @@ filetype plugin indent on "filetype indent
 "Searching
 set incsearch "search as characters are entered
 set hlsearch " highlight matches
+set smartcase " search case insensitive unless uppercase characters in string. \C will override
 
 " Folding
 set foldenable "folds code blocks
