@@ -2,12 +2,13 @@
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'sjl/gundo.vim'                "Undo utility
-Plug 'sjl/badwolf'                  "Colorscheme
-Plug 'itchyny/lightline.vim'        "Statusline
-Plug 'xolox/vim-notes'              "Notes
-Plug 'xolox/vim-misc'               "Notes dependency
-Plug 'terryma/vim-multiple-cursors' "Multiple Cursors
+Plug 'sjl/gundo.vim'                                    "Undo utility
+Plug 'sjl/badwolf'                                      "Colorscheme
+Plug 'itchyny/lightline.vim'                            "Statusline
+Plug 'xolox/vim-notes'                                  "Notes
+Plug 'xolox/vim-misc'                                   "Notes dependency
+Plug 'terryma/vim-multiple-cursors'                     "Multiple Cursors
+Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }  "Live Latex preview
 
 call plug#end()
 
@@ -35,6 +36,7 @@ filetype plugin indent on "filetype indent
 "Searching
 set incsearch "search as characters are entered
 set hlsearch " highlight matches
+set ignorecase 
 set smartcase " search case insensitive unless uppercase characters in string. \C will override
 
 " Folding
@@ -77,3 +79,7 @@ set clipboard=unnamedplus
 " Vim Notes
 
 let g:notes_directories = ['~/.vim/Notes', '~/.vim/Shared Notes']
+
+" LaTeX stuff
+
+let g:livepreview_engine = 'xelatex'
