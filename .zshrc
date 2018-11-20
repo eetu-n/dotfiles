@@ -17,3 +17,6 @@ bindkey -v
 # Makes history search with what's already written
 bindkey "^[[A" history-beginning-search-backward
 bindkey "^[[B" history-beginning-search-forward
+
+# Keychain setup
+eval $(keychain --eval --quiet id_rsa)

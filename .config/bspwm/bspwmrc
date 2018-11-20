@@ -1,13 +1,10 @@
 #! /bin/bash
 
 sxhkd &
-# compton -b -c
 unagi &
 nm-applet &
 touch /tmp/barHidden
 monitorUpdate
-redshift &
-udiskie &
 
 if [ "`xrandr --listmonitors | head -1 | rev | cut -c 1`" -eq 1 ]; then
        singlemon 
