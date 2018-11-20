@@ -23,5 +23,5 @@ eval $(keychain --eval --quiet id_rsa)
 
 # Fix SSH behaviour
 if [[ -n "$SSH_CLIENT"  ||  -n "$SSH2_CLIENT" ]]; then
-    TERM=xterm
+    TERM=xterm-256color
 fi
