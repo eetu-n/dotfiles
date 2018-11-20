@@ -20,3 +20,8 @@ bindkey "^[[B" history-beginning-search-forward
 
 # Keychain setup
 eval $(keychain --eval --quiet id_rsa)
+
+# Fix SSH behaviour
+if [[ -n "$SSH_CLIENT"  ||  -n "$SSH2_CLIENT" ]];
+    TERM=xterm
+fi
