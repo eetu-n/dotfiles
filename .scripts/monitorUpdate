@@ -2,9 +2,16 @@
 
 
 xrandr | grep -w "connected" | head -1 | cut -d ' ' -f 1 > /tmp/primaryMonitor
+touch /tmp/secondaryMonitor
+touch /tmp/thirdMonitor
 
 if [ "`xrandr | grep -w "connected" | wc -l`" -eq 2 ]; then
-        xrandr | grep -w "connected" | tail -1 | cut -d ' ' -f 1 > /tmp/secondaryMonitor
+    xrandr | grep -w "connected" | tail -1 | cut -d ' ' -f 1 > /tmp/secondaryMonitor
+    rm /tmp/thirdMonitor
+elif [ "`xrandr | grep -w "connected" | wc -l`" -eq 3 ]; then
+    xrandr | grep -w "connected" | tail -2 | head -1 | cut -d ' ' -f 1 > /tmp/secondaryMonitor
+    xrandr | grep -w "connected" | tail -1 | cut -d ' ' -f 1 > /tmp/thirdMonitor
 else
-        echo " " > /tmp/secondaryMonitor
+    rm /tmp/secondaryMonitor
+    rm /tmp/thirdMonitor
 fi
