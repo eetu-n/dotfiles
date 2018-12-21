@@ -28,4 +28,4 @@ bspc config top_padding -14
 
 # Scratchpad
 bspc rule -a scratchpad sticky=on state=floating hidden=on
-termite -e /home/eetu/.scripts/scratch &
+termite --hold -e scratch &

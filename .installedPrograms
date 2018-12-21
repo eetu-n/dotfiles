@@ -686,10 +686,6 @@ Name            : siji-git
 Version         : r22.2546822-1
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
-Name            : sl
-Version         : 5.02-5
-Description     : Steam Locomotive runs across your terminal when you type "sl" as you meant to type "ls".
-
 Name            : slack-desktop
 Version         : 3.3.3-1
 Description     : Slack Desktop (Beta) for Linux
