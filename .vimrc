@@ -57,6 +57,8 @@ nnoremap j gj
 nnoremap k gk
 nnoremap <Down> gj
 nnoremap <Up> gk
+inoremap <Down> <Esc>gja
+inoremap <Up> <Esc>gka
 
 " toggle gundo
 nnoremap <leader>u :GundoToggle<CR>
@@ -87,3 +89,6 @@ let g:notes_directories = ['~/.vim/Notes', '~/.vim/Shared Notes']
 " LaTeX stuff
 
 let g:livepreview_engine = 'xelatex'
+
+" Ctrl + Backspace
+"
