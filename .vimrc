@@ -13,6 +13,7 @@ Plug 'xolox/vim-notes'                                  "Notes
 Plug 'xolox/vim-misc'                                   "Notes dependency
 Plug 'terryma/vim-multiple-cursors'                     "Multiple Cursors
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }  "Live Latex preview
+Plug 'vim-scripts/matchit.zip'                          "Extend % matching for HTML, LaTeX etc.
 
 call plug#end()
 
@@ -57,6 +58,10 @@ nnoremap j gj
 nnoremap k gk
 nnoremap <Down> gj
 nnoremap <Up> gk
+vnoremap j gj
+vnoremap k gk
+vnoremap <Down> gj
+vnoremap <Up> gk
 inoremap <Down> <Esc>gja
 inoremap <Up> <Esc>gka
 
