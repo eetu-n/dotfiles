@@ -70,13 +70,9 @@ super + shift + Print
 super + shift + m
 	notify-send "`xtitle`"
 
-# New chrome window
+# New browser window
 super + n
-	google-chrome-stable
-
-# New chrome incognito window
-super + shift + n
-	google-chrome-stable --incognito
+	firefox
 
 # Battery Level Timer
 super + shift + b
