@@ -13,7 +13,8 @@ Plug 'xolox/vim-notes'                                  "Notes
 Plug 'xolox/vim-misc'                                   "Notes dependency
 Plug 'terryma/vim-multiple-cursors'                     "Multiple Cursors
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }  "Live Latex preview
-Plug 'vim-scripts/matchit.zip'                          "Extend % matching for HTML, LaTeX etc.
+Plug 'andymass/vim-matchup'                             "Extend % matching for HTML, LaTeX etc.
+Plug 'yggdroot/indentline'                              "Show indentation levels
 
 call plug#end()
 
