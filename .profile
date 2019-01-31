@@ -7,5 +7,5 @@ export XDG_CONFIG_HOME=$HOME/.config/
 export SSH_ASKPASS=ssh-askpass
 export HOSTNAME=$(hostname)
 
-redshift -l 51.44:5.46 &
+redshift &
 udiskie &

@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-187
+Version         : 1.1.0-188
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -199,7 +199,7 @@ Version         : 4.6.0-4
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 64.0.2-1
+Version         : 65.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -251,7 +251,7 @@ Version         : 3.28-1
 Description     : Extra Themes for GNOME Applications
 
 Name            : google-chrome
-Version         : 71.0.3578.98-1
+Version         : 72.0.3626.81-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : gpodder
@@ -319,7 +319,7 @@ Version         : 20180807.a-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2018.3.3-1
+Version         : 2018.3.4-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
@@ -337,6 +337,10 @@ Description     : JFS filesystem utilities
 Name            : junit
 Version         : 4.12-2
 Description     : Simple JVM framework to write repeatable tests
+
+Name            : kdenlive
+Version         : 18.12.1-1
+Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : less
 Version         : 530-1
@@ -363,7 +367,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 4.20.4.arch1-1
+Version         : 4.20.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -579,7 +583,7 @@ Version         : 1.6.6-2
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline.
 
 Name            : pycharm-professional
-Version         : 2018.3.3-1
+Version         : 2018.3.4-1
 Description     : Powerful Python and Django IDE. Professional Edition.
 
 Name            : python-pip
@@ -819,7 +823,7 @@ Version         : 2.37-2
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 5.6.3-1
+Version         : 5.7.0-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-freefont
