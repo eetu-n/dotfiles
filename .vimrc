@@ -15,6 +15,7 @@ Plug 'terryma/vim-multiple-cursors'                     "Multiple Cursors
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }  "Live Latex preview
 Plug 'andymass/vim-matchup'                             "Extend % matching for HTML, LaTeX etc.
 Plug 'yggdroot/indentline'                              "Show indentation levels
+Plug 'tpope/vim-fugitive'                               "Git Wrapper
 
 call plug#end()
 
