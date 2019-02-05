@@ -21,5 +21,5 @@ bindkey "^[[B" history-beginning-search-forward
 
 # Fix SSH behaviour
 if [[ -n "$SSH_CLIENT"  ||  -n "$SSH2_CLIENT" ]]; then
-    TERM=xterm
+    TERM=xterm-256color
 fi
