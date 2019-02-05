@@ -1,3 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
-sudo ln /usr/share/X11/xorg.conf.d/90-synaptics.conf $HOME/.config/rootConf/90-synaptics.conf 
+sudo ln $HOME/.config/rootConf/90-synaptics.conf /usr/share/X11/xorg.conf.d/90-synaptics.conf 
+sudo ln $HOME/.config/rootConf/30-touchpad.conf /usr/share/X11/xorg.conf.d/30-touchpad.conf
