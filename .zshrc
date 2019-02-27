@@ -8,7 +8,7 @@ alias ls="ls --color"
 alias update="yay -Syu && pacman -Qei | grep -e Name -e Version -e Description -e '^$' | tee /home/eetu/.installedPrograms > /dev/null"
 alias config="git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME"
 alias notes="git --git-dir=$HOME/.vim/Notes/.git --work-tree=$HOME/.vim/Notes"
-alias econnect="ssh eetunarhi.com"
+alias econnect="mosh eetunarhi.com"
 
 test -r ~/.dircolors && eval "$(dircolors $HOME/.dircolors)"
 
