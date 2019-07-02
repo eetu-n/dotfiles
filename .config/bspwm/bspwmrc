@@ -6,6 +6,14 @@ nm-applet &
 touch /tmp/barHidden
 monitorUpdate
 
+if ! pgrep -u "$USER" ssh-agent > /dev/null; then
+    ssh-agent > /tmp/ssh-agent-pid
+fi
+if [[ ! "$SSH_AUTH_SOCK" ]]; then
+    eval "$(</tmp/ssh-agent-pid)"
+fi
+
+
 if [ "`xrandr --listmonitors | head -1 | rev | cut -c 1`" -eq 1 ]; then
        singlemon 
 else
