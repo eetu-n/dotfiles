@@ -23,3 +23,12 @@ bindkey "^[[B" history-beginning-search-forward
 if [[ -n "$SSH_CLIENT"  ||  -n "$SSH2_CLIENT" ]]; then
     TERM=xterm-256color
 fi
+
+# Enable ssh-agent
+if ! pgrep -u "$USER" ssh-agent > /dev/null; then
+    ssh-agent > /tmp/ssh-agent-pid
+fi
+if [[ ! "$SSH_AUTH_SOCK" ]]; then
+    eval "$(</tmp/ssh-agent-pid)" > /dev/null
+fi
+
