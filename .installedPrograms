@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-228
+Version         : 1.1.0-230
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -50,6 +50,10 @@ Name            : automake
 Version         : 1.16.1-1
 Description     : A GNU tool for automatically creating Makefiles
 
+Name            : bandit
+Version         : 1.6.0-1
+Description     : Python security linter from OpenStack Security
+
 Name            : baobab
 Version         : 3.32.0-1
 Description     : A graphical directory tree analyzer
@@ -95,7 +99,7 @@ Version         : 0.9.7-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : bzip2
-Version         : 1.0.7-1
+Version         : 1.0.7-2
 Description     : A high-quality data compression program
 
 Name            : chromium
@@ -167,7 +171,7 @@ Version         : 6.2.1-0
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.4.0-1
+Version         : 1.4.1-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : e2fsprogs
@@ -219,7 +223,7 @@ Version         : 2019.05-2
 Description     : Base Arch Linux files
 
 Name            : filezilla
-Version         : 3.43.0-1
+Version         : 3.43.0-2
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
@@ -227,7 +231,7 @@ Version         : 4.6.0-4
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 67.0.4-1
+Version         : 68.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -278,6 +282,10 @@ Name            : gnome-themes-extra
 Version         : 3.28-1
 Description     : Extra Themes for GNOME Applications
 
+Name            : gnu-free-fonts
+Version         : 20120503-6
+Description     : A free family of scalable outline fonts
+
 Name            : gnu-netcat
 Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
@@ -319,7 +327,7 @@ Version         : 1.3.3-1
 Description     : a graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 8.1.1614-1
+Version         : 8.1.1635-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -359,7 +367,7 @@ Version         : 2019.1.3-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
-Version         : 5.1.0-1
+Version         : 5.2.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -383,7 +391,7 @@ Version         : 1.4.5-7
 Description     : A screencasting program with design in mind
 
 Name            : kdenlive
-Version         : 19.04.2-2
+Version         : 19.04.3-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
@@ -395,11 +403,11 @@ Version         : 551-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.1.1-1
+Version         : 19.1.2-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libreoffice-fresh
-Version         : 6.2.4-1
+Version         : 6.2.5-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -415,7 +423,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.1.15.arch1-1
+Version         : 5.2.arch2-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -467,11 +475,11 @@ Version         : 1.3.2-8
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
-Version         : 0.31-1
+Version         : 0.32-1
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.21.10-1
+Version         : 0.21.11-1
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -611,7 +619,7 @@ Version         : r1745.e2638765-1
 Description     : Prezto is the configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 Name            : print-manager
-Version         : 19.04.2-1
+Version         : 19.04.3-1
 Description     : A tool for managing print jobs and printers
 
 Name            : processing
@@ -646,6 +654,10 @@ Name            : pycharm-professional
 Version         : 2019.1.3-1
 Description     : Powerful Python and Django IDE. Professional Edition.
 
+Name            : python-future
+Version         : 0.17.1-1
+Description     : Clean single-source support for Python 3 and 2
+
 Name            : python-pip
 Version         : 19.0.3-1
 Description     : The PyPA recommended tool for installing Python packages
@@ -653,6 +665,10 @@ Description     : The PyPA recommended tool for installing Python packages
 Name            : python-pipenv
 Version         : 2018.11.26-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
+
+Name            : python-radon
+Version         : 3.0.3-1
+Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
 Version         : 2.4.2-1
@@ -695,7 +711,7 @@ Version         : 1.6.3-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : r
-Version         : 3.6.0-1
+Version         : 3.6.1-1
 Description     : Language and environment for statistical computing and graphics
 
 Name            : ranger
@@ -735,7 +751,7 @@ Version         : 2.8.0-2
 Description     : Graphical user interface for rmlint
 
 Name            : rofi
-Version         : 1.5.3-1
+Version         : 1.5.4-1
 Description     : A window switcher, application launcher and dmenu replacement
 
 Name            : rofi-dmenu
@@ -755,7 +771,7 @@ Version         : 14.9.13-2
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.8-1
+Version         : 8.8-2
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -823,7 +839,7 @@ Version         : 2.1.0-10
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 242.32-1
+Version         : 242.32-3
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -922,12 +938,8 @@ Name            : ttf-font-awesome
 Version         : 5.9.0-1
 Description     : Iconic font designed for Bootstrap
 
-Name            : ttf-freefont
-Version         : 20120503-5
-Description     : Set of free outline fonts covering the Unicode character set
-
 Name            : ttf-liberation
-Version         : 2.00.5-1
+Version         : 2.00.5-2
 Description     : Red Hats Liberation fonts
 
 Name            : ttf-monaco
@@ -995,7 +1007,7 @@ Version         : 2.5-1
 Description     : Fast, light and extensible IRC client (curses UI)
 
 Name            : wget
-Version         : 1.20.3-1
+Version         : 1.20.3-2
 Description     : Network utility to retrieve files from the Web
 
 Name            : which
@@ -1075,7 +1087,7 @@ Version         : 1.2.1-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.5-1
+Version         : 1.20.5-2
 Description     : Xorg X server
 
 Name            : xorg-sessreg
