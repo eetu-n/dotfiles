@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-230
+Version         : 1.1.0-231
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -99,7 +99,7 @@ Version         : 0.9.7-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : bzip2
-Version         : 1.0.7-2
+Version         : 1.0.8-1
 Description     : A high-quality data compression program
 
 Name            : chromium
@@ -175,7 +175,7 @@ Version         : 1.4.1-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : e2fsprogs
-Version         : 1.45.2-1
+Version         : 1.45.3-1
 Description     : Ext2/3/4 filesystem utilities
 
 Name            : efibootmgr
@@ -207,7 +207,7 @@ Version         : 1.23-1
 Description     : Tool for simulating superuser privileges
 
 Name            : feh
-Version         : 3.1.3-1
+Version         : 3.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : ffmpegthumbnailer
@@ -355,7 +355,7 @@ Version         : 1.9.4-7
 Description     : A collection of common network programs
 
 Name            : intel-gpu-tools
-Version         : 1.23-1
+Version         : 1.24-1
 Description     : Tools for development and testing of the Intel DRM driver
 
 Name            : intel-ucode
@@ -395,7 +395,7 @@ Version         : 19.04.3-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.59.0-1
+Version         : 5.60.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -423,7 +423,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.2.arch2-1
+Version         : 5.2.1.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -523,7 +523,7 @@ Version         : 7.70-3
 Description     : Utility for network discovery and security auditing
 
 Name            : noto-fonts
-Version         : 20190111-1
+Version         : 20190111-2
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
@@ -775,7 +775,7 @@ Version         : 8.8-2
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
-Version         : 4.10.5-1
+Version         : 4.10.6-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -1103,11 +1103,11 @@ Version         : 1.6.1-1
 Description     : Simple X server performance benchmarker
 
 Name            : xorg-xauth
-Version         : 1.0.10-2
+Version         : 1.1-1
 Description     : X.Org authorization settings program
 
 Name            : xorg-xbacklight
-Version         : 1.2.2-1
+Version         : 1.2.3-1
 Description     : RandR-based backlight control application
 
 Name            : xorg-xcmsdb
@@ -1167,7 +1167,7 @@ Version         : 1.1.4-1
 Description     : List client applications running on a display
 
 Name            : xorg-xman
-Version         : 1.1.4-2
+Version         : 1.1.5-1
 Description     : Unix manual page viewer
 
 Name            : xorg-xmodmap
@@ -1211,7 +1211,7 @@ Version         : 1.0.7-1
 Description     : X Window System image dumping utility
 
 Name            : xorg-xwininfo
-Version         : 1.1.4-1
+Version         : 1.1.5-1
 Description     : Command-line utility to print information about windows on an X server
 
 Name            : xorg-xwud
