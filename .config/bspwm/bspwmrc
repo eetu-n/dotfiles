@@ -1,6 +1,7 @@
 #! /bin/bash
 
 sxhkd &
+redshift &
 unagi &
 nm-applet &
 touch /tmp/barHidden
