@@ -6,6 +6,8 @@ unagi &
 nm-applet &
 touch /tmp/barHidden
 monitorUpdate
+autocutsel -s PRIMARY -fork
+autocutsel -s CLIPBOARD -fork
 
 if ! pgrep -u "$USER" ssh-agent > /dev/null; then
     ssh-agent > /tmp/ssh-agent-pid
