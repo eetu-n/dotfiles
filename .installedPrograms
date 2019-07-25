@@ -46,6 +46,10 @@ Name            : autoconf
 Version         : 2.69-5
 Description     : A GNU tool for automatically configuring source code
 
+Name            : autocutsel
+Version         : 0.10.0-2
+Description     : synchronizes the two copy/paste buffers mainly used by X applications
+
 Name            : automake
 Version         : 1.16.1-1
 Description     : A GNU tool for automatically creating Makefiles
@@ -109,10 +113,6 @@ Description     : A web browser built for speed, simplicity, and security
 Name            : clion
 Version         : 1:2019.1.4-2
 Description     : C/C++ IDE. Free 30-day trial.
-
-Name            : clipmenu
-Version         : 5.6.0-1
-Description     : Clipboard management using dmenu
 
 Name            : cloc
 Version         : 1.82-1
@@ -375,8 +375,8 @@ Version         : 20180629.f6aac8d-4
 Description     : Network monitoring tools, including ping
 
 Name            : java-openjfx-src
-Version         : 8.u172-2
-Description     : Java OpenJFX 8 client application platform (open-source implementation of JavaFX) - sources
+Version         : 11.0.3.u1-1
+Description     : Java OpenJFX 11 client application platform (open-source implementation of JavaFX)
 
 Name            : jfsutils
 Version         : 1.1.15-6
@@ -623,7 +623,7 @@ Version         : 19.04.3-1
 Description     : A tool for managing print jobs and printers
 
 Name            : processing
-Version         : 3.5.3-2
+Version         : 3.5.3-3
 Description     : Programming environment for creating images, animations and interactions
 
 Name            : procps-ng
@@ -651,7 +651,7 @@ Version         : 1.6.6-2
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline.
 
 Name            : pycharm-professional
-Version         : 2019.1.3-1
+Version         : 2019.2.0-1
 Description     : Powerful Python and Django IDE. Professional Edition.
 
 Name            : python-future
@@ -1031,11 +1031,11 @@ Version         : 30.pre9-2
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.0.2-1
+Version         : 3.0.3-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.0.2-1
+Version         : 3.0.3-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
@@ -1045,10 +1045,6 @@ Description     : A utility to set the name of your window manager
 Name            : x11-ssh-askpass
 Version         : 1.2.4.1-6
 Description     : Lightweight passphrase dialog for SSH
-
-Name            : xclip
-Version         : 0.13-2
-Description     : Command line interface to the X11 clipboard
 
 Name            : xcursor-breeze
 Version         : 1:5.16.3-1
