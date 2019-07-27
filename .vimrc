@@ -104,3 +104,4 @@ let g:livepreview_engine = 'xelatex'
 " C Stuff
 map <F8> :w <CR> :!clear && gcc -std=c99 -o %< % && ./%< <CR>
 map <F9> :w <CR> :!clear && gcc -g -Wall -std=c99 -o %< % <CR>
+map <F7> :w <CR> :!clear && gcc -g -Wall -std=c99 -o %< % && valgrind --leak-check=full --track-origins=yes ./%< <CR>
