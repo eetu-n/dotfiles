@@ -155,7 +155,7 @@ Version         : 2.2.6-1
 Description     : A Markdown implementation written in C
 
 Name            : docker
-Version         : 1:18.09.8-1
+Version         : 1:19.03.1-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
