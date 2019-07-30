@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-233
+Version         : 1.1.0-234
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -99,7 +99,7 @@ Version         : 1.1-1
 Description     : Breeze Dark with opaque backgrounds and without shadows
 
 Name            : bspwm
-Version         : 0.9.7-1
+Version         : 0.9.8-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : bzip2
@@ -327,7 +327,7 @@ Version         : 1.3.3-1
 Description     : a graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 8.1.1635-1
+Version         : 8.1.1776-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -423,7 +423,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.1.16.arch1-1
+Version         : 5.2.4.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -699,7 +699,7 @@ Version         : 3.3.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
-Version         : 4.8.7-30
+Version         : 4.8.7-31
 Description     : A cross-platform application and UI framework
 
 Name            : qt5-multimedia
@@ -775,7 +775,7 @@ Version         : 14.9.13-2
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.8-2
+Version         : 8.8-3
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -959,7 +959,7 @@ Version         : 12.00-1
 Description     : Font for unicode symbols (part of Unicode Fonts for Ancient Scripts).
 
 Name            : tumbler
-Version         : 0.2.5-1
+Version         : 0.2.6-1
 Description     : D-Bus service for applications to request thumbnails
 
 Name            : tzupdate
