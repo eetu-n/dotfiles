@@ -295,7 +295,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 75.0.3770.142-1
+Version         : 76.0.3809.87-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : gparted
@@ -607,7 +607,7 @@ Version         : 1.6.3-1
 Description     : Package compiler and linker metadata toolkit
 
 Name            : polybar
-Version         : 3.4.0-1
+Version         : 3.4.0-2
 Description     : A fast and easy-to-use status bar
 
 Name            : ponymix
@@ -811,7 +811,7 @@ Version         : r23.c691f20-1
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.0.0-1
+Version         : 4.0.1-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
