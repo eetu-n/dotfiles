@@ -106,8 +106,12 @@ Name            : bzip2
 Version         : 1.0.8-2
 Description     : A high-quality data compression program
 
+Name            : cantata
+Version         : 2.3.3-2
+Description     : Qt5 client for the music player daemon (MPD)
+
 Name            : chromium
-Version         : 75.0.3770.142-1
+Version         : 76.0.3809.87-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -423,7 +427,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.2.4.arch1-1
+Version         : 5.1.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -499,7 +503,7 @@ Version         : 6.1-1
 Description     : System V Release 4.0 curses emulation library, ABI 5
 
 Name            : netbeans
-Version         : 11.0-2
+Version         : 11.1-1
 Description     : IDE for Java, HTML5, PHP, Groovy, C and C++
 
 Name            : netctl
