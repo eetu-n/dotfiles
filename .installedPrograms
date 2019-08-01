@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-234
+Version         : 1.1.0-235
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -35,7 +35,7 @@ Version         : 1.6.6-5
 Description     : Arduino IDE reference documentation
 
 Name            : atom
-Version         : 1.38.2-2
+Version         : 1.39.1-1
 Description     : A hackable text editor for the 21st Century
 
 Name            : audacity
@@ -551,7 +551,7 @@ Version         : 23.2.1-2
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
-Version         : 8.0p1-1
+Version         : 8.0p1-2
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : package-query
@@ -775,7 +775,7 @@ Version         : 9.22-9
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : s-nail
-Version         : 14.9.13-2
+Version         : 14.9.14-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
@@ -803,7 +803,7 @@ Version         : 4.7-1
 Description     : GNU stream editor
 
 Name            : shadow
-Version         : 4.6-3
+Version         : 4.7-1
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : siji-git
@@ -967,7 +967,7 @@ Version         : 0.2.6-1
 Description     : D-Bus service for applications to request thumbnails
 
 Name            : tzupdate
-Version         : 1.4.0-1
+Version         : 1.5.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
