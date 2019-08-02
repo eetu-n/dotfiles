@@ -943,7 +943,7 @@ Version         : 2.37-2
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 5.9.0-1
+Version         : 5.10.0-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
