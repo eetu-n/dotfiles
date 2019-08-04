@@ -487,7 +487,7 @@ Version         : 0.32-1
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.21.11-1
+Version         : 0.21.12-1
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
