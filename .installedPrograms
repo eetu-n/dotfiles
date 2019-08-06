@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-235
+Version         : 1.1.0-236
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -515,7 +515,7 @@ Version         : 1.8.22-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.18.2-1
+Version         : 1.20.0-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -755,7 +755,7 @@ Version         : 0.8.5-1
 Description     : Fast and lightweight picture-viewer for Xfce4
 
 Name            : rmlint-shredder
-Version         : 2.8.0-2
+Version         : 2.8.0-3
 Description     : Graphical user interface for rmlint
 
 Name            : rofi
