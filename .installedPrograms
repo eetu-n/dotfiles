@@ -427,7 +427,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.2.6.arch1-1
+Version         : 5.1.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -679,7 +679,7 @@ Version         : 3.0.3-1
 Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
-Version         : 2.4.2-1
+Version         : 2.4.3-1
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-virtualenv
@@ -787,11 +787,11 @@ Version         : 4.10.6-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
-Version         : 2.4.2-1
+Version         : 2.4.3-1
 Description     : Powerful interactive packet manipulation program written in Python (tools)
 
 Name            : scrot
-Version         : 0.9.1-1
+Version         : 1.1.1-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
@@ -803,7 +803,7 @@ Version         : 4.7-1
 Description     : GNU stream editor
 
 Name            : shadow
-Version         : 4.7-1
+Version         : 4.7-2
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : siji-git
@@ -943,7 +943,7 @@ Version         : 2.37-2
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 5.10.0-1
+Version         : 5.10.1-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
