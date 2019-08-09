@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-236
+Version         : 1.1.0-237
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -271,7 +271,7 @@ Version         : 2.22.0-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
-Version         : 6.0.1-1
+Version         : 6.1.0-1
 Description     : The intuitive, fast, and beautiful cross-platform Git client.
 
 Name            : glibc
@@ -427,7 +427,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.2.6.arch1-1
+Version         : 5.2.7.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
