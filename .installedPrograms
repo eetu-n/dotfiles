@@ -99,7 +99,7 @@ Version         : 1.1-1
 Description     : Breeze Dark with opaque backgrounds and without shadows
 
 Name            : bspwm
-Version         : 0.9.8-1
+Version         : 0.9.9-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : bzip2
@@ -127,7 +127,7 @@ Version         : 8.31-1
 Description     : The basic file, shell and text manipulation utilities of the GNU operating system
 
 Name            : cryptsetup
-Version         : 2.1.0-1
+Version         : 2.2.0-1
 Description     : Userspace setup tool for transparent encryption of block devices using dm-crypt
 
 Name            : cups-pdf
@@ -279,7 +279,7 @@ Version         : 2.10.12-1
 Description     : GNU Image Manipulation Program
 
 Name            : git
-Version         : 2.22.1-1
+Version         : 2.23.0-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
