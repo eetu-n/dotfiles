@@ -407,7 +407,7 @@ Version         : 1.4.5-7
 Description     : A screencasting program with design in mind
 
 Name            : kdenlive
-Version         : 19.04.3-1
+Version         : 19.08.0-2
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
@@ -639,7 +639,7 @@ Version         : r1745.e2638765-1
 Description     : Prezto is the configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 Name            : print-manager
-Version         : 19.04.3-1
+Version         : 19.08.0-1
 Description     : A tool for managing print jobs and printers
 
 Name            : processing
@@ -791,7 +791,7 @@ Version         : 14.9.14-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.8-3
+Version         : 8.8-4
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
