@@ -307,7 +307,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 76.0.3809.100-1
+Version         : 76.0.3809.132-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : gparted
@@ -419,7 +419,7 @@ Version         : 551-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.1.4-1
+Version         : 19.1.5-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libreoffice-fresh
@@ -659,7 +659,7 @@ Version         : 12.2-2
 Description     : A featureful, general-purpose sound server
 
 Name            : pulseaudio-alsa
-Version         : 2-4
+Version         : 2-5
 Description     : ALSA Configuration for PulseAudio
 
 Name            : pulseaudio-bluetooth
@@ -767,7 +767,7 @@ Version         : 0.10.0-2
 Description     : Fast and lightweight picture-viewer for Xfce4
 
 Name            : rmlint-shredder
-Version         : 2.8.0-3
+Version         : 2.9.0-1
 Description     : Graphical user interface for rmlint
 
 Name            : rofi
@@ -791,7 +791,7 @@ Version         : 14.9.14-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.8-4
+Version         : 8.8-5
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
