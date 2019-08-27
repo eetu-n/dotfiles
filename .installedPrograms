@@ -111,7 +111,7 @@ Version         : 2.3.3-2
 Description     : Qt5 client for the music player daemon (MPD)
 
 Name            : chromium
-Version         : 76.0.3809.100-1
+Version         : 76.0.3809.132-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -539,7 +539,7 @@ Version         : 1.8.10-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nmap
-Version         : 7.70-3
+Version         : 7.80-1
 Description     : Utility for network discovery and security auditing
 
 Name            : noto-fonts
@@ -787,7 +787,7 @@ Version         : 9.22-9
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : s-nail
-Version         : 14.9.14-1
+Version         : 14.9.15-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
@@ -967,7 +967,7 @@ Version         : 2.37-2
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 5.10.1-1
+Version         : 5.10.2-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
