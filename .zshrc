@@ -31,3 +31,5 @@ if [[ ! "$SSH_AUTH_SOCK" ]]; then
     eval "$(</tmp/ssh-agent-pid)" > /dev/null
 fi
 
+source .localOptions
+
