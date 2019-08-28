@@ -34,13 +34,22 @@ XF86AudioMute
 super + shift + f
 	mpc toggle
 
+XF86AudioPlay
+	mpc toggle
+
 # MPD Next
 super + shift + d
+	mpc next
+
+XF86AudioNext
 	mpc next
 
 # MPD Previous
 super + shift + a
 	mpc prev
+
+XF86AudioPrev
+    mpc prev
 
 # MPMenu Shortcut
 super + shift + w
@@ -75,7 +84,7 @@ super + n
 	firefox
 
 # Battery Level Timer
-super + shift + b
+super + b
 	batLev
 
 # Lock The Screen
@@ -111,15 +120,15 @@ super + shift + i
 	toggleNotifications
 
 # Toggle bluetooth
-super + b
+super + shift + b
     toggleBluetooth
 
 # Toggle compositor
-super + c
+super + shift + c
     toggleUnagi
 
 # Toggle VPN
-super + v
+super + shift + v
     toggleVPN
 
 #
