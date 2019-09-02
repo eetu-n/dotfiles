@@ -86,6 +86,10 @@ Name            : blueman
 Version         : 2.1.1-1
 Description     : GTK+ Bluetooth Manager
 
+Name            : bluez-hcitool
+Version         : 5.45-1
+Description     : deprecated rfcomm tool from bluez
+
 Name            : bluez-utils
 Version         : 5.50-6
 Description     : Development and debugging utilities for the bluetooth protocol stack
@@ -235,7 +239,7 @@ Version         : 3.44.2-1
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
-Version         : 4.6.0-4
+Version         : 4.7.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
@@ -277,6 +281,10 @@ Description     : The GNU Debugger
 Name            : gettext
 Version         : 0.20.1-1
 Description     : GNU internationalization library
+
+Name            : ghc
+Version         : 8.6.5-1
+Description     : The Glasgow Haskell Compiler
 
 Name            : gimp
 Version         : 2.10.12-2
@@ -546,6 +554,10 @@ Name            : nmap
 Version         : 7.80-1
 Description     : Utility for network discovery and security auditing
 
+Name            : notepadqq
+Version         : 1.4.8-2
+Description     : Notepad++-like text editor for Linux
+
 Name            : noto-fonts
 Version         : 20190111-2
 Description     : Google Noto TTF fonts
@@ -799,7 +811,7 @@ Version         : 14.9.15-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.8-5
+Version         : 8.8-6
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
