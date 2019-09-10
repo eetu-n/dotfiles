@@ -399,7 +399,7 @@ Version         : 20190618-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2019.2.1-1
+Version         : 2019.2.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
@@ -771,7 +771,7 @@ Version         : 1.4.0-4
 Description     : Rockbox Utility
 
 Name            : reaper-bin
-Version         : 5.981-1
+Version         : 5.983-1
 Description     : Digital Audio Workstation
 
 Name            : redshift
