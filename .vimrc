@@ -16,7 +16,6 @@ Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }  "Live Latex preview
 Plug 'andymass/vim-matchup'                             "Extend % matching for HTML, LaTeX etc.
 Plug 'yggdroot/indentline'                              "Show indentation levels
 Plug 'tpope/vim-fugitive'                               "Git Wrapper
-Plug 'jiangmiao/auto-pairs'                             "Auto close braces etc.
 
 call plug#end()
 
@@ -105,3 +104,5 @@ let g:livepreview_engine = 'xelatex'
 map <F8> :w <CR> :!clear && gcc -g -std=c99 -o %< % && ./%< <CR>
 map <F9> :w <CR> :!clear && gcc -g -Wall -std=c99 -o %< % <CR>
 map <F7> :w <CR> :!clear && gcc -g -Wall -std=c99 -o %< % && valgrind --leak-check=full --track-origins=yes ./%< <CR>
+
+map <F6> :w <CR> :!clear && python % <CR>
