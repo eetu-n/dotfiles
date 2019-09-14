@@ -119,10 +119,6 @@ super + shift + g
 super + shift + i
 	toggleNotifications
 
-# Toggle bluetooth
-super + shift + b
-    toggleBluetooth
-
 # Toggle compositor
 super + shift + c
     toggleUnagi
