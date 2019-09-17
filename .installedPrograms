@@ -127,7 +127,7 @@ Version         : 1.82-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.38.0-1
+Version         : 1.38.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -315,7 +315,7 @@ Version         : 3.28-1
 Description     : Extra Themes for GNOME Applications
 
 Name            : gnu-free-fonts
-Version         : 20120503-6
+Version         : 20120503-7
 Description     : A free family of scalable outline fonts
 
 Name            : gnu-netcat
@@ -431,7 +431,7 @@ Version         : 19.08.1-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.61.0-1
+Version         : 5.62.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -439,7 +439,7 @@ Version         : 551-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.1.6-1
+Version         : 19.1.7-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libreoffice-fresh
@@ -679,7 +679,7 @@ Version         : 23.2-1
 Description     : Miscellaneous procfs tools
 
 Name            : pulseaudio
-Version         : 12.99.3-1
+Version         : 13.0-2
 Description     : A featureful, general-purpose sound server
 
 Name            : pulseaudio-alsa
@@ -687,7 +687,7 @@ Version         : 2-5
 Description     : ALSA Configuration for PulseAudio
 
 Name            : pulseaudio-bluetooth
-Version         : 12.99.3-1
+Version         : 13.0-2
 Description     : Bluetooth support for PulseAudio
 
 Name            : pv
@@ -735,7 +735,7 @@ Version         : 3.4-2
 Description     : Multiplatform Serial Port Module for Python
 
 Name            : qalculate-gtk
-Version         : 3.3.0-1
+Version         : 3.4.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
@@ -1059,7 +1059,7 @@ Version         : 173.a95b047-1
 Description     : Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell
 
 Name            : virtualbox
-Version         : 6.0.12-1
+Version         : 6.0.12-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : vlc
@@ -1067,7 +1067,7 @@ Version         : 3.0.8-1
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
-Version         : 2.6-1
+Version         : 2.6-2
 Description     : Fast, light and extensible IRC client (curses UI)
 
 Name            : wget
