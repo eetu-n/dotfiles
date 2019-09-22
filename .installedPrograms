@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-245
+Version         : 1.1.0-248
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -71,7 +71,7 @@ Version         : 1.07.1-3
 Description     : An arbitrary precision calculator language
 
 Name            : bind-tools
-Version         : 9.14.5-1
+Version         : 9.14.6-1
 Description     : The ISC DNS tools
 
 Name            : binutils
@@ -207,7 +207,7 @@ Version         : r27.3b65648-1
 Description     : Display the current mouse refresh rate
 
 Name            : evince
-Version         : 3.32.0+26+gd3aecce7-2
+Version         : 3.32.0+28+gaeeb3d2d-1
 Description     : Document viewer (PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt))
 
 Name            : evtest
@@ -395,7 +395,7 @@ Version         : 1.24-1
 Description     : Tools for development and testing of the Intel DRM driver
 
 Name            : intel-ucode
-Version         : 20190618-1
+Version         : 20190918-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
@@ -459,7 +459,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.2.14.arch2-1
+Version         : 5.3.1.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -583,11 +583,11 @@ Version         : 4.2.8.p13-2
 Description     : Network Time Protocol reference implementation
 
 Name            : obs-studio
-Version         : 23.2.1-2
+Version         : 24.0.1-1
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
-Version         : 8.0p1-2
+Version         : 8.0p1-3
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : package-query
@@ -711,7 +711,7 @@ Version         : 2018.11.26-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-radon
-Version         : 3.0.3-1
+Version         : 4.0.0-1
 Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
@@ -1287,7 +1287,7 @@ Version         : 0.4.4-1
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 9.2.1-1
+Version         : 9.3.1-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : zip
