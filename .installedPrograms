@@ -123,7 +123,7 @@ Version         : 1:2019.2.2-1
 Description     : C/C++ IDE. Free 30-day trial.
 
 Name            : cloc
-Version         : 1.82-1
+Version         : 1.84-1
 Description     : Count lines of code
 
 Name            : code
@@ -347,7 +347,7 @@ Version         : 1.16.0-1
 Description     : GStreamer open-source multimedia framework FFmpeg plugin
 
 Name            : gst-plugins-good
-Version         : 1.16.0-1
+Version         : 1.16.1-1
 Description     : GStreamer open-source multimedia framework good plugins
 
 Name            : gtick
@@ -571,7 +571,7 @@ Version         : 20190111-2
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
-Version         : 20180810-2
+Version         : 20190810-1
 Description     : Google Noto emoji fonts
 
 Name            : ntfs-3g
@@ -899,7 +899,7 @@ Version         : 2.1.0-10
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 243.0-1
+Version         : 243.51-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
