@@ -91,7 +91,7 @@ Version         : 5.45-1
 Description     : deprecated rfcomm tool from bluez
 
 Name            : bluez-utils
-Version         : 5.50-7
+Version         : 5.51-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bonnie++
@@ -239,7 +239,7 @@ Version         : 2019.05-2
 Description     : Base Arch Linux files
 
 Name            : filezilla
-Version         : 3.44.2-1
+Version         : 3.45.0-1
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
@@ -343,7 +343,7 @@ Version         : 2.10.1-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
-Version         : 1.16.0-1
+Version         : 1.16.1-1
 Description     : GStreamer open-source multimedia framework FFmpeg plugin
 
 Name            : gst-plugins-good
@@ -399,7 +399,7 @@ Version         : 20190918-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2019.2.2-2
+Version         : 2019.2.3-2
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
@@ -819,7 +819,7 @@ Version         : 14.9.15-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.8-10
+Version         : 8.8-11
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -995,7 +995,7 @@ Version         : 2.37-2
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 5.11.1-1
+Version         : 5.11.2-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
