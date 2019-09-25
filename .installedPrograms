@@ -239,7 +239,7 @@ Version         : 2019.05-2
 Description     : Base Arch Linux files
 
 Name            : filezilla
-Version         : 3.45.0-1
+Version         : 3.45.1-1
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
@@ -751,7 +751,7 @@ Version         : 5.13.1-1
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 1.7.0-1
+Version         : 1.8.0-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : r
