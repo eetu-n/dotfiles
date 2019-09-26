@@ -5,6 +5,10 @@ tmpbg='/tmp/screen.png'
 
 (( $# )) && { icon=$1; }
 
+if [[ -e $tmpbg ]]
+then
+    rm $tmpbg
+fi
 scrot "$tmpbg"
 convert "$tmpbg" -scale 10% -scale 1000% "$tmpbg"
 convert "$tmpbg" "$icon" -geometry +832+412 -composite -matte "$tmpbg"
