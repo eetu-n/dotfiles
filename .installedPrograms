@@ -187,7 +187,7 @@ Version         : 1.4.1-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : e2fsprogs
-Version         : 1.45.3-1
+Version         : 1.45.4-1
 Description     : Ext2/3/4 filesystem utilities
 
 Name            : efibootmgr
@@ -299,7 +299,7 @@ Version         : 2.23.0-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
-Version         : 6.2.0-1
+Version         : 6.2.1-1
 Description     : The intuitive, fast, and beautiful cross-platform Git client.
 
 Name            : glibc
@@ -403,7 +403,7 @@ Version         : 2019.2.3-2
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
-Version         : 5.2.0-1
+Version         : 5.3.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -519,7 +519,7 @@ Version         : 0.32-1
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.21.14-1
+Version         : 0.21.15-1
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -1031,7 +1031,7 @@ Version         : 0.3.4-1
 Description     : Compositing manager for implementing effects with regular window managers.
 
 Name            : unrar
-Version         : 1:5.8.1-1
+Version         : 1:5.8.2-1
 Description     : The RAR uncompression program
 
 Name            : unzip
