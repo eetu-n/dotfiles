@@ -63,7 +63,7 @@ Version         : 3.34.0-1
 Description     : A graphical directory tree analyzer
 
 Name            : bash
-Version         : 5.0.009-1
+Version         : 5.0.011-1
 Description     : The GNU Bourne Again shell
 
 Name            : bc
@@ -207,7 +207,7 @@ Version         : r27.3b65648-1
 Description     : Display the current mouse refresh rate
 
 Name            : evince
-Version         : 3.32.0+28+gaeeb3d2d-1
+Version         : 3.34.0-1
 Description     : Document viewer (PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt))
 
 Name            : evtest
@@ -359,7 +359,7 @@ Version         : 1.3.3-1
 Description     : a graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 8.1.1968-1
+Version         : 8.1.2102-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -819,7 +819,7 @@ Version         : 14.9.15-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.8-11
+Version         : 8.9-1
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -879,7 +879,7 @@ Version         : 1.8.27-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sway
-Version         : 1:1.2-2
+Version         : 1:1.2-3
 Description     : Tiling Wayland compositor and replacement for the i3 window manager
 
 Name            : swayidle
@@ -1091,11 +1091,11 @@ Version         : 30.pre9-2
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.0.4-1
+Version         : 3.0.5-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.0.4-1
+Version         : 3.0.5-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
