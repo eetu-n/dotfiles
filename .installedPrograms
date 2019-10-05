@@ -227,7 +227,7 @@ Version         : 3.2.1-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : ffmpegthumbnailer
-Version         : 2.2.0-2
+Version         : 2.2.1-1
 Description     : Lightweight video thumbnailer that can be used by file managers.
 
 Name            : file
@@ -247,7 +247,7 @@ Version         : 4.7.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 69.0.1-1
+Version         : 69.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -279,7 +279,7 @@ Version         : 9.1.0-2
 Description     : Runtime libraries shipped by GCC
 
 Name            : gdb
-Version         : 8.3-1
+Version         : 8.3.1-1
 Description     : The GNU Debugger
 
 Name            : gettext
@@ -331,7 +331,7 @@ Version         : 1.0.0-1
 Description     : A Partition Magic clone, frontend to GNU Parted
 
 Name            : gpodder
-Version         : 3.10.9-1
+Version         : 3.10.11-1
 Description     : Podcast client written in Python using GTK+
 
 Name            : grep
@@ -703,7 +703,7 @@ Version         : 0.17.1-1
 Description     : Clean single-source support for Python 3 and 2
 
 Name            : python-pip
-Version         : 19.0.3-1
+Version         : 19.2.3-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -727,7 +727,7 @@ Version         : 1.1-1
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
-Version         : 19.0.3-1
+Version         : 19.2.3-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python2-pyserial
@@ -819,7 +819,7 @@ Version         : 14.9.15-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.9-3
+Version         : 8.9-4
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -1079,7 +1079,7 @@ Version         : 2.21-3
 Description     : A utility to show the full path of commands
 
 Name            : whois
-Version         : 5.5.1-1
+Version         : 5.5.2-1
 Description     : Intelligent WHOIS client
 
 Name            : winetricks
@@ -1119,7 +1119,7 @@ Version         : 0.5.7-1
 Description     : Utility for performing actions on windows in X
 
 Name            : xf86-video-intel
-Version         : 1:2.99.917+870+g6f4972d5-1
+Version         : 1:2.99.917+892+gc6cb1b19-1
 Description     : X.org Intel i810/i830/i915/945G/G965+ video drivers
 
 Name            : xf86-video-nouveau
