@@ -19,6 +19,14 @@ Plug 'tpope/vim-fugitive'                               "Git Wrapper
 
 call plug#end()
 
+" Turn off expansion of characters in latex
+set conceallevel=0
+
+" Scroll wheel behaviour
+set mouse=a
+map <ScrollWheelUp> <C-Y>
+map <ScrollWheelDown> <C-E>
+
 " Colors
 syntax enable
 colorscheme badwolf
@@ -95,7 +103,7 @@ let g:notes_directories = ['~/.vim/Notes', '~/.vim/Shared Notes']
 
 " LaTeX stuff
 
-let g:livepreview_engine = 'xelatex'
+let g:livepreview_engine = 'pdflatex'
 
 " Ctrl + Backspace
 "
