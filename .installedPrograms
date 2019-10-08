@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-251
+Version         : 1.1.0-252
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -207,7 +207,7 @@ Version         : r27.3b65648-1
 Description     : Display the current mouse refresh rate
 
 Name            : evince
-Version         : 3.34.0-1
+Version         : 3.34.1-1
 Description     : Document viewer (PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt))
 
 Name            : evtest
@@ -227,7 +227,7 @@ Version         : 3.2.1-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : ffmpegthumbnailer
-Version         : 2.2.1-1
+Version         : 2.2.2-1
 Description     : Lightweight video thumbnailer that can be used by file managers.
 
 Name            : file
@@ -371,7 +371,7 @@ Version         : 2.14.2-3
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.1.14-67
+Version         : 2.1.14-68
 Description     : Source code suggestions
 
 Name            : htop
@@ -443,7 +443,7 @@ Version         : 19.2.0-2
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libreoffice-fresh
-Version         : 6.3.2-1
+Version         : 6.3.2-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -459,7 +459,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.3.4.arch1-1
+Version         : 5.3.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -567,7 +567,7 @@ Version         : 1.4.8-2
 Description     : Notepad++-like text editor for Linux
 
 Name            : noto-fonts
-Version         : 20190926-1
+Version         : 20190926-2
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
@@ -1119,7 +1119,7 @@ Version         : 0.5.7-1
 Description     : Utility for performing actions on windows in X
 
 Name            : xf86-video-intel
-Version         : 1:2.99.917+892+gc6cb1b19-1
+Version         : 1:2.99.917+893+gbff5eca4-1
 Description     : X.org Intel i810/i830/i915/945G/G965+ video drivers
 
 Name            : xf86-video-nouveau
