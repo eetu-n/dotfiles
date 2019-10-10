@@ -151,7 +151,7 @@ Version         : 2.02.186-2
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
-Version         : 7.2.2-1
+Version         : 8.0.6-1
 Description     : RFC2131 compliant DHCP client daemon
 
 Name            : dictd
@@ -167,7 +167,7 @@ Version         : 2.2.6-1
 Description     : A Markdown implementation written in C
 
 Name            : docker
-Version         : 1:19.03.2-2
+Version         : 1:19.03.3-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
@@ -411,8 +411,8 @@ Version         : 20190709-1
 Description     : Network monitoring tools, including ping
 
 Name            : java-openjfx-src
-Version         : 12.0.2.u1-1
-Description     : Java OpenJFX 12 client application platform (open-source implementation of JavaFX)
+Version         : 13.u14-1
+Description     : Java OpenJFX 13 client application platform (open-source implementation of JavaFX)
 
 Name            : jfsutils
 Version         : 1.1.15-6
@@ -543,7 +543,7 @@ Version         : 1.20-1
 Description     : Profile based systemd network management
 
 Name            : network-manager-applet
-Version         : 1.8.22-1
+Version         : 1.8.24-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
