@@ -115,7 +115,7 @@ Version         : 2.3.3-2
 Description     : Qt5 client for the music player daemon (MPD)
 
 Name            : chromium
-Version         : 77.0.3865.90-1
+Version         : 77.0.3865.120-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -247,7 +247,7 @@ Version         : 4.7.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 69.0.2-1
+Version         : 69.0.3-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -371,7 +371,7 @@ Version         : 2.14.2-3
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.1.14-68
+Version         : 2.1.14-69
 Description     : Source code suggestions
 
 Name            : htop
@@ -427,7 +427,7 @@ Version         : 1.4.5-7
 Description     : A screencasting program with design in mind
 
 Name            : kdenlive
-Version         : 19.08.1-1
+Version         : 19.08.2-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
@@ -439,7 +439,7 @@ Version         : 551-2
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.2.0-2
+Version         : 19.2.1-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libreoffice-fresh
@@ -587,7 +587,7 @@ Version         : 24.0.1-1
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
-Version         : 8.0p1-3
+Version         : 8.1p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : package-query
@@ -651,7 +651,7 @@ Version         : 5-2
 Description     : CLI PulseAudio Volume Control
 
 Name            : postgresql
-Version         : 11.5-3
+Version         : 11.5-4
 Description     : Sophisticated object-relational DBMS
 
 Name            : powertop
@@ -663,7 +663,7 @@ Version         : r1745.e2638765-1
 Description     : Prezto is the configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 Name            : print-manager
-Version         : 19.08.1-1
+Version         : 19.08.2-1
 Description     : A tool for managing print jobs and printers
 
 Name            : processing
@@ -747,7 +747,7 @@ Version         : 5.13.1-1
 Description     : Classes for audio, video, radio and camera functionality
 
 Name            : qt5-tools
-Version         : 5.13.1-1
+Version         : 5.13.1-2
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
