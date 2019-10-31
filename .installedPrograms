@@ -399,7 +399,7 @@ Version         : 20190918-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2019.2.3-2
+Version         : 2019.2.4-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
@@ -639,7 +639,7 @@ Version         : 1.6.3-2
 Description     : Package compiler and linker metadata toolkit
 
 Name            : polybar
-Version         : 3.4.0-4
+Version         : 3.4.1-1
 Description     : A fast and easy-to-use status bar
 
 Name            : ponymix
