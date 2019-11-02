@@ -119,7 +119,7 @@ Version         : 78.0.3904.87-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
-Version         : 1:2019.2.4-1
+Version         : 1:2019.2.5-1
 Description     : C/C++ IDE. Free 30-day trial.
 
 Name            : cloc
@@ -339,7 +339,7 @@ Version         : 3.3-2
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.10.1-1
+Version         : 2.10.2-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
@@ -691,7 +691,7 @@ Version         : 1.6.6-2
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline.
 
 Name            : pycharm-professional
-Version         : 2019.2.3-1
+Version         : 2019.2.4-1
 Description     : Powerful Python and Django IDE. Professional Edition.
 
 Name            : python-future
