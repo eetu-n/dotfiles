@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-255
+Version         : 1.1.0-256
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -91,7 +91,7 @@ Version         : 5.45-1
 Description     : deprecated rfcomm tool from bluez
 
 Name            : bluez-utils
-Version         : 5.51-2
+Version         : 5.52-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bonnie++
@@ -115,7 +115,7 @@ Version         : 2.3.3-2
 Description     : Qt5 client for the music player daemon (MPD)
 
 Name            : chromium
-Version         : 78.0.3904.70-1
+Version         : 78.0.3904.87-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -247,7 +247,7 @@ Version         : 4.7.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 70.0-1
+Version         : 70.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -323,7 +323,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 78.0.3904.70-1
+Version         : 78.0.3904.87-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : gparted
@@ -459,7 +459,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.3.7.arch1-2
+Version         : 5.3.8.1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -515,7 +515,7 @@ Version         : 1.3.2-10
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
-Version         : 0.32-1
+Version         : 0.33-1
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
@@ -535,7 +535,7 @@ Version         : 6.1-1
 Description     : System V Release 4.0 curses emulation library, ABI 5
 
 Name            : netbeans
-Version         : 11.1-1
+Version         : 11.2-1
 Description     : IDE for Java, HTML5, PHP, Groovy, C and C++
 
 Name            : netctl
@@ -595,7 +595,7 @@ Version         : 1.10-1
 Description     : Query ALPM and AUR
 
 Name            : pacman
-Version         : 5.2.0-2
+Version         : 5.2.1-1
 Description     : A library-based package manager with dependency support
 
 Name            : pacman-contrib
@@ -739,11 +739,11 @@ Version         : 4.8.7-31
 Description     : A cross-platform application and UI framework
 
 Name            : qt5-multimedia
-Version         : 5.13.1-1
+Version         : 5.13.2-1
 Description     : Classes for audio, video, radio and camera functionality
 
 Name            : qt5-tools
-Version         : 5.13.1-2
+Version         : 5.13.2-1
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
@@ -798,6 +798,10 @@ Name            : rofi
 Version         : 1.5.4-1
 Description     : A window switcher, application launcher and dmenu replacement
 
+Name            : rofi-calc
+Version         : 1.5-1
+Description     : Do calculations in rofi
+
 Name            : rofi-dmenu
 Version         : 1-1
 Description     : Symlink for using Rofi as a drop-in replacement to dmenu
@@ -819,7 +823,7 @@ Version         : 8.9-4
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
-Version         : 4.10.8-1
+Version         : 4.10.10-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -911,51 +915,51 @@ Version         : 6.7-1
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : texlive-bibtexextra
-Version         : 2019.50908-1
+Version         : 2019.52577-1
 Description     : TeX Live - Additional BibTeX styles and bibliography databases
 
 Name            : texlive-core
-Version         : 2019.50917-1
+Version         : 2019.52579-1
 Description     : TeX Live core distribution
 
 Name            : texlive-fontsextra
-Version         : 2019.50876-1
+Version         : 2019.52580-1
 Description     : TeX Live - all sorts of extra fonts
 
 Name            : texlive-formatsextra
-Version         : 2019.50602-1
+Version         : 2019.51280-1
 Description     : TeX Live - collection of extra TeX 'formats'
 
 Name            : texlive-games
-Version         : 2019.50815-1
+Version         : 2019.52525-1
 Description     : TeX Live - Setups for typesetting various board games, including chess
 
 Name            : texlive-humanities
-Version         : 2019.50921-1
+Version         : 2019.52574-1
 Description     : TeX Live - LaTeX packages for law, linguistics, social sciences, and humanities
 
 Name            : texlive-latexextra
-Version         : 2019.50920-1
+Version         : 2019.52575-1
 Description     : TeX Live - Large collection of add-on packages for LaTeX
 
 Name            : texlive-music
-Version         : 2019.50602-1
+Version         : 2019.52275-1
 Description     : TeX Live - Music typesetting packages
 
 Name            : texlive-pictures
-Version         : 2019.50872-1
+Version         : 2019.52499-1
 Description     : TeX Live - Packages for drawings graphics
 
 Name            : texlive-pstricks
-Version         : 2019.50587-1
+Version         : 2019.52550-1
 Description     : TeX Live - Additional PSTricks packages
 
 Name            : texlive-publishers
-Version         : 2019.50915-1
+Version         : 2019.52538-1
 Description     : TeX Live - LaTeX classes and packages for specific publishers
 
 Name            : texlive-science
-Version         : 2019.50760-1
+Version         : 2019.52582-1
 Description     : TeX Live - Typesetting for mathematics, natural and computer sciences
 
 Name            : the_silver_searcher
