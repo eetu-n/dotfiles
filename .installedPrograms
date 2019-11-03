@@ -547,7 +547,7 @@ Version         : 1.8.24-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.20.4-1
+Version         : 1.20.4-2
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
