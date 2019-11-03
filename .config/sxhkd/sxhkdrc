@@ -127,6 +127,10 @@ super + shift + c
 super + shift + v
     toggleVPN
 
+# Open calculator
+super + c
+    calc
+
 #
 # bspwm hotkeys
 #
