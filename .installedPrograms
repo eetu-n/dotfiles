@@ -135,7 +135,7 @@ Version         : 8.31-2
 Description     : The basic file, shell and text manipulation utilities of the GNU operating system
 
 Name            : cryptsetup
-Version         : 2.2.1-1
+Version         : 2.2.2-1
 Description     : Userspace setup tool for transparent encryption of block devices using dm-crypt
 
 Name            : cups-pdf
@@ -965,6 +965,10 @@ Description     : TeX Live - Typesetting for mathematics, natural and computer s
 Name            : the_silver_searcher
 Version         : 2.2.0-1
 Description     : Code searching tool similar to Ack, but faster
+
+Name            : thefuck
+Version         : 3.29-1
+Description     : Magnificent app which corrects your previous console command
 
 Name            : thunar
 Version         : 1.8.9-2
