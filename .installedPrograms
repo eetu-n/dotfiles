@@ -299,7 +299,7 @@ Version         : 2.24.0-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
-Version         : 6.3.0-1
+Version         : 6.3.1-1
 Description     : The intuitive, fast, and beautiful cross-platform Git client.
 
 Name            : glibc
@@ -323,7 +323,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 78.0.3904.87-1
+Version         : 78.0.3904.97-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -859,7 +859,7 @@ Version         : r23.c691f20-1
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.1.1-2
+Version         : 4.1.2-2
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
@@ -1079,7 +1079,7 @@ Version         : 3.0.8-6
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
-Version         : 2.6-2
+Version         : 2.6-4
 Description     : Fast, light and extensible IRC client (curses UI)
 
 Name            : wget
