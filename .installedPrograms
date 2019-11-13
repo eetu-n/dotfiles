@@ -107,7 +107,7 @@ Version         : 0.9.9-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : bzip2
-Version         : 1.0.8-2
+Version         : 1.0.8-3
 Description     : A high-quality data compression program
 
 Name            : cantata
@@ -131,7 +131,7 @@ Version         : 1.40.0-3
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
-Version         : 8.31-2
+Version         : 8.31-3
 Description     : The basic file, shell and text manipulation utilities of the GNU operating system
 
 Name            : cryptsetup
@@ -151,7 +151,7 @@ Version         : 2.02.186-2
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
-Version         : 8.1.1-1
+Version         : 8.1.1-2
 Description     : RFC2131 compliant DHCP client daemon
 
 Name            : dictd
@@ -243,7 +243,7 @@ Version         : 3.45.1-1
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
-Version         : 4.7.0-1
+Version         : 4.7.0-2
 Description     : GNU utilities to locate files
 
 Name            : firefox
@@ -263,7 +263,7 @@ Version         : 0.18.0-2
 Description     : Command-line fuzzy finder
 
 Name            : gawk
-Version         : 5.0.1-1
+Version         : 5.0.1-2
 Description     : GNU version of awk
 
 Name            : gcc
