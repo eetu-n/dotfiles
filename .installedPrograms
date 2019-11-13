@@ -515,7 +515,7 @@ Version         : 8.4.0-2
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : minecraft-launcher
-Version         : 2.1.7658-2
+Version         : 2.1.9618-2
 Description     : Official Minecraft Launcher
 
 Name            : mosh
