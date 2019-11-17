@@ -359,7 +359,7 @@ Version         : 0.5.4-3
 Description     : A Gtk metronome application supporting different meters and speeds
 
 Name            : gtklp
-Version         : 1.3.3-1
+Version         : 1.3.4-1
 Description     : a graphical frontend for cups, the linux printing system
 
 Name            : gvim
@@ -715,7 +715,7 @@ Version         : 2018.11.26-3
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-radon
-Version         : 4.0.0-1
+Version         : 4.0.0-2
 Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
@@ -727,7 +727,7 @@ Version         : 16.1.0-3
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
-Version         : 1.1-1
+Version         : 1.1-2
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
@@ -775,7 +775,7 @@ Version         : 1.4.0-4
 Description     : Rockbox Utility
 
 Name            : reaper-bin
-Version         : 5.984-1
+Version         : 5.985-1
 Description     : Digital Audio Workstation
 
 Name            : redshift
@@ -1043,7 +1043,7 @@ Version         : 0.3.4-1
 Description     : Compositing manager for implementing effects with regular window managers.
 
 Name            : unrar
-Version         : 1:5.8.3-1
+Version         : 1:5.8.4-1
 Description     : The RAR uncompression program
 
 Name            : unzip
