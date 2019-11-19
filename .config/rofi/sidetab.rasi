@@ -42,7 +42,7 @@ window {
 
 mainbox {
 	spacing:  0.8em;
-	children: [ entry,listview,sidebar ];
+	children: [ entry,listview ];
 }
 
 button { padding: 5px 2px; }
@@ -59,7 +59,7 @@ inputbar {
 
 listview {
 	spacing: 0em;
-	dynamic: false;
+	dynamic: true;
 	cycle:   true;
 }
 
