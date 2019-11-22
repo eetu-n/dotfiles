@@ -31,7 +31,14 @@ if [[ ! "$SSH_AUTH_SOCK" ]]; then
     eval "$(</tmp/ssh-agent-pid)" > /dev/null
 fi
 
-eval $(thefuck --alias)
+if [ 'type thefuck' ]; then
+    eval $(thefuck --alias)
+fi
 
+if [ 'type lsd' ]; then
+    alias ls="lsd"
+else;
+    alias ls="ls --color"
+fi
 source ~/.localOptions
 
