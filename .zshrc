@@ -4,7 +4,6 @@ promptinit
 
 # This will set the default prompt to the walters theme
 prompt walters
-alias ls="ls --color"
 alias config="git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME"
 alias notes="git --git-dir=$HOME/.vim/Notes/.git --work-tree=$HOME/.vim/Notes"
 alias econnect="mosh eetu.dev"
@@ -31,11 +30,13 @@ if [[ ! "$SSH_AUTH_SOCK" ]]; then
     eval "$(</tmp/ssh-agent-pid)" > /dev/null
 fi
 
-if [ 'type thefuck' ]; then
+type thefuck > /dev/null
+if [ "$?" -eq "0" ]; then
     eval $(thefuck --alias)
 fi
 
-if [ 'type lsd' ]; then
+type lsd > /dev/null
+if [ "$?" -eq "0" ]; then
     alias ls="lsd"
 else;
     alias ls="ls --color"
