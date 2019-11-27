@@ -118,6 +118,10 @@ Name            : check
 Version         : 0.13.0-1
 Description     : A unit testing framework for C
 
+Name            : check-docs
+Version         : 0.13.0-1
+Description     : A unit testing framework for C (documentation)
+
 Name            : chromium
 Version         : 78.0.3904.108-1
 Description     : A web browser built for speed, simplicity, and security
