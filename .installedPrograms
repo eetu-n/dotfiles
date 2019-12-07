@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-263
+Version         : 1.1.0-264
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -71,7 +71,7 @@ Version         : 12.1.03-1
 Description     : GNU Unifont Glyphs
 
 Name            : bind-tools
-Version         : 9.14.8-2
+Version         : 9.14.8-4
 Description     : The ISC DNS tools
 
 Name            : binutils
@@ -231,7 +231,7 @@ Version         : 1.24-2
 Description     : Tool for simulating superuser privileges
 
 Name            : feh
-Version         : 3.2.1-1
+Version         : 3.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : ffmpegthumbnailer
@@ -355,11 +355,11 @@ Version         : 2.10.2-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
-Version         : 1.16.1-1
+Version         : 1.16.2-1
 Description     : GStreamer open-source multimedia framework FFmpeg plugin
 
 Name            : gst-plugins-good
-Version         : 1.16.1-1
+Version         : 1.16.2-1
 Description     : GStreamer open-source multimedia framework good plugins
 
 Name            : gtick
@@ -383,7 +383,7 @@ Version         : 2.14.2-6
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.1.14-79
+Version         : 2.1.14-81
 Description     : Source code suggestions
 
 Name            : htop
@@ -411,7 +411,7 @@ Version         : 20191115-2
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2019.2.4-1
+Version         : 2019.3-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
@@ -451,7 +451,7 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.2.6-1
+Version         : 19.2.7-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -475,7 +475,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.4.1.arch1-1
+Version         : 5.4.2.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -719,8 +719,8 @@ Version         : 1.6.6-2
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline.
 
 Name            : pycharm-professional
-Version         : 2019.2.4-2
-Description     : Powerful Python and Django IDE. Professional Edition
+Version         : 2019.3.0-1
+Description     : Python IDE for Professional Developers. Professional Edition
 
 Name            : python-future
 Version         : 0.18.2-2
@@ -747,7 +747,7 @@ Version         : 16.1.0-3
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
-Version         : 1.1-2
+Version         : 1.2-1
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
@@ -775,7 +775,7 @@ Version         : 5.13.2-1
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 1.8.2-1
+Version         : 1.8.3-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : r
@@ -875,7 +875,7 @@ Version         : r23.c691f20-1
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.1.2-2
+Version         : 4.2.0-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
@@ -1115,11 +1115,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.0.6-1
+Version         : 3.0.7-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.0.6-1
+Version         : 3.0.7-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
