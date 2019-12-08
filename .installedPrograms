@@ -611,7 +611,7 @@ Version         : 4.2.8.p13-2
 Description     : Network Time Protocol reference implementation
 
 Name            : obs-studio
-Version         : 24.0.3-2
+Version         : 24.0.4-1
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
