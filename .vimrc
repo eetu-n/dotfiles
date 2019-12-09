@@ -91,6 +91,15 @@ set noshowmode
 set laststatus=2
 let g:lightline = {
     \ 'colorscheme': 'wombat',
+    \ 'component_function': {
+    \   'gitbranch': 'fugitive#head'
+    \ },
+    \ 'active': {
+    \   'left': [ 
+    \               [ 'mode', 'paste' ],
+    \               [ 'gitbranch', 'readonly', 'filename', 'modified' ]
+    \           ]
+    \ },
     \ }
 
 " Clipboard
@@ -109,8 +118,7 @@ let g:livepreview_engine = 'pdflatex'
 "
 
 " C Stuff
-map <F8> :w <CR> :!clear && gcc -g -std=c99 -o %< % && ./%< <CR>
-map <F9> :w <CR> :!clear && gcc -g -Wall -std=c99 -o %< % <CR>
-map <F7> :w <CR> :!clear && gcc -g -Wall -std=c99 -o %< % && valgrind --leak-check=full --track-origins=yes ./%< <CR>
+map <F8> :w <CR> :!clear && make <CR>
+map <F9> :w <CR> :!clear && make check <CR>
 
 map <F6> :w <CR> :!clear && python % <CR>
