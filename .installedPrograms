@@ -187,7 +187,7 @@ Version         : 1:5.0.r7309.10d230a512-6
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 6.2.1-0
+Version         : 6.2.2-0
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -331,7 +331,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 78.0.3904.108-1
+Version         : 79.0.3945.79-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -401,6 +401,10 @@ Description     : A better i7 (and now i3, i5) reporting tool for Linux
 Name            : inetutils
 Version         : 1.9.4-8
 Description     : A collection of common network programs
+
+Name            : inkscape
+Version         : 0.92.4-9
+Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
 Version         : 1.24-1
@@ -595,7 +599,7 @@ Version         : 1.4.8-2
 Description     : Notepad++-like text editor for Linux
 
 Name            : noto-fonts
-Version         : 20190926-2
+Version         : 20190926-3
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
