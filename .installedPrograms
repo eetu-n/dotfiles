@@ -123,7 +123,7 @@ Version         : 0.13.0-1
 Description     : A unit testing framework for C (documentation)
 
 Name            : chromium
-Version         : 78.0.3904.108-1
+Version         : 79.0.3945.79-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -303,7 +303,7 @@ Version         : 2.10.14-1
 Description     : GNU Image Manipulation Program
 
 Name            : git
-Version         : 2.24.0-1
+Version         : 2.24.1-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
@@ -879,7 +879,7 @@ Version         : r23.c691f20-1
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.2.0-1
+Version         : 4.2.0-2
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
@@ -1059,7 +1059,7 @@ Version         : 0.3.4-1
 Description     : Compositing manager for implementing effects with regular window managers.
 
 Name            : unrar
-Version         : 1:5.8.4-1
+Version         : 1:5.8.5-1
 Description     : The RAR uncompression program
 
 Name            : unzip
