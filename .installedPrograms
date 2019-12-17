@@ -231,7 +231,7 @@ Version         : 1.24-2
 Description     : Tool for simulating superuser privileges
 
 Name            : feh
-Version         : 3.3-1
+Version         : 3.3-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : ffmpegthumbnailer
@@ -547,7 +547,7 @@ Version         : 0.33-1
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.21.16-2
+Version         : 0.21.17-1
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -923,7 +923,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 244-1
+Version         : 244.1-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
