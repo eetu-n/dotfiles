@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-265
+Version         : 1.1.0-267
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : adobe-base-14-fonts
@@ -123,7 +123,7 @@ Version         : 0.13.0-1
 Description     : A unit testing framework for C (documentation)
 
 Name            : chromium
-Version         : 79.0.3945.79-1
+Version         : 79.0.3945.88-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -135,7 +135,7 @@ Version         : 1.84-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.41.0-1
+Version         : 1.41.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -155,7 +155,7 @@ Version         : 2:2.6.3-1
 Description     : Utility to organize and develop raw images
 
 Name            : device-mapper
-Version         : 2.02.186-3
+Version         : 2.02.186-4
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
@@ -267,7 +267,7 @@ Version         : 1:2.0.0_rc4-7
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
-Version         : 0.19.0-1
+Version         : 0.20.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gawk
@@ -383,7 +383,7 @@ Version         : 2.14.2-6
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.1.14-82
+Version         : 2.1.14-83
 Description     : Source code suggestions
 
 Name            : htop
@@ -447,7 +447,7 @@ Version         : 19.12.0-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.64.0-1
+Version         : 5.65.0-2
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -455,7 +455,7 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.3.0-1
+Version         : 19.3.1-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -479,7 +479,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.4.3.arch1-1
+Version         : 5.4.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -495,7 +495,7 @@ Version         : 0.16.0-1
 Description     : Modern ls with a lot of pretty colors and awesome icons
 
 Name            : lvm2
-Version         : 2.02.186-3
+Version         : 2.02.186-4
 Description     : Logical Volume Manager 2 utilities
 
 Name            : lxappearance
@@ -579,7 +579,7 @@ Version         : 1.8.24-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.20.8-1
+Version         : 1.22.0-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -843,7 +843,7 @@ Version         : 9.22-9
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : s-nail
-Version         : 14.9.15-2
+Version         : 14.9.15-3
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
@@ -1119,11 +1119,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.0.7-1
+Version         : 3.2.0-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.0.7-1
+Version         : 3.2.0-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
