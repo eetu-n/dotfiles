@@ -1,7 +1,0 @@
-#!/bin/sh
-
-if pgrep -x unagi > /dev/null; then
-        pkill unagi
-else
-        unagi &
-fi

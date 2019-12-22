@@ -121,7 +121,7 @@ super + shift + i
 
 # Toggle compositor
 super + shift + c
-    toggleUnagi
+    compositor-toggle
 
 # Toggle VPN
 super + shift + v
