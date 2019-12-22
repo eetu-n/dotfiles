@@ -1,0 +1,30 @@
+#!/bin/sh
+
+M_COUNT=`monitor-get | wc -l`
+D_PER_M=`expr 10 / $M_COUNT`
+
+PREV_M=`monitor-get 1`
+xrandr --output $PREV_M --auto
+bspc config -m $PREV_M bottom_padding 27
+
+for DESKTOP in $(bspc query -D | sed -n 1,$D_PER_M\p); do
+    bspc desktop $DESKTOP -m $(monitor-get 1)
+done
+
+PREV_D=$(expr $D_PER_M + 1)
+
+for MONITOR in $(monitor-get | sed 1d); do
+    xrandr --output $MONITOR --auto --right-of $PREV_M
+    PREV_M=$MONITOR
+
+    echo "0: $PREV_D, n: $(expr $PREV_D + $D_PER_M - 1)"
+    for DESKTOP in $(bspc query -D | sed -n $PREV_D,$(expr $PREV_D + $D_PER_M - 1)p); do
+        bspc desktop $DESKTOP -m $MONITOR
+    done
+
+    PREV_D=$(expr $PREV_D + $D_PER_M)
+
+    bspc config -m $MONITOR bottom_padding -14
+done
+
+feh --bg-scale /home/eetu/.dog.png

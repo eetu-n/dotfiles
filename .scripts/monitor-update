@@ -1,0 +1,3 @@
+#! /bin/sh
+
+xrandr | grep -w connected | cut -d ' ' -f 1 > /tmp/monitorList

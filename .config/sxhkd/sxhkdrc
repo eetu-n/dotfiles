@@ -93,7 +93,7 @@ ctrl + alt + Delete
 
 # Toggle Monitor
 XF86Display
-	togglemon
+	monitor-apply
 
 # terminal emulator
 super + Return

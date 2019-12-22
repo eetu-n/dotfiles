@@ -2,10 +2,10 @@
 
 sxhkd &
 redshift &
-unagi &
+picom -b
 nm-applet &
 touch /tmp/barHidden
-monitorUpdate
+monitor-update
 autocutsel -s PRIMARY -fork
 autocutsel -s CLIPBOARD -fork
 
@@ -16,12 +16,8 @@ if [[ ! "$SSH_AUTH_SOCK" ]]; then
     eval "$(</tmp/ssh-agent-pid)"
 fi
 
-
-if [ "`xrandr --listmonitors | head -1 | rev | cut -c 1`" -eq 1 ]; then
-       singlemon 
-else
-       multimon
-fi
+monitor-update
+monitor-apply
 
 $HOME/.config/polybar/launch.sh &
 
