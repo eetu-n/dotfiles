@@ -5,7 +5,6 @@ redshift &
 picom -b
 nm-applet &
 touch /tmp/barHidden
-monitor-update
 autocutsel -s PRIMARY -fork
 autocutsel -s CLIPBOARD -fork
 
@@ -15,11 +14,6 @@ fi
 if [[ ! "$SSH_AUTH_SOCK" ]]; then
     eval "$(</tmp/ssh-agent-pid)"
 fi
-
-monitor-update
-monitor-apply
-
-$HOME/.config/polybar/launch.sh &
 
 bspc config border_width         2
 bspc config window_gap          12
@@ -32,6 +26,15 @@ bspc config click_to_focus	button1
 bspc config right_padding -14
 bspc config left_padding -14
 bspc config top_padding -14
+
+bspc config remove_unplugged_monitors true
+bspc config remove_disabled_monitors true
+
+monitor-update
+monitor-apply
+monitor-bspwm
+
+$HOME/.config/polybar/launch.sh &
 
 # Scratchpad
 bspc rule -a scratchpad sticky=on state=floating hidden=on

@@ -1,3 +1,19 @@
 #! /bin/sh
 
-xrandr | grep -w connected | cut -d ' ' -f 1 > /tmp/monitorList
+cp /home/eetu/.huge /tmp/monitorList
+
+for MONITOR in $(xrandr | grep -w connected | cut -d ' ' -f 1); do
+    LINE=$(xrandr | grep -w $MONITOR | cut -s -d '+' -f 2)
+
+    if [ -z $LINE ]; then
+        echo "$MONITOR -" >> /tmp/monitorList
+    else
+        xrandr | grep -w $MONITOR | grep -qw 'primary'
+        if [ $? == 0 ]; then
+            MONITOR="$MONITOR *"
+        fi
+        sed -i $(expr $LINE + 1)i"$MONITOR" /tmp/monitorList
+    fi
+done
+
+sed -i '/^[[:space:]]*$/d' /tmp/monitorList

@@ -7,12 +7,15 @@ elif [ $# != 1 ]; then
     echo "Must supply 0 or 1 arguments."
     exit
 fi
-
-if ! expr "$1" : '[0-9][0-9]*$'>/dev/null; then
-    echo "Argument must be a number"
+if [ $1 = "primary" ]; then
+    cat /tmp/monitorList | grep -w '*' | cut -d ' ' -f 1
+elif [ $1 = "connected" ]; then
+    cat /tmp/monitorList | grep -wv '-' | cut -d ' ' -f 1
+elif ! expr "$1" : '[0-9][0-9]*$'>/dev/null; then
+    echo "Argument must be a number or 'primary' or 'connected'"
 elif [ $1 -lt 1 ]; then
     echo "Argument must be greater than zero"
 else
-    sed -n $1p /tmp/monitorList
+    sed -n $1p /tmp/monitorList | cut -d ' ' -f 1
 fi
 
