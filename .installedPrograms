@@ -355,7 +355,7 @@ Version         : 3.3-3
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.10.2-1
+Version         : 2.11.0-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
