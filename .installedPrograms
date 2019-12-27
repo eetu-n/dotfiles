@@ -154,6 +154,10 @@ Name            : cups-pdf
 Version         : 3.0.1-4
 Description     : PDF printer for cups
 
+Name            : d-feet
+Version         : 0.3.15-2
+Description     : D-Bus debugger for GNOME
+
 Name            : darktable
 Version         : 2:3.0.0-1
 Description     : Utility to organize and develop raw images
@@ -387,7 +391,7 @@ Version         : 2.14.3-1
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.1.14-86
+Version         : 2.1.14-87
 Description     : Source code suggestions
 
 Name            : htop
@@ -1059,7 +1063,7 @@ Version         : 1.5.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 1.7.7-3
+Version         : 2.0.0-1
 Description     : Removable disk automounter using udisks
 
 Name            : unrar
