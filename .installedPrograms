@@ -391,7 +391,7 @@ Version         : 2.14.3-1
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.1.14-87
+Version         : 2.1.14-88
 Description     : Source code suggestions
 
 Name            : htop
@@ -1063,7 +1063,7 @@ Version         : 1.5.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 2.0.0-1
+Version         : 2.0.1-1
 Description     : Removable disk automounter using udisks
 
 Name            : unrar
