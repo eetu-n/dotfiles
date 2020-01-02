@@ -662,10 +662,6 @@ Name            : pdfgrep
 Version         : 2.1.2-1
 Description     : A tool to search text in PDF files
 
-Name            : pdftk-bin
-Version         : 2.02_4_b2-3
-Description     : Swiss army knife for PDFs. Built from binary executables available in Debian repositories.
-
 Name            : perl
 Version         : 5.30.1-1
 Description     : A highly capable, feature-rich programming language
