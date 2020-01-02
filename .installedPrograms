@@ -855,11 +855,11 @@ Version         : 9.22-9
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : s-nail
-Version         : 14.9.15-3
+Version         : 14.9.16-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 8.9-4
+Version         : 9.0-1
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
