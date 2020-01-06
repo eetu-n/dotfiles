@@ -84,12 +84,20 @@ label-empty-padding = 2
 
 [module/mpd]
 type = internal/mpd
-format-online = <label-song>
+format-online = <icon-prev> <label-song> <icon-next>
 format-playing = ${self.format-online}
 format-playing-foreground = ${colors.foreground}
 
 format-paused = ${self.format-online}
 format-paused-foreground = #888
+
+icon-prev = 
+icon-next = 
+
+bar-progress-width = 10
+bar-progress-indicator = |
+bar-progress-fill = ─
+bar-progress-empty = ─
 
 [module/xbacklight]
 type = internal/xbacklight
