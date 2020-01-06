@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-271
+Version         : 1.1.0-272
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -355,7 +355,7 @@ Version         : 3.10.11-2
 Description     : Podcast client written in Python using GTK+
 
 Name            : grep
-Version         : 3.3-3
+Version         : 3.4-1
 Description     : A string search utility
 
 Name            : gscreenshot
@@ -487,7 +487,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.4.7.arch1-1
+Version         : 5.4.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -593,6 +593,10 @@ Description     : Network connection manager and user applications
 Name            : networkmanager-dmenu-git
 Version         : r80.eefd2c3-1
 Description     : Control NetworkManager via dmenu
+
+Name            : networkmanager-openconnect
+Version         : 1.2.6-1
+Description     : NetworkManager VPN plugin for OpenConnect
 
 Name            : networkmanager-openvpn
 Version         : 1.8.10-1
@@ -842,10 +846,6 @@ Name            : rofi-dmenu
 Version         : 1-1
 Description     : Symlink for using Rofi as a drop-in replacement to dmenu
 
-Name            : rstudio-desktop-bin
-Version         : 1.2.5001-1
-Description     : An integrated development environment (IDE) for R (binary from RStudio official repository)
-
 Name            : rxvt-unicode
 Version         : 9.22-9
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
@@ -1059,7 +1059,7 @@ Version         : 2.0.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 2.0.1-1
+Version         : 2.0.2-1
 Description     : Removable disk automounter using udisks
 
 Name            : unrar
