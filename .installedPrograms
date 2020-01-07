@@ -167,7 +167,7 @@ Version         : 2.02.186-5
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
-Version         : 8.1.4-1
+Version         : 8.1.5-1
 Description     : RFC2131 compliant DHCP client daemon
 
 Name            : dictd
@@ -263,7 +263,7 @@ Version         : 4.7.0-2
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 71.0-1
+Version         : 72.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -1099,7 +1099,7 @@ Version         : 3.0.8-7
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
-Version         : 2.7-1
+Version         : 2.7-2
 Description     : Fast, light and extensible IRC client (curses UI)
 
 Name            : wget
