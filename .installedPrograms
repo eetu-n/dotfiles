@@ -411,7 +411,7 @@ Version         : 1.9.4-8
 Description     : A collection of common network programs
 
 Name            : inkscape
-Version         : 0.92.4-9
+Version         : 0.92.4-10
 Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
@@ -471,7 +471,7 @@ Version         : 0.1.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 6.3.4-1
+Version         : 6.3.4-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -611,7 +611,7 @@ Version         : 1.4.8-2
 Description     : Notepad++-like text editor for Linux
 
 Name            : noto-fonts
-Version         : 20190926-3
+Version         : 20190926-4
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
@@ -719,7 +719,7 @@ Version         : 23.3-2
 Description     : Miscellaneous procfs tools
 
 Name            : pulseaudio
-Version         : 13.0-2
+Version         : 13.0-3
 Description     : A featureful, general-purpose sound server
 
 Name            : pulseaudio-alsa
@@ -727,7 +727,7 @@ Version         : 2-5
 Description     : ALSA Configuration for PulseAudio
 
 Name            : pulseaudio-bluetooth
-Version         : 13.0-2
+Version         : 13.0-3
 Description     : Bluetooth support for PulseAudio
 
 Name            : pv
@@ -749,6 +749,10 @@ Description     : The PyPA recommended tool for installing Python packages
 Name            : python-pipenv
 Version         : 2018.11.26-3
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
+
+Name            : python-pytorch
+Version         : 1.3.1-7
+Description     : Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 Name            : python-radon
 Version         : 4.0.0-2
@@ -1315,7 +1319,7 @@ Version         : 0.80-2
 Description     : X11 interface to lm_sensors - Mystro256 fork
 
 Name            : xtitle
-Version         : 0.4.4-1
+Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
