@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-273
+Version         : 1.1.0-275
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -455,7 +455,7 @@ Version         : 19.12.1-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.65.0-2
+Version         : 5.66.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -487,7 +487,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.4.10.arch1-1
+Version         : 5.4.11.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -627,7 +627,7 @@ Version         : 4.2.8.p13-2
 Description     : Network Time Protocol reference implementation
 
 Name            : obs-studio
-Version         : 24.0.5-1
+Version         : 24.0.5-2
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
@@ -761,6 +761,10 @@ Description     : A tool that computes various metrics for Python source code
 Name            : python-scapy
 Version         : 2.4.3-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
+
+Name            : python-torchvision
+Version         : 0.4.2-4
+Description     : Datasets, transforms, and models specific to computer vision
 
 Name            : python-virtualenv
 Version         : 16.1.0-3
@@ -1099,7 +1103,7 @@ Version         : 6.1.0-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : vlc
-Version         : 3.0.8-7
+Version         : 3.0.8-8
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
