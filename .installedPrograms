@@ -195,7 +195,7 @@ Version         : 1:5.0.r7309.10d230a512-6
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 6.2.2-0
+Version         : 6.2.3-0
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -311,7 +311,7 @@ Version         : 2.10.14-1
 Description     : GNU Image Manipulation Program
 
 Name            : git
-Version         : 2.24.1-4
+Version         : 2.25.0-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
@@ -427,7 +427,7 @@ Version         : 2019.3.1-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
-Version         : 5.4.0-1
+Version         : 5.4.0-2
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -1099,7 +1099,7 @@ Version         : 173.a95b047-1
 Description     : Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell
 
 Name            : virtualbox
-Version         : 6.1.0-1
+Version         : 6.1.2-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : vlc
@@ -1327,7 +1327,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 9.4.2-1
+Version         : 9.4.3-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : zip
