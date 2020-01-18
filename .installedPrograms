@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-275
+Version         : 1.1.0-276
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -127,7 +127,7 @@ Version         : 0.13.0-1
 Description     : A unit testing framework for C (documentation)
 
 Name            : chromium
-Version         : 79.0.3945.117-1
+Version         : 79.0.3945.130-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -339,7 +339,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 79.0.3945.117-1
+Version         : 79.0.3945.130-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -411,7 +411,7 @@ Version         : 1.9.4-8
 Description     : A collection of common network programs
 
 Name            : inkscape
-Version         : 0.92.4-10
+Version         : 0.92.4-11
 Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
@@ -451,7 +451,7 @@ Version         : 1.4.5-7
 Description     : A screencasting program with design in mind
 
 Name            : kdenlive
-Version         : 19.12.1-1
+Version         : 19.12.1-2
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
@@ -487,7 +487,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.4.11.arch1-1
+Version         : 5.4.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -539,7 +539,7 @@ Version         : 8.4.0-2
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : minecraft-launcher
-Version         : 2.1.9618-2
+Version         : 2.1.10835-1
 Description     : Official Minecraft Launcher
 
 Name            : moreutils
@@ -750,10 +750,6 @@ Name            : python-pipenv
 Version         : 2018.11.26-3
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
-Name            : python-pytorch
-Version         : 1.3.1-7
-Description     : Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
 Name            : python-radon
 Version         : 4.0.0-2
 Description     : A tool that computes various metrics for Python source code
@@ -763,7 +759,7 @@ Version         : 2.4.3-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-torchvision
-Version         : 0.4.2-4
+Version         : 0.4.2-7
 Description     : Datasets, transforms, and models specific to computer vision
 
 Name            : python-virtualenv
@@ -863,7 +859,7 @@ Version         : 14.9.16-2
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 9.0-2
+Version         : 9.0-3
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -883,7 +879,7 @@ Version         : 0.18.1-1
 Description     : QML based X11 and Wayland display manager
 
 Name            : sed
-Version         : 4.7-3
+Version         : 4.8-1
 Description     : GNU stream editor
 
 Name            : shadow
@@ -1131,11 +1127,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.2.0-1
+Version         : 3.2.1-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.2.0-1
+Version         : 3.2.1-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
@@ -1187,7 +1183,7 @@ Version         : 1.2.1-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.6-3
+Version         : 1.20.7-1
 Description     : Xorg X server
 
 Name            : xorg-sessreg
@@ -1327,7 +1323,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 9.4.3-1
+Version         : 9.4.4-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : zip
