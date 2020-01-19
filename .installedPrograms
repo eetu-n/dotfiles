@@ -555,7 +555,7 @@ Version         : 0.33-1
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.21.18-1
+Version         : 0.21.19-1
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -1179,7 +1179,7 @@ Version         : 1.1.1-3
 Description     : Filter that can be run between an arbitrary application and a UTF-8 terminal emulator
 
 Name            : xorg-mkfontscale
-Version         : 1.2.1-1
+Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
