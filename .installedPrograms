@@ -119,11 +119,11 @@ Version         : 2.3.3-2
 Description     : Qt5 client for the music player daemon (MPD)
 
 Name            : check
-Version         : 0.13.0-1
+Version         : 0.14.0-1
 Description     : A unit testing framework for C
 
 Name            : check-docs
-Version         : 0.13.0-1
+Version         : 0.14.0-1
 Description     : A unit testing framework for C (documentation)
 
 Name            : chromium
@@ -159,7 +159,7 @@ Version         : 0.3.15-2
 Description     : D-Bus debugger for GNOME
 
 Name            : darktable
-Version         : 2:3.0.0-1
+Version         : 2:3.0.0-2
 Description     : Utility to organize and develop raw images
 
 Name            : device-mapper
@@ -167,7 +167,7 @@ Version         : 2.02.186-5
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
-Version         : 8.1.5-1
+Version         : 8.1.6-1
 Description     : RFC2131 compliant DHCP client daemon
 
 Name            : dictd
@@ -177,6 +177,10 @@ Description     : Online dictionary client and server
 Name            : diffutils
 Version         : 3.7-3
 Description     : Utility programs used for creating patch files
+
+Name            : discord
+Version         : 0.0.9-5
+Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : discount
 Version         : 2.2.6-1
@@ -247,7 +251,7 @@ Version         : 2.2.2-1
 Description     : Lightweight video thumbnailer that can be used by file managers.
 
 Name            : file
-Version         : 5.38-1
+Version         : 5.38-3
 Description     : File type identification utility
 
 Name            : filesystem
@@ -271,7 +275,7 @@ Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
 
 Name            : freerdp
-Version         : 1:2.0.0_rc4-7
+Version         : 1:2.0.0_rc4-8
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
@@ -315,7 +319,7 @@ Version         : 2.25.0-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
-Version         : 6.5.0-1
+Version         : 6.5.1-1
 Description     : The intuitive, fast, and beautiful cross-platform Git client.
 
 Name            : glibc
@@ -411,7 +415,7 @@ Version         : 1.9.4-8
 Description     : A collection of common network programs
 
 Name            : inkscape
-Version         : 0.92.4-11
+Version         : 0.92.4-12
 Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
@@ -427,7 +431,7 @@ Version         : 2019.3.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
-Version         : 5.4.0-2
+Version         : 5.5.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -463,7 +467,7 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.3.2-1
+Version         : 19.3.3-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -471,7 +475,7 @@ Version         : 0.1.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 6.3.4-2
+Version         : 6.4.0-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -563,7 +567,7 @@ Version         : 0.22-14
 Description     : MPD client which submits track info to {Libre,Last}.fm
 
 Name            : ncmpcpp
-Version         : 0.8.2-10
+Version         : 0.8.2-11
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : ncurses5-compat-libs
@@ -587,7 +591,7 @@ Version         : 1.8.24-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.22.4-1
+Version         : 1.22.6-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -665,6 +669,10 @@ Description     : PCI bus configuration space access library and tools
 Name            : pdfgrep
 Version         : 2.1.2-1
 Description     : A tool to search text in PDF files
+
+Name            : pdftk
+Version         : 3.0.9-1
+Description     : Command-line tool for working with PDFs
 
 Name            : perl
 Version         : 5.30.1-1
@@ -751,7 +759,7 @@ Version         : 2018.11.26-3
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-radon
-Version         : 4.0.0-2
+Version         : 4.1.0-1
 Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
@@ -787,11 +795,11 @@ Version         : 4.8.7-31
 Description     : A cross-platform application and UI framework
 
 Name            : qt5-multimedia
-Version         : 5.14.0-1
+Version         : 5.14.1-1
 Description     : Classes for audio, video, radio and camera functionality
 
 Name            : qt5-tools
-Version         : 5.14.0-2
+Version         : 5.14.1-1
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
@@ -859,7 +867,7 @@ Version         : 14.9.16-2
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 9.0-6
+Version         : 9.0-7
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -891,7 +899,7 @@ Version         : r23.c691f20-1
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.2.0-2
+Version         : 4.3.2-3
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
@@ -915,7 +923,7 @@ Version         : 1.8.30-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sway
-Version         : 1:1.4-1
+Version         : 1:1.4-5
 Description     : Tiling Wayland compositor and replacement for the i3 window manager
 
 Name            : swayidle
@@ -1007,7 +1015,7 @@ Version         : 3.29-2
 Description     : Magnificent app which corrects your previous console command
 
 Name            : thunar
-Version         : 1.8.11-1
+Version         : 1.8.12-1
 Description     : Modern file manager for Xfce
 
 Name            : tlp
@@ -1067,7 +1075,7 @@ Version         : 2.0.4-1
 Description     : Removable disk automounter using udisks
 
 Name            : unrar
-Version         : 1:5.8.5-1
+Version         : 1:5.9.1-1
 Description     : The RAR uncompression program
 
 Name            : unzip
