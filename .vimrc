@@ -19,9 +19,6 @@ Plug 'tpope/vim-fugitive'                               "Git Wrapper
 
 call plug#end()
 
-" Turn off expansion of characters in latex
-set conceallevel=0
-
 " Scroll wheel behaviour
 set mouse=a
 map <ScrollWheelUp> <C-Y>
@@ -122,3 +119,7 @@ map <F8> :w <CR> :!clear && make <CR>
 map <F9> :w <CR> :!clear && make check <CR>
 
 map <F6> :w <CR> :!clear && python % <CR>
+
+" Turn off expansion of characters in latex
+set conceallevel=2
+set concealcursor=nc
