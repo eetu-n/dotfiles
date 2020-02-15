@@ -31,7 +31,7 @@ Version         : 0.1.10-4
 Description     : Provide a simple visual front end for XRandR 1.2.
 
 Name            : arduino
-Version         : 1:1.8.9-3
+Version         : 1:1.8.12-1
 Description     : Arduino prototyping platform SDK
 
 Name            : arduino-docs
@@ -131,7 +131,7 @@ Version         : 140201-3
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 80.0.3987.100-1
+Version         : 80.0.3987.106-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -143,7 +143,7 @@ Version         : 1.84-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.41.1-1
+Version         : 1.42.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -399,7 +399,7 @@ Version         : 2.14.3-1
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.2.3-2
+Version         : 2.2.4-1
 Description     : Source code suggestions
 
 Name            : htop
@@ -471,7 +471,7 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 19.3.3-1
+Version         : 19.3.4-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -623,7 +623,7 @@ Version         : 20190926-4
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
-Version         : 20191016-1
+Version         : 20191016-3
 Description     : Google Noto emoji fonts
 
 Name            : ntfs-3g
@@ -719,7 +719,7 @@ Version         : 19.12.2-1
 Description     : A tool for managing print jobs and printers
 
 Name            : processing
-Version         : 3.5.3-3
+Version         : 3.5.4-1
 Description     : Programming environment for creating images, animations and interactions
 
 Name            : procps-ng
@@ -871,7 +871,7 @@ Version         : 14.9.17-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 9.0-7
+Version         : 9.0-8
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -947,7 +947,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 244.2-2
+Version         : 244.3-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
