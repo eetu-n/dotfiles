@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-289
+Version         : 1.1.0-290
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -115,7 +115,7 @@ Version         : 1.0.8-3
 Description     : A high-quality data compression program
 
 Name            : cantata
-Version         : 2.3.3-2
+Version         : 2.4.0-1
 Description     : Qt5 client for the music player daemon (MPD)
 
 Name            : check
@@ -135,7 +135,7 @@ Version         : 80.0.3987.106-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
-Version         : 1:2019.3.3-1
+Version         : 1:2019.3.4-1
 Description     : C/C++ IDE. Free 30-day trial.
 
 Name            : cloc
@@ -347,7 +347,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 79.0.3945.130-1
+Version         : 80.0.3987.106-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -495,7 +495,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.5.3.arch1-1
+Version         : 5.5.4.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -639,7 +639,7 @@ Version         : 24.0.6-1
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
-Version         : 8.1p1-4
+Version         : 8.2p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : package-query
@@ -703,7 +703,7 @@ Version         : 5-2
 Description     : CLI PulseAudio Volume Control
 
 Name            : postgresql
-Version         : 12.1-2
+Version         : 12.2-1
 Description     : Sophisticated object-relational DBMS
 
 Name            : powertop
