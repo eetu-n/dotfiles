@@ -1343,6 +1343,6 @@ Version         : 3.0-8
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zsh
-Version         : 5.7.1-1
+Version         : 5.8-1
 Description     : A very advanced and programmable command interpreter (shell) for UNIX
 
