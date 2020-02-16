@@ -583,7 +583,7 @@ Version         : 2.0.0-1
 Description     : Patched font Hack from nerd-fonts library
 
 Name            : nerd-fonts-source-code-pro
-Version         : 2.0.0-4
+Version         : 2.1.0-1
 Description     : Patched font SourceCodePro from nerd-fonts library
 
 Name            : netctl
@@ -747,7 +747,7 @@ Version         : 1.6.6-2
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline.
 
 Name            : pycharm-professional
-Version         : 2019.3.2-1
+Version         : 2019.3.3-1
 Description     : Python IDE for Professional Developers. Professional Edition
 
 Name            : python-future
