@@ -191,7 +191,7 @@ Version         : 2.2.6-1
 Description     : A Markdown implementation written in C
 
 Name            : docker
-Version         : 1:19.03.5-1
+Version         : 1:19.03.6-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
@@ -203,7 +203,7 @@ Version         : 1:5.0.r11617.0491831483-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 6.2.3-0
+Version         : 6.2.4-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -367,7 +367,7 @@ Version         : 3.4-1
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.11.0-1
+Version         : 2.12.0-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
@@ -431,7 +431,7 @@ Version         : 20191115-3
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2019.3.2-1
+Version         : 2019.3.3-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
@@ -579,7 +579,7 @@ Version         : 6.1-1
 Description     : System V Release 4.0 curses emulation library, ABI 5
 
 Name            : nerd-fonts-hack
-Version         : 2.0.0-1
+Version         : 2.1.0-2
 Description     : Patched font Hack from nerd-fonts library
 
 Name            : nerd-fonts-source-code-pro
@@ -771,7 +771,7 @@ Version         : 2.4.3-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-torchvision
-Version         : 0.4.2-7
+Version         : 0.5.0-2
 Description     : Datasets, transforms, and models specific to computer vision
 
 Name            : python-virtualenv
@@ -807,7 +807,7 @@ Version         : 5.14.1-1
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 1.10.0-1
+Version         : 1.10.1-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : r
