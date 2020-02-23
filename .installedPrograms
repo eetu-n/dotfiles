@@ -315,7 +315,7 @@ Version         : 8.8.2-1
 Description     : The Glasgow Haskell Compiler
 
 Name            : gimp
-Version         : 2.10.16-1
+Version         : 2.10.18-1
 Description     : GNU Image Manipulation Program
 
 Name            : git
