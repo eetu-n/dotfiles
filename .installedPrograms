@@ -347,7 +347,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 80.0.3987.116-1
+Version         : 80.0.3987.122-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -687,7 +687,7 @@ Version         : 4.10.0-1
 Description     : Phonon GStreamer backend for Qt5
 
 Name            : picom
-Version         : 7.5-2
+Version         : 7.5-3
 Description     : X compositor that may fix tearing issues
 
 Name            : pkgconf
