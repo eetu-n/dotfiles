@@ -791,7 +791,7 @@ Version         : 3.4-4
 Description     : Multiplatform Serial Port Module for Python
 
 Name            : qalculate-gtk
-Version         : 3.7.0-1
+Version         : 3.8.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
