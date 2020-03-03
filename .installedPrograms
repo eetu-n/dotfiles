@@ -183,7 +183,7 @@ Version         : 3.7-3
 Description     : Utility programs used for creating patch files
 
 Name            : discord
-Version         : 0.0.10-1
+Version         : 0.0.10-2
 Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : discount
@@ -347,7 +347,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 80.0.3987.122-1
+Version         : 80.0.3987.132-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -399,7 +399,7 @@ Version         : 2.14.3-1
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.2.11-7
+Version         : 2.2.11-9
 Description     : Source code suggestions
 
 Name            : htop
