@@ -771,7 +771,7 @@ Version         : 2.4.3-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-torchvision
-Version         : 0.5.0-2
+Version         : 0.5.0-4
 Description     : Datasets, transforms, and models specific to computer vision
 
 Name            : python-virtualenv
