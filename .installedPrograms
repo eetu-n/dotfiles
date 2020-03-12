@@ -927,7 +927,7 @@ Version         : 1.8.31-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sway
-Version         : 1:1.4-7
+Version         : 1:1.4-8
 Description     : Tiling Wayland compositor and replacement for the i3 window manager
 
 Name            : swayidle
