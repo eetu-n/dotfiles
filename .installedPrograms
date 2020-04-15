@@ -783,7 +783,7 @@ Version         : 20.0.15-1
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
-Version         : 1.3-1
+Version         : 1.4-1
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
@@ -959,7 +959,7 @@ Version         : 1.32-3
 Description     : Utility used to store, backup, and transport files
 
 Name            : teams
-Version         : 1.3.00.958-1
+Version         : 1.3.00.5153-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : termite
@@ -1071,8 +1071,8 @@ Version         : 2.0-10
 Description     : Core TTF Fonts from Microsoft
 
 Name            : ttf-symbola
-Version         : 12.00-2
-Description     : Font for unicode symbols (part of Unicode Fonts for Ancient Scripts).
+Version         : 13.00-7
+Description     : Font for symbol blocks of the Unicode Standard (TTF)
 
 Name            : tumbler
 Version         : 0.2.8-1
@@ -1163,7 +1163,7 @@ Version         : 1.2.4.1-6
 Description     : Lightweight passphrase dialog for SSH
 
 Name            : xcursor-breeze
-Version         : 1:5.16.4-1
+Version         : 1:5.18.3-1
 Description     : Breeze cursor theme (KDE Plasma 5). This package is for usage in non-KDE Plasma desktops.
 
 Name            : xdg-user-dirs
