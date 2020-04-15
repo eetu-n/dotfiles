@@ -135,7 +135,7 @@ Version         : 81.0.4044.92-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
-Version         : 1:2019.3.4-1
+Version         : 1:2020.1-1
 Description     : C/C++ IDE. Free 30-day trial.
 
 Name            : cloc
@@ -431,7 +431,7 @@ Version         : 20191115-3
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2019.3.3-1
+Version         : 2020.1-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : iproute2
@@ -909,6 +909,10 @@ Description     : Iconic bitmap font based on stlarch with additional glyphs
 Name            : slack-desktop
 Version         : 4.3.2-3
 Description     : Slack Desktop (Beta) for Linux
+
+Name            : sonarr
+Version         : 2.0.0.5344-1
+Description     : PVR for newsgroup users
 
 Name            : soundconverter
 Version         : 3.0.2-2
