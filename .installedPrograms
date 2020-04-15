@@ -699,7 +699,7 @@ Version         : 1.6.3-3
 Description     : Package compiler and linker metadata toolkit
 
 Name            : polybar
-Version         : 3.4.2-1
+Version         : 3.4.2-2
 Description     : A fast and easy-to-use status bar
 
 Name            : ponymix
@@ -751,7 +751,7 @@ Version         : 1.6.6-2
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline.
 
 Name            : pycharm-professional
-Version         : 2019.3.3-1
+Version         : 2020.1.0-1
 Description     : Python IDE for Professional Developers. Professional Edition
 
 Name            : python-future
@@ -907,7 +907,7 @@ Version         : r23.c691f20-1
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.3.2-3
+Version         : 4.4.2-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sonarr
