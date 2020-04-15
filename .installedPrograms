@@ -347,7 +347,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 80.0.3987.132-1
+Version         : 81.0.4044.92-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -547,7 +547,7 @@ Version         : 8.4.0-2
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : minecraft-launcher
-Version         : 2.1.12872-1
+Version         : 2.1.13509-1
 Description     : Official Minecraft Launcher
 
 Name            : moreutils
@@ -633,6 +633,10 @@ Description     : NTFS filesystem driver and utilities
 Name            : ntp
 Version         : 4.2.8.p14-1
 Description     : Network Time Protocol reference implementation
+
+Name            : nzbget
+Version         : 21.0-1
+Description     : Download from Usenet using .nzb files
 
 Name            : obs-studio
 Version         : 25.0.4-1
