@@ -131,7 +131,7 @@ Version         : 140201-3
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 81.0.4044.92-1
+Version         : 81.0.4044.113-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -347,7 +347,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 81.0.4044.92-1
+Version         : 81.0.4044.113-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -399,7 +399,7 @@ Version         : 2.14.3-1
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.2.11-40
+Version         : 2.2.11-41
 Description     : Source code suggestions
 
 Name            : htop
@@ -419,7 +419,7 @@ Version         : 1.9.4-8
 Description     : A collection of common network programs
 
 Name            : inkscape
-Version         : 0.92.4-15
+Version         : 0.92.5-1
 Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
@@ -698,6 +698,10 @@ Name            : pkgconf
 Version         : 1.6.3-3
 Description     : Package compiler and linker metadata toolkit
 
+Name            : plex-media-server
+Version         : 1.19.1.2645-1
+Description     : The back-end media server component of Plex.
+
 Name            : polybar
 Version         : 3.4.2-2
 Description     : A fast and easy-to-use status bar
@@ -795,7 +799,7 @@ Version         : 3.4-4
 Description     : Multiplatform Serial Port Module for Python
 
 Name            : qalculate-gtk
-Version         : 3.9.0-1
+Version         : 3.9.0.a-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
