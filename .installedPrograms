@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-307
+Version         : 1.1.0-310
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -75,7 +75,7 @@ Version         : 12.1.04-1
 Description     : GNU Unifont Glyphs
 
 Name            : bind-tools
-Version         : 9.16.1-2
+Version         : 9.16.2-1
 Description     : The ISC DNS tools
 
 Name            : binutils
@@ -143,7 +143,7 @@ Version         : 1.84-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.44.0-1
+Version         : 1.44.1-2
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -163,7 +163,7 @@ Version         : 0.3.15-2
 Description     : D-Bus debugger for GNOME
 
 Name            : darktable
-Version         : 2:3.0.1-1
+Version         : 2:3.0.2-1
 Description     : Utility to organize and develop raw images
 
 Name            : device-mapper
@@ -171,7 +171,7 @@ Version         : 2.02.187-1
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
-Version         : 8.1.7-1
+Version         : 9.0.1-2
 Description     : RFC2131 compliant DHCP client daemon
 
 Name            : dictd
@@ -399,7 +399,7 @@ Version         : 2.14.3-1
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 2.2.11-41
+Version         : 2.2.11-43
 Description     : Source code suggestions
 
 Name            : htop
@@ -471,7 +471,7 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 20.0.4-1
+Version         : 20.0.4-2
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -479,7 +479,7 @@ Version         : 0.1.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 6.4.2-2
+Version         : 6.4.3-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -495,7 +495,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.6.4.arch1-1
+Version         : 5.6.5.arch3-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -531,7 +531,7 @@ Version         : 2.9.1-2
 Description     : A utility for reading man pages
 
 Name            : man-pages
-Version         : 5.05-2
+Version         : 5.06-1
 Description     : Linux man pages
 
 Name            : mathematica
@@ -543,7 +543,7 @@ Version         : 4.1-2
 Description     : A tool for managing/monitoring Linux md device arrays, also known as Software RAID
 
 Name            : mesa-demos
-Version         : 8.4.0-2
+Version         : 8.4.0-3
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : minecraft-launcher
@@ -634,10 +634,6 @@ Name            : ntp
 Version         : 4.2.8.p14-1
 Description     : Network Time Protocol reference implementation
 
-Name            : nzbget
-Version         : 21.0-1
-Description     : Download from Usenet using .nzb files
-
 Name            : obs-studio
 Version         : 25.0.4-1
 Description     : Free, open source software for live streaming and recording
@@ -679,7 +675,7 @@ Version         : 2.1.2-1
 Description     : A tool to search text in PDF files
 
 Name            : pdftk
-Version         : 3.0.9-1
+Version         : 3.0.10-1
 Description     : Command-line tool for working with PDFs
 
 Name            : perl
@@ -698,10 +694,6 @@ Name            : pkgconf
 Version         : 1.6.3-3
 Description     : Package compiler and linker metadata toolkit
 
-Name            : plex-media-server
-Version         : 1.19.1.2645-1
-Description     : The back-end media server component of Plex.
-
 Name            : polybar
 Version         : 3.4.2-2
 Description     : A fast and easy-to-use status bar
@@ -711,7 +703,7 @@ Version         : 5-2
 Description     : CLI PulseAudio Volume Control
 
 Name            : postgresql
-Version         : 12.2-1
+Version         : 12.2-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powertop
@@ -811,11 +803,11 @@ Version         : 5.14.2-1
 Description     : Classes for audio, video, radio and camera functionality
 
 Name            : qt5-tools
-Version         : 5.14.2-1
+Version         : 5.14.2-2
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 1.10.1-1
+Version         : 1.10.2-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : r
@@ -847,7 +839,7 @@ Version         : 3.6.27-3
 Description     : Reiserfs utilities
 
 Name            : remmina
-Version         : 1:1.4.2-1
+Version         : 1:1.4.3-1
 Description     : remote desktop client written in GTK+
 
 Name            : ristretto
@@ -879,7 +871,7 @@ Version         : 14.9.17-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 9.0-15
+Version         : 9.0-16
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -913,10 +905,6 @@ Description     : Iconic bitmap font based on stlarch with additional glyphs
 Name            : slack-desktop
 Version         : 4.4.2-1
 Description     : Slack Desktop (Beta) for Linux
-
-Name            : sonarr
-Version         : 2.0.0.5344-1
-Description     : PVR for newsgroup users
 
 Name            : soundconverter
 Version         : 3.0.2-2
@@ -959,7 +947,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 245.4-2
+Version         : 245.5-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -1091,7 +1079,7 @@ Version         : 2.0.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 2.1.0-1
+Version         : 2.1.1-1
 Description     : Removable disk automounter using udisks
 
 Name            : unrar
@@ -1183,7 +1171,7 @@ Version         : 0.5.7-1
 Description     : Utility for performing actions on windows in X
 
 Name            : xf86-video-intel
-Version         : 1:2.99.917+899+gf66d3954-1
+Version         : 1:2.99.917+904+gf2853658-1
 Description     : X.org Intel i810/i830/i915/945G/G965+ video drivers
 
 Name            : xf86-video-nouveau
@@ -1191,7 +1179,7 @@ Version         : 1.0.16-1
 Description     : Open Source 3D acceleration driver for nVidia cards
 
 Name            : xfsprogs
-Version         : 5.5.0-1
+Version         : 5.6.0-1
 Description     : XFS filesystem utilities
 
 Name            : xorg-bdftopcf
