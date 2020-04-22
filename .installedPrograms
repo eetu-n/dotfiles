@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-310
+Version         : 1.1.0-311
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -131,7 +131,7 @@ Version         : 140201-3
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 81.0.4044.113-1
+Version         : 81.0.4044.122-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -183,7 +183,7 @@ Version         : 3.7-3
 Description     : Utility programs used for creating patch files
 
 Name            : discord
-Version         : 0.0.10-2
+Version         : 0.0.10-3
 Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : discount
@@ -319,11 +319,11 @@ Version         : 2.10.18-5
 Description     : GNU Image Manipulation Program
 
 Name            : git
-Version         : 2.26.1-1
+Version         : 2.26.2-1
 Description     : the fast distributed version control system
 
 Name            : gitkraken
-Version         : 6.5.4-1
+Version         : 6.6.0-1
 Description     : The intuitive, fast, and beautiful cross-platform Git client.
 
 Name            : glibc
@@ -347,7 +347,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 81.0.4044.113-1
+Version         : 81.0.4044.122-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -367,7 +367,7 @@ Version         : 3.4-1
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.12.0-1
+Version         : 2.12.1-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
@@ -495,7 +495,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.6.5.arch3-1
+Version         : 5.6.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -575,7 +575,7 @@ Version         : 0.8.2-11
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : ncurses5-compat-libs
-Version         : 6.1-1
+Version         : 6.2-1
 Description     : System V Release 4.0 curses emulation library, ABI 5
 
 Name            : nerd-fonts-hack
@@ -775,7 +775,7 @@ Version         : 0.5.0-4
 Description     : Datasets, transforms, and models specific to computer vision
 
 Name            : python-virtualenv
-Version         : 20.0.15-1
+Version         : 20.0.18-1
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
@@ -867,11 +867,11 @@ Version         : 9.22-9
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : s-nail
-Version         : 14.9.17-1
+Version         : 14.9.18-1
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 9.0-16
+Version         : 9.0-17
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
