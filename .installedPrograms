@@ -3,7 +3,7 @@ Version         : 1.7-2
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-311
+Version         : 1.1.0-312
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -131,7 +131,7 @@ Version         : 140201-3
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 81.0.4044.122-1
+Version         : 81.0.4044.129-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clion
@@ -143,7 +143,7 @@ Version         : 1.84-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.44.1-2
+Version         : 1.44.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -171,7 +171,7 @@ Version         : 2.02.187-1
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
-Version         : 9.0.1-2
+Version         : 9.0.2-1
 Description     : RFC2131 compliant DHCP client daemon
 
 Name            : dictd
@@ -203,7 +203,7 @@ Version         : 1:5.0.r11832.9a2d8a9623-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 6.2.5-1
+Version         : 6.3.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -223,8 +223,8 @@ Version         : 1:1.48.04-2
 Description     : Text to Speech engine for English, with support for other languages
 
 Name            : ettercap-gtk
-Version         : 0.8.3-1
-Description     : A network sniffer/interceptor/logger for ethernet LANs - GTK frontend
+Version         : 0.8.3-2
+Description     : Network sniffer/interceptor/logger for ethernet LANs - GTK frontend
 
 Name            : evhz-git
 Version         : r27.3b65648-1
@@ -271,7 +271,7 @@ Version         : 4.7.0-2
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 75.0-1
+Version         : 75.0-2
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -279,7 +279,7 @@ Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
 
 Name            : freerdp
-Version         : 2:2.0.0-1
+Version         : 2:2.0.0-2
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
@@ -287,7 +287,7 @@ Version         : 0.21.1-1
 Description     : Command-line fuzzy finder
 
 Name            : gawk
-Version         : 5.0.1-2
+Version         : 5.1.0-1
 Description     : GNU version of awk
 
 Name            : gcc
@@ -307,7 +307,7 @@ Version         : 9.1-2
 Description     : The GNU Debugger
 
 Name            : gettext
-Version         : 0.20.1-3
+Version         : 0.20.2-1
 Description     : GNU internationalization library
 
 Name            : ghc
@@ -315,7 +315,7 @@ Version         : 8.8.3-2
 Description     : The Glasgow Haskell Compiler
 
 Name            : gimp
-Version         : 2.10.18-5
+Version         : 2.10.18-6
 Description     : GNU Image Manipulation Program
 
 Name            : git
@@ -347,7 +347,7 @@ Version         : 0.7.1-7
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 81.0.4044.122-1
+Version         : 81.0.4044.129-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -387,7 +387,7 @@ Version         : 1.3.4-1
 Description     : a graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 8.2.0510-1
+Version         : 8.2.0510-2
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -459,7 +459,7 @@ Version         : 1.4.5-7
 Description     : A screencasting program with design in mind
 
 Name            : kdenlive
-Version         : 19.12.3-1
+Version         : 20.04.0-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
@@ -471,11 +471,11 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 20.0.4-2
+Version         : 20.0.5-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
-Version         : 0.1.0-1
+Version         : 0.1.2-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
@@ -487,7 +487,7 @@ Version         : 2.4.6+42+gb88cebd5-11
 Description     : A generic library support script
 
 Name            : licenses
-Version         : 20191011-2
+Version         : 20200427-1
 Description     : Standard licenses distribution package
 
 Name            : lingot
@@ -495,7 +495,7 @@ Version         : 1.0.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.6.6.arch1-1
+Version         : 5.6.7.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -531,7 +531,7 @@ Version         : 2.9.1-2
 Description     : A utility for reading man pages
 
 Name            : man-pages
-Version         : 5.06-1
+Version         : 5.06-2
 Description     : Linux man pages
 
 Name            : mathematica
@@ -543,7 +543,7 @@ Version         : 4.1-2
 Description     : A tool for managing/monitoring Linux md device arrays, also known as Software RAID
 
 Name            : mesa-demos
-Version         : 8.4.0-3
+Version         : 8.4.0-4
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : minecraft-launcher
@@ -563,7 +563,7 @@ Version         : 0.33-1
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.21.22-1
+Version         : 0.21.23-3
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -675,7 +675,7 @@ Version         : 2.1.2-1
 Description     : A tool to search text in PDF files
 
 Name            : pdftk
-Version         : 3.0.10-1
+Version         : 3.1.0-1
 Description     : Command-line tool for working with PDFs
 
 Name            : perl
@@ -691,7 +691,7 @@ Version         : 7.5-3
 Description     : X compositor that may fix tearing issues
 
 Name            : pkgconf
-Version         : 1.6.3-3
+Version         : 1.6.3-4
 Description     : Package compiler and linker metadata toolkit
 
 Name            : polybar
@@ -715,7 +715,7 @@ Version         : r1745.e2638765-1
 Description     : Prezto is the configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 Name            : print-manager
-Version         : 19.12.3-1
+Version         : 20.04.0-1
 Description     : A tool for managing print jobs and printers
 
 Name            : processing
@@ -746,10 +746,6 @@ Name            : pv
 Version         : 1.6.6-2
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline.
 
-Name            : pycharm-professional
-Version         : 2020.1.0-3
-Description     : Python IDE for Professional Developers. Professional Edition
-
 Name            : python-future
 Version         : 0.18.2-2
 Description     : Clean single-source support for Python 3 and 2
@@ -771,7 +767,7 @@ Version         : 2.4.3-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-torchvision
-Version         : 0.5.0-4
+Version         : 0.6.0-1
 Description     : Datasets, transforms, and models specific to computer vision
 
 Name            : python-virtualenv
@@ -807,11 +803,11 @@ Version         : 5.14.2-2
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 1.10.2-1
+Version         : 1.11.0-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : r
-Version         : 3.6.3-1
+Version         : 4.0.0-1
 Description     : Language and environment for statistical computing and graphics
 
 Name            : ranger
@@ -875,7 +871,7 @@ Version         : 9.0-17
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
-Version         : 4.11.3-3
+Version         : 4.12.1-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -947,7 +943,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 245.5-1
+Version         : 245.5-2
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -963,7 +959,7 @@ Version         : 15-1
 Description     : A simple VTE-based terminal
 
 Name            : texinfo
-Version         : 6.7-2
+Version         : 6.7-3
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : texlive-bibtexextra
@@ -1031,7 +1027,7 @@ Version         : 1.3.1-2
 Description     : Linux Advanced Power Management
 
 Name            : tmux
-Version         : 3.0_a-1
+Version         : 3.1-1
 Description     : A terminal multiplexer
 
 Name            : traceroute
@@ -1087,7 +1083,7 @@ Version         : 1:5.9.2-1
 Description     : The RAR uncompression program
 
 Name            : unzip
-Version         : 6.0-13
+Version         : 6.0-14
 Description     : For extracting and viewing files in .zip archives
 
 Name            : usbutils
@@ -1115,7 +1111,7 @@ Version         : 6.1.6-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : vlc
-Version         : 3.0.8-13
+Version         : 3.0.10-1
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
@@ -1171,7 +1167,7 @@ Version         : 0.5.7-1
 Description     : Utility for performing actions on windows in X
 
 Name            : xf86-video-intel
-Version         : 1:2.99.917+904+gf2853658-1
+Version         : 1:2.99.917+906+g846b53da-1
 Description     : X.org Intel i810/i830/i915/945G/G965+ video drivers
 
 Name            : xf86-video-nouveau
@@ -1343,7 +1339,7 @@ Version         : 9.4.6-2
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : zip
-Version         : 3.0-8
+Version         : 3.0-9
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zsh
