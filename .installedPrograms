@@ -783,7 +783,7 @@ Version         : 3.10.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
-Version         : 4.8.7-31
+Version         : 4.8.7-32
 Description     : A cross-platform application and UI framework
 
 Name            : qt5-multimedia
@@ -1327,7 +1327,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 9.4.6-2
+Version         : 9.4.7-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : zip
