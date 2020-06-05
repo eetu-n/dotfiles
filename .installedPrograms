@@ -343,7 +343,7 @@ Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : google-chrome
-Version         : 83.0.4103.61-1
+Version         : 83.0.4103.97-1
 Description     : The popular and trusted web browser by Google (Stable Channel)
 
 Name            : google-musicmanager
@@ -539,7 +539,7 @@ Version         : 8.4.0-4
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : minecraft-launcher
-Version         : 2.1.14947-1
+Version         : 2.1.15166-1
 Description     : Official Minecraft Launcher
 
 Name            : moreutils
