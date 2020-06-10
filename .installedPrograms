@@ -374,10 +374,6 @@ Name            : gst-plugins-good
 Version         : 1.16.2-3
 Description     : GStreamer open-source multimedia framework good plugins
 
-Name            : gtick
-Version         : 0.5.4-3
-Description     : A Gtk metronome application supporting different meters and speeds
-
 Name            : gtklp
 Version         : 1.3.4-1
 Description     : a graphical frontend for cups, the linux printing system
