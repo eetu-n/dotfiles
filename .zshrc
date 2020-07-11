@@ -10,6 +10,8 @@ alias econnect="mosh eetu.dev"
 
 test -r ~/.dircolors && eval "$(dircolors $HOME/.dircolors)"
 
+export EDITOR=vim
+
 # Vim keybindings
 bindkey -v
 
