@@ -83,6 +83,10 @@ super + shift + m
 super + n
 	firefox
 
+# New browser window
+super + shift + n
+	firefox --private-window
+
 # Battery Level Timer
 super + b
 	batLev
