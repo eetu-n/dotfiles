@@ -743,7 +743,7 @@ Version         : 2.4.3-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-torchvision
-Version         : 0.6.0-1
+Version         : 0.6.1-1
 Description     : Datasets, transforms, and models specific to computer vision
 
 Name            : python-virtualenv
@@ -871,11 +871,11 @@ Version         : 4.8.1-3
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : siji-git
-Version         : r23.c691f20-1
+Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.4.3-1
+Version         : 4.7.0-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
