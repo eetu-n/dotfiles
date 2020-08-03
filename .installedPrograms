@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-333
+Version         : 1.1.0-334
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -99,7 +99,7 @@ Version         : 5.54-2
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bonnie++
-Version         : 1.97.3-2
+Version         : 1.98-1
 Description     : Based on the Bonnie hard drive benchmark by Tim Bray
 
 Name            : breeze-dark-flat
@@ -131,7 +131,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 84.0.4147.89-1
+Version         : 84.0.4147.105-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -139,7 +139,7 @@ Version         : 1.86-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.47.2-2
+Version         : 1.47.3-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -199,11 +199,11 @@ Version         : 1:5.0.r12088.84d67b3547-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 8.0.0-1
+Version         : 8.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.4.1-1
+Version         : 1.5.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : e2fsprogs
@@ -267,7 +267,7 @@ Version         : 4.7.0-2
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 78.0.2-1
+Version         : 79.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -279,7 +279,7 @@ Version         : 2:2.2.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
-Version         : 0.21.1-2
+Version         : 0.22.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gawk
@@ -315,7 +315,7 @@ Version         : 2.10.20-1
 Description     : GNU Image Manipulation Program
 
 Name            : git
-Version         : 2.27.0-1
+Version         : 2.28.0-1
 Description     : the fast distributed version control system
 
 Name            : glibc
@@ -337,10 +337,6 @@ Description     : A free family of scalable outline fonts
 Name            : gnu-netcat
 Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
-
-Name            : google-musicmanager
-Version         : 1.0.467.4929_r0-6
-Description     : A simple application for adding the music files on your computer to your Google Music library
 
 Name            : gparted
 Version         : 1.1.0-1
@@ -475,7 +471,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.7.10.arch1-1
+Version         : 5.7.11.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -623,7 +619,7 @@ Version         : 5.2.2-1
 Description     : A library-based package manager with dependency support
 
 Name            : pacman-contrib
-Version         : 1.3.0-2
+Version         : 1.4.0-1
 Description     : Contributed scripts and tools for pacman systems
 
 Name            : paper-icon-theme
@@ -751,7 +747,7 @@ Version         : 20.0.23-1
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
-Version         : 1.5-1
+Version         : 1.6-1
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
@@ -763,7 +759,7 @@ Version         : 3.4-4
 Description     : Multiplatform Serial Port Module for Python
 
 Name            : qalculate-gtk
-Version         : 3.11.0-1
+Version         : 3.12.1-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
@@ -875,7 +871,7 @@ Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.7.0-1
+Version         : 4.8.0-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
@@ -919,7 +915,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 245.6-8
+Version         : 245.7-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -1167,7 +1163,7 @@ Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.8-2
+Version         : 1.20.8-3
 Description     : Xorg X server
 
 Name            : xorg-sessreg
