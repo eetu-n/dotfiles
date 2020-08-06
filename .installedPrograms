@@ -107,7 +107,7 @@ Version         : 1.2-1
 Description     : Breeze Dark, but opaque and not shadowed
 
 Name            : bspwm
-Version         : 0.9.9-2
+Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : bzip2
@@ -159,7 +159,7 @@ Version         : 0.3.15-2
 Description     : D-Bus debugger for GNOME
 
 Name            : darktable
-Version         : 2:3.0.2-5
+Version         : 2:3.0.2-7
 Description     : Utility to organize and develop raw images
 
 Name            : device-mapper
@@ -179,7 +179,7 @@ Version         : 3.7-3
 Description     : Utility programs used for creating patch files
 
 Name            : discord
-Version         : 0.0.10-3
+Version         : 0.0.11-1
 Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : discount
@@ -195,7 +195,7 @@ Version         : 1.26.2-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
-Version         : 1:5.0.r12088.84d67b3547-1
+Version         : 1:5.0.r12380.afd25de85e-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
@@ -375,11 +375,11 @@ Version         : 1.10-3
 Description     : GNU compression utility
 
 Name            : hexchat
-Version         : 2.14.3-2
+Version         : 2.14.3-3
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 3.1.6-3
+Version         : 3.1.6-7
 Description     : Source code suggestions
 
 Name            : htop
@@ -447,7 +447,7 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 20.1.4-1
+Version         : 20.1.5-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -579,7 +579,7 @@ Version         : 1.8.12-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nmap
-Version         : 7.80-2
+Version         : 7.80-3
 Description     : Utility for network discovery and security auditing
 
 Name            : notepadqq
@@ -731,7 +731,7 @@ Version         : 2020.6.2-2
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-radon
-Version         : 4.1.0-1
+Version         : 4.2.0-1
 Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
@@ -915,7 +915,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 245.7-1
+Version         : 246-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -1035,7 +1035,7 @@ Version         : 13.00-7
 Description     : Font for symbol blocks of the Unicode Standard (TTF)
 
 Name            : tumbler
-Version         : 0.2.8-2
+Version         : 0.2.9-1
 Description     : D-Bus service for applications to request thumbnails
 
 Name            : tzupdate
@@ -1079,11 +1079,11 @@ Version         : 6.1.12-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : vlc
-Version         : 3.0.11-1
+Version         : 3.0.11-2
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
-Version         : 2.9-1
+Version         : 2.9-2
 Description     : Fast, light and extensible IRC client (curses UI)
 
 Name            : wget
