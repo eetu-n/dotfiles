@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-334
+Version         : 1.1.0-335
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -471,7 +471,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.7.11.arch1-1
+Version         : 5.7.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
