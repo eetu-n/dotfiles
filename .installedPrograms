@@ -158,10 +158,6 @@ Name            : d-feet
 Version         : 0.3.15-2
 Description     : D-Bus debugger for GNOME
 
-Name            : darktable
-Version         : 2:3.0.2-7
-Description     : Utility to organize and develop raw images
-
 Name            : device-mapper
 Version         : 2.02.187-3
 Description     : Device mapper userspace library and tools
@@ -789,6 +785,10 @@ Description     : Simple, vim-like file manager
 Name            : raw-thumbnailer
 Version         : 0.2.1-5
 Description     : A lightweight and fast raw image thumbnailer that can be used by file managers.
+
+Name            : rawtherapee
+Version         : 1:5.8-1
+Description     : A powerful cross-platform raw image processing program
 
 Name            : rbutil
 Version         : 1.4.1-1
