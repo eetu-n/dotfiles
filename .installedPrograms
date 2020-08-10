@@ -379,7 +379,7 @@ Version         : 2.14.3-3
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 3.1.6-7
+Version         : 3.1.6-10
 Description     : Source code suggestions
 
 Name            : htop
@@ -411,7 +411,7 @@ Version         : 20200616-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : iproute2
-Version         : 5.7.0-1
+Version         : 5.8.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -439,7 +439,7 @@ Version         : 20.04.3-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.72.0-1
+Version         : 5.73.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -603,7 +603,7 @@ Version         : 4.2.8.p15-1
 Description     : Network Time Protocol reference implementation
 
 Name            : obs-studio
-Version         : 25.0.8-1
+Version         : 25.0.8-2
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
@@ -655,7 +655,7 @@ Version         : 4.10.0-2
 Description     : Phonon GStreamer backend for Qt5
 
 Name            : picom
-Version         : 8-2
+Version         : 8-3
 Description     : X compositor that may fix tearing issues
 
 Name            : pkgconf
@@ -907,7 +907,7 @@ Version         : 1.5-1
 Description     : Screen locker for Wayland
 
 Name            : sxhkd
-Version         : 0.6.1-2
+Version         : 0.6.2-1
 Description     : Simple X hotkey daemon
 
 Name            : sysfsutils
@@ -915,7 +915,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 246-1
+Version         : 246.1-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -1079,7 +1079,7 @@ Version         : 6.1.12-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : vlc
-Version         : 3.0.11-2
+Version         : 3.0.11.1-1
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
