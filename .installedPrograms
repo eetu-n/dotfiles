@@ -375,7 +375,7 @@ Version         : 2.14.3-3
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 3.1.6-11
+Version         : 3.1.6-13
 Description     : Source code suggestions
 
 Name            : htop
@@ -1075,7 +1075,7 @@ Version         : 173.a95b047-1
 Description     : Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell
 
 Name            : virtualbox
-Version         : 6.1.12-3
+Version         : 6.1.12-4
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : vlc
