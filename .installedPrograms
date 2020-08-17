@@ -839,7 +839,7 @@ Version         : 9.1-7
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
-Version         : 4.12.3-1
+Version         : 4.12.6-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -877,6 +877,10 @@ Description     : A simple sound converter application for GNOME
 Name            : speedtest-cli
 Version         : 2.1.2-2
 Description     : Command line interface for testing internet bandwidth using speedtest.net
+
+Name            : spotifyd
+Version         : 0.2.24-2
+Description     : Leightweigt spotify streaming daemon with spotify connect support
 
 Name            : steam
 Version         : 1.0.0.64-1
