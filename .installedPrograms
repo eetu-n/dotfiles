@@ -739,7 +739,7 @@ Version         : 20.0.23-1
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
-Version         : 1.6-1
+Version         : 2.1-1
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
@@ -1307,7 +1307,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 10.0.3-1
+Version         : 10.0.4-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : zip
