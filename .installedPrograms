@@ -63,7 +63,7 @@ Version         : 3.34.1-1
 Description     : A graphical directory tree analyzer
 
 Name            : bash
-Version         : 5.0.017-1
+Version         : 5.0.018-1
 Description     : The GNU Bourne Again shell
 
 Name            : bc
@@ -131,7 +131,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 84.0.4147.125-1
+Version         : 84.0.4147.135-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -303,7 +303,7 @@ Version         : 0.20.2-1
 Description     : GNU internationalization library
 
 Name            : ghc
-Version         : 8.10.1-2
+Version         : 8.10.2-1
 Description     : The Glasgow Haskell Compiler
 
 Name            : gimp
@@ -375,7 +375,7 @@ Version         : 2.14.3-3
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 3.1.6-18
+Version         : 3.1.6-19
 Description     : Source code suggestions
 
 Name            : htop
@@ -411,7 +411,7 @@ Version         : 5.8.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
-Version         : 20190709-2
+Version         : 20190709-3
 Description     : Network monitoring tools, including ping
 
 Name            : java-openjfx-src
@@ -443,7 +443,7 @@ Version         : 551-3
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 20.1.5-1
+Version         : 20.1.6-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -795,7 +795,7 @@ Version         : 1.12-3
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : reflector
-Version         : 2020.3.21.2-1
+Version         : 2020.8.19-1
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : reiserfsprogs
@@ -803,7 +803,7 @@ Version         : 3.6.27-3
 Description     : Reiserfs utilities
 
 Name            : remmina
-Version         : 1:1.4.7-1
+Version         : 1:1.4.8-1
 Description     : remote desktop client written in GTK+
 
 Name            : ristretto
@@ -851,7 +851,7 @@ Version         : 1.4-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
-Version         : 0.18.1-2
+Version         : 0.18.1-3
 Description     : QML based X11 and Wayland display manager
 
 Name            : sed
@@ -915,7 +915,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 246.1-1
+Version         : 246.2-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -1147,7 +1147,7 @@ Version         : 1.0.16-2
 Description     : Open Source 3D acceleration driver for nVidia cards
 
 Name            : xfsprogs
-Version         : 5.6.0-2
+Version         : 5.7.0-3
 Description     : XFS filesystem utilities
 
 Name            : xorg-bdftopcf
