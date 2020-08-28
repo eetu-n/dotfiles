@@ -19,6 +19,8 @@ Plug 'tpope/vim-fugitive'                               "Git Wrapper
 
 call plug#end()
 
+set visualbell
+
 " Scroll wheel behaviour
 set mouse=a
 map <ScrollWheelUp> <C-Y>

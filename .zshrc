@@ -43,5 +43,8 @@ if [ "$?" -eq "0" ]; then
 else;
     alias ls="ls --color"
 fi
+
+unsetopt BEEP
+
 source ~/.localOptions
 
