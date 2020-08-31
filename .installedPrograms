@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.1.0-341
+Version         : 1.1.0-343
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -179,7 +179,7 @@ Version         : 0.0.11-1
 Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : discount
-Version         : 2.2.6-2
+Version         : 2.2.7-1
 Description     : A Markdown implementation written in C
 
 Name            : docker
@@ -191,7 +191,7 @@ Version         : 1.26.2-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
-Version         : 1:5.0.r12436.07a0d44b36-1
+Version         : 1:5.0.r12443.b5241d1c2c-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
@@ -239,7 +239,7 @@ Version         : 1.24-2
 Description     : Tool for simulating superuser privileges
 
 Name            : feh
-Version         : 3.4.1-1
+Version         : 3.5-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : ffmpegthumbnailer
@@ -299,7 +299,7 @@ Version         : 9.2-1
 Description     : The GNU Debugger
 
 Name            : gettext
-Version         : 0.20.2-1
+Version         : 0.21-1
 Description     : GNU internationalization library
 
 Name            : ghc
@@ -315,7 +315,7 @@ Version         : 2.28.0-1
 Description     : the fast distributed version control system
 
 Name            : glibc
-Version         : 2.32-2
+Version         : 2.32-3
 Description     : GNU C Library
 
 Name            : gnome-mplayer
@@ -363,7 +363,7 @@ Version         : 1.3.4-1
 Description     : a graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 8.2.1522-1
+Version         : 8.2.1537-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -375,11 +375,11 @@ Version         : 2.14.3-3
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 3.1.6-22
+Version         : 3.1.6-25
 Description     : Source code suggestions
 
 Name            : htop
-Version         : 2.2.0-3
+Version         : 3.0.0-2
 Description     : Interactive process viewer
 
 Name            : i3lock
@@ -467,7 +467,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.8.3.arch1-1
+Version         : 5.8.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -527,7 +527,7 @@ Version         : 0.33-2
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.21.25-1
+Version         : 0.21.25-2
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -591,7 +591,7 @@ Version         : 20200720-1
 Description     : Google Noto emoji fonts
 
 Name            : ntfs-3g
-Version         : 2017.3.23-4
+Version         : 2017.3.23-5
 Description     : NTFS filesystem driver and utilities
 
 Name            : ntp
@@ -779,7 +779,7 @@ Version         : 1.9.3-2
 Description     : Simple, vim-like file manager
 
 Name            : raw-thumbnailer
-Version         : 0.2.1-5
+Version         : 0.2.1-6
 Description     : A lightweight and fast raw image thumbnailer that can be used by file managers.
 
 Name            : rawtherapee
@@ -915,7 +915,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 246.2-2
+Version         : 246.3-1
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -991,7 +991,7 @@ Version         : 1.8.15-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 68.11.0-1
+Version         : 68.12.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
@@ -1039,7 +1039,7 @@ Version         : 13.00-7
 Description     : Font for symbol blocks of the Unicode Standard (TTF)
 
 Name            : tumbler
-Version         : 0.2.9-1
+Version         : 0.2.9-2
 Description     : D-Bus service for applications to request thumbnails
 
 Name            : tzupdate
@@ -1099,7 +1099,7 @@ Version         : 2.21-5
 Description     : A utility to show the full path of commands
 
 Name            : whois
-Version         : 5.5.6-1
+Version         : 5.5.6-2
 Description     : Intelligent WHOIS client
 
 Name            : winetricks
