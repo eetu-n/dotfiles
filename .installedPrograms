@@ -735,7 +735,7 @@ Version         : 2020.8.13-2
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-radon
-Version         : 4.2.0-1
+Version         : 4.3.2-1
 Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
