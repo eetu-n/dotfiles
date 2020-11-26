@@ -195,7 +195,7 @@ Version         : 1:5.0.r12875.3176f4d790-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 8.1.1-1
+Version         : 9.0.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -351,7 +351,7 @@ Version         : 3.6-1
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.12.1-1
+Version         : 2.12.2-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
@@ -887,7 +887,7 @@ Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.10.0-1
+Version         : 4.11.3-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
@@ -1055,7 +1055,7 @@ Version         : 2.0-12
 Description     : Core TTF Fonts from Microsoft
 
 Name            : ttf-symbola
-Version         : 13.00-7
+Version         : 13.00-8
 Description     : Font for symbol blocks of the Unicode Standard (TTF)
 
 Name            : tumbler
@@ -1147,7 +1147,7 @@ Version         : 1.2.4.1-7
 Description     : Lightweight passphrase dialog for SSH
 
 Name            : xcursor-breeze
-Version         : 1:5.19.1-1
+Version         : 1:5.20.0-1
 Description     : Breeze cursor theme (KDE Plasma 5). This package is for usage in non-KDE Plasma desktops.
 
 Name            : xdg-user-dirs
