@@ -223,7 +223,7 @@ Version         : 0.8.3.1-1
 Description     : Network sniffer/interceptor/logger for ethernet LANs - GTK frontend
 
 Name            : evhz-git
-Version         : r27.3b65648-1
+Version         : r28.2c94d6f-1
 Description     : Display the current mouse refresh rate
 
 Name            : evince
