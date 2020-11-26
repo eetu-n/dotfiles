@@ -1323,7 +1323,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 10.0.4-1
+Version         : 10.1.1-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : yubico-pam
