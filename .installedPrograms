@@ -267,7 +267,7 @@ Version         : 4.7.0-2
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 83.0-1
+Version         : 83.0-2
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -351,7 +351,7 @@ Version         : 3.6-1
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.12.2-1
+Version         : 2.12.4-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
@@ -529,6 +529,14 @@ Description     : A tool for managing/monitoring Linux md device arrays, also kn
 Name            : mesa-demos
 Version         : 8.4.0-4
 Description     : Mesa demos and tools incl. glxinfo + glxgears
+
+Name            : mopidy
+Version         : 3.0.2-2
+Description     : An extensible music server written in Python
+
+Name            : mopidy-spotify
+Version         : 4.0.1-1
+Description     : Mopidy extension for playing music from Spotify
 
 Name            : moreutils
 Version         : 0.64-1
