@@ -1167,7 +1167,7 @@ Version         : 0.5.7-2
 Description     : Utility for performing actions on windows in X
 
 Name            : xf86-video-intel
-Version         : 1:2.99.917+912+gad5540f6-1
+Version         : 1:2.99.917+913+g9236c582-1
 Description     : X.org Intel i810/i830/i915/945G/G965+ video drivers
 
 Name            : xf86-video-nouveau
