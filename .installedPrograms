@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-8
+Version         : 1.2.1-10
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -55,7 +55,7 @@ Version         : 1.16.2-3
 Description     : A GNU tool for automatically creating Makefiles
 
 Name            : bandit
-Version         : 1.6.2-2
+Version         : 1.6.3-1
 Description     : Python security linter from OpenStack Security
 
 Name            : baobab
@@ -63,7 +63,7 @@ Version         : 3.38.0-1
 Description     : A graphical directory tree analyzer
 
 Name            : bash
-Version         : 5.0.018-2
+Version         : 5.1.0-2
 Description     : The GNU Bourne Again shell
 
 Name            : bc
@@ -131,7 +131,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 87.0.4280.88-1
+Version         : 87.0.4280.88-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -139,7 +139,7 @@ Version         : 1.88-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.51.1-1
+Version         : 1.52.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -375,11 +375,11 @@ Version         : 1.10-3
 Description     : GNU compression utility
 
 Name            : hexchat
-Version         : 2.14.3-4
+Version         : 2.14.3-5
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : hlint
-Version         : 3.2.3-2
+Version         : 3.2.3-5
 Description     : Source code suggestions
 
 Name            : htop
@@ -435,11 +435,11 @@ Version         : 1.4.5-9
 Description     : Screencast and screenshot application created with design in mind
 
 Name            : kdenlive
-Version         : 20.08.3-1
+Version         : 20.12.0-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.76.0-1
+Version         : 5.77.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -455,7 +455,7 @@ Version         : 0.2.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 7.0.3-4
+Version         : 7.0.3-6
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -479,7 +479,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.9.12.arch1-1
+Version         : 5.9.14.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -559,7 +559,7 @@ Version         : 0.23-3
 Description     : MPD client which submits track info to {Libre,Last}.fm
 
 Name            : ncmpcpp
-Version         : 0.8.2-12
+Version         : 0.8.2-14
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : ncurses5-compat-libs
@@ -699,7 +699,7 @@ Version         : 5-3
 Description     : CLI PulseAudio Volume Control
 
 Name            : postgresql
-Version         : 12.5-4
+Version         : 13.1-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powertop
@@ -711,7 +711,7 @@ Version         : r1745.e2638765-1
 Description     : Prezto is the configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 Name            : print-manager
-Version         : 20.08.3-1
+Version         : 20.12.0-1
 Description     : A tool for managing print jobs and printers
 
 Name            : processing
@@ -747,7 +747,7 @@ Version         : 0.18.2-5
 Description     : Clean single-source support for Python 3 and 2
 
 Name            : python-pip
-Version         : 20.2.1-1
+Version         : 20.2.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -771,7 +771,7 @@ Version         : 2.1-2
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
-Version         : 20.2.1-1
+Version         : 20.2.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python2-pyserial
@@ -831,7 +831,7 @@ Version         : 3.6.27-3
 Description     : Reiserfs utilities
 
 Name            : remmina
-Version         : 1:1.4.9-1
+Version         : 1:1.4.10-1
 Description     : remote desktop client written in GTK+
 
 Name            : ristretto
@@ -911,7 +911,7 @@ Version         : 0.2.24-2
 Description     : Leightweigt spotify streaming daemon with spotify connect support
 
 Name            : steam
-Version         : 1.0.0.67-1
+Version         : 1.0.0.68-1
 Description     : Valve's digital software delivery system
 
 Name            : steam-fonts
@@ -919,7 +919,7 @@ Version         : 1.0.0-5
 Description     : Fonts to fix scrambled or missing text in steam menus
 
 Name            : sudo
-Version         : 1.9.4-1
+Version         : 1.9.4-2
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sway
@@ -943,7 +943,7 @@ Version         : 2.1.0-11
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 247.1-1
+Version         : 247.1-4
 Description     : sysvinit compat for systemd
 
 Name            : tar
@@ -1019,7 +1019,7 @@ Version         : 1.8.16-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 78.4.3-1
+Version         : 78.5.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
@@ -1139,11 +1139,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.4.0-1
+Version         : 3.4.1-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.4.0-1
+Version         : 3.4.1-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
@@ -1191,7 +1191,7 @@ Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.10-1
+Version         : 1.20.10-2
 Description     : Xorg X server
 
 Name            : xorg-sessreg
