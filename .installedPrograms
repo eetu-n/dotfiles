@@ -690,10 +690,6 @@ Name            : pkgconf
 Version         : 1.7.3-1
 Description     : Package compiler and linker metadata toolkit
 
-Name            : plex-media-player
-Version         : 2.58.0-4
-Description     : Next generation Plex Desktop Client
-
 Name            : polybar
 Version         : 3.5.2-1
 Description     : A fast and easy-to-use status bar
@@ -898,9 +894,9 @@ Name            : siji-git
 Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
-Name            : slack-desktop
-Version         : 4.12.0-1
-Description     : Slack Desktop (Beta) for Linux
+Name            : smplayer
+Version         : 20.6.0-1
+Description     : Media player with built-in codecs that can play virtually all video and audio formats
 
 Name            : soundconverter
 Version         : 3.0.2-3
@@ -953,10 +949,6 @@ Description     : sysvinit compat for systemd
 Name            : tar
 Version         : 1.32-3
 Description     : Utility used to store, backup, and transport files
-
-Name            : teams
-Version         : 1.3.00.30857-1
-Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : termite
 Version         : 15-3
@@ -1117,10 +1109,6 @@ Description     : Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gno
 Name            : virtualbox
 Version         : 6.1.16-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
-
-Name            : vlc
-Version         : 3.0.11.1-6
-Description     : Multi-platform MPEG, VCD/DVD, and DivX player
 
 Name            : weechat
 Version         : 2.9-3
