@@ -622,6 +622,10 @@ Name            : ntp
 Version         : 4.2.8.p15-1
 Description     : Network Time Protocol reference implementation
 
+Name            : nzbget
+Version         : 21.0-2
+Description     : Download from Usenet using .nzb files
+
 Name            : obs-studio
 Version         : 26.0.2-3
 Description     : Free, open source software for live streaming and recording
