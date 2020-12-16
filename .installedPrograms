@@ -183,7 +183,7 @@ Version         : 2.2.7-1
 Description     : A Markdown implementation written in C
 
 Name            : docker
-Version         : 1:19.03.14-3
+Version         : 1:20.10.1-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
@@ -267,7 +267,7 @@ Version         : 4.7.0-2
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 83.0-2
+Version         : 84.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -531,7 +531,7 @@ Version         : 8.4.0-4
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : mopidy
-Version         : 3.0.2-3
+Version         : 3.1.0-1
 Description     : An extensible music server written in Python
 
 Name            : mopidy-spotify
@@ -691,7 +691,7 @@ Version         : 2.58.0-4
 Description     : Next generation Plex Desktop Client
 
 Name            : polybar
-Version         : 3.5.0-1
+Version         : 3.5.2-1
 Description     : A fast and easy-to-use status bar
 
 Name            : ponymix
@@ -867,7 +867,7 @@ Version         : 9.2-7
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
-Version         : 4.13.2-3
+Version         : 4.13.3-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -895,7 +895,7 @@ Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.11.3-1
+Version         : 4.12.0-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : soundconverter
@@ -949,6 +949,10 @@ Description     : sysvinit compat for systemd
 Name            : tar
 Version         : 1.32-3
 Description     : Utility used to store, backup, and transport files
+
+Name            : teams
+Version         : 1.3.00.30857-1
+Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : termite
 Version         : 15-3
@@ -1019,7 +1023,7 @@ Version         : 1.8.16-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 78.5.1-1
+Version         : 78.6.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
@@ -1331,7 +1335,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 10.1.1-1
+Version         : 10.1.2-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : yubico-pam
