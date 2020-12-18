@@ -130,10 +130,6 @@ Name            : chntpw
 Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
-Name            : chromium
-Version         : 87.0.4280.88-2
-Description     : A web browser built for speed, simplicity, and security
-
 Name            : cloc
 Version         : 1.88-1
 Description     : Count lines of code
@@ -306,10 +302,6 @@ Name            : gettext
 Version         : 0.21-1
 Description     : GNU internationalization library
 
-Name            : ghc
-Version         : 8.10.2-1
-Description     : The Glasgow Haskell Compiler
-
 Name            : gimp
 Version         : 2.10.22-1
 Description     : GNU Image Manipulation Program
@@ -377,10 +369,6 @@ Description     : GNU compression utility
 Name            : hexchat
 Version         : 2.14.3-5
 Description     : A popular and easy to use graphical IRC (chat) client
-
-Name            : hlint
-Version         : 3.2.3-6
-Description     : Source code suggestions
 
 Name            : htop
 Version         : 3.0.3-1
