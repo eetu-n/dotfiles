@@ -135,6 +135,19 @@ super + shift + v
 super + c
     calc
 
+# Set tabbed window
+super + ctrl + alt + t
+    bspc query -n -N focused > /tmp/tabbed
+
+# Add window to tabbed
+super + ctrl + t
+    xdotool windowreparent `bspc query -n -N focused` `cat /tmp/tabbed`
+
+
+super + ctrl + alt + shift + t
+    xdotool windowreparent `cat /tmp/tabbed | xargs xwininfo -children -id | sed -n '/[0-9]\+ \(child\|children\):/,$s/ \+\(0x[0-9a-z]\+\).*/\1/p' | head -n1` `xwininfo -root | grep "Window id" | cut -c 22-26`
+
+
 #
 # bspwm hotkeys
 #
