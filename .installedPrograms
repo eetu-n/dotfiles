@@ -135,7 +135,7 @@ Version         : 1.88-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.52.0-1
+Version         : 1.52.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -435,7 +435,7 @@ Version         : 563-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 20.3.0-1
+Version         : 20.3.1-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -795,7 +795,7 @@ Version         : 1.9.3-3
 Description     : Simple, vim-like file manager
 
 Name            : raw-thumbnailer
-Version         : 0.2.1-6
+Version         : 0.2.1-7
 Description     : A lightweight and fast raw image thumbnailer that can be used by file managers.
 
 Name            : rawtherapee
@@ -851,7 +851,7 @@ Version         : 14.9.19-2
 Description     : Environment for sending and receiving mail
 
 Name            : sagemath-jupyter
-Version         : 9.2-7
+Version         : 9.2-9
 Description     : Jupyter kernel for SageMath
 
 Name            : samba
@@ -911,7 +911,7 @@ Version         : 1.0.0-5
 Description     : Fonts to fix scrambled or missing text in steam menus
 
 Name            : sudo
-Version         : 1.9.4-2
+Version         : 1.9.4.p1-2
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sway
@@ -947,7 +947,7 @@ Version         : 1.32-3
 Description     : Utility used to store, backup, and transport files
 
 Name            : telegram-desktop
-Version         : 2.4.7-4
+Version         : 2.4.7-5
 Description     : Official Telegram Desktop client
 
 Name            : termite
@@ -1067,7 +1067,7 @@ Version         : 13.00-8
 Description     : Font for symbol blocks of the Unicode Standard (TTF)
 
 Name            : tumbler
-Version         : 0.2.9-2
+Version         : 0.2.9-3
 Description     : D-Bus service for applications to request thumbnails
 
 Name            : tzupdate
@@ -1139,11 +1139,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.4.1-1
+Version         : 3.4.2-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.4.1-1
+Version         : 3.4.2-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
