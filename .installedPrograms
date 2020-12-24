@@ -399,7 +399,7 @@ Version         : 20201118-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : iproute2
-Version         : 5.9.0-1
+Version         : 5.10.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -731,7 +731,7 @@ Version         : 0.18.2-5
 Description     : Clean single-source support for Python 3 and 2
 
 Name            : python-pip
-Version         : 20.2.2-1
+Version         : 20.2.3-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -755,7 +755,7 @@ Version         : 2.1-2
 Description     : Finds dead code in Python projects
 
 Name            : python2-pip
-Version         : 20.2.2-1
+Version         : 20.2.3-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python2-pyserial
@@ -935,7 +935,7 @@ Version         : 1.32-3
 Description     : Utility used to store, backup, and transport files
 
 Name            : telegram-desktop
-Version         : 2.4.7-5
+Version         : 2.5.1-1
 Description     : Official Telegram Desktop client
 
 Name            : termite
@@ -1095,7 +1095,7 @@ Version         : 173.a95b047-1
 Description     : Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell
 
 Name            : virtualbox
-Version         : 6.1.16-3
+Version         : 6.1.16-4
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : wget
