@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-24
+Version         : 1.2.1-25
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -43,7 +43,7 @@ Version         : 1:2.4.1-4
 Description     : A program that lets you manipulate digital audio waveforms
 
 Name            : autoconf
-Version         : 2.70-1
+Version         : 2.71-1
 Description     : A GNU tool for automatically configuring source code
 
 Name            : autocutsel
@@ -79,11 +79,11 @@ Version         : 9.16.11-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.35.1-1
+Version         : 2.36-3
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
-Version         : 3.7.2-1
+Version         : 3.7.3-1
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
@@ -259,11 +259,11 @@ Version         : 3.46.3-1
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
-Version         : 4.7.0-2
+Version         : 4.8.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 85.0-1
+Version         : 85.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -283,15 +283,15 @@ Version         : 5.1.0-1
 Description     : GNU version of awk
 
 Name            : gcc
-Version         : 10.2.0-4
+Version         : 10.2.0-6
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gcc-fortran
-Version         : 10.2.0-4
+Version         : 10.2.0-6
 Description     : Fortran front-end for GCC
 
 Name            : gcc-libs
-Version         : 10.2.0-4
+Version         : 10.2.0-6
 Description     : Runtime libraries shipped by GCC
 
 Name            : gdb
@@ -311,7 +311,7 @@ Version         : 2.30.0-1
 Description     : the fast distributed version control system
 
 Name            : glibc
-Version         : 2.32-5
+Version         : 2.33-3
 Description     : GNU C Library
 
 Name            : gnome-mplayer
@@ -467,7 +467,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.10.13.arch1-1
+Version         : 5.10.13.arch1-2
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -1083,7 +1083,7 @@ Version         : 2.36.1-4
 Description     : Miscellaneous system utilities for Linux
 
 Name            : valgrind
-Version         : 3.16.1-2
+Version         : 3.16.1-4
 Description     : Tool to help find memory-management problems in programs
 
 Name            : vi
