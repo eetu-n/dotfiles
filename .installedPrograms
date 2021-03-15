@@ -187,7 +187,7 @@ Version         : 1.28.5-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
-Version         : 1:5.0.r13601.9d04fd1ccb-1
+Version         : 1:5.0.r13772.6c23e163e1-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
@@ -427,7 +427,7 @@ Version         : 20.12.3-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.79.0-1
+Version         : 5.80.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -531,7 +531,7 @@ Version         : 0.65-1
 Description     : A growing collection of the unix tools that nobody thought to write thirty years ago
 
 Name            : mosh
-Version         : 1.3.2-12
+Version         : 1.3.2-13
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
