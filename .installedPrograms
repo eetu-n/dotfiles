@@ -523,7 +523,7 @@ Version         : 3.1.1-1
 Description     : An extensible music server written in Python
 
 Name            : mopidy-spotify
-Version         : 4.1.0-1
+Version         : 4.1.1-1
 Description     : Mopidy extension for playing music from Spotify
 
 Name            : moreutils
