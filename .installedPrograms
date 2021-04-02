@@ -343,7 +343,7 @@ Version         : 3.6-1
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.13.0-1
+Version         : 2.14.0-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
@@ -1319,7 +1319,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay
-Version         : 10.1.2-2
+Version         : 10.2.0-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : yubico-pam
