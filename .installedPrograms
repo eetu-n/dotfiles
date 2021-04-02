@@ -1326,6 +1326,10 @@ Name            : yubico-pam
 Version         : 2.26-2
 Description     : Yubico YubiKey PAM module
 
+Name            : yubioath-desktop
+Version         : 5.0.4-1
+Description     : Yubico Authenticator for Desktop
+
 Name            : zip
 Version         : 3.0-9
 Description     : Compressor/archiver for creating and modifying zipfiles
