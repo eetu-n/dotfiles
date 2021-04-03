@@ -95,7 +95,7 @@ Version         : 5.45-1
 Description     : deprecated rfcomm tool from bluez
 
 Name            : bluez-utils
-Version         : 5.56-2
+Version         : 5.57-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bonnie++
