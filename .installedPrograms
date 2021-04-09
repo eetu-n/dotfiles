@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-41
+Version         : 1.2.1-42
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -91,11 +91,11 @@ Version         : 2.1.4-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez-hcitool
-Version         : 5.45-1
-Description     : deprecated rfcomm tool from bluez
+Version         : 5.58-1
+Description     : deprecated hcitool from bluez
 
 Name            : bluez-utils
-Version         : 5.57-1
+Version         : 5.58-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bonnie++
@@ -143,11 +143,11 @@ Version         : 8.32-1
 Description     : The basic file, shell and text manipulation utilities of the GNU operating system
 
 Name            : cryptsetup
-Version         : 2.3.5-1
+Version         : 2.3.5-4
 Description     : Userspace setup tool for transparent encryption of block devices using dm-crypt
 
 Name            : cups-pdf
-Version         : 3.0.1-5
+Version         : 3.0.1-6
 Description     : PDF printer for cups
 
 Name            : d-feet
@@ -275,7 +275,7 @@ Version         : 2:2.3.2-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
-Version         : 0.26.0-1
+Version         : 0.27.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gawk
@@ -367,7 +367,7 @@ Version         : 1.10-3
 Description     : GNU compression utility
 
 Name            : hexchat
-Version         : 2.14.3-6
+Version         : 2.14.3-7
 Description     : A popular and easy to use graphical IRC (chat) client
 
 Name            : htop
@@ -387,7 +387,7 @@ Version         : 1.9.4-8
 Description     : A collection of common network programs
 
 Name            : inkscape
-Version         : 1.0.2-4
+Version         : 1.0.2-5
 Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
@@ -435,7 +435,7 @@ Version         : 1:563-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 21.0.1-1
+Version         : 21.0.1-2
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -443,7 +443,7 @@ Version         : 0.2.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 7.1.2-1
+Version         : 7.1.2-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -467,7 +467,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.11.11.arch1-1
+Version         : 5.11.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -763,7 +763,7 @@ Version         : 3.5-1
 Description     : Multiplatform Serial Port Module for Python
 
 Name            : qalculate-gtk
-Version         : 3.17.0-1
+Version         : 3.18.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
@@ -779,7 +779,7 @@ Version         : 5.15.2-3
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 2.1.0-1
+Version         : 2.1.1-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : ranger
@@ -811,7 +811,7 @@ Version         : 3.6.27-3
 Description     : Reiserfs utilities
 
 Name            : remmina
-Version         : 1:1.4.12-1
+Version         : 1:1.4.13-1
 Description     : remote desktop client written in GTK+
 
 Name            : ristretto
@@ -923,7 +923,7 @@ Version         : 2.1.1-1
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 248-1
+Version         : 248-4
 Description     : sysvinit compat for systemd
 
 Name            : tabbed-git
