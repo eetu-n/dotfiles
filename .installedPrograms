@@ -183,7 +183,7 @@ Version         : 1:20.10.6-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 1.29.0-1
+Version         : 1.29.1-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
@@ -343,7 +343,7 @@ Version         : 3.6-1
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.14.0-1
+Version         : 2.15.0-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
