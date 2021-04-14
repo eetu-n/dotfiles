@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-42
+Version         : 1.2.1-43
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -179,11 +179,11 @@ Version         : 2.2.7-1
 Description     : A Markdown implementation written in C
 
 Name            : docker
-Version         : 1:20.10.5-1
+Version         : 1:20.10.6-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 1.28.6-1
+Version         : 1.29.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
@@ -247,7 +247,7 @@ Version         : 2.2.2-2
 Description     : Lightweight video thumbnailer that can be used by file managers.
 
 Name            : file
-Version         : 5.40-1
+Version         : 5.40-2
 Description     : File type identification utility
 
 Name            : filesystem
@@ -263,7 +263,7 @@ Version         : 4.8.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 87.0-1
+Version         : 87.0-2
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -423,11 +423,11 @@ Version         : 1.4.5-9
 Description     : Screencast and screenshot application created with design in mind
 
 Name            : kdenlive
-Version         : 20.12.3-1
+Version         : 20.12.3-2
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.80.0-1
+Version         : 5.81.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -435,7 +435,7 @@ Version         : 1:563-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 21.0.1-2
+Version         : 21.0.2-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -467,7 +467,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.11.12.arch1-1
+Version         : 5.11.13.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -775,11 +775,11 @@ Version         : 5.15.2-1
 Description     : Classes for audio, video, radio and camera functionality
 
 Name            : qt5-tools
-Version         : 5.15.2-3
+Version         : 5.15.2+kde+r17-1
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 2.1.1-1
+Version         : 2.2.0-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : ranger
@@ -803,7 +803,7 @@ Version         : 1.12-4
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : reflector
-Version         : 2021-1
+Version         : 2021.4-1
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : reiserfsprogs
@@ -867,7 +867,7 @@ Version         : 4.8.1-4
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 1.40.1-1
+Version         : 5.0.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -891,7 +891,7 @@ Version         : 0.3.2-1
 Description     : Lightweigt spotify streaming daemon with spotify connect support
 
 Name            : steam
-Version         : 1.0.0.69-1
+Version         : 1.0.0.70-1
 Description     : Valve's digital software delivery system
 
 Name            : steam-fonts
@@ -1015,7 +1015,7 @@ Version         : 1.3.1-2
 Description     : Linux Advanced Power Management
 
 Name            : tmux
-Version         : 3.1_c-1
+Version         : 3.2-1
 Description     : A terminal multiplexer
 
 Name            : traceroute
@@ -1067,7 +1067,7 @@ Version         : 2.3.3-1
 Description     : Removable disk automounter using udisks
 
 Name            : unrar
-Version         : 1:6.0.4-1
+Version         : 1:6.0.5-1
 Description     : The RAR uncompression program
 
 Name            : unzip
@@ -1179,7 +1179,7 @@ Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.10-3
+Version         : 1.20.11-1
 Description     : Xorg X server
 
 Name            : xorg-sessreg
@@ -1323,7 +1323,7 @@ Version         : 10.2.0-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 Name            : yubico-pam
-Version         : 2.26-2
+Version         : 2.27-1
 Description     : Yubico YubiKey PAM module
 
 Name            : yubioath-desktop
