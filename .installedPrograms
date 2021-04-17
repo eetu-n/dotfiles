@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-43
+Version         : 1.2.1-46
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -71,7 +71,7 @@ Version         : 1.07.1-4
 Description     : An arbitrary precision calculator language
 
 Name            : bdf-unifont
-Version         : 13.0.03-1
+Version         : 13.0.06-1
 Description     : GNU Unifont Glyphs
 
 Name            : bind
@@ -467,7 +467,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.11.13.arch1-1
+Version         : 5.11.14.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -903,7 +903,7 @@ Version         : 1.9.6.p1-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sway
-Version         : 1:1.5.1-2
+Version         : 1:1.6-1
 Description     : Tiling Wayland compositor and replacement for the i3 window manager
 
 Name            : swayidle
@@ -923,7 +923,7 @@ Version         : 2.1.1-1
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 248-4
+Version         : 248-5
 Description     : sysvinit compat for systemd
 
 Name            : tabbed-git
@@ -1007,7 +1007,7 @@ Version         : 4.16.6-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 78.9.0-1
+Version         : 78.9.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
