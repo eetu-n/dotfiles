@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-46
+Version         : 1.2.1-49
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -47,7 +47,7 @@ Version         : 2.71-1
 Description     : A GNU tool for automatically configuring source code
 
 Name            : autocutsel
-Version         : 0.10.0-3
+Version         : 0.10.1-1
 Description     : synchronizes the two copy/paste buffers mainly used by X applications
 
 Name            : automake
@@ -75,7 +75,7 @@ Version         : 13.0.06-1
 Description     : GNU Unifont Glyphs
 
 Name            : bind
-Version         : 9.16.13-1
+Version         : 9.16.15-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -131,11 +131,11 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : cloc
-Version         : 1.88-1
+Version         : 1.90-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.54.3-3
+Version         : 1.55.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -183,7 +183,7 @@ Version         : 1:20.10.6-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 1.29.1-1
+Version         : 1.29.1-2
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
@@ -195,7 +195,7 @@ Version         : 9.0.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.5.0-1
+Version         : 1.6.1-2
 Description     : Customizable and lightweight notification-daemon
 
 Name            : e2fsprogs
@@ -263,7 +263,7 @@ Version         : 4.8.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 87.0-2
+Version         : 88.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -303,7 +303,7 @@ Version         : 0.21-1
 Description     : GNU internationalization library
 
 Name            : gimp
-Version         : 2.10.24-1
+Version         : 2.10.24-3
 Description     : GNU Image Manipulation Program
 
 Name            : git
@@ -331,12 +331,12 @@ Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : gparted
-Version         : 1.2.0-2
+Version         : 1.2.0-3
 Description     : A Partition Magic clone, frontend to GNU Parted
 
 Name            : gpodder
-Version         : 3.10.17-1
-Description     : Podcast client written in Python using GTK+
+Version         : 3.10.19-4
+Description     : Podcast client written in Python using GTK
 
 Name            : grep
 Version         : 3.6-1
@@ -359,7 +359,7 @@ Version         : 1.3.4-2
 Description     : A graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 8.2.2653-1
+Version         : 8.2.2815-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -383,15 +383,15 @@ Version         : 0.27.2.git1-8
 Description     : A better i7 (and now i3, i5) reporting tool for Linux
 
 Name            : inetutils
-Version         : 1.9.4-8
+Version         : 1.9.4-9
 Description     : A collection of common network programs
 
 Name            : inkscape
-Version         : 1.0.2-5
+Version         : 1.0.2-6
 Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
-Version         : 1.25-2
+Version         : 1.26-1
 Description     : Tools for development and testing of the Intel DRM driver
 
 Name            : intel-ucode
@@ -399,11 +399,11 @@ Version         : 20210216-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : iproute2
-Version         : 5.11.0-1
+Version         : 5.12.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
-Version         : 20200821-1
+Version         : 20210202-1
 Description     : Network monitoring tools, including ping
 
 Name            : java-openjfx-src
@@ -423,7 +423,7 @@ Version         : 1.4.5-9
 Description     : Screencast and screenshot application created with design in mind
 
 Name            : kdenlive
-Version         : 20.12.3-2
+Version         : 21.04.0-2
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
@@ -431,11 +431,11 @@ Version         : 5.81.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
-Version         : 1:563-1
+Version         : 1:581.2-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 21.0.2-1
+Version         : 21.0.3-3
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -443,7 +443,7 @@ Version         : 0.2.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 7.1.2-2
+Version         : 7.1.2-4
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -467,7 +467,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.11.14.arch1-1
+Version         : 5.11.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -519,7 +519,7 @@ Version         : 8.4.0-4
 Description     : Mesa demos and tools incl. glxinfo + glxgears
 
 Name            : mopidy
-Version         : 3.1.1-2
+Version         : 3.1.1-3
 Description     : An extensible music server written in Python
 
 Name            : mopidy-spotify
@@ -527,7 +527,7 @@ Version         : 4.1.1-1
 Description     : Mopidy extension for playing music from Spotify
 
 Name            : moreutils
-Version         : 0.65-1
+Version         : 0.65-2
 Description     : A growing collection of the unix tools that nobody thought to write thirty years ago
 
 Name            : mosh
@@ -539,7 +539,7 @@ Version         : 0.33-3
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.22.6-3
+Version         : 0.22.6-4
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -547,7 +547,7 @@ Version         : 0.23-3
 Description     : MPD client which submits track info to {Libre,Last}.fm
 
 Name            : ncmpcpp
-Version         : 0.9.2-1
+Version         : 0.9.2-2
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : ncurses5-compat-libs
@@ -571,7 +571,7 @@ Version         : 1.20.0-2
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.30.2-1
+Version         : 1.30.4-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -619,7 +619,7 @@ Version         : 26.1.2-2
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
-Version         : 8.5p1-1
+Version         : 8.6p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : package-query
@@ -627,7 +627,7 @@ Version         : 1.11-1
 Description     : Query ALPM and AUR
 
 Name            : pacman
-Version         : 5.2.2-2
+Version         : 5.2.2-3
 Description     : A library-based package manager with dependency support
 
 Name            : pacman-contrib
@@ -679,7 +679,7 @@ Version         : 1.7.3-1
 Description     : Package compiler and linker metadata toolkit
 
 Name            : polybar
-Version         : 3.5.5-1
+Version         : 3.5.5-2
 Description     : A fast and easy-to-use status bar
 
 Name            : ponymix
@@ -687,7 +687,7 @@ Version         : 5-3
 Description     : CLI PulseAudio Volume Control
 
 Name            : postgresql
-Version         : 13.2-1
+Version         : 13.2-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powertop
@@ -699,7 +699,7 @@ Version         : r1745.e2638765-1
 Description     : Prezto is the configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 Name            : print-manager
-Version         : 20.12.3-1
+Version         : 21.04.0-1
 Description     : A tool for managing print jobs and printers
 
 Name            : procps-ng
@@ -743,11 +743,11 @@ Version         : 4.5.0-1
 Description     : A tool that computes various metrics for Python source code
 
 Name            : python-scapy
-Version         : 2.4.3-4
+Version         : 2.4.5-1
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-virtualenv
-Version         : 20.4.3-1
+Version         : 20.4.4-1
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
@@ -779,7 +779,7 @@ Version         : 5.15.2+kde+r17-1
 Description     : A cross-platform application and UI framework (Development Tools, QtHelp)
 
 Name            : qutebrowser
-Version         : 2.2.0-1
+Version         : 2.2.1-1
 Description     : A keyboard-driven, vim-like browser based on PyQt5
 
 Name            : ranger
@@ -843,11 +843,11 @@ Version         : 14.9.22-1
 Description     : Environment for sending and receiving mail
 
 Name            : samba
-Version         : 4.14.2-1
+Version         : 4.14.4-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
-Version         : 2.4.3-4
+Version         : 2.4.5-1
 Description     : Powerful interactive packet manipulation program written in Python (tools)
 
 Name            : scrot
@@ -855,7 +855,7 @@ Version         : 1.5-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
-Version         : 0.19.0-4
+Version         : 0.19.0-5
 Description     : QML based X11 and Wayland display manager
 
 Name            : sed
@@ -883,7 +883,7 @@ Version         : 4.0.0-1
 Description     : A simple sound converter application for GNOME
 
 Name            : speedtest-cli
-Version         : 2.1.2-3
+Version         : 2.1.3-1
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotifyd
@@ -935,7 +935,7 @@ Version         : 1.34-1
 Description     : Utility used to store, backup, and transport files
 
 Name            : telegram-desktop
-Version         : 2.7.1-1
+Version         : 2.7.4-1
 Description     : Official Telegram Desktop client
 
 Name            : termite
@@ -1007,7 +1007,7 @@ Version         : 4.16.6-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 78.9.1-1
+Version         : 78.10.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
@@ -1039,7 +1039,7 @@ Version         : 5.15.3-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
-Version         : 2.1.3-1
+Version         : 2.1.4-1
 Description     : Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
 
 Name            : ttf-monaco
@@ -1095,7 +1095,7 @@ Version         : 173.a95b047-1
 Description     : Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell
 
 Name            : virtualbox
-Version         : 6.1.18-2
+Version         : 6.1.22-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : wget
@@ -1123,11 +1123,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.4.4-1
+Version         : 3.4.5-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.4.4-1
+Version         : 3.4.5-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
@@ -1163,7 +1163,7 @@ Version         : 1.0.17-1
 Description     : Open Source 3D acceleration driver for nVidia cards
 
 Name            : xfsprogs
-Version         : 5.11.0-1
+Version         : 5.11.0-2
 Description     : XFS filesystem utilities
 
 Name            : xorg-bdftopcf
@@ -1327,7 +1327,7 @@ Version         : 2.27-1
 Description     : Yubico YubiKey PAM module
 
 Name            : yubioath-desktop
-Version         : 5.0.4-1
+Version         : 5.0.5-1
 Description     : Yubico Authenticator for Desktop
 
 Name            : zip
