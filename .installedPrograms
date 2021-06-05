@@ -622,10 +622,6 @@ Name            : openssh
 Version         : 8.6p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
-Name            : package-query
-Version         : 1.11-1
-Description     : Query ALPM and AUR
-
 Name            : pacman
 Version         : 5.2.2-3
 Description     : A library-based package manager with dependency support
