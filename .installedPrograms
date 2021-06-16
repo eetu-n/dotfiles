@@ -495,7 +495,7 @@ Version         : 0.6.3-4
 Description     : Feature-rich GTK+ theme switcher of the LXDE Desktop
 
 Name            : m4
-Version         : 1.4.18-3
+Version         : 1.4.19-1
 Description     : The GNU macro processor
 
 Name            : make
@@ -763,7 +763,7 @@ Version         : 3.19.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
-Version         : 4.8.7-33
+Version         : 4.8.7-34
 Description     : A cross-platform application and UI framework
 
 Name            : qt5-multimedia
@@ -863,7 +863,7 @@ Version         : 4.8.1-4
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.4.1-1
+Version         : 5.5.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -891,7 +891,7 @@ Version         : 1.0.0.70-1
 Description     : Valve's digital software delivery system
 
 Name            : steam-fonts
-Version         : 1.0.0-5
+Version         : 1.0.0-6
 Description     : Fonts to fix scrambled or missing text in steam menus
 
 Name            : sudo
