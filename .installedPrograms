@@ -623,7 +623,7 @@ Version         : 8.6p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : pacman
-Version         : 5.2.2-3
+Version         : 6.0.0-3
 Description     : A library-based package manager with dependency support
 
 Name            : pacman-contrib
