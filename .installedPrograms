@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-68
+Version         : 1.2.1-69
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -303,7 +303,7 @@ Version         : 0.21-1
 Description     : GNU internationalization library
 
 Name            : gimp
-Version         : 2.10.24-4
+Version         : 2.10.24-5
 Description     : GNU Image Manipulation Program
 
 Name            : git
@@ -399,7 +399,7 @@ Version         : 20210608-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : iproute2
-Version         : 5.12.0-1
+Version         : 5.13.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -435,7 +435,7 @@ Version         : 1:581.2-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 21.1.3-1
+Version         : 21.1.4-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -467,7 +467,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.12.13.arch1-2
+Version         : 5.12.14.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -539,7 +539,7 @@ Version         : 0.33-3
 Description     : Minimalist command line interface to MPD
 
 Name            : mpd
-Version         : 0.22.8-1
+Version         : 0.22.9-1
 Description     : Flexible, powerful, server-side application for playing music
 
 Name            : mpdscribble
@@ -571,7 +571,7 @@ Version         : 1.22.0-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.32.0-1
+Version         : 1.32.2-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -627,7 +627,7 @@ Version         : 6.0.0-3
 Description     : A library-based package manager with dependency support
 
 Name            : pacman-contrib
-Version         : 1.4.0-3
+Version         : 1.4.0-4
 Description     : Contributed scripts and tools for pacman systems
 
 Name            : pam-u2f
@@ -807,7 +807,7 @@ Version         : 3.6.27-3
 Description     : Reiserfs utilities
 
 Name            : remmina
-Version         : 1:1.4.18-1
+Version         : 1:1.4.19-1
 Description     : remote desktop client written in GTK+
 
 Name            : ristretto
@@ -863,7 +863,7 @@ Version         : 4.8.1-4
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.7.0-1
+Version         : 5.7.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -931,7 +931,7 @@ Version         : 1.34-1
 Description     : Utility used to store, backup, and transport files
 
 Name            : telegram-desktop
-Version         : 2.8.3-1
+Version         : 2.8.4-3
 Description     : Official Telegram Desktop client
 
 Name            : termite
@@ -939,7 +939,7 @@ Version         : 15-4
 Description     : A simple VTE-based terminal
 
 Name            : texinfo
-Version         : 6.7-3
+Version         : 6.8-1
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : texlive-bibtexextra
