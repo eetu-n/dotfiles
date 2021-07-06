@@ -191,7 +191,7 @@ Version         : 1:5.0.r14344.acc7d3710d-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 10.0.0-1
+Version         : 10.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -343,7 +343,7 @@ Version         : 3.6-1
 Description     : A string search utility
 
 Name            : gscreenshot
-Version         : 2.15.0-1
+Version         : 2.16.1-1
 Description     : A simple screenshot tool supporting multiple backends
 
 Name            : gst-libav
