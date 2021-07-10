@@ -7,6 +7,7 @@ nm-applet &
 touch /tmp/barHidden
 autocutsel -s PRIMARY -fork
 autocutsel -s CLIPBOARD -fork
+udiskie &
 
 if ! pgrep -u "$USER" ssh-agent > /dev/null; then
     ssh-agent > /tmp/ssh-agent-pid

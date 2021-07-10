@@ -5,5 +5,3 @@ export IDF_PATH=$HOME/esp/esp-idf
 export XDG_CONFIG_HOME=$HOME/.config/
 export SSH_ASKPASS=ssh-askpass
 export HOSTNAME=$(hostname)
-
-udiskie &
