@@ -1,6 +1,6 @@
 #! /bin/sh
 
-cp /home/eetu/.huge /tmp/monitorList
+cp $HOME/.huge /tmp/monitorList
 
 for MONITOR in $(xrandr | grep -w connected | cut -d ' ' -f 1); do
     LINE=$(xrandr | grep -w $MONITOR | cut -s -d '+' -f 2)

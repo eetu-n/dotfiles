@@ -101,7 +101,7 @@ XF86Display
 
 # terminal emulator
 super + Return
-    termite
+    alacritty
 
 # program launcher
 super + @space

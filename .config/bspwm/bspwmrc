@@ -3,7 +3,6 @@
 sxhkd &
 redshift &
 picom -b
-nm-applet &
 touch /tmp/barHidden
 autocutsel -s PRIMARY -fork
 autocutsel -s CLIPBOARD -fork
@@ -39,4 +38,4 @@ $HOME/.config/polybar/launch.sh &
 
 # Scratchpad
 bspc rule -a scratchpad sticky=on state=floating hidden=on
-termite --hold -e scratch &
+alacritty --hold -e scratch &
