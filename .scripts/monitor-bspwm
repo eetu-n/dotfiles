@@ -1,0 +1,47 @@
+#!/bin/sh
+
+monitor-update
+
+M_COUNT=`monitor-get connected | wc -l`
+D_PER_M=`expr 10 / $M_COUNT`
+D_DIFF=`expr 10 - $D_PER_M '*' $M_COUNT`
+
+FIRST_M=`monitor-get connected | sed -n 1p`
+bspc config -m $FIRST_M bottom_padding -14
+
+for DESKTOP in $(bspc query -D | sed -n 1,10p); do
+    bspc desktop $DESKTOP -m $FIRST_M
+done
+
+bspc monitor $FIRST_M -d 1 2 3 4 5 6 7 8 9 10 
+
+if [ $M_COUNT == 1 ]; then
+    exit
+fi
+
+i=$(expr 9 - $M_COUNT + 3)
+for MONITOR in $(monitor-get connected | sed 1d); do 
+    bspc monitor $MONITOR -d b
+done
+
+LAST_D=$(expr $D_PER_M + $D_DIFF + 1)
+PREV_D=$LAST_D
+
+for MONITOR in $(monitor-get connected | sed 1d); do
+
+    for DESKTOP in $(bspc query -m $FIRST_M -D | sed -n $LAST_D,$(expr $LAST_D + $D_PER_M - 1)p); do
+        bspc desktop $DESKTOP -m $MONITOR
+    done
+    
+    bspc desktop $MONITOR:\^1 -r
+
+    bspc monitor $MONITOR -d $(seq $PREV_D $(expr $PREV_D + $D_PER_M - 1))
+
+    PREV_D=$(expr $PREV_D + $D_PER_M)
+
+    bspc config -m $MONITOR bottom_padding -14
+done
+
+PRIMARY_M=$(monitor-get primary)
+
+bspc config -m $PRIMARY_M bottom_padding 27

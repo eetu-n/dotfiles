@@ -57,7 +57,7 @@ super + shift + w
 
 # Shuffle toggle
 super + shift + r
-	notify-send --icon=multimedia-audio-player "MPD random `mpc random | tail -1 | cut -d ' ' -f 11`"
+	notify-send --icon=multimedia-audio-player "MPD random `mpc random | tail -1 | cut -d 'd' -f 2 | cut -d ' ' -f 2`"
 
 #
 # General

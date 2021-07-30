@@ -1,0 +1,12 @@
+#! /bin/bash
+
+length=$(($#-1))
+array=${@:1:$length}
+
+if [ $# == 0 ]; then
+    echo "Too few arguments"
+elif [ $# == 1 ]; then
+    pdfgrep -ni "$1" *
+else
+    pdfgrep $array -ni "${*: -1}" *
+fi
