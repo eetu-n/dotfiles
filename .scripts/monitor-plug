@@ -1,6 +1,5 @@
 #!/bin/sh
 
-/home/eetu/.scripts/monitor-update
-/home/eetu/.scripts/monitor-apply
-/home/eetu/.scripts/monitor-bspwm
-echo "test" >> /home/eetu/test
+$HOME/.scripts/monitor-update
+$HOME/.scripts/monitor-apply
+$HOME/.scripts/monitor-bspwm

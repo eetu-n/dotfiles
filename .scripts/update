@@ -4,6 +4,6 @@ time=`date +"%Y-%m-%d %T"`
 
 yay -Syu;
 pacman -Qei | grep -e Name -e Version -e Description -e '^$' | tee $HOME/.installedPrograms > /dev/null;
-#git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME add $HOME/.installedPrograms;
-#git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME commit -m "Update on $time";
-#git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME push;
+git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME add $HOME/.installedPrograms;
+git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME commit -m "Update on $time";
+git --git-dir=$HOME/.gitcfg/ --work-tree=$HOME push;

@@ -3,10 +3,14 @@
 sxhkd &
 redshift &
 picom -b
+dunst &
+nm-applet &
+solaar &
 touch /tmp/barHidden
 autocutsel -s PRIMARY -fork
 autocutsel -s CLIPBOARD -fork
 udiskie &
+setxkbmap -option compose:ralt
 
 if ! pgrep -u "$USER" ssh-agent > /dev/null; then
     ssh-agent > /tmp/ssh-agent-pid

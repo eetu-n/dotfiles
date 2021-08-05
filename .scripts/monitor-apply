@@ -12,4 +12,4 @@ done
 
 xrandr --output $(monitor-get primary) --primary
 
-feh --bg-scale $HOME/.dog.png
+feh --bg-scale $HOME/.wallpaper.jpg
