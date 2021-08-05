@@ -1,0 +1,9 @@
+%YAML 1.3
+---
+- Test: mouse-left
+- Execute: [bspc, desktop, -f, prev]
+...
+---
+- Test: mouse-right
+- Execute: [bspc, desktop, -f, next]
+...
