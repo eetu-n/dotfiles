@@ -1,9 +1,13 @@
+Name            : acpi
+Version         : 1.7-3
+Description     : Client for battery, power, and thermal readings
+
 Name            : adobe-base-14-fonts
 Version         : 3.01-4
 Description     : Adobe base 14 fonts (Courier, Helvetica, Times, Symbol, ZapfDingbats with Type1)
 
 Name            : alacritty
-Version         : 0.8.0-1
+Version         : 0.9.0-1
 Description     : A cross-platform, GPU-accelerated terminal emulator
 
 Name            : alsa-firmware
@@ -17,6 +21,10 @@ Description     : Advanced Linux Sound Architecture - Utilities
 Name            : arandr
 Version         : 0.1.10-6
 Description     : Provide a simple visual front end for XRandR 1.2.
+
+Name            : arc-icon-theme
+Version         : 20161122-3
+Description     : Arc icon theme. Official releases only.
 
 Name            : autoconf
 Version         : 2.71-1
@@ -42,6 +50,22 @@ Name            : bison
 Version         : 3.7.6-1
 Description     : The GNU general-purpose parser generator
 
+Name            : blueman
+Version         : 2.2.1-1
+Description     : GTK+ Bluetooth Manager
+
+Name            : bluez
+Version         : 5.60-1
+Description     : Daemons for the bluetooth protocol stack
+
+Name            : bluez-hid2hci
+Version         : 5.60-1
+Description     : Put HID proxying bluetooth HCI's into HCI mode
+
+Name            : bluez-utils
+Version         : 5.60-1
+Description     : Development and debugging utilities for the bluetooth protocol stack
+
 Name            : breeze-dark-flat
 Version         : 1.2-1
 Description     : Breeze Dark, but opaque and not shadowed
@@ -49,10 +73,6 @@ Description     : Breeze Dark, but opaque and not shadowed
 Name            : bspwm
 Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
-
-Name            : connman
-Version         : 1.40-1
-Description     : Intel's modular network connection manager
 
 Name            : dosfstools
 Version         : 4.2-1
@@ -115,32 +135,44 @@ Version         : 2.13-1
 Description     : Improved screenlocker based upon XCB and PAM
 
 Name            : imagemagick
-Version         : 7.1.0.4-1
+Version         : 7.1.0.4-2
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
-Version         : 2.0-1
+Version         : 2.1-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
 Version         : 20210608-1
 Description     : Microcode update files for Intel CPUs
 
-Name            : iwd
-Version         : 1.15-1
-Description     : Internet Wireless Daemon
+Name            : keepassxc
+Version         : 2.6.6-1
+Description     : Cross-platform community-driven port of Keepass password manager
 
 Name            : libtool
 Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
+
+Name            : linux
+Version         : 5.11.16.arch1-1
+Description     : The Linux kernel and modules
 
 Name            : linux-firmware
 Version         : 20210716.b7c134f-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.54-1
+Version         : 5.10.55-1
 Description     : The LTS Linux kernel and modules
+
+Name            : logiops
+Version         : 0.2.3-1
+Description     : An unofficial driver for Logitech HID++>2.0 mice and keyboard
+
+Name            : lxappearance
+Version         : 0.6.3-4
+Description     : Feature-rich GTK+ theme switcher of the LXDE Desktop
 
 Name            : m4
 Version         : 1.4.19-1
@@ -149,6 +181,22 @@ Description     : The GNU macro processor
 Name            : make
 Version         : 4.3-3
 Description     : GNU make utility to maintain groups of programs
+
+Name            : mopidy
+Version         : 3.2.0-1
+Description     : An extensible music server written in Python
+
+Name            : mopidy-spotify
+Version         : 4.1.1-1
+Description     : Mopidy extension for playing music from Spotify
+
+Name            : network-manager-applet
+Version         : 1.22.0-1
+Description     : Applet for managing network connections
+
+Name            : networkmanager-openvpn
+Version         : 1.8.14-1
+Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : noto-fonts
 Version         : 20201226-2
@@ -178,6 +226,22 @@ Name            : picom
 Version         : 8.2-1
 Description     : X compositor that may fix tearing issues
 
+Name            : pipewire
+Version         : 1:0.3.32-2
+Description     : Low-latency audio/video router and processor
+
+Name            : pipewire-alsa
+Version         : 1:0.3.32-2
+Description     : Low-latency audio/video router and processor - ALSA configuration
+
+Name            : pipewire-jack
+Version         : 1:0.3.32-2
+Description     : Low-latency audio/video router and processor - JACK support
+
+Name            : pipewire-pulse
+Version         : 1:0.3.32-2
+Description     : Low-latency audio/video router and processor - PulseAudio replacement
+
 Name            : pkgconf
 Version         : 1.7.3-1
 Description     : Package compiler and linker metadata toolkit
@@ -190,13 +254,9 @@ Name            : powertop
 Version         : 2.14-1
 Description     : A tool to diagnose issues with power consumption and power management
 
-Name            : pulseaudio-alsa
-Version         : 1:1.2.5-2
-Description     : ALSA Configuration for PulseAudio
-
-Name            : pulseaudio-bluetooth
-Version         : 15.0-1
-Description     : Bluetooth support for PulseAudio
+Name            : python-pip
+Version         : 20.3.4-1
+Description     : The PyPA recommended tool for installing Python packages
 
 Name            : ranger
 Version         : 1.9.3-3
@@ -226,6 +286,22 @@ Name            : siji-git
 Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
+Name            : slack-desktop
+Version         : 4.18.0-1
+Description     : Slack Desktop (Beta) for Linux
+
+Name            : sof-firmware
+Version         : 1.8-1
+Description     : Sound Open Firmware
+
+Name            : solaar
+Version         : 1.0.6-1
+Description     : Linux device manager for a wide range of Logitech devices
+
+Name            : spotify
+Version         : 1:1.1.56.595-1
+Description     : A proprietary music streaming service
+
 Name            : strace
 Version         : 5.13-1
 Description     : A diagnostic, debugging and instructional userspace tracer
@@ -245,6 +321,10 @@ Description     : GNU documentation system for on-line information and printed o
 Name            : thunar
 Version         : 4.16.8-1
 Description     : Modern file manager for Xfce
+
+Name            : thunderbird
+Version         : 78.12.0-1
+Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
 Version         : 3.2_a-1
@@ -282,6 +362,10 @@ Name            : wpa_supplicant
 Version         : 2:2.9-8
 Description     : A utility providing key negotiation for WPA wireless networks
 
+Name            : xclip
+Version         : 0.13-3
+Description     : Command line interface to the X11 clipboard
+
 Name            : xcursor-breeze
 Version         : 1:5.21.1-1
 Description     : Breeze cursor theme (KDE Plasma 5). This package is for usage in non-KDE Plasma desktops.
@@ -289,10 +373,6 @@ Description     : Breeze cursor theme (KDE Plasma 5). This package is for usage 
 Name            : xdo
 Version         : 0.5.7-2
 Description     : Utility for performing actions on windows in X
-
-Name            : xf86-video-intel
-Version         : 1:2.99.917+916+g31486f40-1
-Description     : X.org Intel i810/i830/i915/945G/G965+ video drivers
 
 Name            : xf86-video-vesa
 Version         : 2.5.0-1
@@ -331,27 +411,27 @@ Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.13-1
+Version         : 1.20.13-2
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 1.20.13-1
+Version         : 1.20.13-2
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 1.20.13-1
+Version         : 1.20.13-2
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 1.20.13-1
+Version         : 1.20.13-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 1.20.13-1
+Version         : 1.20.13-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 1.20.13-1
+Version         : 1.20.13-2
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
@@ -479,7 +559,7 @@ Version         : 21.1.2-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
-Version         : 1.0.7-2
+Version         : 1.0.8-1
 Description     : X Window System image dumping utility
 
 Name            : xorg-xwininfo
@@ -490,9 +570,17 @@ Name            : xorg-xwud
 Version         : 1.0.5-2
 Description     : X Window System image undumping utility
 
-Name            : yay
-Version         : 10.3.0-1
-Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
+Name            : xsel
+Version         : 1.2.0.20190821-1
+Description     : XSel is a command-line program for getting and setting the contents of the X selection
+
+Name            : yay-bin
+Version         : 10.3.1-2
+Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
+
+Name            : yubioath-desktop
+Version         : 5.0.5-1
+Description     : Yubico Authenticator for Desktop
 
 Name            : zsh
 Version         : 5.8-1
