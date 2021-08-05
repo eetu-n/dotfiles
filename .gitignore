@@ -39,4 +39,7 @@ Downloads/
 .screenlayout
 .thunderbird
 .config/solaar/config.json
+.config/pavucontrol.ini
+.config/pipewire
+.scripts/mmb-tmux
 
