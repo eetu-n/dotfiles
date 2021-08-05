@@ -8,6 +8,8 @@ URxvt.letterSpace: 1
 *background: #0f0f0f
 *foreground: #c8c8c8
 
+Xcursor.size: 16
+
 
 !black
 *color0:  #251f1f
