@@ -1,0 +1,1 @@
+sudo efibootmgr --disk /dev/nvme0n1 --part 1 --create --label "Arch-lts" --loader /vmlinuz-linux-lts --unicode 'root=/dev/nvme0n1p2 rw initrd=\initramfs-linux-lts.img' --verbose
