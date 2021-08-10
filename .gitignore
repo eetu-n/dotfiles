@@ -2,6 +2,7 @@ Pictures/
 Downloads/
 devel/
 .Xauthority
+.installedPrograms
 .gitcfg
 .bash_logout
 .bashrc
