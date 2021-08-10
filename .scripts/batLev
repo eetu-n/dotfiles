@@ -3,5 +3,5 @@
 if [ "`acpi`" = "Battery 0: Unknown, 98%" ] || [ "`acpi`" = "Battery 0: Full, 100%" ]; then
 	notify-send --icon=battery "Battery Full";
 else
-	notify-send --icon=battery "`acpi | cut -d, -f-2 --complement | cut -d: -f-2 | cut -c1 --complement`";
+	notify-send --icon=battery "`acpi | tail -n2 | head -n1 | cut -d, -f-2 --complement | cut -d: -f-2 | cut -c1 --complement`";
 fi
