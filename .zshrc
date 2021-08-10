@@ -44,12 +44,18 @@ else;
     alias ls="ls --color"
 fi
 
+eval $(keychain --eval --quiet id_rsa)
+
 unsetopt BEEP
 
 HISTFILE=~/.histfile
 HISTSIZE=10000
 SAVEHIST=10000
 setopt appendhistory
+
+bindkey "^[[H" beginning-of-line
+bindkey "^[[F" end-of-line
+bindkey "^[[3~" delete-char
 
 source ~/.localOptions
 
