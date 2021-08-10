@@ -1,8 +1,13 @@
+# Master branch only
+.installedPrograms
+.config/bootOptions*
+
+
+# Everywhere
 Pictures/
 Downloads/
 devel/
 .Xauthority
-.installedPrograms
 .gitcfg
 .bash_logout
 .bashrc
