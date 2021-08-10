@@ -3,7 +3,11 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
+<<<<<<< HEAD
 Version         : 1.2.1-80
+=======
+Version         : 1.2.1-79
+>>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -131,7 +135,11 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
+<<<<<<< HEAD
 Version         : 92.0.4515.159-1
+=======
+Version         : 92.0.4515.131-1
+>>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -471,7 +479,11 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
+<<<<<<< HEAD
 Version         : 5.13.10.arch1-1
+=======
+Version         : 5.13.9.arch1-1
+>>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -759,7 +771,11 @@ Version         : 2.4.5-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-virtualenv
+<<<<<<< HEAD
 Version         : 20.7.2-1
+=======
+Version         : 20.7.0-1
+>>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
@@ -879,7 +895,11 @@ Version         : 4.8.1-4
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
+<<<<<<< HEAD
 Version         : 5.14.0-1
+=======
+Version         : 5.12.2-1
+>>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -947,7 +967,11 @@ Version         : 1.34-1
 Description     : Utility used to store, backup, and transport files
 
 Name            : telegram-desktop
+<<<<<<< HEAD
 Version         : 2.9.3-1
+=======
+Version         : 2.9.0-4
+>>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
 Description     : Official Telegram Desktop client
 
 Name            : termite
@@ -1091,7 +1115,11 @@ Version         : 013-1
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : util-linux
+<<<<<<< HEAD
 Version         : 2.37.2-1
+=======
+Version         : 2.37.1-3
+>>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
 Description     : Miscellaneous system utilities for Linux
 
 Name            : valgrind
