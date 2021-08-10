@@ -39,6 +39,7 @@ monitor-apply
 monitor-bspwm
 
 $HOME/.config/polybar/launch.sh &
+setxkbmap -option compose:ralt
 
 # Scratchpad
 bspc rule -a scratchpad sticky=on state=floating hidden=on

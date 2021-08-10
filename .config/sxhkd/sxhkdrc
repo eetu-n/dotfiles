@@ -16,11 +16,11 @@ XF86MonBrightnessDown
 
 # Volume down
 XF86AudioLowerVolume
-	ponymix decrease 1
+	ponymix decrease 5
 
 # Volume up 
 XF86AudioRaiseVolume
-	ponymix increase 1
+	ponymix increase 5
 
 # Volume toggle
 XF86AudioMute
@@ -57,7 +57,26 @@ super + shift + w
 
 # Shuffle toggle
 super + shift + r
-	notify-send --icon=multimedia-audio-player "MPD random `mpc random | tail -1 | cut -d 'd' -f 2 | cut -d ' ' -f 2`"
+    mpc shuffle
+
+## Spotfiy stuff
+#XF86AudioNext
+#    playerctl next
+#
+#XF86AudioPrev
+#    playerctl previous
+#
+#XF86AudioPlay
+#    playerctl play-pause
+#
+#super + shift + d
+#    playerctl next
+#
+#super + shift + a
+#    playerctl previous
+#
+#super + shift + f
+#    playerctl play-pause
 
 #
 # General
@@ -65,15 +84,19 @@ super + shift + r
 
 # Take a screenshot to clipboard
 Print
-	gscreenshot-cli -c
+	spectacle -b -m -c
 
 # Take a screenshot of a selection
 super + Print
-	gscreenshot-cli -c -s
+	spectacle -b -r -c
+
+# Take a screenshot of a selection
+alt + Print
+	spectacle -b -a -c
 
 # Open screenshot utility
 super + shift + Print
-	gscreenshot
+	spectacle
 
 # Name a window
 super + shift + m
@@ -93,7 +116,12 @@ super + b
 
 # Lock The Screen
 ctrl + alt + Delete
-	lock
+    XSECURE_LOCK_FONT="microsoft-comic sans ms-medium-r-normal--0-0-0-0-p-0-ascii-0" \
+        XSECURELOCK_SAVER=saver_mplayer \
+	    XSECURELOCK_PASSWORD_PROMPT=time \
+        XSECURELOCK_DISCARD_FIRST_KEYPRESS=0 \
+        XSECURELOCK_LIST_VIDEOS_COMMAND="find /opt/ATV4 -type l,f" \
+        xsecurelock
 
 # Toggle Monitor
 XF86Display

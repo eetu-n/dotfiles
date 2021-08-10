@@ -1,16 +1,23 @@
 #  TODO: Import font size file and set shortcuts to change
 #  - /path/to/alacritty.yml
 
-TERM: alacritty
 
+scrolling:
 # Maximum number of lines in the scrollback buffer.
-history: 100000
+  history: 100000
 
   # Scrolling distance multiplier.
-multiplier: 3
+  multiplier: 3
 
 # Font configuration
-size: 11.0
+font:
+  size: 11
+
+# Env variables
+env:
+  WINIT_X11_SCALE_FACTOR: "1"
+  TERM: alacritty
+
 # Colors (Monokai Pro)
 colors:
   # Default colors

@@ -250,6 +250,10 @@ Name            : mpc
 Version         : 0.33-3
 Description     : Minimalist command line interface to MPD
 
+Name            : mpd-notification
+Version         : 0.8.6-1
+Description     : Notify about tracks played by mpd
+
 Name            : mplayer
 Version         : 38157-4
 Description     : Media player for Linux
