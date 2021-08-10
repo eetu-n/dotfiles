@@ -1,5 +1,29 @@
 %YAML 1.3
 ---
+- Key: Next
+- KeyPress: XF86_AudioNext
+...
+---
+- Key: Play/Pause
+- KeyPress: XF86_AudioPlay
+...
+---
+- Key: Previous
+- KeyPress: XF86_AudioPrev
+...
+---
+- Key: Mute
+- KeyPress: XF86_AudioMute
+...
+---
+- Key: Volume Down
+- KeyPress: XF86_AudioLowerVolume
+...
+---
+- Key: Volume Up
+- KeyPress: XF86_AudioRaiseVolume
+...
+---
 - Test: mouse-left
 - Execute: [bspc, desktop, -f, prev]
 ...

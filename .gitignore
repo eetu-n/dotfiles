@@ -1,3 +1,5 @@
+Pictures
+Downloads/
 .Xauthority
 .gitcfg
 .bash_logout
@@ -19,7 +21,6 @@
 .xinitrc
 .zcompdump
 .zprofile
-Downloads/
 .cargo/
 .cert/
 .config/Slack/
