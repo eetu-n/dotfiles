@@ -206,6 +206,10 @@ Name            : linux-lts
 Version         : 5.10.56-1
 Description     : The LTS Linux kernel and modules
 
+Name            : linux-zen
+Version         : 5.13.10.zen1-1
+Description     : The Linux ZEN kernel and modules
+
 Name            : logiops
 Version         : 0.2.3-1
 Description     : An unofficial driver for Logitech HID++>2.0 mice and keyboard
@@ -342,6 +346,14 @@ Name            : python-hvac
 Version         : 0.11.0-1
 Description     : Python 2.7/3.X client for HashiCorp Vault
 
+Name            : python-jmespath
+Version         : 0.10.0-3
+Description     : A query language for JSON
+
+Name            : python-netaddr
+Version         : 0.8.0-3
+Description     : Pure Python network address representation and manipulation library
+
 Name            : python-pip
 Version         : 20.3.4-1
 Description     : The PyPA recommended tool for installing Python packages
@@ -386,6 +398,10 @@ Name            : sddm-theme-aerial-git
 Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
+Name            : signal-desktop
+Version         : 5.13.0-3
+Description     : Signal Private Messenger for Linux
+
 Name            : siji-git
 Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
@@ -403,12 +419,16 @@ Version         : 1.0.6-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 21.04.3-1
+Version         : 21.08.0-1
 Description     : KDE screenshot capture utility
 
 Name            : spotify
 Version         : 1:1.1.56.595-1
 Description     : A proprietary music streaming service
+
+Name            : sshpass
+Version         : 1.09-1
+Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
 Version         : 5.13-1
@@ -422,6 +442,10 @@ Name            : sxhkd
 Version         : 0.6.2-1
 Description     : Simple X hotkey daemon
 
+Name            : teams
+Version         : 1.4.00.13653-1
+Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
+
 Name            : texinfo
 Version         : 6.8-2
 Description     : GNU documentation system for on-line information and printed output
@@ -431,7 +455,7 @@ Version         : 4.16.8-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 78.12.0-1
+Version         : 78.13.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -709,6 +733,10 @@ Description     : XSel is a command-line program for getting and setting the con
 Name            : yay-bin
 Version         : 10.3.1-2
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
+
+Name            : yq
+Version         : 2.12.2-1
+Description     : Command-line YAML/XML processor - jq wrapper for YAML/XML documents
 
 Name            : yubioath-desktop
 Version         : 5.0.5-1
