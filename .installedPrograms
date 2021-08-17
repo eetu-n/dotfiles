@@ -98,6 +98,10 @@ Name            : bspwm
 Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
+Name            : cloc
+Version         : 1.90-1
+Description     : Count lines of code
+
 Name            : code
 Version         : 1.58.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
@@ -299,7 +303,7 @@ Version         : 2.7.6-8
 Description     : A utility to apply patch files to original sources
 
 Name            : pavucontrol
-Version         : 1:4.0-2
+Version         : 1:5.0-1
 Description     : PulseAudio Volume Control
 
 Name            : picom
