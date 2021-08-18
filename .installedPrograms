@@ -163,7 +163,7 @@ Version         : 11.1.0-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : git
-Version         : 2.32.0-1
+Version         : 2.33.0-1
 Description     : the fast distributed version control system
 
 Name            : gnu-free-fonts
@@ -741,6 +741,10 @@ Description     : X11 screen lock utility with security in mind
 Name            : xsel
 Version         : 1.2.0.20190821-1
 Description     : XSel is a command-line program for getting and setting the contents of the X selection
+
+Name            : xtitle
+Version         : 0.4.4-2
+Description     : Outputs X window titles
 
 Name            : yay-bin
 Version         : 10.3.1-2
