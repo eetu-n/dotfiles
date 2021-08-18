@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-79
+Version         : 1.2.1-80
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -131,7 +131,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 92.0.4515.131-1
+Version         : 92.0.4515.159-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -159,7 +159,7 @@ Version         : 0.3.16-1
 Description     : D-Bus debugger for GNOME
 
 Name            : device-mapper
-Version         : 2.03.12-1
+Version         : 2.03.13-1
 Description     : Device mapper userspace library and tools
 
 Name            : dhcpcd
@@ -191,7 +191,7 @@ Version         : 1.29.2-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
-Version         : 1:5.0.r14344.acc7d3710d-2
+Version         : 1:5.0.r14790.3cc274880f-1
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
@@ -267,7 +267,7 @@ Version         : 4.8.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 90.0.2-1
+Version         : 91.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -311,7 +311,7 @@ Version         : 2.10.24-6
 Description     : GNU Image Manipulation Program
 
 Name            : git
-Version         : 2.32.0-1
+Version         : 2.33.0-1
 Description     : the fast distributed version control system
 
 Name            : glibc
@@ -427,11 +427,11 @@ Version         : 1.4.5-9
 Description     : Screencast and screenshot application created with design in mind
 
 Name            : kdenlive
-Version         : 21.04.3-1
+Version         : 21.08.0-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.84.0-1
+Version         : 5.85.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : less
@@ -471,7 +471,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.13.9.arch1-1
+Version         : 5.13.10.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -491,7 +491,7 @@ Version         : 20201003-1
 Description     : Filter that can be run between an arbitrary application and a UTF-8 terminal emulator
 
 Name            : lvm2
-Version         : 2.03.12-1
+Version         : 2.03.13-1
 Description     : Logical Volume Manager 2 utilities
 
 Name            : lxappearance
@@ -579,11 +579,11 @@ Version         : 1.25-1
 Description     : Profile based systemd network management
 
 Name            : network-manager-applet
-Version         : 1.22.0-1
+Version         : 1.24.0-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.32.6-1
+Version         : 1.32.8-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -655,7 +655,7 @@ Version         : 2.7.6-8
 Description     : A utility to apply patch files to original sources
 
 Name            : pavucontrol
-Version         : 1:4.0-2
+Version         : 1:5.0-1
 Description     : PulseAudio Volume Control
 
 Name            : pciutils
@@ -667,7 +667,7 @@ Version         : 2.1.2-2
 Description     : A tool to search text in PDF files
 
 Name            : pdftk
-Version         : 3.2.3-1
+Version         : 3.3.0-1
 Description     : Command-line tool for working with PDFs
 
 Name            : perl
@@ -711,7 +711,7 @@ Version         : r1745.e2638765-1
 Description     : Prezto is the configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 Name            : print-manager
-Version         : 21.04.3-1
+Version         : 21.08.0-1
 Description     : A tool for managing print jobs and printers
 
 Name            : procps-ng
@@ -759,7 +759,7 @@ Version         : 2.4.5-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-virtualenv
-Version         : 20.7.0-1
+Version         : 20.7.2-1
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
@@ -879,7 +879,7 @@ Version         : 4.8.1-4
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.12.2-1
+Version         : 5.14.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -947,7 +947,7 @@ Version         : 1.34-1
 Description     : Utility used to store, backup, and transport files
 
 Name            : telegram-desktop
-Version         : 2.9.0-4
+Version         : 2.9.3-1
 Description     : Official Telegram Desktop client
 
 Name            : termite
@@ -1019,7 +1019,7 @@ Version         : 4.16.8-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 78.12.0-1
+Version         : 78.13.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
@@ -1091,7 +1091,7 @@ Version         : 013-1
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : util-linux
-Version         : 2.37.1-3
+Version         : 2.37.2-1
 Description     : Miscellaneous system utilities for Linux
 
 Name            : valgrind
