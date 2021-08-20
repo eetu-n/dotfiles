@@ -22,6 +22,10 @@ Name            : alsa-utils
 Version         : 1.2.5.1-1
 Description     : Advanced Linux Sound Architecture - Utilities
 
+Name            : amtterm
+Version         : 1.6-1
+Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
+
 Name            : ansible
 Version         : 2.9.12-1
 Description     : Radically simple IT automation platform
@@ -63,7 +67,7 @@ Version         : 2-2
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bind
-Version         : 9.16.19-1
+Version         : 9.16.20-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -147,7 +151,7 @@ Version         : 3.7.1-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 91.0-1
+Version         : 91.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -179,7 +183,7 @@ Version         : 3.0.5-1
 Description     : Interactive process viewer
 
 Name            : icaclient
-Version         : 21.6.0.28-1
+Version         : 21.8.0.40-1
 Description     : Citrix Workspace App for x86_64 (64bit) Linux (ICAClient, Citrix Receiver)
 
 Name            : imagemagick
@@ -193,6 +197,10 @@ Description     : A collection of common network programs
 Name            : intel-ucode
 Version         : 20210608-1
 Description     : Microcode update files for Intel CPUs
+
+Name            : ipmitool
+Version         : 1.8.18-7
+Description     : Command-line interface to IPMI-enabled devices
 
 Name            : keepassxc
 Version         : 2.6.6-1
@@ -219,7 +227,7 @@ Version         : 5.10.56-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.13.10.zen1-1
+Version         : 5.13.12.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -411,7 +419,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.13.0-3
+Version         : 5.14.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -457,6 +465,10 @@ Description     : Simple X hotkey daemon
 Name            : teams
 Version         : 1.4.00.13653-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
+
+Name            : telegram-desktop
+Version         : 2.9.3-1
+Description     : Official Telegram Desktop client
 
 Name            : texinfo
 Version         : 6.8-2
