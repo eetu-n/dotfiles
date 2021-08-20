@@ -1,13 +1,13 @@
 #!/bin/sh
 
 if [ -e /tmp/barHidden ]; then
-	polybar-msg cmd hide &&
+	polybar-msg cmd show &&
 	rm -f /tmp/barHidden &&
     bspc config bottom_padding -14
-    bspc config -m $(monitor-get primary) bottom_padding -14
+    bspc config -m $(monitor-get primary) bottom_padding 22
 else
-	polybar-msg cmd show &&
+	polybar-msg cmd hide &&
 	touch /tmp/barHidden &&
     bspc config bottom_padding -14
-    bspc config -m $(monitor-get primary) bottom_padding 25
+    #bspc config -m $(monitor-get primary) bottom_padding -14
 fi

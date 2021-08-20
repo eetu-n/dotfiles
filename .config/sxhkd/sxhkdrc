@@ -90,6 +90,9 @@ Print
 super + Print
 	spectacle -b -r -c
 
+super + shift + s
+    spectacle -b -r -c
+
 # Take a screenshot of a selection
 alt + Print
 	spectacle -b -a -c
@@ -116,12 +119,11 @@ super + b
 
 # Lock The Screen
 ctrl + alt + Delete
-    XSECURE_LOCK_FONT="microsoft-comic sans ms-medium-r-normal--0-0-0-0-p-0-ascii-0" \
-        XSECURELOCK_SAVER=saver_mplayer \
-	    XSECURELOCK_PASSWORD_PROMPT=time \
-        XSECURELOCK_DISCARD_FIRST_KEYPRESS=0 \
-        XSECURELOCK_LIST_VIDEOS_COMMAND="find /opt/ATV4 -type l,f" \
-        xsecurelock
+    lock
+
+# Lock and Suspend
+super + alt + Delete
+    lock-no-video & systemctl suspend
 
 # Toggle Monitor
 XF86Display

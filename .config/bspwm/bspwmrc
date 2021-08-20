@@ -7,7 +7,6 @@ dunst &
 nm-applet &
 solaar &
 touch /tmp/barHidden
-autocutsel -s PRIMARY -fork
 autocutsel -s CLIPBOARD -fork
 udiskie &
 setxkbmap -option compose:ralt

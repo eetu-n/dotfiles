@@ -1,15 +1,8 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
-icon="$HOME/.lock.png"
-tmpbg='/tmp/screen.png'
+XSECURELOCK_SAVER=saver_mplayer \
+    XSECURELOCK_PASSWORD_PROMPT=time \
+    XSECURELOCK_DISCARD_FIRST_KEYPRESS=0 \
+    XSECURELOCK_LIST_VIDEOS_COMMAND="find /opt/ATV4 -type l,f" \
+    xsecurelock
 
-(( $# )) && { icon=$1; }
-
-if [[ -e $tmpbg ]]
-then
-    rm $tmpbg
-fi
-scrot "$tmpbg"
-convert "$tmpbg" -scale 10% -scale 1000% "$tmpbg"
-convert "$tmpbg" "$icon" -geometry +832+412 -composite -matte "$tmpbg"
-i3lock -u -i "$tmpbg"

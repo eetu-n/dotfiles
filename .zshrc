@@ -57,5 +57,8 @@ bindkey "^[[H" beginning-of-line
 bindkey "^[[F" end-of-line
 bindkey "^[[3~" delete-char
 
+# pbcopy
+alias pbcopy="xclip -selection clipboard"
+
 source ~/.localOptions
 

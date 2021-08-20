@@ -55,6 +55,12 @@ background_opacity: 1.0
 
 live_config_reload: true
 
+selection:
+  save_to_clipboard: true
+
+window:
+  dynamic_title: true
+
 mouse:
   # Click settings
   #
