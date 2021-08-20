@@ -219,7 +219,7 @@ Version         : 5.11.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20210716.b7c134f-1
+Version         : 20210818.c46b8c3-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
