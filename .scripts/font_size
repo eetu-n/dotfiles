@@ -1,0 +1,32 @@
+#!/bin/bash
+
+CURRENT=`tail -n 1 ~/.config/alacritty/font_size.yml | cut -d " " -f 4`
+
+if [[ $1 == + ]]; then
+    FINAL=$(($CURRENT + 1))
+    echo 1
+    
+elif [[ $1 == - ]]; then
+    FINAL=$(($CURRENT - 1))
+
+elif [[ $1 =~ ^[0-9]+$ ]]; then
+    FINAL=$1
+
+elif [[ $1 =~ ^\+[0-9]+$ ]]; then
+    FINAL=$(($CURRENT + `echo $1 | cut -c 2-`))
+
+elif [[ $1 =~ ^\-[0-9]+$ ]]; then
+    FINAL=$(($CURRENT - `echo $1 | cut -c 2-`))
+
+else
+    exit 1
+fi
+
+if [[ $FINAL -lt 6 ]]; then
+    FINAL=6
+fi
+
+echo -e "font:\n  size: $FINAL" > ~/.config/alacritty/font_size.yml
+touch ~/.config/alacritty/alacritty.yml
+
+exit

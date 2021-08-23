@@ -10,8 +10,11 @@ scrolling:
   multiplier: 3
 
 # Font configuration
-font:
-  size: 11
+#font:
+  #  size: 11
+
+import:
+  - ~/.config/alacritty/font_size.yml
 
 # Env variables
 env:

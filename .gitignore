@@ -74,3 +74,4 @@ enarhi_*
 .mopidy/
 .vscode-oss/
 .xscreensaver
+.config/alacritty/font_size.yml

@@ -178,6 +178,17 @@ super + ctrl + alt + shift + t
     xdotool windowreparent `cat /tmp/tabbed | xargs xwininfo -children -id | sed -n '/[0-9]\+ \(child\|children\):/,$s/ \+\(0x[0-9a-z]\+\).*/\1/p' | head -n1` `xwininfo -root | grep "Window id" | cut -c 22-26`
 
 
+# Font size change
+super + plus
+    font_size +1
+
+super + minus
+    font_size -1
+
+super + equal
+    font_size 11
+
+
 #
 # bspwm hotkeys
 #
