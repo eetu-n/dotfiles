@@ -2,6 +2,10 @@ Name            : acpi
 Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
+Name            : acpilight
+Version         : 1.2-2
+Description     : a backward-compatible xbacklight replacement based on ACPI
+
 Name            : adobe-base-14-fonts
 Version         : 3.01-4
 Description     : Adobe base 14 fonts (Courier, Helvetica, Times, Symbol, ZapfDingbats with Type1)
@@ -109,6 +113,10 @@ Description     : Anti-virus toolkit for Unix
 Name            : clamtk
 Version         : 6.13-1
 Description     : Easy to use, light-weight, on-demand virus scanner for Linux systems
+
+Name            : clight
+Version         : 4.7-1
+Description     : A C daemon that turns your webcam into a light sensor. It can also change display gamma temperature, dim your screen and set your dpms.
 
 Name            : cloc
 Version         : 1.90-1
@@ -625,10 +633,6 @@ Description     : Simple X server performance benchmarker
 Name            : xorg-xauth
 Version         : 1.1-2
 Description     : X.Org authorization settings program
-
-Name            : xorg-xbacklight
-Version         : 1.2.3-2
-Description     : RandR-based backlight control application
 
 Name            : xorg-xcmsdb
 Version         : 1.0.5-3
