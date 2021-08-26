@@ -130,6 +130,10 @@ Name            : code-marketplace
 Version         : 1.54.3-4
 Description     : Enable vscode marketplace in Code OSS
 
+Name            : discord
+Version         : 0.0.15-1
+Description     : All-in-one voice and text chat for gamers that's free and secure.
+
 Name            : dosfstools
 Version         : 4.2-1
 Description     : DOS filesystem utilities
