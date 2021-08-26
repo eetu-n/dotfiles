@@ -87,15 +87,15 @@ Version         : 2.2.2-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.60-1
+Version         : 5.61-1
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.60-1
+Version         : 5.61-1
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.60-1
+Version         : 5.61-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : breeze-dark-flat
