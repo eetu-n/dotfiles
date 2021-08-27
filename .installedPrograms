@@ -343,19 +343,19 @@ Version         : 8.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pipewire
-Version         : 1:0.3.33-1
+Version         : 1:0.3.34-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.33-1
+Version         : 1:0.3.34-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.33-1
+Version         : 1:0.3.34-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.33-1
+Version         : 1:0.3.34-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -521,6 +521,10 @@ Description     : Core TTF Fonts from Microsoft
 Name            : udiskie
 Version         : 2.3.3-1
 Description     : Removable disk automounter using udisks
+
+Name            : usbutils
+Version         : 014-1
+Description     : A collection of USB tools to query connected USB devices
 
 Name            : vault
 Version         : 1.7.3-1
