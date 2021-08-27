@@ -418,6 +418,10 @@ Name            : rofi-dmenu
 Version         : 1-1
 Description     : Symlink for using Rofi as a drop-in replacement to dmenu
 
+Name            : rsync
+Version         : 3.2.3-4
+Description     : A fast and versatile file copying tool for remote and local files
+
 Name            : rxvt-unicode
 Version         : 9.26-2
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
