@@ -3,15 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-<<<<<<< HEAD
-<<<<<<< HEAD
-Version         : 1.2.1-80
-=======
-Version         : 1.2.1-79
->>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
-=======
-Version         : 1.2.1-80
->>>>>>> ca28fea (Update on 2021-08-18 21:41:12)
+Version         : 1.2.1-82
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -25,6 +17,10 @@ Description     : Adobe base 14 fonts (Courier, Helvetica, Times, Symbol, ZapfDi
 Name            : adobe-source-code-pro-fonts
 Version         : 2.038ro+1.058it+1.018var-1
 Description     : Monospaced font family for user interface and coding environments
+
+Name            : alacritty
+Version         : 0.9.0-1
+Description     : A cross-platform, GPU-accelerated terminal emulator
 
 Name            : alsa-firmware
 Version         : 1.2.4-2
@@ -83,7 +79,7 @@ Version         : 13.0.06-1
 Description     : GNU Unifont Glyphs
 
 Name            : bind
-Version         : 9.16.19-1
+Version         : 9.16.20-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -103,7 +99,7 @@ Version         : 5.58-1
 Description     : deprecated hcitool from bluez
 
 Name            : bluez-utils
-Version         : 5.60-1
+Version         : 5.61-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bonnie++
@@ -139,15 +135,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-<<<<<<< HEAD
-<<<<<<< HEAD
 Version         : 92.0.4515.159-1
-=======
-Version         : 92.0.4515.131-1
->>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
-=======
-Version         : 92.0.4515.159-1
->>>>>>> ca28fea (Update on 2021-08-18 21:41:12)
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -163,7 +151,7 @@ Version         : 8.32-1
 Description     : The basic file, shell and text manipulation utilities of the GNU operating system
 
 Name            : cryptsetup
-Version         : 2.3.6-1
+Version         : 2.4.0-1
 Description     : Userspace setup tool for transparent encryption of block devices using dm-crypt
 
 Name            : cups-pdf
@@ -219,7 +207,7 @@ Version         : 1.6.1-2
 Description     : Customizable and lightweight notification-daemon
 
 Name            : e2fsprogs
-Version         : 1.46.3-3
+Version         : 1.46.4-1
 Description     : Ext2/3/4 filesystem utilities
 
 Name            : efibootmgr
@@ -283,7 +271,7 @@ Version         : 4.8.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 91.0-1
+Version         : 91.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -450,12 +438,16 @@ Name            : kdesu
 Version         : 5.85.0-1
 Description     : Integration with su for elevated privileges
 
+Name            : keychain
+Version         : 2.8.5-2
+Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
+
 Name            : less
 Version         : 1:590-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 21.1.6-1
+Version         : 21.2.1-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -463,7 +455,7 @@ Version         : 0.2.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 7.1.5-2
+Version         : 7.2.0-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
@@ -487,15 +479,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-<<<<<<< HEAD
-<<<<<<< HEAD
-Version         : 5.13.10.arch1-1
-=======
-Version         : 5.13.9.arch1-1
->>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
-=======
-Version         : 5.13.10.arch1-1
->>>>>>> ca28fea (Update on 2021-08-18 21:41:12)
+Version         : 5.13.13.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -607,7 +591,7 @@ Version         : 1.24.0-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.32.8-1
+Version         : 1.32.10-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-dmenu-git
@@ -655,7 +639,7 @@ Version         : 27.0.1-2
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
-Version         : 8.6p1-1
+Version         : 8.7p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : pacman
@@ -691,7 +675,7 @@ Version         : 2.1.2-2
 Description     : A tool to search text in PDF files
 
 Name            : pdftk
-Version         : 3.3.0-1
+Version         : 3.3.1-1
 Description     : Command-line tool for working with PDFs
 
 Name            : perl
@@ -783,15 +767,7 @@ Version         : 2.4.5-2
 Description     : Powerful interactive packet manipulation program written in Python (library)
 
 Name            : python-virtualenv
-<<<<<<< HEAD
-<<<<<<< HEAD
 Version         : 20.7.2-1
-=======
-Version         : 20.7.0-1
->>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
-=======
-Version         : 20.7.2-1
->>>>>>> ca28fea (Update on 2021-08-18 21:41:12)
 Description     : Virtual Python Environment builder
 
 Name            : python-vulture
@@ -835,7 +811,7 @@ Version         : 0.2.1-7
 Description     : A lightweight and fast raw image thumbnailer that can be used by file managers.
 
 Name            : rawtherapee
-Version         : 1:5.8-1
+Version         : 1:5.8-2
 Description     : A powerful cross-platform raw image processing program
 
 Name            : rbutil
@@ -887,7 +863,7 @@ Version         : 14.9.22-1
 Description     : Environment for sending and receiving mail
 
 Name            : samba
-Version         : 4.14.6-1
+Version         : 4.14.7-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -911,15 +887,7 @@ Version         : 4.8.1-4
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-<<<<<<< HEAD
-<<<<<<< HEAD
-Version         : 5.14.0-1
-=======
-Version         : 5.12.2-1
->>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
-=======
-Version         : 5.14.0-1
->>>>>>> ca28fea (Update on 2021-08-18 21:41:12)
+Version         : 5.15.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -927,7 +895,7 @@ Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : smplayer
-Version         : 21.1.0-1
+Version         : 21.8.0-1
 Description     : Media player with built-in codecs that can play virtually all video and audio formats
 
 Name            : soundconverter
@@ -959,7 +927,7 @@ Version         : 1:1.6.1-1
 Description     : Tiling Wayland compositor and replacement for the i3 window manager
 
 Name            : swayidle
-Version         : 1.6-1
+Version         : 1.7-2
 Description     : Idle management daemon for Wayland
 
 Name            : swaylock
@@ -987,20 +955,8 @@ Version         : 1.34-1
 Description     : Utility used to store, backup, and transport files
 
 Name            : telegram-desktop
-<<<<<<< HEAD
-<<<<<<< HEAD
 Version         : 2.9.3-1
-=======
-Version         : 2.9.0-4
->>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
-=======
-Version         : 2.9.3-1
->>>>>>> ca28fea (Update on 2021-08-18 21:41:12)
 Description     : Official Telegram Desktop client
-
-Name            : termite
-Version         : 15-7
-Description     : A simple VTE-based terminal
 
 Name            : texinfo
 Version         : 6.8-2
@@ -1135,19 +1091,11 @@ Version         : 6.0-14
 Description     : For extracting and viewing files in .zip archives
 
 Name            : usbutils
-Version         : 013-1
+Version         : 014-1
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : util-linux
-<<<<<<< HEAD
-<<<<<<< HEAD
 Version         : 2.37.2-1
-=======
-Version         : 2.37.1-3
->>>>>>> 0ec9b0c (Update on 2021-08-10 19:12:05)
-=======
-Version         : 2.37.2-1
->>>>>>> ca28fea (Update on 2021-08-18 21:41:12)
 Description     : Miscellaneous system utilities for Linux
 
 Name            : valgrind
@@ -1179,7 +1127,7 @@ Version         : 5.5.10-1
 Description     : Intelligent WHOIS client
 
 Name            : winetricks
-Version         : 20210206-1
+Version         : 20210825-1
 Description     : Script to install various redistributable runtime libraries in Wine.
 
 Name            : wireless_tools
@@ -1187,11 +1135,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.4.7-1
+Version         : 3.4.8-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.4.7-1
+Version         : 3.4.8-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
@@ -1227,7 +1175,7 @@ Version         : 1.0.17-1
 Description     : Open Source 3D acceleration driver for nVidia cards
 
 Name            : xfsprogs
-Version         : 5.12.0-1
+Version         : 5.13.0-1
 Description     : XFS filesystem utilities
 
 Name            : xorg-bdftopcf
@@ -1343,7 +1291,7 @@ Version         : 1.5.1-2
 Description     : Primitive command line interface to RandR extension
 
 Name            : xorg-xrdb
-Version         : 1.2.0-2
+Version         : 1.2.1-1
 Description     : X server resource database utility
 
 Name            : xorg-xrefresh
@@ -1373,6 +1321,10 @@ Description     : Command-line utility to print information about windows on an 
 Name            : xorg-xwud
 Version         : 1.0.5-2
 Description     : X Window System image undumping utility
+
+Name            : xsecurelock
+Version         : 1.7.0-1
+Description     : X11 screen lock utility with security in mind
 
 Name            : xsensors
 Version         : 0.80-3
