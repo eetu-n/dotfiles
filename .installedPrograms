@@ -227,7 +227,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.13.12.arch1-1
+Version         : 5.13.13.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -235,11 +235,11 @@ Version         : 20210818.c46b8c3-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.60-1
+Version         : 5.10.61-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.13.12.zen1-1
+Version         : 5.13.13.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -439,7 +439,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.14.0-2
+Version         : 5.15.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -731,7 +731,7 @@ Version         : 1.5.1-2
 Description     : Primitive command line interface to RandR extension
 
 Name            : xorg-xrdb
-Version         : 1.2.0-2
+Version         : 1.2.1-1
 Description     : X server resource database utility
 
 Name            : xorg-xrefresh
