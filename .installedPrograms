@@ -843,7 +843,7 @@ Version         : 2.10.1-2
 Description     : Graphical user interface for rmlint
 
 Name            : rofi
-Version         : 1.6.1-1
+Version         : 1.7.0-1
 Description     : A window switcher, application launcher and dmenu replacement
 
 Name            : rofi-calc
