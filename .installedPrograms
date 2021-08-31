@@ -519,7 +519,7 @@ Version         : 2.9.4-2
 Description     : A utility for reading man pages
 
 Name            : man-pages
-Version         : 5.12-2
+Version         : 5.13-1
 Description     : Linux man pages
 
 Name            : mdadm
@@ -943,7 +943,7 @@ Version         : 2.1.1-1
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 249.3-1
+Version         : 249.4-1
 Description     : sysvinit compat for systemd
 
 Name            : tabbed-git
