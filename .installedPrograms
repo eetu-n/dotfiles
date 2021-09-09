@@ -163,7 +163,7 @@ Version         : 3.7.1-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 91.0.2-1
+Version         : 92.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -235,7 +235,7 @@ Version         : 20210818.c46b8c3-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.62-1
+Version         : 5.10.63-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
@@ -439,7 +439,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.16.0-1
+Version         : 5.17.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -499,7 +499,7 @@ Version         : 4.16.8-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 78.14.0-1
+Version         : 91.1.0-2
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -539,7 +539,7 @@ Version         : 1.7.3-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 8.2.2891-1
+Version         : 8.2.3412-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
