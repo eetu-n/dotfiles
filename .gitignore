@@ -46,7 +46,8 @@ VirtualBox VMs/
 .config/systemd
 .config/teams
 .config/xfce4/
-.congig/mimeapps.list
+.config/mimeapps.list
+.config/zoomus.conf
 .fehbg
 .gem/
 .gitcfg
@@ -79,6 +80,7 @@ VirtualBox VMs/
 .xinitrc
 .xscreensaver
 .zcompdump
+.zoom/
 .zprofile
 enarhi_*
 openldap_vagrant/
