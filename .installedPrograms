@@ -227,7 +227,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.13.13.arch1-1
+Version         : 5.14.2.arch1-2
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -239,7 +239,7 @@ Version         : 5.10.63-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.13.13.zen1-1
+Version         : 5.14.2.zen1-2
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -551,7 +551,7 @@ Version         : 6.1.26-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.26-8
+Version         : 6.1.26-11
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -801,6 +801,10 @@ Description     : Command-line YAML/XML processor - jq wrapper for YAML/XML docu
 Name            : yubioath-desktop
 Version         : 5.0.5-1
 Description     : Yubico Authenticator for Desktop
+
+Name            : zoom
+Version         : 5.7.6a-1
+Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
 Version         : 5.8-1
