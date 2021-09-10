@@ -45,7 +45,7 @@ font-2 = "Wuncon Siji:pixelsize=10;1"
 
 modules-left = bspwm
 modules-center = mpd
-modules-right = volume xbacklight battery date
+modules-right = volume backlight-acpi battery date
 
 tray-position = right
 tray-padding = 2
@@ -169,7 +169,7 @@ format-prefix-foreground = ${colors.foreground-alt}
 label = %date% %time%
 
 [module/volume]
-type = internal/alsa
+type = internal/pulseaudio
 
 format-volume = <label-volume> <bar-volume>
 label-volume = 
