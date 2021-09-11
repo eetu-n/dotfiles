@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-82
+Version         : 1.2.1-85
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -479,7 +479,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.13.13.arch1-1
+Version         : 5.14.2.arch1-2
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -623,7 +623,7 @@ Version         : 20210625-1
 Description     : Google Noto emoji fonts
 
 Name            : ntfs-3g
-Version         : 2017.3.23-5
+Version         : 2021.8.22-1
 Description     : NTFS filesystem driver and utilities
 
 Name            : ntp
@@ -863,7 +863,7 @@ Version         : 14.9.22-1
 Description     : Environment for sending and receiving mail
 
 Name            : samba
-Version         : 4.14.7-1
+Version         : 4.14.7-2
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -887,7 +887,7 @@ Version         : 4.8.1-4
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.17.0-1
+Version         : 5.17.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -1019,7 +1019,7 @@ Version         : 3.31-1
 Description     : Magnificent app which corrects your previous console command
 
 Name            : thunar
-Version         : 4.16.8-1
+Version         : 4.16.9-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
