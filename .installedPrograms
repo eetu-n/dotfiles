@@ -435,7 +435,7 @@ Version         : 21.08.1-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.85.0-1
+Version         : 5.86.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : keychain
@@ -583,7 +583,7 @@ Version         : 2.1.0-2
 Description     : Patched font SourceCodePro from nerd-fonts library
 
 Name            : netctl
-Version         : 1.25-1
+Version         : 1.26-1
 Description     : Profile based systemd network management
 
 Name            : network-manager-applet
