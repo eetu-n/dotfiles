@@ -42,4 +42,4 @@ setxkbmap -option compose:ralt
 
 # Scratchpad
 bspc rule -a scratchpad sticky=on state=floating hidden=on
-alacritty --hold -e scratch &
+alacritty --hold --class scratchpad -e scratch &

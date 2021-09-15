@@ -196,8 +196,9 @@ super + equal
 # Scratchpad
 super + shift + e
 	id=$(cat /tmp/scratchid);\
-	curDesk=$(bspc query -D -d focused);\
-	bspc node $id -d $curDesk;bspc node $id -g hidden;bspc node -f $id
+	bspc node $id -d focused; bspc node $id -g hidden -f;\
+    read WIDTH HEIGHT < <(get-monitor-resolution);\
+    xdo resize -w $WIDTH $id
 
 # quit bspwm normally
 super + alt + Escape

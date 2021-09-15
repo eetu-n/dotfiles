@@ -1,0 +1,22 @@
+#!/bin/zsh
+
+XRANDR_OUT=$(xrandr --verbose)
+
+CUR_MON=$(bspc query -M -d focused --names)
+PRIMARY_MON=$(echo "$XRANDR_OUT" | grep primary | cut -d ' ' -f1)
+
+if [[ $CUR_MON == $PRIMARY_MON ]]; then
+    N=6
+else
+    N=5
+fi
+
+MON_ORIENTATION=$(echo "$XRANDR_OUT" | grep $CUR_MON | cut -d ' ' -f$N)
+
+if [[ $MON_ORIENTATION = "normal" || $MON_ORIENTATION = "inverted" ]]; then
+    read WIDTH HEIGHT < <(xdotool getdisplaygeometry)
+else
+    read HEIGHT WIDTH < <(xdotool getdisplaygeometry)
+fi
+
+echo "$WIDTH $HEIGHT"
