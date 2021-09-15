@@ -107,7 +107,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : clamav
-Version         : 0.103.3-1
+Version         : 0.104.0-1
 Description     : Anti-virus toolkit for Unix
 
 Name            : clamtk
@@ -199,7 +199,7 @@ Version         : 21.8.0.40-1
 Description     : Citrix Workspace App for x86_64 (64bit) Linux (ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.6-1
+Version         : 7.1.0.7-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -227,7 +227,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.14.2.arch1-2
+Version         : 5.14.3.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -235,11 +235,11 @@ Version         : 20210818.c46b8c3-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.63-1
+Version         : 5.10.64-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.14.2.zen1-2
+Version         : 5.14.3.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -439,7 +439,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.17.0-1
+Version         : 5.17.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -471,7 +471,7 @@ Version         : 1.09-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 5.13-1
+Version         : 5.14-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
@@ -495,7 +495,7 @@ Version         : 6.8-2
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : thunar
-Version         : 4.16.8-1
+Version         : 4.16.9-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
@@ -551,7 +551,7 @@ Version         : 6.1.26-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.26-11
+Version         : 6.1.26-12
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
