@@ -243,7 +243,7 @@ Version         : 1.3.0-2
 Description     : Utilities for exFAT file system
 
 Name            : fakeroot
-Version         : 1.25.3-2
+Version         : 1.26-1
 Description     : Tool for simulating superuser privileges
 
 Name            : feh
@@ -311,7 +311,7 @@ Version         : 0.21-1
 Description     : GNU internationalization library
 
 Name            : gimp
-Version         : 2.10.26-1
+Version         : 2.10.28-1
 Description     : GNU Image Manipulation Program
 
 Name            : git
@@ -381,10 +381,6 @@ Description     : A popular and easy to use graphical IRC (chat) client
 Name            : htop
 Version         : 3.0.5-1
 Description     : Interactive process viewer
-
-Name            : i3lock
-Version         : 2.13-1
-Description     : Improved screenlocker based upon XCB and PAM
 
 Name            : i7z
 Version         : 0.27.2.git1-8
@@ -481,6 +477,10 @@ Description     : A musical instrument tuner
 Name            : linux
 Version         : 5.14.3.arch1-1
 Description     : The Linux kernel and modules
+
+Name            : linux-lts
+Version         : 5.10.64-1
+Description     : The LTS Linux kernel and modules
 
 Name            : logrotate
 Version         : 3.18.1-1
@@ -917,6 +917,10 @@ Description     : Valve's digital software delivery system
 Name            : steam-fonts
 Version         : 1.0.0-6
 Description     : Fonts to fix scrambled or missing text in steam menus
+
+Name            : steam-native-runtime
+Version         : 1.0.0.70-2
+Description     : Native replacement for the Steam runtime using system libraries
 
 Name            : sudo
 Version         : 1.9.8-1
