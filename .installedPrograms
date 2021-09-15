@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.1-85
+Version         : 1.2.1-86
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -35,7 +35,7 @@ Version         : 0.1.10-6
 Description     : Provide a simple visual front end for XRandR 1.2.
 
 Name            : arduino
-Version         : 1:1.8.15-1
+Version         : 1:1.8.16-1
 Description     : Arduino prototyping platform SDK
 
 Name            : arduino-docs
@@ -135,7 +135,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 93.0.4577.63-1
+Version         : 93.0.4577.82-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -263,7 +263,7 @@ Version         : 2021.05.31-1
 Description     : Base Arch Linux files
 
 Name            : filezilla
-Version         : 3.55.1-1
+Version         : 3.55.1-2
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
@@ -479,7 +479,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.14.2.arch1-2
+Version         : 5.14.3.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : logrotate
@@ -919,7 +919,7 @@ Version         : 1.0.0-6
 Description     : Fonts to fix scrambled or missing text in steam menus
 
 Name            : sudo
-Version         : 1.9.7.p2-1
+Version         : 1.9.8-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sway
