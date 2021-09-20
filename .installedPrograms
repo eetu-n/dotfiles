@@ -71,7 +71,7 @@ Version         : 2-2
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bind
-Version         : 9.16.20-1
+Version         : 9.16.21-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -151,7 +151,7 @@ Version         : 1.6.1-2
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.1.0-1
+Version         : 6.1.1-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -167,7 +167,7 @@ Version         : 3.7.1-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 92.0-1
+Version         : 92.0-2
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -203,11 +203,11 @@ Version         : 21.8.0.40-1
 Description     : Citrix Workspace App for x86_64 (64bit) Linux (ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.7-1
+Version         : 7.1.0.8-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
-Version         : 2.1-1
+Version         : 2.2-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
@@ -231,7 +231,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.14.3.arch1-1
+Version         : 5.14.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -239,11 +239,11 @@ Version         : 20210818.c46b8c3-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.64-1
+Version         : 5.10.67-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.14.3.zen1-1
+Version         : 5.14.6.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -327,7 +327,7 @@ Version         : 20210625-1
 Description     : Google Noto emoji fonts
 
 Name            : openssh
-Version         : 8.7p1-1
+Version         : 8.7p1-2
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : paper-icon-theme
@@ -347,23 +347,23 @@ Version         : 8.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pipewire
-Version         : 1:0.3.35-1
+Version         : 1:0.3.36-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.35-1
+Version         : 1:0.3.36-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.35-1
+Version         : 1:0.3.36-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.35-1
+Version         : 1:0.3.36-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
-Version         : 1.7.3-1
+Version         : 1.8.0-1
 Description     : Package compiler and linker metadata toolkit
 
 Name            : playerctl
@@ -443,7 +443,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.17.1-1
+Version         : 5.17.2-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -467,7 +467,7 @@ Version         : 21.08.1-1
 Description     : KDE screenshot capture utility
 
 Name            : spotify
-Version         : 1:1.1.67.586-1
+Version         : 1:1.1.68.628-1
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -479,7 +479,7 @@ Version         : 5.14-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.8-2
+Version         : 1.9.8.p1-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -499,11 +499,11 @@ Version         : 6.8-2
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : thunar
-Version         : 4.16.9-1
+Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.1.0-2
+Version         : 91.1.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -555,7 +555,7 @@ Version         : 6.1.26-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.26-12
+Version         : 6.1.26-16
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
