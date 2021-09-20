@@ -114,10 +114,6 @@ Name            : clamtk
 Version         : 6.13-1
 Description     : Easy to use, light-weight, on-demand virus scanner for Linux systems
 
-Name            : clight
-Version         : 4.7-1
-Description     : A C daemon that turns your webcam into a light sensor. It can also change display gamma temperature, dim your screen and set your dpms.
-
 Name            : cloc
 Version         : 1.90-1
 Description     : Count lines of code
@@ -151,7 +147,7 @@ Version         : 1.6.1-2
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.1.1-1
+Version         : 6.1.2-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -275,7 +271,7 @@ Version         : 3.58.2-1
 Description     : A Mopidy Web client that utilizes the Spotify and EchoNest frameworks. (Formerly Spotmop)
 
 Name            : mopidy-mpd
-Version         : 3.1.0-2
+Version         : 3.2.0-2
 Description     : Mopidy extension for controlling playback from MPD clients
 
 Name            : mopidy-spotify
