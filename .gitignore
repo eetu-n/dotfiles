@@ -52,6 +52,7 @@ VirtualBox VMs/
 .gem/
 .gitcfg
 .gitconfig
+.git-credentials
 .gnupg/
 .gtkrc-2.0
 .histfile
