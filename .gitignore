@@ -48,6 +48,7 @@ VirtualBox VMs/
 .config/xfce4/
 .config/mimeapps.list
 .config/zoomus.conf
+.docker/
 .fehbg
 .gem/
 .gitcfg
