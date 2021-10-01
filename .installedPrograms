@@ -107,7 +107,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 94.0.4606.61-1
+Version         : 94.0.4606.71-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : clamav
@@ -239,7 +239,7 @@ Version         : 20210919.d526e04-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.69-1
+Version         : 5.10.70-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
@@ -527,7 +527,7 @@ Version         : 5.15.4-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
-Version         : 2.1.4-1
+Version         : 2.1.5-1
 Description     : Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
 
 Name            : ttf-ms-fonts
