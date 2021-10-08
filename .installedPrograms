@@ -107,7 +107,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 94.0.4606.71-2
+Version         : 94.0.4606.81-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
