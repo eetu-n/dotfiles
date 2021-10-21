@@ -586,6 +586,10 @@ Name            : vim-ansible
 Version         : 3.2-1
 Description     : A vim plugin for syntax highlighting Ansible's common filetypes
 
+Name            : virt-manager
+Version         : 3.2.0-1
+Description     : Desktop user interface for managing virtual machines
+
 Name            : virtualbox
 Version         : 6.1.26-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
