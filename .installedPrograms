@@ -79,7 +79,7 @@ Version         : 2.36.1-3
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
-Version         : 3.8.1-1
+Version         : 3.8.2-1
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
@@ -87,15 +87,15 @@ Version         : 2.2.2-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.61-1
+Version         : 5.62-1
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.61-1
+Version         : 5.62-1
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.61-1
+Version         : 5.62-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : breeze-dark-flat
@@ -107,7 +107,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 94.0.4606.81-1
+Version         : 95.0.4638.54-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -151,11 +151,11 @@ Version         : 10.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.6.1-2
+Version         : 1.7.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.1.3-1
+Version         : 6.1.4-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -183,11 +183,11 @@ Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
 
 Name            : freerdp
-Version         : 2:2.4.0-1
+Version         : 2:2.4.0-2
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
-Version         : 0.27.2-2
+Version         : 0.27.3-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -195,7 +195,7 @@ Version         : 11.1.0-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : git
-Version         : 2.33.0-1
+Version         : 2.33.1-1
 Description     : the fast distributed version control system
 
 Name            : gnu-free-fonts
@@ -207,7 +207,7 @@ Version         : 1.22.4-6
 Description     : GNU troff text-formatting system
 
 Name            : htop
-Version         : 3.1.0-1
+Version         : 3.1.1-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
@@ -243,7 +243,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.14.11.arch1-1
+Version         : 5.14.14.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -251,11 +251,11 @@ Version         : 20210919.d526e04-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.72-1
+Version         : 5.10.75-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.14.11.zen1-1
+Version         : 5.14.14.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -315,7 +315,7 @@ Version         : 0.8.6-1
 Description     : Notify about tracks played by mpd
 
 Name            : mplayer
-Version         : 38157-4
+Version         : 38322-1
 Description     : Media player for Linux
 
 Name            : mpv
@@ -335,7 +335,7 @@ Version         : 1.8.16-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nomacs
-Version         : 1:3.17.2206-3
+Version         : 1:3.17.2206-5
 Description     : A Qt image viewer
 
 Name            : noto-fonts
@@ -431,7 +431,7 @@ Version         : 1.12-4
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : remmina
-Version         : 1:1.4.20-1
+Version         : 1:1.4.21-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -471,7 +471,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.19.0-1
+Version         : 5.20.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -535,7 +535,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.2.0-1
+Version         : 91.2.0-2
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -571,7 +571,7 @@ Version         : 014-1
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : vagrant
-Version         : 2.2.18-1
+Version         : 2.2.18-2
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
@@ -587,15 +587,15 @@ Version         : 3.2-1
 Description     : A vim plugin for syntax highlighting Ansible's common filetypes
 
 Name            : virt-manager
-Version         : 3.2.0-1
+Version         : 3.2.0-3
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 6.1.26-1
+Version         : 6.1.28-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.26-22
+Version         : 6.1.28-2
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -835,7 +835,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 11.0.1-1
+Version         : 11.0.2-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
