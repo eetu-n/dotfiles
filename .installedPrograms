@@ -134,6 +134,10 @@ Name            : code-marketplace
 Version         : 1.54.3-4
 Description     : Enable vscode marketplace in Code OSS
 
+Name            : cups-pdf
+Version         : 3.0.1-6
+Description     : PDF printer for cups
+
 Name            : discord
 Version         : 0.0.16-1
 Description     : All-in-one voice and text chat for gamers that's free and secure.
@@ -151,7 +155,7 @@ Version         : 10.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.7.0-1
+Version         : 1.7.0-2
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
@@ -183,7 +187,7 @@ Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
 
 Name            : freerdp
-Version         : 2:2.4.0-2
+Version         : 2:2.4.1-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
@@ -211,7 +215,7 @@ Version         : 3.1.1-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
-Version         : 7.1.0.10-1
+Version         : 7.1.0.11-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -315,7 +319,7 @@ Version         : 0.8.6-1
 Description     : Notify about tracks played by mpd
 
 Name            : mplayer
-Version         : 38322-1
+Version         : 38322-2
 Description     : Media player for Linux
 
 Name            : mpv
@@ -367,19 +371,19 @@ Version         : 8.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pipewire
-Version         : 1:0.3.38-1
+Version         : 1:0.3.39-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.38-1
+Version         : 1:0.3.39-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.38-1
+Version         : 1:0.3.39-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.38-1
+Version         : 1:0.3.39-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -389,6 +393,10 @@ Description     : Package compiler and linker metadata toolkit
 Name            : playerctl
 Version         : 2.4.1-1
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
+
+Name            : plex-media-player
+Version         : 2.58.1-1
+Description     : Next generation Plex Desktop Client
 
 Name            : polybar
 Version         : 3.5.7-1
@@ -535,7 +543,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.2.0-2
+Version         : 91.2.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -591,7 +599,7 @@ Version         : 3.2.0-3
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 6.1.28-2
+Version         : 6.1.28-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
@@ -623,7 +631,7 @@ Version         : 0.5.7-2
 Description     : Utility for performing actions on windows in X
 
 Name            : xdotool
-Version         : 3.20210903.1-1
+Version         : 3.20211022.1-1
 Description     : Command-line X11 automation tool
 
 Name            : xf86-video-vesa
