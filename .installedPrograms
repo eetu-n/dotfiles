@@ -87,7 +87,7 @@ Version         : 3.8.2-1
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.2.2-1
+Version         : 2.2.3-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
@@ -219,7 +219,7 @@ Version         : 3.1.1-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
-Version         : 7.1.0.12-1
+Version         : 7.1.0.13-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -255,7 +255,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.14.14.arch1-1
+Version         : 5.14.15.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -263,11 +263,11 @@ Version         : 20210919.d526e04-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.75-1
+Version         : 5.10.76-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.14.14.zen1-1
+Version         : 5.14.15.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -543,7 +543,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.1.9-1
+Version         : 3.1.11-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -683,27 +683,27 @@ Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.13-2
+Version         : 1.20.13-3
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 1.20.13-2
+Version         : 1.20.13-3
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 1.20.13-2
+Version         : 1.20.13-3
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 1.20.13-2
+Version         : 1.20.13-3
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 1.20.13-2
+Version         : 1.20.13-3
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 1.20.13-2
+Version         : 1.20.13-3
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
