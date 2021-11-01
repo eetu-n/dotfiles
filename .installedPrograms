@@ -543,7 +543,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.1.11-1
+Version         : 3.1.11-2
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -615,7 +615,7 @@ Version         : 6.1.28-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.28-2
+Version         : 6.1.28-3
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
