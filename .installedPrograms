@@ -131,7 +131,7 @@ Version         : 1.90-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.61.0-1
+Version         : 1.62.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -183,7 +183,7 @@ Version         : 3.7.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 94.0-1
+Version         : 94.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -263,11 +263,11 @@ Version         : 5.14.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20210919.d526e04-1
+Version         : 20211027.1d00989-1
 Description     : Firmware files for Linux
 
 Name            : linux-lts
-Version         : 5.10.77-3
+Version         : 5.10.78-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
@@ -451,7 +451,7 @@ Version         : 20.3.4-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2021.5.29-1
+Version         : 2021.11.5.0-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : ranger
@@ -511,7 +511,7 @@ Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : slack-desktop
-Version         : 4.20.0-1
+Version         : 4.21.1-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -555,7 +555,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.2.1-1
+Version         : 3.2.2-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -875,7 +875,7 @@ Version         : 2.12.2-2
 Description     : Command-line YAML/XML processor - jq wrapper for YAML/XML documents
 
 Name            : yubioath-desktop
-Version         : 5.0.5-1
+Version         : 5.1.0-1
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
