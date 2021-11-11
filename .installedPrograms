@@ -119,7 +119,7 @@ Version         : 4.1-1
 Description     : Lightweight NTP client and server
 
 Name            : clamav
-Version         : 0.104.0-1
+Version         : 0.104.1-1
 Description     : Anti-virus toolkit for Unix
 
 Name            : clamtk
@@ -239,7 +239,7 @@ Version         : 1.8.18-7
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jdk-openjdk
-Version         : 17.u35-1
+Version         : 17.0.1.u12-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : keepassxc
@@ -451,8 +451,12 @@ Version         : 20.3.4-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2021.11.5.0-1
+Version         : 2021.11.9-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
+
+Name            : python-zabbix-api
+Version         : 0.5.4-2
+Description     : Python Zabbix API
 
 Name            : ranger
 Version         : 1.9.3-3
@@ -491,7 +495,7 @@ Version         : 9.26-2
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : scrot
-Version         : 1.6-2
+Version         : 1.7-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
@@ -503,7 +507,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.23.0-1
+Version         : 5.23.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -555,7 +559,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.2.2-1
+Version         : 3.2.3-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -611,7 +615,7 @@ Version         : 1.7.3-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 8.2.3441-1
+Version         : 8.2.3582-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -659,7 +663,7 @@ Version         : 3.20211022.1-1
 Description     : Command-line X11 automation tool
 
 Name            : xf86-video-vesa
-Version         : 2.5.0-1
+Version         : 2.5.0-2
 Description     : X.org vesa video driver
 
 Name            : xorg-bdftopcf
@@ -695,27 +699,27 @@ Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 1.20.13-3
+Version         : 21.1.1-2
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 1.20.13-3
+Version         : 21.1.1-2
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 1.20.13-3
+Version         : 21.1.1-2
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 1.20.13-3
+Version         : 21.1.1-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 1.20.13-3
+Version         : 21.1.1-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 1.20.13-3
+Version         : 21.1.1-2
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
@@ -839,7 +843,7 @@ Version         : 1.1.4-2
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
-Version         : 21.1.2.901-1
+Version         : 21.1.3-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
@@ -875,7 +879,7 @@ Version         : 2.12.2-2
 Description     : Command-line YAML/XML processor - jq wrapper for YAML/XML documents
 
 Name            : yubioath-desktop
-Version         : 5.1.0-1
+Version         : 5.1.0-2
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
