@@ -111,7 +111,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 95.0.4638.69-2
+Version         : 96.0.4664.45-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -203,7 +203,7 @@ Version         : 11.1.0-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : git
-Version         : 2.33.1-1
+Version         : 2.34.0-1
 Description     : the fast distributed version control system
 
 Name            : gnu-free-fonts
@@ -455,7 +455,7 @@ Version         : 20.3.4-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2021.11.9-1
+Version         : 2021.11.15-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -563,7 +563,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.2.4-1
+Version         : 3.2.5-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -575,7 +575,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.3.0-1
+Version         : 91.3.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -895,7 +895,7 @@ Version         : 5.1.0-2
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.8.3-1
+Version         : 5.8.4-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
