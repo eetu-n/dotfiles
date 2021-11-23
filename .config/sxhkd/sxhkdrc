@@ -59,7 +59,7 @@ super + shift + w
 super + shift + r
     mpc shuffle
 
-## Spotfiy stuff
+# Spotfiy stuff
 #XF86AudioNext
 #    playerctl next
 #
@@ -121,8 +121,14 @@ super + b
 ctrl + alt + Delete
     lock
 
+XF86ScreenSaver
+    lock
+
 # Lock and Suspend
 super + alt + Delete
+    lock-no-video & systemctl suspend
+
+super + XF86ScreenSaver
     lock-no-video & systemctl suspend
 
 # Toggle Monitor

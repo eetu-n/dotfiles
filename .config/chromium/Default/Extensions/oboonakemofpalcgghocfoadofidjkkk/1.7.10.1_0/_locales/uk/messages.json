@@ -1,0 +1,850 @@
+{
+   "contextMenuFillPassword": {
+      "description": "Context menu item for filling password.",
+      "message": "Заповнити тільки пароль"
+   },
+   "contextMenuFillTOTP": {
+      "description": "Context menu item for filling Time-based One Time Password.",
+      "message": "Заповнити ТОП"
+   },
+   "contextMenuFillUsernameAndPassword": {
+      "description": "Context menu item for filling both username and password.",
+      "message": "Заповнити ім'я користувача і пароль"
+   },
+   "contextMenuSaveCredentials": {
+      "description": "Save credentials using the extension popup icon.",
+      "message": "Зберегти реєстраційні дані"
+   },
+   "contextMenuShowPasswordGenerator": {
+      "description": "Show password generator text.",
+      "message": "Показувати генератор паролів"
+   },
+   "contextMenuShowPasswordGeneratorIcons": {
+      "description": "Show password generator icon on every password input field.",
+      "message": "Показувати значок генератора паролів"
+   },
+   "credentialsMultipleFound": {
+      "description": "Alert message when trying to fill username and/or password when multiple credentials are found.",
+      "message": "Помилка:\nЗнайдено більш одного реєстраційного запису у KeePassXC!\nНатисніть значок KeePassXC-Переглядача для додаткових дій."
+   },
+   "credentialsNoLoginsFound": {
+      "description": "Shown when no credentials are found for the current page.",
+      "message": "Помилка:\nРеєстраційних даних не знайдено."
+   },
+   "credentialsNoUsername": {
+      "description": "Shown when no username is set in the credentials.",
+      "message": "- без імені користувача -"
+   },
+   "credentialsNoUsernameFound": {
+      "description": "Alert message when no credentials are found for the given username.",
+      "message": "Помилка:\nРеєстраційних даних для вказаного імені користувача не знайдено."
+   },
+   "defineAgain": {
+      "description": "Again button text when choosing custom login fields.",
+      "message": "Знову"
+   },
+   "defineAlreadySelected": {
+      "description": "A text shown when custom credentials fields are already set for the page.",
+      "message": "Реєстраційні поля вже було вибрано для цієї сторінки. Їх буде перезаписано."
+   },
+   "defineChoosePassword": {
+      "description": "Choosing a password field text when choosing custom login fields.",
+      "message": "2. Тепер виберіть поле пароля"
+   },
+   "defineChooseUsername": {
+      "description": "Choosing a username field text when choosing custom login fields.",
+      "message": "1. Виберіть поле імені користувача"
+   },
+   "defineConfirm": {
+      "description": "Confirm button text when choosing custom login fields.",
+      "message": "Схвалити"
+   },
+   "defineConfirmSelection": {
+      "description": "Confirm a selection text when choosing custom login fields.",
+      "message": "3. Схваліть вибір"
+   },
+   "defineDiscard": {
+      "description": "Discard selection button text when choosing custom login fields.",
+      "message": "Відкинути вибране"
+   },
+   "defineDismiss": {
+      "description": "Dismiss button text when choosing custom login fields.",
+      "message": "Відкинути"
+   },
+   "defineHelpText": {
+      "description": "Confirm a selection text when choosing custom login fields which contains string fields.",
+      "message": "Будь ласка, схваліть свій вибір або вкажіть додаткові \u003Cem>текстові поля\u003C/em>."
+   },
+   "defineKeyboardText": {
+      "description": "Help text when choosing custom login fields.",
+      "message": "You can also use the numbers to choose the input fields from keyboard."
+   },
+   "defineMore": {
+      "description": "More button text when choosing custom login fields.",
+      "message": "Show more"
+   },
+   "defineSkip": {
+      "description": "Skip button text when choosing custom login fields.",
+      "message": "Пропустити"
+   },
+   "defineStringField": {
+      "description": "Text for string field.",
+      "message": "Текстове поле №"
+   },
+   "errorMessageAssociate": {
+      "description": "KeePassXC association failed, try again.",
+      "message": "Прив'язка KeePassXC зазнала невдачі, спробуйте ще раз."
+   },
+   "errorMessageCanceled": {
+      "description": "Action canceled or denied.",
+      "message": "Дію скасовано або заборонено."
+   },
+   "errorMessageClientPublicKey": {
+      "description": "Client public key not received.",
+      "message": "Відкритий ключ користувача не одержано."
+   },
+   "errorMessageDatabaseHash": {
+      "description": "Database hash not received.",
+      "message": "Контрольну  суму сховища не одержано."
+   },
+   "errorMessageDatabaseNotOpened": {
+      "description": "Database not opened.",
+      "message": "Сховище не відкрите."
+   },
+   "errorMessageDecrypt": {
+      "description": "Cannot decrypt message.",
+      "message": "Неможливо розшифрувати повідомлення."
+   },
+   "errorMessageEmptyMessage": {
+      "description": "Empty message received.",
+      "message": "Одержано порожнє повідомлення."
+   },
+   "errorMessageEncrypt": {
+      "description": "Message encryption failed. Is KeePassXC running?",
+      "message": "Message encryption failed. Is KeePassXC running?"
+   },
+   "errorMessageEncryptionKey": {
+      "description": "Encryption key is not recognized.",
+      "message": "Шифрувальний ключ не розпізнано."
+   },
+   "errorMessageIncorrectAction": {
+      "description": "Incorrect action.",
+      "message": "Хибна дія."
+   },
+   "errorMessageKeyExchange": {
+      "description": "Key exchange was not successful.",
+      "message": "Обмін ключами зазнав невдачі."
+   },
+   "errorMessageNoLogins": {
+      "description": "No logins found.",
+      "message": "Імен користувача не знайдено."
+   },
+   "errorMessageNoURL": {
+      "description": "No URL provided.",
+      "message": "URL не надано."
+   },
+   "errorMessageSavedDatabases": {
+      "description": "No saved databases found.",
+      "message": "Збережених сховищ не знайдено."
+   },
+   "errorMessageTimeout": {
+      "description": "Cannot connect to KeePassXC. Check that browser integration is enabled in KeePassXC settings.",
+      "message": "Cannot connect to KeePassXC. Check that browser integration is enabled in KeePassXC settings."
+   },
+   "errorMessageUnknown": {
+      "description": "Unknown error.",
+      "message": "Невідома помилка."
+   },
+   "extensionDescription": {
+      "description": "Name of the extension.",
+      "message": "Сполучення KeePassXC з сучасними переглядачами тенет"
+   },
+   "fieldsFill": {
+      "description": "Alert message when no fields are found to fill in.",
+      "message": "Помилка:\nНеможливо знайти поля для заповнення."
+   },
+   "fieldsNoPasswordField": {
+      "description": "Message shown when no password fields are found.",
+      "message": "Помилка:\nНеможливо знайти поле пароля."
+   },
+   "httpAuthDialog": {
+      "description": "Options page HTTP Basic Auth dialog text",
+      "message": "HTTP Basic Authentication dialog"
+   },
+   "multipleCredentialsDetected": {
+      "description": "Notification when HTTP Authentication has multiple credentials detected.",
+      "message": "Знайдено декілька реєстраційних записів для перевіряння HTTP. Клацніть на значку розширення, щоб вибрати потрібні,"
+   },
+   "openNewTab": {
+      "description": "Title attribute text.",
+      "message": "Opens a new tab"
+   },
+   "optionsAboutChrome": {
+      "description": "About page link to Chrome Web Store.",
+      "message": "Відвідати сторінку KeePassXC-Переглядача у Веб-магазині Chrome."
+   },
+   "optionsAboutContributors": {
+      "description": "About page text of contributors.",
+      "message": "Спільнота:"
+   },
+   "optionsAboutCreateNewIssue": {
+      "description": "Link text for creating a new issue.",
+      "message": "Create new issue on GitHub"
+   },
+   "optionsAboutDebugInfo": {
+      "description": "Debug info text.",
+      "message": "The following debug info can be used"
+   },
+   "optionsAboutExtensionVersion": {
+      "description": "About page text of extension version.",
+      "message": "Версія KeePassXC-Переглядач: $1"
+   },
+   "optionsAboutGitHub": {
+      "description": "About page link to GitHub.",
+      "message": "Відвідати KeePassXC-Переглядач на GitHub."
+   },
+   "optionsAboutKeePassXCVersion": {
+      "description": "About page text of KeePassXC version.",
+      "message": "Версія KeePassXC: $1"
+   },
+   "optionsAboutLicenses": {
+      "description": "About page text of licenses.",
+      "message": "Licenses"
+   },
+   "optionsAboutMozilla": {
+      "description": "About page link to AMO.",
+      "message": "Відвідати сторінку KeePassXC-Переглядач у покажчику розширень Mozilla."
+   },
+   "optionsAboutReportBugs": {
+      "description": "About page text of reporting bugs.",
+      "message": "Report bugs"
+   },
+   "optionsAboutTab": {
+      "description": "About tab text.",
+      "message": "Про розширення"
+   },
+   "optionsAutoFillAndSendHelpText": {
+      "description": "Auto-Fill And Send option help text.",
+      "message": "Якщо реєстраційні дані знайдено для сторінки і типом перевірки є HTTP Basic Auth, KeePassXC-Переглядач спробує увійти використовуючи перший доступний запис."
+   },
+   "optionsAutoFillAndSendHelpTextSecond": {
+      "description": "HTTP Basic Auth image help text.",
+      "message": "Діалог HTTP Basic Auth виглядає так:"
+   },
+   "optionsAutoFillSingleEntryHelpText": {
+      "description": "Auto-Fill Single Entry option help text.",
+      "message": "Дозволити переглядачу KeePassXC автоматично заповнювати поля з реєстраційними даними, якщо він одержує лише один запис."
+   },
+   "optionsAutoFillSingleEntryWarning": {
+      "description": "Auto-Fill Single Entry warning text.",
+      "message": "Обережно! Використання автозаповнення може бути небезпечним. Користуйтеся на власний ризик."
+   },
+   "optionsAutoRetrieveCredentialsHelpText": {
+      "description": "Auto-Retrive Credentials option help text.",
+      "message": "KeePassXC-Переглядач видобуде реєстраційні дані безпосередньо після активування вкладки."
+   },
+   "optionsAutocompleteUsernamesHelpText": {
+      "description": "Autocomplete Usernames option help text.",
+      "message": "Показувати спадний список з доступними реєстраційними даними для кожного поля імені користувача на сторінці."
+   },
+   "optionsBlinkTimeHelpText": {
+      "description": "Blink Time option help text.",
+      "message": "Максимальна тривалість (мс) блимання значка після виявлення нових реєстраційних даних"
+   },
+   "optionsButtonAdd": {
+      "description": "Add button text.",
+      "message": "Додати"
+   },
+   "optionsButtonCancel": {
+      "description": "Cancel button text when removing database key or custom login fields.",
+      "message": "Скасувати"
+   },
+   "optionsButtonConnect": {
+      "description": "Connect button text.",
+      "message": "Сполучити"
+   },
+   "optionsButtonRemove": {
+      "description": "Remove button text.",
+      "message": "Видалити"
+   },
+   "optionsButtonRemoveNow": {
+      "description": "Confirm button text when removing database key or custom login fields.",
+      "message": "Так, видалити негайно"
+   },
+   "optionsButtonReset": {
+      "description": "Reset button text for keyboard shortcuts.",
+      "message": "Reset"
+   },
+   "optionsButtonSave": {
+      "description": "Save button text.",
+      "message": "Зберегти"
+   },
+   "optionsButtonUpdate": {
+      "description": "Check for updates button text.",
+      "message": "Перевірити наявність оновлень"
+   },
+   "optionsCheckboxAutoCompleteUsernames": {
+      "description": "Activate autocomplete for username fields checkbox text.",
+      "message": "Увімкнути автозаповнення для полів з іменем користувача."
+   },
+   "optionsCheckboxAutoFillAndSend": {
+      "description": "Auto fill HTTP Basic Auth dialogs and send them checkbox text.",
+      "message": "Автоматично заповнювати й надсилати діалоги HTTP Basic Auth."
+   },
+   "optionsCheckboxAutoFillSingleEntry": {
+      "description": "Automatically fill-in single credential entry checkbox text.",
+      "message": "Автоматично заповнювати, якщо сховище містить лише один збіг."
+   },
+   "optionsCheckboxAutoRetrieveCredentials": {
+      "description": "Automatically retrieve credentials checkbox text.",
+      "message": "Автоматично видобувати реєстраційні дані."
+   },
+   "optionsCheckboxShowLoginNotifications": {
+      "description": "Show login notifications checkbox text.",
+      "message": "Показувати повідомлення, коли є нагода додати нові реєстраційні дані до сховища."
+   },
+   "optionsCheckboxShowNotifications": {
+      "description": "Show notifications checkbox text.",
+      "message": "Показувати повідомлення."
+   },
+   "optionsCheckboxUsePasswordGenerator": {
+      "description": "Activate password generator checkbox text.",
+      "message": "Увімкнути генератор паролів."
+   },
+   "optionsColumnDelete": {
+      "description": "Site preferences list column title.",
+      "message": "Видалити"
+   },
+   "optionsColumnIgnore": {
+      "description": "Site preferences list column title.",
+      "message": "Нехтувати"
+   },
+   "optionsColumnPageURL": {
+      "description": "Site preferences list column title.",
+      "message": "URL сторінки"
+   },
+   "optionsColumnUsernameOnly": {
+      "description": "Site preferences list column title.",
+      "message": "Визначення виключно за іменем користувача"
+   },
+   "optionsConfigureShortcuts": {
+      "description": "Keyboard shortcut button and title text.",
+      "message": "Налаштувати сполучення клавіш"
+   },
+   "optionsConnectedDatabasesNotFound": {
+      "description": "Shown in the connected databases table when there is no connected databases.",
+      "message": "Підключених сховищ не знайдено."
+   },
+   "optionsConnectedDatabasesTab": {
+      "description": "Connected Databases tab text.",
+      "message": "Сполучені сховища"
+   },
+   "optionsConnectedDatabasesText": {
+      "description": "Info text about connected databases.",
+      "message": "До KeePassXC-Переглядача підключені такі сховища KeePassXC."
+   },
+   "optionsCustomFieldsConfirmation": {
+      "description": "Confirmation text when removing saved custom login fields.",
+      "message": "Ви дійсно хочете видалити власні реєстраційні поля збережені для такої сторінки: $1"
+   },
+   "optionsCustomFieldsConfirmationHelpText": {
+      "description": "Part of confirmation text when removing saved custom login fields.",
+      "message": "KeePassXC-Переглядач автоматично визначить реєстраційні поля під час наступних відвідувань сторінки."
+   },
+   "optionsCustomFieldsNotFound": {
+      "description": "Shown when no saved custom credentials are saved.",
+      "message": "Не знайдено жодного власного реєстраційного поля."
+   },
+   "optionsCustomFieldsRemove": {
+      "description": "Confirmation text when removing saved custom login fields.",
+      "message": "Видалити збережені власні реєстраційні поля?"
+   },
+   "optionsCustomFieldsTab": {
+      "description": "Saved custom login fields tab text.",
+      "message": "Власні реєстраційні поля"
+   },
+   "optionsCustomFieldsTabHelpTextFirst": {
+      "description": "Saved custom login fields info text, first part.",
+      "message": "Якщо KeePassXC-Переглядач помилково визначить реєстраційні поля, Ви можете вказати їх самостійно."
+   },
+   "optionsCustomFieldsTabHelpTextSecond": {
+      "description": "Saved custom login fields info text, second part.",
+      "message": "Перейдіть до сторінки і натисніть значок KeePassXC-Переглядач, потім виберіть "
+   },
+   "optionsCustomFieldsTableCaption": {
+      "description": "Table caption of Custom login fields page.",
+      "message": "You can manage saved custom login fields using the table below."
+   },
+   "optionsDatabaseCreated": {
+      "description": "Database list column title.",
+      "message": "Створено"
+   },
+   "optionsDatabaseDelete": {
+      "description": "Database list column title.",
+      "message": "Видалено"
+   },
+   "optionsDatabaseIdentifier": {
+      "description": "Database list column title.",
+      "message": "Ідентифікатор"
+   },
+   "optionsDatabaseKey": {
+      "description": "Database list column title.",
+      "message": "Ключ"
+   },
+   "optionsDatabaseLastUsed": {
+      "description": "Database list column title.",
+      "message": "Останнє використання"
+   },
+   "optionsDatabasesRemoveIdentifier": {
+      "description": "Confirmation text when removing database from the list.",
+      "message": "Видалити ідентифікатор з переліку сховищ?"
+   },
+   "optionsDatabasesRemoveIdentifierConfirmFirst": {
+      "description": "Confirmation text when removing database from the list.",
+      "message": "Ви дійсно хочете видалити такий ідентифікатор з переліку сховищ?"
+   },
+   "optionsDatabasesRemoveIdentifierConfirmSecond": {
+      "description": "Confirmation text when removing database from the list, second part.",
+      "message": "Ви можете заново під'єднати Ваше сховище у будь-який час."
+   },
+   "optionsDefault": {
+      "description": "Default setting text.",
+      "message": "Типово: $1"
+   },
+   "optionsDefaultGroupHelpText": {
+      "description": "Default group help text.",
+      "message": "Separate the group with slashes, for example: Group/ChildGroup."
+   },
+   "optionsErrorInvalidURL": {
+      "description": "Error shown when input field has an incorrect URL.",
+      "message": "Invalid URL. Please check the input."
+   },
+   "optionsErrorInvalidValue": {
+      "description": "Error shown when input field has an incorrect value.",
+      "message": "Invalid value. Please check the input."
+   },
+   "optionsErrorValueExists": {
+      "description": "Error shown when trying to add a duplicate value to the list.",
+      "message": "The value already exists in the list."
+   },
+   "optionsGeneralSettingsTab": {
+      "description": "General Settings tab text.",
+      "message": "Загальні налаштування"
+   },
+   "optionsInfinite": {
+      "description": "Infinite setting text.",
+      "message": "Нескінченність: $1"
+   },
+   "optionsKeyboardShortcutsHeader": {
+      "description": "Keyboard shortcut header text.",
+      "message": "Сполучення клавіш"
+   },
+   "optionsLabelBlinkTime": {
+      "description": "Blink Time option text.",
+      "message": "Тривалість блимання:"
+   },
+   "optionsLabelDefaultGroup": {
+      "description": "Default group options text.",
+      "message": "Default group for saving new passwords:"
+   },
+   "optionsLabelDefaultGroupCheckboxHelpText": {
+      "description": "Default checkbox explanation help text.",
+      "message": "When enabled, the popup shows a group listing."
+   },
+   "optionsLabelDefaultGroupCheckboxText": {
+      "description": "Default group checkbox help text.",
+      "message": "Always ask where to save new credentials"
+   },
+   "optionsLabelRedirectAllowance": {
+      "description": "RMaximum (Number of) Redirects options text.",
+      "message": "Максимальна кількість перенаправлень: "
+   },
+   "optionsLabelRedirectOffset": {
+      "description": "Redirect Offset option text.",
+      "message": "Зміщення кількості перенаправлень: "
+   },
+   "optionsLatestVersion": {
+      "description": "Settings page info text about the latest KeePassXC version.",
+      "message": "Найновіша доступна версія KeePassXC: $1"
+   },
+   "optionsMenuAbout": {
+      "description": "About page header.",
+      "message": "Про розширення"
+   },
+   "optionsMenuConnectedDatabases": {
+      "description": "Connected Databases page header.",
+      "message": "Сполучені сховища"
+   },
+   "optionsMenuCustomFields": {
+      "description": "Custom login fields page header.",
+      "message": "Власні реєстраційні поля"
+   },
+   "optionsMenuGeneral": {
+      "description": "General settings page header.",
+      "message": "Загальні"
+   },
+   "optionsMenuSitePreferences": {
+      "description": "Site preferences page header.",
+      "message": "Налаштування сторінки"
+   },
+   "optionsRadioMonth": {
+      "description": "Radio button text.",
+      "message": "щомісяця"
+   },
+   "optionsRadioNever": {
+      "description": "Radio button text.",
+      "message": "ніколи"
+   },
+   "optionsRadioText": {
+      "description": "Text above radio buttons in the settings page.",
+      "message": "Перевярити наявність оновлень KeePassXC:"
+   },
+   "optionsRadioThreeDays": {
+      "description": "Radio button text.",
+      "message": "раз на 3 дні"
+   },
+   "optionsRadioWeek": {
+      "description": "Radio button text.",
+      "message": "щотижня"
+   },
+   "optionsRecommended": {
+      "description": "Recommended setting text.",
+      "message": "Рекомендовано: $1"
+   },
+   "optionsRedirectAllowanceHelpText": {
+      "description": "Redirect Allowance option help text.",
+      "message": "Кількість сторінок понад зміщення кількості перенаправлень, яку має пройти цикл табуляції перед тим, як вимкнути значок"
+   },
+   "optionsRedirectOffsetHelpText": {
+      "description": "Redirect Offset option help text.",
+      "message": "Мінімальна тривалість (мс) блимання значка до вимкнення, обумовленого перенаправленнями сторінки."
+   },
+   "optionsRedirectOffsetHelpTextSecond": {
+      "description": "Redirect Offset option help text, second part.",
+      "message": "-1 для означення тривалості блимання, що ігнорує максимальну кількість перенаправлень (стара поведінка)"
+   },
+   "optionsSaveDomainOnly": {
+      "description": "Save domain only checkbox text.",
+      "message": "Зберігати тільки домени."
+   },
+   "optionsSaveDomainOnlyHelpText": {
+      "description": "Save domain only option help text.",
+      "message": "Під час збереження реєстраційних даних, зберігати тільки домен, а не всю адресу URL."
+   },
+   "optionsSelectionFull": {
+      "description": "Site preferences option selection.",
+      "message": "Вимкнути всі можливості"
+   },
+   "optionsSelectionNormal": {
+      "description": "Site preferences option selection.",
+      "message": "Вимкнути додавання і змінення реєстраційних даних"
+   },
+   "optionsSelectionNothing": {
+      "description": "Site preferences option selection.",
+      "message": "Увімкнути всі можливості"
+   },
+   "optionsShortcutsDanger": {
+      "description": "Error message for changing keyboard shortcuts.",
+      "message": "Error: Shortcut for $1 has not been changed!"
+   },
+   "optionsShortcutsInfo": {
+      "description": "Info message for changing keyboard shortcuts.",
+      "message": "Shortcut for $1 has been reset."
+   },
+   "optionsShortcutsSuccess": {
+      "description": "Message for successful keyboard shortcut change.",
+      "message": "Shortcut for $1 has been successfully changed."
+   },
+   "optionsShowNotificationsHelpText": {
+      "description": "Show notifications option help text.",
+      "message": "Показувати повідомлення про помилки та коли необхідні додаткові дії користувача."
+   },
+   "optionsSitePreferencesConfirmation": {
+      "description": "Confirmation text when removing site from site preferences.",
+      "message": "Ви дійсно хочете видалити позначену сторінку зі списку: $1"
+   },
+   "optionsSitePreferencesConfirmationHelpText": {
+      "description": "Part of confirmation text when removing site preferences.",
+      "message": "KeePassXC-Переглядач увімкне всі можливості для цього сайту і скасує визначення виключно за іменем користувача."
+   },
+   "optionsSitePreferencesManualAddText": {
+      "description": "Label for adding site manually on Site preferences tab.",
+      "message": "Додати URL вручну"
+   },
+   "optionsSitePreferencesNotFound": {
+      "description": "Shown when no ignored sites are saved.",
+      "message": "Нехтуваних сайтів не знайдено."
+   },
+   "optionsSitePreferencesRemove": {
+      "description": "Confirmation text when removing ignored sites from the list.",
+      "message": "Видалити сторінку?"
+   },
+   "optionsSitePreferencesSelect": {
+      "description": "Title text of select element in Site Preferences.",
+      "message": "Option to ignore extension features for the page."
+   },
+   "optionsSitePreferencesTab": {
+      "description": "Site preferences fields tab text.",
+      "message": "Налаштування сторінки"
+   },
+   "optionsSitePreferencesTabHelpTextFirst": {
+      "description": "Site preferences info text, first part.",
+      "message": "Для сайтів на цій сторінці призначені особливі методи поводження."
+   },
+   "optionsSitePreferencesTabHelpTextFourth": {
+      "description": "Site preferences info text, fourth part.",
+      "message": "Визначення виключно за іменем користувача дозволяє KeePassXC–Переглядачу заповнювати реєстраційні поля на сайтах, що запитують ім'я користувача і пароль на окремих сторінках."
+   },
+   "optionsSitePreferencesTabHelpTextSecond": {
+      "description": "Site preferences info text, second part.",
+      "message": "Для нехтування новими або оновленими реєстраційними даними на окремому сайті, додайте його нижче або клацніть на блимкому значку KeePassXC-Переглядача і виберіть"
+   },
+   "optionsSitePreferencesTabHelpTextThird": {
+      "description": "Site preferences info text, third part.",
+      "message": "Якщо сайт повністю знехтувано (вибрано \u003Cem>Вимкнути усі можливості\u003C/em>), то розширення не робитиме нічого під час відвідання цього сайту."
+   },
+   "optionsSitePreferencesTableCaption": {
+      "description": "Table caption of Site Preferences page.",
+      "message": "You can manage saved site preferences using the table below."
+   },
+   "optionsTitle": {
+      "description": "Options page title.",
+      "message": "Налаштування | KeePassXC-Переглядач"
+   },
+   "optionsUsePasswordGeneratorHelpText": {
+      "description": "Password Generator option help text.",
+      "message": "Додає до парольних полів кнопку для створення нового паролю."
+   },
+   "optionsUsePasswordGeneratorHelpTextSecond": {
+      "description": "Password Generator option help text, second part.",
+      "message": "KeePassXC створює паролі з використанням Ваших налаштувань генератора паролів."
+   },
+   "optionsVersionDownload": {
+      "description": "Settings page download link.",
+      "message": "Ви можете завантажити найновішу стабільну версію з $1"
+   },
+   "optionsVersionInfoText": {
+      "description": "Settings page version info text.",
+      "message": "KeePassXC-Переглядач потребує KeePassXC для видобування реєстраційних даних."
+   },
+   "optionsVersionRunning": {
+      "description": "Settings page info text of user's KeePassXC version.",
+      "message": "Встановлена версія KeePassXC: $1"
+   },
+   "password": {
+      "description": "General text for password.",
+      "message": "Пароль"
+   },
+   "passwordGeneratorBits": {
+      "description": "Bits of the generated password.",
+      "message": "??? бітів"
+   },
+   "passwordGeneratorCopy": {
+      "description": "Copy button text in password generator.",
+      "message": "Скопіювати"
+   },
+   "passwordGeneratorError": {
+      "description": "Password generator error text when KeePassXC is closed.",
+      "message": "Неможливо одержати створений пароль.\u003Cbr />Можливо, KeePassXC не запущено?"
+   },
+   "passwordGeneratorErrorTooLong": {
+      "description": "A warning text shown in the password generator.",
+      "message": "Помилка:\nСтворений пароль довший за дозволену довжину!\nВін був вкорочений до максимальної дозволеної довжини.\n\nБудь ласка, запам'ятайте новий пароль!"
+   },
+   "passwordGeneratorFillAndCopy": {
+      "description": "Fill and copy button text in password generator.",
+      "message": "Заповнити та скопіювати"
+   },
+   "passwordGeneratorGenerate": {
+      "description": "Generate button text in password generator.",
+      "message": "Створити"
+   },
+   "passwordGeneratorGenerateText": {
+      "description": "Password icon title text.",
+      "message": "Створити пароль"
+   },
+   "passwordGeneratorIcon": {
+      "description": "Alt attribute text of the password generator icon.",
+      "message": "Password generator icon"
+   },
+   "passwordGeneratorLabel": {
+      "description": "Checkbox text below the password generator input field.",
+      "message": "Також заповнити наступне поле, яке має тип пароля"
+   },
+   "passwordGeneratorPlaceholder": {
+      "description": "Input field placeholder for generated password.",
+      "message": "Створений пароль"
+   },
+   "passwordGeneratorTitle": {
+      "description": "Password generator dialog title.",
+      "message": "Генератор паролів"
+   },
+   "popupAuthText": {
+      "description": "A popup message shown when doing HTTP Authentication with multiple credentials present.",
+      "message": "Виберіть реєстраційні дані, з якими Ви хочете ввійти."
+   },
+   "popupButtonClose": {
+      "description": "Close button text in popup or in notification.",
+      "message": "Закрити"
+   },
+   "popupButtonDismiss": {
+      "description": "Dismiss button text in popup when updating credentials.",
+      "message": "Відкинути"
+   },
+   "popupButtonDismissHttpAuth": {
+      "description": "Dismiss button text when in HTTP Authentication popup.",
+      "message": "Відкинути і показати типовий діалог перевіряння пароля"
+   },
+   "popupButtonIgnore": {
+      "description": "Ignore button text in popup or in notification when updating credentials.",
+      "message": "Ніколи не питати для цієї сторінки"
+   },
+   "popupButtonNew": {
+      "description": "New button text in popup when updating credentials.",
+      "message": "Новий"
+   },
+   "popupButtonUpdate": {
+      "description": "Update button text in popup when updating credentials.",
+      "message": "Оновити"
+   },
+   "popupCheckingStatus": {
+      "description": "Checking status message in popup.",
+      "message": "Перевіряння стану..."
+   },
+   "popupChooseCredentialsText": {
+      "description": "Popup credential choosing button text.",
+      "message": "Choose custom login fields for this page"
+   },
+   "popupConfiguredAndAssociated": {
+      "description": "A popuo message when a connection to KeePassXC is succesful.",
+      "message": "KeePassXC-Переглядач зараз сполучений з KeePassXC і був налаштований з таким ідентифікатором: $1"
+   },
+   "popupConfiguredNotAssociated": {
+      "description": "A popup message shown when KeePassXC is not connected but configured.",
+      "message": "KeePassXC-Переглядач ще не під'єднувався до KeePassXC але був налаштований з таким ідентифікатором: $1"
+   },
+   "popupConnectButton": {
+      "description": "Popup Connect button text.",
+      "message": "Сполучити"
+   },
+   "popupDownloadNewVersion": {
+      "description": "Popup warning message link when KeePassXC version is not up-to-date.",
+      "message": "Будь ласка, завантажте останню версію з keepassxc.org"
+   },
+   "popupErrorEncountered": {
+      "description": "A text shown above error message in the popup.",
+      "message": "KeePassXC-Переглядач натрапив на помилку:"
+   },
+   "popupFilterText": {
+      "description": "Text for login credentials quick filter.",
+      "message": "Фільтр:"
+   },
+   "popupLoginText": {
+      "description": "A popup message shown when one or multiple credentials are present.",
+      "message": "Виберіть реєстраційні дані, які Ви хочете ввести на цій сторінці."
+   },
+   "popupMultiplePasswordFields": {
+      "description": "A popup message shown when web page has multiple password fields.",
+      "message": "На цій сторінці знайдено декілька парольних полів. Клацніть правою кнопкою на одному з них та виберіть одну з дій:"
+   },
+   "popupNeedReconfigure": {
+      "description": "A popup message shown when the extension has been disconnected from KeePassXC.",
+      "message": "KeePassXC-Переглядач було від'єднано від KeePassXC."
+   },
+   "popupNeedReconfigureMessage": {
+      "description": "A popup message shown when reconnect is needed.",
+      "message": "Натисніть кнопку «Сполучити заново», щоб знову встановити зв'язок."
+   },
+   "popupNotConfigured": {
+      "description": "A popup message shown when the extension has not been connected to KeePassXC.",
+      "message": "KeePassXC-Переглядач не налаштовано. Натисніть кнопку «Сполучити», щоб під'єднати переглядач до KeePassXC."
+   },
+   "popupReconnectButton": {
+      "description": "Popup Reconnect button text.",
+      "message": "Сполучити заново"
+   },
+   "popupRedetectButton": {
+      "description": "Popup Redetect login fields button text.",
+      "message": "Заново виявити поля реєстраційних даних"
+   },
+   "popupReloadButton": {
+      "description": "Popup Reload button text.",
+      "message": "Оновити"
+   },
+   "popupRememberChooseCredentials": {
+      "description": "A popup message shown choosing what credentials user wants to update.",
+      "message": "Будь ласка, виберіть реєстраційні дані, які Ви хочете оновити."
+   },
+   "popupRememberChooseGroup": {
+      "description": "A popup message shown choosing what group user wants to use for new credentials.",
+      "message": "Please choose the group you want to add the new credentials."
+   },
+   "popupRememberErrorCannotSaveCredentials": {
+      "description": "Error message shown when credentials cannot be saved or updated.",
+      "message": "Error: Credentials cannot be saved or updated."
+   },
+   "popupRememberErrorCreatingNewGroup": {
+      "description": "Error message shown when new groups cannot be created.",
+      "message": "New group(s) cannot be created."
+   },
+   "popupRememberErrorDefaultGroupNotFound": {
+      "description": "Error message shown when default group set cannot be found.",
+      "message": "Error: Specified default group not found. Creating all necessary groups."
+   },
+   "popupRememberErrorPasswordNotChanged": {
+      "description": "Error message shown when credential password is not changed.",
+      "message": "Error: Credentials not updated. The password has not been changed."
+   },
+   "popupRememberInfoText": {
+      "description": "Popup message when username or password has changed.",
+      "message": "Ім'я користувача чи пароль було змінено! Зберегти зміни?"
+   },
+   "popupRememberNewUsername": {
+      "description": "A popup message shown when a new username is detected when saving credentials.",
+      "message": "Таке ім'я користувача не було збережене: $1"
+   },
+   "popupRememberSaving": {
+      "description": "A popup message when saving or updating credentials.",
+      "message": "Реєстраційні дані будуть збережені у сполученому сховищі з ідентифікатором $1"
+   },
+   "popupRememberUsernameExists": {
+      "description": "A popup message shown when a existing username is detected when saving credentials.",
+      "message": "Реєстраційні дані з використаним іменем користувача позначені жирним шрифтом: $1"
+   },
+   "popupReopenButton": {
+      "description": "Popup reopen database button text.",
+      "message": "Заново відкрити сховище"
+   },
+   "popupSettingsText": {
+      "description": "Popup Settings button text.",
+      "message": "Налаштування"
+   },
+   "popupTitle": {
+      "description": "Popup window title.",
+      "message": "Вигульк KeePassXC"
+   },
+   "popupURL": {
+      "description": "URL. Might not need any translation.",
+      "message": "URL: "
+   },
+   "popupUpdateAvailable": {
+      "description": "Popup warning message about old version of KeePassXC.",
+      "message": "Ви використовуєте застарілу версію KeePassXC."
+   },
+   "popupUsername": {
+      "description": "A username field name shown on credential update.",
+      "message": "Ім'я користувача"
+   },
+   "rememberCredentialsPopup": {
+      "description": "Notification text when saving credentials from the context menu.",
+      "message": "Клацніть значок додатка, щоб створити або змінити реєстраційні дані."
+   },
+   "rememberNothingChanged": {
+      "description": "Message shown when trying to save credentials that haven't changed.",
+      "message": "Помилка:\nЗміни реєстраційних даних не виявлено."
+   },
+   "username": {
+      "description": "General text for username.",
+      "message": "Ім'я користувача"
+   }
+}

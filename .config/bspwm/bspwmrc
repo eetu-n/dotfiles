@@ -5,7 +5,7 @@ redshift &
 picom -b
 dunst &
 nm-applet &
-solaar &
+solaar -w hide &
 touch /tmp/barHidden
 autocutsel -s CLIPBOARD -fork
 udiskie &

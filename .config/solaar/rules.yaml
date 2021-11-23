@@ -1,33 +1,45 @@
 %YAML 1.3
 ---
-- Key: Next
+- Key: [Brightness Up, pressed]
+- KeyPress: XF86_MonBrightnessUp
+...
+---
+- Key: [Brightness Down, pressed]
+- KeyPress: XF86_MonBrightnessDown
+...
+---
+- Key: [Lock PC, pressed]
+- KeyPress: XF86_ScreenSaver
+...
+---
+- Key: [Next, pressed]
 - KeyPress: XF86_AudioNext
 ...
 ---
-- Key: Play/Pause
+- Key: [Play/Pause, pressed]
 - KeyPress: XF86_AudioPlay
 ...
 ---
-- Key: Previous
+- Key: [Previous, pressed]
 - KeyPress: XF86_AudioPrev
 ...
 ---
-- Key: Mute
+- Key: [Mute, pressed]
 - KeyPress: XF86_AudioMute
 ...
 ---
-- Key: Volume Down
+- Key: [Volume Down, pressed]
 - KeyPress: XF86_AudioLowerVolume
 ...
 ---
-- Key: Volume Up
+- Key: [Volume Up, pressed]
 - KeyPress: XF86_AudioRaiseVolume
 ...
 ---
-- Test: mouse-left
+- MouseGesture: Mouse Left
 - Execute: [bspc, desktop, -f, prev]
 ...
 ---
-- Test: mouse-right
+- MouseGesture: Mouse Right
 - Execute: [bspc, desktop, -f, next]
 ...

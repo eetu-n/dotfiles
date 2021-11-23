@@ -1,0 +1,850 @@
+{
+   "contextMenuFillPassword": {
+      "description": "Context menu item for filling password.",
+      "message": "Csak jelszó kitöltése"
+   },
+   "contextMenuFillTOTP": {
+      "description": "Context menu item for filling Time-based One Time Password.",
+      "message": "TOTP kitöltése"
+   },
+   "contextMenuFillUsernameAndPassword": {
+      "description": "Context menu item for filling both username and password.",
+      "message": "Felhasználónév és jelszó kitöltése"
+   },
+   "contextMenuSaveCredentials": {
+      "description": "Save credentials using the extension popup icon.",
+      "message": "Hitelesítési adatok mentése"
+   },
+   "contextMenuShowPasswordGenerator": {
+      "description": "Show password generator text.",
+      "message": "Jelszó-előállító megjelenítése"
+   },
+   "contextMenuShowPasswordGeneratorIcons": {
+      "description": "Show password generator icon on every password input field.",
+      "message": "Jelszó-előállító ikonok megjelenítése"
+   },
+   "credentialsMultipleFound": {
+      "description": "Alert message when trying to fill username and/or password when multiple credentials are found.",
+      "message": "Hiba:\nTöbb mint egy bejelentkezés található a KeePassXC programban!\nNyomja meg a KeePassXC-böngésző ikont a több lehetőségért."
+   },
+   "credentialsNoLoginsFound": {
+      "description": "Shown when no credentials are found for the current page.",
+      "message": "Hiba:\nNem találhatók bejelentkezések."
+   },
+   "credentialsNoUsername": {
+      "description": "Shown when no username is set in the credentials.",
+      "message": "– nincs felhasználónév –"
+   },
+   "credentialsNoUsernameFound": {
+      "description": "Alert message when no credentials are found for the given username.",
+      "message": "Hiba:\nNem találhatók hitelesítési adatok a megadott felhasználónévhez."
+   },
+   "defineAgain": {
+      "description": "Again button text when choosing custom login fields.",
+      "message": "Újra"
+   },
+   "defineAlreadySelected": {
+      "description": "A text shown when custom credentials fields are already set for the page.",
+      "message": "Az oldal bejelentkező mezői már ki lettek jelölve és felül lesznek írva."
+   },
+   "defineChoosePassword": {
+      "description": "Choosing a password field text when choosing custom login fields.",
+      "message": "2. Most válasszon egy jelszó mezőt"
+   },
+   "defineChooseUsername": {
+      "description": "Choosing a username field text when choosing custom login fields.",
+      "message": "1. Válasszon egy felhasználónév mezőt"
+   },
+   "defineConfirm": {
+      "description": "Confirm button text when choosing custom login fields.",
+      "message": "Megerősítés"
+   },
+   "defineConfirmSelection": {
+      "description": "Confirm a selection text when choosing custom login fields.",
+      "message": "3. Erősítse meg a választást"
+   },
+   "defineDiscard": {
+      "description": "Discard selection button text when choosing custom login fields.",
+      "message": "Kijelölés elvetése"
+   },
+   "defineDismiss": {
+      "description": "Dismiss button text when choosing custom login fields.",
+      "message": "Eltüntetés"
+   },
+   "defineHelpText": {
+      "description": "Confirm a selection text when choosing custom login fields which contains string fields.",
+      "message": "Erősítse meg a választását vagy válasszon több mezőt \u003Cem>karakterlánc mezőkként\u003C/em>."
+   },
+   "defineKeyboardText": {
+      "description": "Help text when choosing custom login fields.",
+      "message": "Használhatja a billentyűzeten lévő számokat is a beviteli mezők kiválasztásához."
+   },
+   "defineMore": {
+      "description": "More button text when choosing custom login fields.",
+      "message": "Több megjelenítése"
+   },
+   "defineSkip": {
+      "description": "Skip button text when choosing custom login fields.",
+      "message": "Kihagyás"
+   },
+   "defineStringField": {
+      "description": "Text for string field.",
+      "message": "Karakterlánc mező #"
+   },
+   "errorMessageAssociate": {
+      "description": "KeePassXC association failed, try again.",
+      "message": "A KeePassXC hozzárendelés sikertelen, próbálja újra."
+   },
+   "errorMessageCanceled": {
+      "description": "Action canceled or denied.",
+      "message": "A művelet megszakítva vagy megtagadva."
+   },
+   "errorMessageClientPublicKey": {
+      "description": "Client public key not received.",
+      "message": "A kliens nyilvános kulcsa nem érkezett meg."
+   },
+   "errorMessageDatabaseHash": {
+      "description": "Database hash not received.",
+      "message": "Az adatbázis kivonata nem érkezett meg."
+   },
+   "errorMessageDatabaseNotOpened": {
+      "description": "Database not opened.",
+      "message": "Az adatbázis nincs megnyitva."
+   },
+   "errorMessageDecrypt": {
+      "description": "Cannot decrypt message.",
+      "message": "Nem lehet visszafejteni az üzenetet."
+   },
+   "errorMessageEmptyMessage": {
+      "description": "Empty message received.",
+      "message": "Üres üzenet érkezett."
+   },
+   "errorMessageEncrypt": {
+      "description": "Message encryption failed. Is KeePassXC running?",
+      "message": "Az üzenet titkosítása sikertelen. Fut a KeePassXC?"
+   },
+   "errorMessageEncryptionKey": {
+      "description": "Encryption key is not recognized.",
+      "message": "A titkosítókulcs nem ismerhető fel."
+   },
+   "errorMessageIncorrectAction": {
+      "description": "Incorrect action.",
+      "message": "Helytelen művelet."
+   },
+   "errorMessageKeyExchange": {
+      "description": "Key exchange was not successful.",
+      "message": "A kulcscsere nem volt sikeres."
+   },
+   "errorMessageNoLogins": {
+      "description": "No logins found.",
+      "message": "Nem találhatók bejelentkezések."
+   },
+   "errorMessageNoURL": {
+      "description": "No URL provided.",
+      "message": "Nincs URL megadva."
+   },
+   "errorMessageSavedDatabases": {
+      "description": "No saved databases found.",
+      "message": "Nem találhatók elmentett adatbázisok."
+   },
+   "errorMessageTimeout": {
+      "description": "Cannot connect to KeePassXC. Check that browser integration is enabled in KeePassXC settings.",
+      "message": "Nem lehet kapcsolódni a KeePassXC-hez. Ellenőrizze, hogy a böngészőintegráció engedélyezve van-e a KeePassXC beállításaiban."
+   },
+   "errorMessageUnknown": {
+      "description": "Unknown error.",
+      "message": "Ismeretlen hiba."
+   },
+   "extensionDescription": {
+      "description": "Name of the extension.",
+      "message": "KeePassXC integráció a modern webböngészőkhöz"
+   },
+   "fieldsFill": {
+      "description": "Alert message when no fields are found to fill in.",
+      "message": "Hiba:\nNem találhatók kitöltendő mezők."
+   },
+   "fieldsNoPasswordField": {
+      "description": "Message shown when no password fields are found.",
+      "message": "Hiba:\nNem található jelszó mező."
+   },
+   "httpAuthDialog": {
+      "description": "Options page HTTP Basic Auth dialog text",
+      "message": "HTTP egyszerű hitelesítés párbeszédablak"
+   },
+   "multipleCredentialsDetected": {
+      "description": "Notification when HTTP Authentication has multiple credentials detected.",
+      "message": "Több hitelesítési adattal rendelkező HTTP hitelesítés észlelhető. Kattintson a kiegészítő ikonjára a megfelelő kiválasztásához."
+   },
+   "openNewTab": {
+      "description": "Title attribute text.",
+      "message": "Új fület nyit meg"
+   },
+   "optionsAboutChrome": {
+      "description": "About page link to Chrome Web Store.",
+      "message": "Nézze meg a KeePassXC-böngészőt a Chrome webáruházában."
+   },
+   "optionsAboutContributors": {
+      "description": "About page text of contributors.",
+      "message": "Közreműködők"
+   },
+   "optionsAboutCreateNewIssue": {
+      "description": "Link text for creating a new issue.",
+      "message": "Új hibajegy létrehozása a GitHubon"
+   },
+   "optionsAboutDebugInfo": {
+      "description": "Debug info text.",
+      "message": "Az alábbi hibakeresési információk használhatók"
+   },
+   "optionsAboutExtensionVersion": {
+      "description": "About page text of extension version.",
+      "message": "A KeePassXC-böngésző verziója: $1"
+   },
+   "optionsAboutGitHub": {
+      "description": "About page link to GitHub.",
+      "message": "Nézze meg a KeePassXC-böngészőt a GitHubon."
+   },
+   "optionsAboutKeePassXCVersion": {
+      "description": "About page text of KeePassXC version.",
+      "message": "A KeePassXC verziója: $1"
+   },
+   "optionsAboutLicenses": {
+      "description": "About page text of licenses.",
+      "message": "Licencek"
+   },
+   "optionsAboutMozilla": {
+      "description": "About page link to AMO.",
+      "message": "Nézze meg a KeePassXC-böngészőt a Mozilla kiegészítők könyvtárában."
+   },
+   "optionsAboutReportBugs": {
+      "description": "About page text of reporting bugs.",
+      "message": "Hibajelentés"
+   },
+   "optionsAboutTab": {
+      "description": "About tab text.",
+      "message": "Névjegy"
+   },
+   "optionsAutoFillAndSendHelpText": {
+      "description": "Auto-Fill And Send option help text.",
+      "message": "Ha hitelesítési adatok találhatók egy oldalhoz, és a bejelentkezés típusa egy alap HTTP hitelesítési kérés, akkor a KeePassXC-böngésző megpróbál bejelentkezni az első megadott hitelesítési adattal."
+   },
+   "optionsAutoFillAndSendHelpTextSecond": {
+      "description": "HTTP Basic Auth image help text.",
+      "message": "Egy alap HTTP hitelesítési párbeszédablak így néz ki:"
+   },
+   "optionsAutoFillSingleEntryHelpText": {
+      "description": "Auto-Fill Single Entry option help text.",
+      "message": "A KeePassXC-böngésző automatikusan kitölthesse a hitelesítési adatokat, ha csak egy önálló bejegyzést kap."
+   },
+   "optionsAutoFillSingleEntryWarning": {
+      "description": "Auto-Fill Single Entry warning text.",
+      "message": "Figyelmeztetés! Az automatikus kitöltés használata nem biztonságos! Saját felelősségére használja."
+   },
+   "optionsAutoRetrieveCredentialsHelpText": {
+      "description": "Auto-Retrive Credentials option help text.",
+      "message": "A KeePassXC-böngésző azonnal le fogja kérni a hitelesítési adatokat, amikor egy lapot aktiválnak."
+   },
+   "optionsAutocompleteUsernamesHelpText": {
+      "description": "Autocomplete Usernames option help text.",
+      "message": "Az elérhető hitelesítési adatokat tartalmazó legördülő lista megjelenítése az összes felhasználónév mezőnél egy adott oldalon."
+   },
+   "optionsBlinkTimeHelpText": {
+      "description": "Blink Time option help text.",
+      "message": "A legnagyobb idő (ms), amíg az ikonnak villognia kell új hitelesítési adatok felismerésekor."
+   },
+   "optionsButtonAdd": {
+      "description": "Add button text.",
+      "message": "Hozzáadás"
+   },
+   "optionsButtonCancel": {
+      "description": "Cancel button text when removing database key or custom login fields.",
+      "message": "Mégse"
+   },
+   "optionsButtonConnect": {
+      "description": "Connect button text.",
+      "message": "Kapcsolódás"
+   },
+   "optionsButtonRemove": {
+      "description": "Remove button text.",
+      "message": "Eltávolítás"
+   },
+   "optionsButtonRemoveNow": {
+      "description": "Confirm button text when removing database key or custom login fields.",
+      "message": "Igen, azonnali eltávolítás"
+   },
+   "optionsButtonReset": {
+      "description": "Reset button text for keyboard shortcuts.",
+      "message": "Alapállapot"
+   },
+   "optionsButtonSave": {
+      "description": "Save button text.",
+      "message": "Mentés"
+   },
+   "optionsButtonUpdate": {
+      "description": "Check for updates button text.",
+      "message": "Frissítések keresése"
+   },
+   "optionsCheckboxAutoCompleteUsernames": {
+      "description": "Activate autocomplete for username fields checkbox text.",
+      "message": "Automatikus kiegészítés bekapcsolása a felhasználónév mezőknél."
+   },
+   "optionsCheckboxAutoFillAndSend": {
+      "description": "Auto fill HTTP Basic Auth dialogs and send them checkbox text.",
+      "message": "Alap HTTP hitelesítési párbeszédablakok automatikus kitöltése és beküldése."
+   },
+   "optionsCheckboxAutoFillSingleEntry": {
+      "description": "Automatically fill-in single credential entry checkbox text.",
+      "message": "Önálló hitelesítésiadat-bejegyzések automatikus kitöltése."
+   },
+   "optionsCheckboxAutoRetrieveCredentials": {
+      "description": "Automatically retrieve credentials checkbox text.",
+      "message": "Hitelesítési adatok automatikus lekérése."
+   },
+   "optionsCheckboxShowLoginNotifications": {
+      "description": "Show login notifications checkbox text.",
+      "message": "Értesítés megjelenítése, amikor új hitelesítési adatokat lehet elmenteni az adatbázisba."
+   },
+   "optionsCheckboxShowNotifications": {
+      "description": "Show notifications checkbox text.",
+      "message": "Értesítések megjelenítése."
+   },
+   "optionsCheckboxUsePasswordGenerator": {
+      "description": "Activate password generator checkbox text.",
+      "message": "Jelszó-előállító bekapcsolása."
+   },
+   "optionsColumnDelete": {
+      "description": "Site preferences list column title.",
+      "message": "Törlés"
+   },
+   "optionsColumnIgnore": {
+      "description": "Site preferences list column title.",
+      "message": "Mellőzés"
+   },
+   "optionsColumnPageURL": {
+      "description": "Site preferences list column title.",
+      "message": "Oldal URL"
+   },
+   "optionsColumnUsernameOnly": {
+      "description": "Site preferences list column title.",
+      "message": "Csak felhasználónév felismerés"
+   },
+   "optionsConfigureShortcuts": {
+      "description": "Keyboard shortcut button and title text.",
+      "message": "Gyorsbillentyűk beállítása"
+   },
+   "optionsConnectedDatabasesNotFound": {
+      "description": "Shown in the connected databases table when there is no connected databases.",
+      "message": "Nem találhatók kapcsolódó adatbázisok."
+   },
+   "optionsConnectedDatabasesTab": {
+      "description": "Connected Databases tab text.",
+      "message": "Kapcsolódott adatbázisok"
+   },
+   "optionsConnectedDatabasesText": {
+      "description": "Info text about connected databases.",
+      "message": "A következő KeePassXC adatbázisok vannak kapcsolódva a KeePassXC-böngészőhöz."
+   },
+   "optionsCustomFieldsConfirmation": {
+      "description": "Confirmation text when removing saved custom login fields.",
+      "message": "Valóban el szeretné távolítani az elmentett egyéni bejelentkezési mezőket ezen az oldalon: $1"
+   },
+   "optionsCustomFieldsConfirmationHelpText": {
+      "description": "Part of confirmation text when removing saved custom login fields.",
+      "message": "A KeePassXC-böngésző automatikusan fel fogja ismerni a bejelentkezési mezőket a következő alkalommal, amikor meglátogatja ezt az oldalt."
+   },
+   "optionsCustomFieldsNotFound": {
+      "description": "Shown when no saved custom credentials are saved.",
+      "message": "Nem találhatók elmentett egyéni bejelentkezési mezők."
+   },
+   "optionsCustomFieldsRemove": {
+      "description": "Confirmation text when removing saved custom login fields.",
+      "message": "Eltávolítja az elmentett egyéni bejelentkezési mezőket?"
+   },
+   "optionsCustomFieldsTab": {
+      "description": "Saved custom login fields tab text.",
+      "message": "Egyéni bejelentkezési mezők"
+   },
+   "optionsCustomFieldsTabHelpTextFirst": {
+      "description": "Saved custom login fields info text, first part.",
+      "message": "Ha a KeePassXC-böngésző a rossz bejelentkezési mezőket ismeri fel, akkor lehetősége van meghatározni a helyes mezőket."
+   },
+   "optionsCustomFieldsTabHelpTextSecond": {
+      "description": "Saved custom login fields info text, second part.",
+      "message": "Menjen az oldalra, és kattintson a KeePassXC-böngésző ikonra, majd válassza ki a következőt:"
+   },
+   "optionsCustomFieldsTableCaption": {
+      "description": "Table caption of Custom login fields page.",
+      "message": "A mentett egyéni bejelentkezési mezőket a lenti táblázat használatával kezelheti."
+   },
+   "optionsDatabaseCreated": {
+      "description": "Database list column title.",
+      "message": "Létrehozva"
+   },
+   "optionsDatabaseDelete": {
+      "description": "Database list column title.",
+      "message": "Törlés"
+   },
+   "optionsDatabaseIdentifier": {
+      "description": "Database list column title.",
+      "message": "Azonosító"
+   },
+   "optionsDatabaseKey": {
+      "description": "Database list column title.",
+      "message": "Kulcs"
+   },
+   "optionsDatabaseLastUsed": {
+      "description": "Database list column title.",
+      "message": "Utolsó használat"
+   },
+   "optionsDatabasesRemoveIdentifier": {
+      "description": "Confirmation text when removing database from the list.",
+      "message": "Eltávolítja az azonosítót az adatbázislistából?"
+   },
+   "optionsDatabasesRemoveIdentifierConfirmFirst": {
+      "description": "Confirmation text when removing database from the list.",
+      "message": "Valóban el szeretné távolítani a következő azonosítót az adatbázislistából?"
+   },
+   "optionsDatabasesRemoveIdentifierConfirmSecond": {
+      "description": "Confirmation text when removing database from the list, second part.",
+      "message": "Bármikor újrakapcsolódhat az adatbázisához."
+   },
+   "optionsDefault": {
+      "description": "Default setting text.",
+      "message": "Alapértelmezett: $1"
+   },
+   "optionsDefaultGroupHelpText": {
+      "description": "Default group help text.",
+      "message": "Válassza el a csoportok perjellel, például: Csoport/Alcsoport."
+   },
+   "optionsErrorInvalidURL": {
+      "description": "Error shown when input field has an incorrect URL.",
+      "message": "Érvénytelen URL. Ellenőrizze a bemenetet."
+   },
+   "optionsErrorInvalidValue": {
+      "description": "Error shown when input field has an incorrect value.",
+      "message": "Érvénytelen érték. Ellenőrizze a bemenetet."
+   },
+   "optionsErrorValueExists": {
+      "description": "Error shown when trying to add a duplicate value to the list.",
+      "message": "Az érték már szerepel a listában."
+   },
+   "optionsGeneralSettingsTab": {
+      "description": "General Settings tab text.",
+      "message": "Általános beállítások"
+   },
+   "optionsInfinite": {
+      "description": "Infinite setting text.",
+      "message": "Végtelen: $1"
+   },
+   "optionsKeyboardShortcutsHeader": {
+      "description": "Keyboard shortcut header text.",
+      "message": "Gyorsbillentyűk"
+   },
+   "optionsLabelBlinkTime": {
+      "description": "Blink Time option text.",
+      "message": "Villogási idő:"
+   },
+   "optionsLabelDefaultGroup": {
+      "description": "Default group options text.",
+      "message": "Alapértelmezett csoport az új jelszavak mentéséhez:"
+   },
+   "optionsLabelDefaultGroupCheckboxHelpText": {
+      "description": "Default checkbox explanation help text.",
+      "message": "Ha engedélyezve van, akkor a felugró ablak megjelenít egy csoportlistát."
+   },
+   "optionsLabelDefaultGroupCheckboxText": {
+      "description": "Default group checkbox help text.",
+      "message": "Mindig kérdezze meg, hogy hova mentse a hitelesítési adatokat"
+   },
+   "optionsLabelRedirectAllowance": {
+      "description": "RMaximum (Number of) Redirects options text.",
+      "message": "Átirányítások legnagyobb száma:"
+   },
+   "optionsLabelRedirectOffset": {
+      "description": "Redirect Offset option text.",
+      "message": "Átirányítási eltolás:"
+   },
+   "optionsLatestVersion": {
+      "description": "Settings page info text about the latest KeePassXC version.",
+      "message": "A KeePassXC legújabb elérhető verziója: $1"
+   },
+   "optionsMenuAbout": {
+      "description": "About page header.",
+      "message": "Névjegy"
+   },
+   "optionsMenuConnectedDatabases": {
+      "description": "Connected Databases page header.",
+      "message": "Kapcsolódott adatbázisok"
+   },
+   "optionsMenuCustomFields": {
+      "description": "Custom login fields page header.",
+      "message": "Egyéni bejelentkezési mezők"
+   },
+   "optionsMenuGeneral": {
+      "description": "General settings page header.",
+      "message": "Általános"
+   },
+   "optionsMenuSitePreferences": {
+      "description": "Site preferences page header.",
+      "message": "Oldal beállításai"
+   },
+   "optionsRadioMonth": {
+      "description": "Radio button text.",
+      "message": "havonta"
+   },
+   "optionsRadioNever": {
+      "description": "Radio button text.",
+      "message": "soha"
+   },
+   "optionsRadioText": {
+      "description": "Text above radio buttons in the settings page.",
+      "message": "A KeePassXC frissítéseinek keresése:"
+   },
+   "optionsRadioThreeDays": {
+      "description": "Radio button text.",
+      "message": "3 naponta"
+   },
+   "optionsRadioWeek": {
+      "description": "Radio button text.",
+      "message": "hetente"
+   },
+   "optionsRecommended": {
+      "description": "Recommended setting text.",
+      "message": "Ajánlott: $1"
+   },
+   "optionsRedirectAllowanceHelpText": {
+      "description": "Redirect Allowance option help text.",
+      "message": "Hány oldalon kell a lapnak végiglépkednie az átirányítási eltolás után, mielőtt kikapcsolná az ikont."
+   },
+   "optionsRedirectOffsetHelpText": {
+      "description": "Redirect Offset option help text.",
+      "message": "A legkisebb idő (ms), amíg az ikonnak villognia kell az oldal átirányítása miatti kikapcsolás előtt."
+   },
+   "optionsRedirectOffsetHelpTextSecond": {
+      "description": "Redirect Offset option help text, second part.",
+      "message": "A -1 megadásakor csak akkor használjon villogást, ha figyelmen kívül hagyja a legnagyobb átirányításokat (régi viselkedés)."
+   },
+   "optionsSaveDomainOnly": {
+      "description": "Save domain only checkbox text.",
+      "message": "Csak tartomány mentése."
+   },
+   "optionsSaveDomainOnlyHelpText": {
+      "description": "Save domain only option help text.",
+      "message": "Új hitelesítési adatok mentésekor csak a tartományt mentse el a teljes URL helyett."
+   },
+   "optionsSelectionFull": {
+      "description": "Site preferences option selection.",
+      "message": "Az összes funkció letiltása"
+   },
+   "optionsSelectionNormal": {
+      "description": "Site preferences option selection.",
+      "message": "Új vagy módosított hitelesítési adatok letiltása"
+   },
+   "optionsSelectionNothing": {
+      "description": "Site preferences option selection.",
+      "message": "Az összes funkció engedélyezése"
+   },
+   "optionsShortcutsDanger": {
+      "description": "Error message for changing keyboard shortcuts.",
+      "message": "Hiba: A funkcióhoz tartozó gyorsbillentyű nem változott: $1."
+   },
+   "optionsShortcutsInfo": {
+      "description": "Info message for changing keyboard shortcuts.",
+      "message": "A funkcióhoz tartozó gyorsbillentyű alapállapotba lett hozva:$1."
+   },
+   "optionsShortcutsSuccess": {
+      "description": "Message for successful keyboard shortcut change.",
+      "message": "A funkcióhoz tartozó gyorsbillentyű sikeresen megváltozott:  $1."
+   },
+   "optionsShowNotificationsHelpText": {
+      "description": "Show notifications option help text.",
+      "message": "Értesítések megjelenítése a hibáknál és amikor felhasználói beavatkozás szükséges."
+   },
+   "optionsSitePreferencesConfirmation": {
+      "description": "Confirmation text when removing site from site preferences.",
+      "message": "Valóban el szeretné távolítani a megadott oldalt a listából: $1"
+   },
+   "optionsSitePreferencesConfirmationHelpText": {
+      "description": "Part of confirmation text when removing site preferences.",
+      "message": "A KeePassXC-böngésző engedélyezni fogja az összes funkciót ennél az oldalnál, és eltávolítja a csak felhasználónév felismerést."
+   },
+   "optionsSitePreferencesManualAddText": {
+      "description": "Label for adding site manually on Site preferences tab.",
+      "message": "URL kézi hozzáadása"
+   },
+   "optionsSitePreferencesNotFound": {
+      "description": "Shown when no ignored sites are saved.",
+      "message": "Nem találhatók mellőzött oldalak."
+   },
+   "optionsSitePreferencesRemove": {
+      "description": "Confirmation text when removing ignored sites from the list.",
+      "message": "Eltávolítja az oldalt?"
+   },
+   "optionsSitePreferencesSelect": {
+      "description": "Title text of select element in Site Preferences.",
+      "message": "Lehetőség a kiterjesztés funkcióinak figyelmen kívül hagyására az oldalon."
+   },
+   "optionsSitePreferencesTab": {
+      "description": "Site preferences fields tab text.",
+      "message": "Oldal beállításai"
+   },
+   "optionsSitePreferencesTabHelpTextFirst": {
+      "description": "Site preferences info text, first part.",
+      "message": "Az ezen az oldalon lévő oldalakhoz különleges kezelési módszerek vannak hozzárendelve."
+   },
+   "optionsSitePreferencesTabHelpTextFourth": {
+      "description": "Site preferences info text, fourth part.",
+      "message": "A csak felhasználónév felismerése lehetővé teszi a KeePassXC-böngésző számára, hogy kitöltse a bejelentkezési részleteket a különálló felhasználónév és jelszó oldalakkal rendelkező weboldalakon."
+   },
+   "optionsSitePreferencesTabHelpTextSecond": {
+      "description": "Site preferences info text, second part.",
+      "message": "Egy bizonyos oldalon lévő új vagy módosított hitelesítési adatok mellőzéséhez adja hozzá azokat lent, vagy kattintson a villogó KeePassXC-böngésző ikonra és válassza a következőt:"
+   },
+   "optionsSitePreferencesTabHelpTextThird": {
+      "description": "Site preferences info text, third part.",
+      "message": "Ha egy oldal teljesen mellőzött (\u003Cem>Az összes funkció letiltása\u003C/em> van kiválasztva), akkor a bővítmény nem fog tenni semmit, amikor meglátogatja azt az oldalt."
+   },
+   "optionsSitePreferencesTableCaption": {
+      "description": "Table caption of Site Preferences page.",
+      "message": "A mentett oldalbeállításokat a lenti táblázat használatával kezelheti."
+   },
+   "optionsTitle": {
+      "description": "Options page title.",
+      "message": "Beállítások | KeePassXC-böngésző"
+   },
+   "optionsUsePasswordGeneratorHelpText": {
+      "description": "Password Generator option help text.",
+      "message": "Egy gombot ad a jelszó mezőkhöz új jelszó előállításához."
+   },
+   "optionsUsePasswordGeneratorHelpTextSecond": {
+      "description": "Password Generator option help text, second part.",
+      "message": "A jelszavakat a KeePassXC állítja elő a jelszó-előállító profil használatával."
+   },
+   "optionsVersionDownload": {
+      "description": "Settings page download link.",
+      "message": "A legújabb stabil verziót innen töltheti le: $1"
+   },
+   "optionsVersionInfoText": {
+      "description": "Settings page version info text.",
+      "message": "A KeePassXC-böngészőnek a KeePassXC programra van szüksége a hitelesítési adatok lekéréséhez."
+   },
+   "optionsVersionRunning": {
+      "description": "Settings page info text of user's KeePassXC version.",
+      "message": "A KeePassXC alábbi verziója fut: $1"
+   },
+   "password": {
+      "description": "General text for password.",
+      "message": "Jelszó"
+   },
+   "passwordGeneratorBits": {
+      "description": "Bits of the generated password.",
+      "message": "??? bit"
+   },
+   "passwordGeneratorCopy": {
+      "description": "Copy button text in password generator.",
+      "message": "Másolás"
+   },
+   "passwordGeneratorError": {
+      "description": "Password generator error text when KeePassXC is closed.",
+      "message": "Nem sikerült fogadni az előállított jelszót.\u003Cbr />Fut a KeePassXC?"
+   },
+   "passwordGeneratorErrorTooLong": {
+      "description": "A warning text shown in the password generator.",
+      "message": "Hiba:\nAz előállított jelszó hosszabb mint a megengedett hossz!\nLe lesz vágva a megengedett legnagyobb hossznál.\n\nJegyezze meg az új jelszót!"
+   },
+   "passwordGeneratorFillAndCopy": {
+      "description": "Fill and copy button text in password generator.",
+      "message": "Kitöltés és másolás"
+   },
+   "passwordGeneratorGenerate": {
+      "description": "Generate button text in password generator.",
+      "message": "Előállítás"
+   },
+   "passwordGeneratorGenerateText": {
+      "description": "Password icon title text.",
+      "message": "Jelszó előállítása"
+   },
+   "passwordGeneratorIcon": {
+      "description": "Alt attribute text of the password generator icon.",
+      "message": "Jelszó-előállító ikon"
+   },
+   "passwordGeneratorLabel": {
+      "description": "Checkbox text below the password generator input field.",
+      "message": "Töltse ki a következő jelszómezőt is"
+   },
+   "passwordGeneratorPlaceholder": {
+      "description": "Input field placeholder for generated password.",
+      "message": "Előállított jelszó"
+   },
+   "passwordGeneratorTitle": {
+      "description": "Password generator dialog title.",
+      "message": "Jelszó-előállító"
+   },
+   "popupAuthText": {
+      "description": "A popup message shown when doing HTTP Authentication with multiple credentials present.",
+      "message": "Válassza ki azokat a bejelentkezési információkat, amelyekkel be szeretne jelentkezni."
+   },
+   "popupButtonClose": {
+      "description": "Close button text in popup or in notification.",
+      "message": "Bezárás"
+   },
+   "popupButtonDismiss": {
+      "description": "Dismiss button text in popup when updating credentials.",
+      "message": "Eltüntetés"
+   },
+   "popupButtonDismissHttpAuth": {
+      "description": "Dismiss button text when in HTTP Authentication popup.",
+      "message": "Eltüntetés és az alapértelmezett hitelesítési párbeszédablak megjelenítése"
+   },
+   "popupButtonIgnore": {
+      "description": "Ignore button text in popup or in notification when updating credentials.",
+      "message": "Sose kérdezze ennél az oldalnál"
+   },
+   "popupButtonNew": {
+      "description": "New button text in popup when updating credentials.",
+      "message": "Új"
+   },
+   "popupButtonUpdate": {
+      "description": "Update button text in popup when updating credentials.",
+      "message": "Frissítés"
+   },
+   "popupCheckingStatus": {
+      "description": "Checking status message in popup.",
+      "message": "Állapot ellenőrzése…"
+   },
+   "popupChooseCredentialsText": {
+      "description": "Popup credential choosing button text.",
+      "message": "Egyéni bejelentkezési mezők kiválasztása ehhez az oldalhoz"
+   },
+   "popupConfiguredAndAssociated": {
+      "description": "A popuo message when a connection to KeePassXC is succesful.",
+      "message": "A KeePassXC-böngésző kapcsolódott a KeePassXC programhoz és be lett állítva a következő azonosító használatával: $1"
+   },
+   "popupConfiguredNotAssociated": {
+      "description": "A popup message shown when KeePassXC is not connected but configured.",
+      "message": "A KeePassXC-böngésző még nem lett hozzákapcsolva a KeePassXC programhoz, de már be lett állítva a következő azonosító használatával: $1"
+   },
+   "popupConnectButton": {
+      "description": "Popup Connect button text.",
+      "message": "Kapcsolódás"
+   },
+   "popupDownloadNewVersion": {
+      "description": "Popup warning message link when KeePassXC version is not up-to-date.",
+      "message": "Töltse le a legújabb verziót a keepassxc.org oldalról."
+   },
+   "popupErrorEncountered": {
+      "description": "A text shown above error message in the popup.",
+      "message": "A KeePassXC-böngésző hibát észlelt:"
+   },
+   "popupFilterText": {
+      "description": "Text for login credentials quick filter.",
+      "message": "Szűrő:"
+   },
+   "popupLoginText": {
+      "description": "A popup message shown when one or multiple credentials are present.",
+      "message": "Válassza ki azokat a bejelentkezési információkat, amelyeket be szeretne íratni az oldalba."
+   },
+   "popupMultiplePasswordFields": {
+      "description": "A popup message shown when web page has multiple password fields.",
+      "message": "Egynél több jelszó mező található ezen az oldalon. Kattintson a jobb egérgombbal a jelszó mezők egyikére, és válassza ki a következők egyikét:"
+   },
+   "popupNeedReconfigure": {
+      "description": "A popup message shown when the extension has been disconnected from KeePassXC.",
+      "message": "A KeePassXC-böngésző le lett választva a KeePassXC programról."
+   },
+   "popupNeedReconfigureMessage": {
+      "description": "A popup message shown when reconnect is needed.",
+      "message": "Nyomja meg az újrakapcsolódás gombot egy új kapcsolat kiépítéséhez."
+   },
+   "popupNotConfigured": {
+      "description": "A popup message shown when the extension has not been connected to KeePassXC.",
+      "message": "A KeePassXC-böngésző nem lett beállítva. Nyomja meg a kapcsolódás gombot a KeePassXC programmal történő párosításához."
+   },
+   "popupReconnectButton": {
+      "description": "Popup Reconnect button text.",
+      "message": "Újrakapcsolódás"
+   },
+   "popupRedetectButton": {
+      "description": "Popup Redetect login fields button text.",
+      "message": "Bejelentkezési mezők újra felderítése"
+   },
+   "popupReloadButton": {
+      "description": "Popup Reload button text.",
+      "message": "Újratöltés"
+   },
+   "popupRememberChooseCredentials": {
+      "description": "A popup message shown choosing what credentials user wants to update.",
+      "message": "Válassza ki azokat a hitelesítési adatokat, amiket frissíteni szeretne."
+   },
+   "popupRememberChooseGroup": {
+      "description": "A popup message shown choosing what group user wants to use for new credentials.",
+      "message": "Válassza ki a csoportot, amelyhez hozzá szeretné adni az új hitelesítési adatokat."
+   },
+   "popupRememberErrorCannotSaveCredentials": {
+      "description": "Error message shown when credentials cannot be saved or updated.",
+      "message": "Hiba: A hitelesítési adatokat nem lehet menteni vagy frissíteni."
+   },
+   "popupRememberErrorCreatingNewGroup": {
+      "description": "Error message shown when new groups cannot be created.",
+      "message": "Az új csoportok nem hozhatók létre."
+   },
+   "popupRememberErrorDefaultGroupNotFound": {
+      "description": "Error message shown when default group set cannot be found.",
+      "message": "Hiba: a megadott alapértelmezett csoport nem található. Az összes szükséges csoport létrehozása."
+   },
+   "popupRememberErrorPasswordNotChanged": {
+      "description": "Error message shown when credential password is not changed.",
+      "message": "Hiba: A hitelesítési adatok nem lettek frissítve. A jelszó nem változott."
+   },
+   "popupRememberInfoText": {
+      "description": "Popup message when username or password has changed.",
+      "message": "A felhasználónév vagy a jelszó megváltozott! Menti?"
+   },
+   "popupRememberNewUsername": {
+      "description": "A popup message shown when a new username is detected when saving credentials.",
+      "message": "A következő felhasználónév jelenleg nincs elmentve: $1"
+   },
+   "popupRememberSaving": {
+      "description": "A popup message when saving or updating credentials.",
+      "message": "A hitelesítési adatok a kapcsolódó adatbázisba lesznek elmentve a következő azonosítóval: $1"
+   },
+   "popupRememberUsernameExists": {
+      "description": "A popup message shown when a existing username is detected when saving credentials.",
+      "message": "A hitelesítési adatok a használt felhasználónévvel félkövéren vannak megjelölve: $1"
+   },
+   "popupReopenButton": {
+      "description": "Popup reopen database button text.",
+      "message": "Adatbázis újbóli megnyitása"
+   },
+   "popupSettingsText": {
+      "description": "Popup Settings button text.",
+      "message": "Beállítások"
+   },
+   "popupTitle": {
+      "description": "Popup window title.",
+      "message": "KeePassXC – felugró ablak"
+   },
+   "popupURL": {
+      "description": "URL. Might not need any translation.",
+      "message": "URL: "
+   },
+   "popupUpdateAvailable": {
+      "description": "Popup warning message about old version of KeePassXC.",
+      "message": "A KeePassXC egy régebbi verzióját használja."
+   },
+   "popupUsername": {
+      "description": "A username field name shown on credential update.",
+      "message": "Felhasználónév: "
+   },
+   "rememberCredentialsPopup": {
+      "description": "Notification text when saving credentials from the context menu.",
+      "message": "A hitelesítési adatok létrehozása vagy módosítása a kiegészítő ikonjára kattintva."
+   },
+   "rememberNothingChanged": {
+      "description": "Message shown when trying to save credentials that haven't changed.",
+      "message": "Hiba:\nNem sikerült felismerni a megváltozott hitelesítési adatokat."
+   },
+   "username": {
+      "description": "General text for username.",
+      "message": "Felhasználónév"
+   }
+}
