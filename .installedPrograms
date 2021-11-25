@@ -111,7 +111,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 96.0.4664.45-1
+Version         : 96.0.4664.45-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -191,7 +191,7 @@ Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
 
 Name            : freerdp
-Version         : 2:2.4.1-1
+Version         : 2:2.4.1-2
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fzf
@@ -203,7 +203,7 @@ Version         : 11.1.0-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : git
-Version         : 2.34.0-1
+Version         : 2.34.1-1
 Description     : the fast distributed version control system
 
 Name            : gnu-free-fonts
@@ -343,7 +343,7 @@ Version         : 1:0.34.0-2
 Description     : a free, open source, and cross-platform media player
 
 Name            : ncmpcpp
-Version         : 0.9.2-3
+Version         : 0.9.2-4
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : network-manager-applet
@@ -459,7 +459,7 @@ Version         : 20.3.4-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2021.11.15-1
+Version         : 2021.11.23-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -527,7 +527,7 @@ Version         : 4.22.0-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 1.9-1
+Version         : 1.9.2-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -579,7 +579,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.3.2-1
+Version         : 91.3.2-2
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
