@@ -219,7 +219,7 @@ Version         : 1.22.4-6
 Description     : GNU troff text-formatting system
 
 Name            : htop
-Version         : 3.1.1-1
+Version         : 3.1.2-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
@@ -271,7 +271,7 @@ Version         : 5.15.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.10.81-1
+Version         : 5.10.82-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
@@ -359,7 +359,7 @@ Version         : 1.8.16-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nginx
-Version         : 1.20.1-1
+Version         : 1.20.2-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nomacs
@@ -455,7 +455,7 @@ Version         : 0.8.0-3
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-pip
-Version         : 20.3.4-1
+Version         : 20.3.4-2
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -531,7 +531,7 @@ Version         : 1.9.2-1
 Description     : Sound Open Firmware
 
 Name            : solaar
-Version         : 1.0.7-1
+Version         : 1.1.0-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
@@ -755,7 +755,7 @@ Version         : 1.6.1-2
 Description     : Simple X server performance benchmarker
 
 Name            : xorg-xauth
-Version         : 1.1-2
+Version         : 1.1.1-1
 Description     : X.Org authorization settings program
 
 Name            : xorg-xcmsdb
@@ -899,7 +899,7 @@ Version         : 5.1.0-2
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.8.4-1
+Version         : 5.8.6-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
