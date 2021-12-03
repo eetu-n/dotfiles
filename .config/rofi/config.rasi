@@ -1,5 +1,4 @@
 configuration {
-	width: 50;
 	font: "SourceCodePro 10";
-	theme: "~/.config/rofi/sidetab.rasi";
 }
+@theme "android_notification"
