@@ -15,7 +15,7 @@ Version         : 1.11-3
 Description     : Apple TV4 HD aerial movies in 2k
 
 Name            : alacritty
-Version         : 0.9.0-1
+Version         : 0.9.0-2
 Description     : A cross-platform, GPU-accelerated terminal emulator
 
 Name            : alsa-firmware
@@ -271,7 +271,7 @@ Version         : 5.15.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.10.82-1
+Version         : 5.10.83-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
@@ -515,7 +515,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.24.0-1
+Version         : 5.25.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -551,7 +551,7 @@ Version         : 1.09-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 5.14-1
+Version         : 5.15-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
