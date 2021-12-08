@@ -183,7 +183,7 @@ Version         : 3.7.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 94.0.2-2
+Version         : 95.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -579,7 +579,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.3.2-2
+Version         : 91.4.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
