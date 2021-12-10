@@ -58,6 +58,10 @@ Name            : automake
 Version         : 1.16.5-1
 Description     : A GNU tool for automatically creating Makefiles
 
+Name            : autorandr
+Version         : 1.11-2
+Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
+
 Name            : bandit
 Version         : 1.7.0-2
 Description     : Python security linter from OpenStack Security
@@ -531,7 +535,7 @@ Version         : 3.2.0-1
 Description     : An extensible music server written in Python
 
 Name            : mopidy-iris
-Version         : 3.59.0-1
+Version         : 3.60.0-1
 Description     : A Mopidy Web client that utilizes the Spotify and EchoNest frameworks. (Formerly Spotmop)
 
 Name            : mopidy-mpd
