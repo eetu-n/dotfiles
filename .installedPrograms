@@ -70,6 +70,10 @@ Name            : automake
 Version         : 1.16.5-1
 Description     : A GNU tool for automatically creating Makefiles
 
+Name            : autorandr
+Version         : 1.11-2
+Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
+
 Name            : base
 Version         : 2-2
 Description     : Minimal package set to define a basic Arch Linux installation
@@ -159,11 +163,11 @@ Version         : 10.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.7.2-1
+Version         : 1.7.3-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.1.5-1
+Version         : 6.1.5-2
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -193,6 +197,10 @@ Description     : A tool for generating text-scanning programs
 Name            : freerdp
 Version         : 2:2.4.1-2
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
+
+Name            : fwupd
+Version         : 1.7.2-1
+Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
 Version         : 0.28.0-1
@@ -259,7 +267,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.15.6.arch2-1
+Version         : 5.15.7.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -267,15 +275,15 @@ Version         : 20211027.1d00989-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.15.6.arch2-1
+Version         : 5.15.7.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.10.83-1
+Version         : 5.10.84-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.15.6.zen2-1
+Version         : 5.15.7.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -515,7 +523,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.25.0-1
+Version         : 5.25.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -535,7 +543,7 @@ Version         : 1.1.0-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 21.08.3-1
+Version         : 21.12.0-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -627,7 +635,7 @@ Version         : 2.2.19-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.7.3-1
+Version         : 1.9.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -647,7 +655,7 @@ Version         : 6.1.30-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.30-3
+Version         : 6.1.30-4
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
