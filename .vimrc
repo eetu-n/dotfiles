@@ -16,6 +16,7 @@ Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }  "Live Latex preview
 Plug 'andymass/vim-matchup'                             "Extend % matching for HTML, LaTeX etc.
 Plug 'yggdroot/indentline'                              "Show indentation levels
 Plug 'tpope/vim-fugitive'                               "Git Wrapper
+Plug 'hashivim/vim-vagrant'                             "Vagrantfile syntax et. al
 
 call plug#end()
 

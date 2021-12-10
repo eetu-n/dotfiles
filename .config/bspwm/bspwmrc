@@ -1,11 +1,10 @@
 #! /bin/bash
 
-sxhkd &
 redshift &
 picom -b
 dunst &
 nm-applet &
-solaar &
+solaar -w hide &
 touch /tmp/barHidden
 autocutsel -s CLIPBOARD -fork
 udiskie &
@@ -17,6 +16,9 @@ fi
 if [[ ! "$SSH_AUTH_SOCK" ]]; then
     eval "$(</tmp/ssh-agent-pid)"
 fi
+
+eval $(ssh-agent)
+sxhkd &
 
 bspc config border_width         2
 bspc config window_gap          12
@@ -33,13 +35,13 @@ bspc config top_padding -14
 bspc config remove_unplugged_monitors true
 bspc config remove_disabled_monitors true
 
-monitor-update
-monitor-apply
 monitor-bspwm
+
+feh --bg-scale $HOME.wallpaper.jpg
 
 $HOME/.config/polybar/launch.sh &
 setxkbmap -option compose:ralt
 
 # Scratchpad
 bspc rule -a scratchpad sticky=on state=floating hidden=on
-alacritty --hold -e scratch &
+alacritty --hold --class scratchpad -e scratch &
