@@ -195,7 +195,7 @@ Version         : 3.7.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 95.0.1-1
+Version         : 95.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -479,7 +479,7 @@ Version         : 1.12-5
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : remmina
-Version         : 1:1.4.22-1
+Version         : 1:1.4.23-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
