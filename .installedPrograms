@@ -74,6 +74,14 @@ Name            : autorandr
 Version         : 1.12-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
+Name            : aws-cli
+Version         : 1.22.24-1
+Description     : Universal Command Line Interface for Amazon Web Services
+
+Name            : aws-iam-authenticator-bin
+Version         : 0.5.3-1
+Description     : A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+
 Name            : base
 Version         : 2-2
 Description     : Minimal package set to define a basic Arch Linux installation
@@ -234,6 +242,10 @@ Name            : groff
 Version         : 1.22.4-6
 Description     : GNU troff text-formatting system
 
+Name            : helm
+Version         : 3.7.2-1
+Description     : The Kubernetes Package Manager
+
 Name            : htop
 Version         : 3.1.2-1
 Description     : Interactive process viewer
@@ -266,9 +278,17 @@ Name            : keychain
 Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
+Name            : kubectl
+Version         : 1.22.4-1
+Description     : A command line tool for communicating with a Kubernetes API server
+
 Name            : libguestfs
 Version         : 1.46.0-2
 Description     : Access and modify virtual machine disk images
+
+Name            : libspotify
+Version         : 12.1.51-8
+Description     : C API package allowing third-party developers to write applications that utilize the Spotify music streaming service
 
 Name            : libtool
 Version         : 2.4.6+42+gb88cebd5-16
@@ -343,7 +363,7 @@ Version         : 38322-2
 Description     : Media player for Linux
 
 Name            : mpv
-Version         : 1:0.34.0-2
+Version         : 1:0.34.0-3
 Description     : a free, open source, and cross-platform media player
 
 Name            : ncmpcpp
@@ -435,7 +455,7 @@ Version         : 2.58.1-1
 Description     : Next generation Plex Desktop Client
 
 Name            : polybar
-Version         : 3.5.7-1
+Version         : 3.5.7-2
 Description     : A fast and easy-to-use status bar
 
 Name            : ponymix
@@ -479,7 +499,7 @@ Version         : 1.12-5
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : remmina
-Version         : 1:1.4.23-1
+Version         : 1:1.4.23-3
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -519,7 +539,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.26.0-1
+Version         : 5.26.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -583,7 +603,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.4.0-1
+Version         : 91.4.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tldr
@@ -639,7 +659,7 @@ Version         : 2.2.19-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.9.1-1
+Version         : 1.9.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -727,27 +747,27 @@ Version         : 1.2.1-2
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.2-1
+Version         : 21.1.2-2
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 21.1.2-1
+Version         : 21.1.2-2
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 21.1.2-1
+Version         : 21.1.2-2
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 21.1.2-1
+Version         : 21.1.2-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 21.1.2-1
+Version         : 21.1.2-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 21.1.2-1
+Version         : 21.1.2-2
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
@@ -911,7 +931,7 @@ Version         : 5.1.0-2
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.8.6-1
+Version         : 5.9.0-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
