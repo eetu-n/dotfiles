@@ -251,7 +251,7 @@ Version         : 3.1.2-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
-Version         : 7.1.0.18-1
+Version         : 7.1.0.19-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -307,7 +307,7 @@ Version         : 5.15.10.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.10.87-1
+Version         : 5.10.88-2
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
@@ -427,19 +427,19 @@ Version         : 8.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pipewire
-Version         : 1:0.3.42-1
+Version         : 1:0.3.42-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.42-1
+Version         : 1:0.3.42-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.42-1
+Version         : 1:0.3.42-2
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.42-1
+Version         : 1:0.3.42-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
