@@ -279,7 +279,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.22.4-1
+Version         : 1.23.1-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -295,7 +295,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.15.11.arch2-1
+Version         : 5.15.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -303,7 +303,7 @@ Version         : 20211027.1d00989-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.15.11.arch2-1
+Version         : 5.15.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -311,7 +311,7 @@ Version         : 5.10.88-2
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.15.11.zen1-1
+Version         : 5.15.12.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -679,7 +679,7 @@ Version         : 6.1.30-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.30-8
+Version         : 6.1.30-9
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
