@@ -587,7 +587,7 @@ Version         : 0.6.2-1
 Description     : Simple X hotkey daemon
 
 Name            : tealdeer
-Version         : 1.4.1-6
+Version         : 1.5.0-1
 Description     : A fast tldr client in Rust
 
 Name            : teams
@@ -595,7 +595,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.3.0-1
+Version         : 3.4.2-2
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
