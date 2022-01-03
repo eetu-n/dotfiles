@@ -307,7 +307,7 @@ Version         : 5.15.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.10.88-2
+Version         : 5.10.89-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
