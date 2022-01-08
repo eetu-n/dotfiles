@@ -107,15 +107,15 @@ Version         : 2.2.3-2
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.62-1
+Version         : 5.63-1
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.62-1
+Version         : 5.63-1
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.62-1
+Version         : 5.63-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : breeze-dark-flat
@@ -127,7 +127,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 96.0.4664.110-1
+Version         : 97.0.4692.71-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -179,7 +179,7 @@ Version         : 1.7.3-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.1.5-2
+Version         : 6.2.1-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -279,7 +279,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.23.1-1
+Version         : 1.23.1-2
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -295,7 +295,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.15.12.arch1-1
+Version         : 5.15.13.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -303,15 +303,15 @@ Version         : 20211027.1d00989-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.15.12.arch1-1
+Version         : 5.15.13.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.10.89-1
+Version         : 5.10.90-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.15.12.zen1-1
+Version         : 5.15.13.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -427,19 +427,19 @@ Version         : 8.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pipewire
-Version         : 1:0.3.42-2
+Version         : 1:0.3.43-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.42-2
+Version         : 1:0.3.43-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.42-2
+Version         : 1:0.3.43-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.42-2
+Version         : 1:0.3.43-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -539,7 +539,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.26.1-1
+Version         : 5.27.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -559,7 +559,7 @@ Version         : 1.1.1-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 21.12.0-1
+Version         : 21.12.1-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -595,7 +595,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.4.3-1
+Version         : 3.4.3-2
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -635,7 +635,7 @@ Version         : 2.0-12
 Description     : Core TTF Fonts from Microsoft
 
 Name            : tzupdate
-Version         : 2.0.0-1
+Version         : 2.1.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
@@ -679,7 +679,7 @@ Version         : 6.1.30-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.30-9
+Version         : 6.1.30-10
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
