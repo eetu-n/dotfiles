@@ -127,7 +127,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 97.0.4692.71-1
+Version         : 97.0.4692.71-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -171,7 +171,7 @@ Version         : 4.2-1
 Description     : DOS filesystem utilities
 
 Name            : downgrade
-Version         : 10.1.0-1
+Version         : 10.1.1-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -203,7 +203,7 @@ Version         : 3.8-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 95.0.2-1
+Version         : 96.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -295,23 +295,23 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.15.13.arch1-1
+Version         : 5.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20211027.1d00989-1
+Version         : 20211216.f682ecb-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.15.13.arch1-1
+Version         : 5.16.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.10.90-1
+Version         : 5.15.14-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-zen
-Version         : 5.15.13.zen1-1
+Version         : 5.16.zen1-1
 Description     : The Linux ZEN kernel and modules
 
 Name            : logiops
@@ -483,7 +483,7 @@ Version         : 20.3.4-4
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2021.11.23-3
+Version         : 2022.1.8-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -539,7 +539,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.27.1-1
+Version         : 5.28.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -575,7 +575,7 @@ Version         : 1.09-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 5.15-1
+Version         : 5.16-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
@@ -607,7 +607,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.4.1-1
+Version         : 91.5.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -643,7 +643,7 @@ Version         : 2.4.0-1
 Description     : Removable disk automounter using udisks
 
 Name            : usbutils
-Version         : 014-1
+Version         : 014-2
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : v4l2loopback-dkms
@@ -679,7 +679,7 @@ Version         : 6.1.30-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.30-10
+Version         : 6.1.30-11
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
