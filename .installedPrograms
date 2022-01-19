@@ -646,6 +646,10 @@ Name            : udiskie
 Version         : 2.4.0-1
 Description     : Removable disk automounter using udisks
 
+Name            : unzip
+Version         : 6.0-16
+Description     : For extracting and viewing files in .zip archives
+
 Name            : usbutils
 Version         : 014-2
 Description     : A collection of USB tools to query connected USB devices
