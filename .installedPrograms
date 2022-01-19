@@ -318,10 +318,6 @@ Name            : linux-lts
 Version         : 5.15.15-1
 Description     : The LTS Linux kernel and modules
 
-Name            : linux-zen
-Version         : 5.16.1.zen1-1
-Description     : The Linux ZEN kernel and modules
-
 Name            : logiops
 Version         : 0.2.3-1
 Description     : An unofficial driver for Logitech HID++>2.0 mice and keyboard
