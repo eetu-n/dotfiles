@@ -435,19 +435,19 @@ Version         : 8.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pipewire
-Version         : 1:0.3.43-1
+Version         : 1:0.3.43-5
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.43-1
+Version         : 1:0.3.43-5
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.43-1
+Version         : 1:0.3.43-5
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.43-1
+Version         : 1:0.3.43-5
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -683,11 +683,11 @@ Version         : 3.2.0-4
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 6.1.30-3
+Version         : 6.1.32-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.30-12
+Version         : 6.1.32-1
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
