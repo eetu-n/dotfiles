@@ -30,10 +30,6 @@ Name            : amtterm
 Version         : 1.6-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
 
-Name            : android-studio
-Version         : 2020.3.1.26-1
-Description     : The official Android IDE (Stable branch)
-
 Name            : ansible
 Version         : 2.9.12-1
 Description     : Radically simple IT automation platform
@@ -91,7 +87,7 @@ Version         : 2-2
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bat
-Version         : 0.18.3-1
+Version         : 0.19.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
@@ -183,7 +179,7 @@ Version         : 1.7.3-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.2.1-1
+Version         : 6.2.2-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -259,7 +255,7 @@ Version         : 3.1.2-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
-Version         : 7.1.0.20-1
+Version         : 7.1.0.20-2
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -551,7 +547,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.29.0-1
+Version         : 5.29.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -623,7 +619,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.5.0-2
+Version         : 91.5.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -951,7 +947,7 @@ Version         : 5.1.0-2
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.9.1-1
+Version         : 5.9.3-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
