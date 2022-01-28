@@ -203,7 +203,7 @@ Version         : 3.8-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 96.0.2-1
+Version         : 96.0.3-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -283,7 +283,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.23.2-1
+Version         : 1.23.3-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -311,7 +311,7 @@ Version         : 5.16.2.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.16-1
+Version         : 5.15.17-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -435,19 +435,19 @@ Version         : 2.0.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.43-5
+Version         : 1:0.3.44-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.43-5
+Version         : 1:0.3.44-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.43-5
+Version         : 1:0.3.44-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.43-5
+Version         : 1:0.3.44-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -675,7 +675,7 @@ Version         : 2.2.19-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.9.2-1
+Version         : 1.9.3-1
 Description     : A tool for managing secrets
 
 Name            : vim
