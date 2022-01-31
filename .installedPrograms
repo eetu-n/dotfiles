@@ -30,14 +30,6 @@ Name            : amtterm
 Version         : 1.6-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
 
-Name            : ansible
-Version         : 2.9.12-1
-Description     : Radically simple IT automation platform
-
-Name            : ansible-lint
-Version         : 5.0.3-1
-Description     : Checks playbooks for practices and behaviour that could potentially be improved.
-
 Name            : arandr
 Version         : 0.1.10-7
 Description     : Provide a simple visual front end for XRandR 1.2.
@@ -179,7 +171,7 @@ Version         : 1.7.3-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.2.2-1
+Version         : 6.2.3-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -227,7 +219,7 @@ Version         : 11.1.0-3
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : git
-Version         : 2.35.0-1
+Version         : 2.35.1-1
 Description     : the fast distributed version control system
 
 Name            : gnu-free-fonts
@@ -255,7 +247,7 @@ Version         : 3.1.2-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
-Version         : 7.1.0.20-2
+Version         : 7.1.0.22-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -299,7 +291,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.16.2.arch1-1
+Version         : 5.16.4.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -307,11 +299,11 @@ Version         : 20220119.0c6a7b3-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.16.2.arch1-1
+Version         : 5.16.4.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.17-1
+Version         : 5.15.18-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -474,9 +466,9 @@ Name            : powertop
 Version         : 2.14-1
 Description     : A tool to diagnose issues with power consumption and power management
 
-Name            : python-hvac
-Version         : 0.11.2-4
-Description     : Python 2.7/3.X client for HashiCorp Vault
+Name            : pyenv
+Version         : 2.2.4-1
+Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
 Version         : 0.10.0-5
@@ -497,6 +489,14 @@ Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 Name            : python-zabbix-api
 Version         : 0.5.4-3
 Description     : Python Zabbix API
+
+Name            : python37
+Version         : 3.7.12-5
+Description     : Major release 3.7 of the Python high-level programming language
+
+Name            : python39
+Version         : 3.9.10-1
+Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : ranger
 Version         : 1.9.3-4
@@ -695,7 +695,7 @@ Version         : 6.1.32-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.32-2
+Version         : 6.1.32-4
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
