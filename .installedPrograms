@@ -159,7 +159,7 @@ Version         : 1:20.10.12-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : dosfstools
-Version         : 4.2-1
+Version         : 4.2-2
 Description     : DOS filesystem utilities
 
 Name            : downgrade
