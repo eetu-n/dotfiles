@@ -63,7 +63,7 @@ Version         : 1.12.1-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
-Version         : 1.22.38-1
+Version         : 1.22.47-1
 Description     : Universal Command Line Interface for Amazon Web Services
 
 Name            : aws-iam-authenticator-bin
@@ -139,7 +139,7 @@ Version         : 1.92-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.63.2-1
+Version         : 1.64.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -230,6 +230,10 @@ Name            : gnu-netcat
 Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
+Name            : go
+Version         : 2:1.17.6-2
+Description     : Core compiler tools for the Go programming language
+
 Name            : groff
 Version         : 1.22.4-6
 Description     : GNU troff text-formatting system
@@ -247,7 +251,7 @@ Version         : 3.1.2-1
 Description     : Interactive process viewer
 
 Name            : imagemagick
-Version         : 7.1.0.22-1
+Version         : 7.1.0.23-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -291,7 +295,7 @@ Version         : 2.4.6+42+gb88cebd5-16
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.16.4.arch1-1
+Version         : 5.16.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -299,11 +303,11 @@ Version         : 20220119.0c6a7b3-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.16.4.arch1-1
+Version         : 5.16.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.19-1
+Version         : 5.15.21-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -427,19 +431,19 @@ Version         : 2.0.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.44-1
+Version         : 1:0.3.45-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.44-1
+Version         : 1:0.3.45-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.44-1
+Version         : 1:0.3.45-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.44-1
+Version         : 1:0.3.45-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -449,10 +453,6 @@ Description     : Package compiler and linker metadata toolkit
 Name            : playerctl
 Version         : 2.4.1-1
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
-
-Name            : plex-media-player
-Version         : 2.58.1-1
-Description     : Next generation Plex Desktop Client
 
 Name            : polybar
 Version         : 3.5.7-2
@@ -539,7 +539,7 @@ Version         : 1.7-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
-Version         : 0.19.0-7
+Version         : 0.19.0-8
 Description     : QML based X11 and Wayland display manager
 
 Name            : sddm-theme-aerial-git
@@ -547,7 +547,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.29.1-1
+Version         : 5.30.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -571,7 +571,7 @@ Version         : 1.1.1-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 21.12.1-1
+Version         : 21.12.2-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -591,7 +591,7 @@ Version         : 5.16-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.9-1
+Version         : 1.9.9-2
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -651,7 +651,7 @@ Version         : 2.1.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 2.4.0-1
+Version         : 2.4.1-1
 Description     : Removable disk automounter using udisks
 
 Name            : unzip
@@ -695,7 +695,7 @@ Version         : 6.1.32-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.32-4
+Version         : 6.1.32-5
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -935,7 +935,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 11.1.0-1
+Version         : 11.1.1-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
