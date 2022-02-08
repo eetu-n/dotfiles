@@ -402,6 +402,10 @@ Name            : intel-ucode
 Version         : 20210608-1
 Description     : Microcode update files for Intel CPUs
 
+Name            : iperf
+Version         : 2.0.13-2
+Description     : A tool to measure maximum TCP bandwidth
+
 Name            : iproute2
 Version         : 5.15.0-1
 Description     : IP Routing Utilities
