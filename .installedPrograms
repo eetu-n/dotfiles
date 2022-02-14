@@ -447,7 +447,7 @@ Version         : 4.30-3
 Description     : Comprehensive design and management interface for PostgreSQL
 
 Name            : picom
-Version         : 9.0-1
+Version         : 9.1-2
 Description     : X compositor that may fix tearing issues
 
 Name            : pinta
