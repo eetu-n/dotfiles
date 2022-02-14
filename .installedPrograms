@@ -95,7 +95,7 @@ Version         : 3.8.2-1
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.2.3-2
+Version         : 2.2.4-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
@@ -139,7 +139,7 @@ Version         : 1.92-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.64.1-1
+Version         : 1.64.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -171,7 +171,7 @@ Version         : 11.0.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.7.3-1
+Version         : 1.7.3-2
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
@@ -195,7 +195,7 @@ Version         : 1.27-1
 Description     : Tool for simulating superuser privileges
 
 Name            : feh
-Version         : 3.8-1
+Version         : 3.8-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
@@ -235,7 +235,7 @@ Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.17.6-2
+Version         : 2:1.17.7-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : groff
@@ -246,6 +246,10 @@ Name            : gtop
 Version         : 1.1.3-1
 Description     : System monitoring dashboard for terminal
 
+Name            : hdx-realtime-media-engine
+Version         : 2.9.400-0
+Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
+
 Name            : helm
 Version         : 3.8.0-1
 Description     : The Kubernetes Package Manager
@@ -254,8 +258,12 @@ Name            : htop
 Version         : 3.1.2-1
 Description     : Interactive process viewer
 
+Name            : icaclient
+Version         : 21.12.0.18-3
+Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
+
 Name            : imagemagick
-Version         : 7.1.0.23-1
+Version         : 7.1.0.24-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -293,6 +301,10 @@ Description     : A command line tool for communicating with a Kubernetes API se
 Name            : libguestfs
 Version         : 1.46.2-2
 Description     : Access and modify virtual machine disk images
+
+Name            : libreoffice-fresh
+Version         : 7.3.0-4
+Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
 Version         : 12.1.51-8
@@ -414,6 +426,10 @@ Name            : openssh
 Version         : 8.8p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
+Name            : p7zip
+Version         : 1:17.04-3
+Description     : Command-line file archiver with high compression ratio
+
 Name            : paper-icon-theme
 Version         : 1.5.0-2
 Description     : Paper is an open source desktop theme and icon project by Sam Hewitt
@@ -431,7 +447,7 @@ Version         : 4.30-3
 Description     : Comprehensive design and management interface for PostgreSQL
 
 Name            : picom
-Version         : 8.2-1
+Version         : 9.0-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pinta
@@ -555,7 +571,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.30.0-1
+Version         : 5.31.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -662,10 +678,6 @@ Name            : udiskie
 Version         : 2.4.1-1
 Description     : Removable disk automounter using udisks
 
-Name            : unzip
-Version         : 6.0-16
-Description     : For extracting and viewing files in .zip archives
-
 Name            : usbutils
 Version         : 014-2
 Description     : A collection of USB tools to query connected USB devices
@@ -699,7 +711,7 @@ Version         : 3.2.0-4
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 6.1.32-1
+Version         : 6.1.32-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
@@ -711,7 +723,7 @@ Version         : 2.21-5
 Description     : A utility to show the full path of commands
 
 Name            : wpa_supplicant
-Version         : 2:2.10-1
+Version         : 2:2.10-2
 Description     : A utility providing key negotiation for WPA wireless networks
 
 Name            : x11-ssh-askpass
@@ -959,6 +971,6 @@ Version         : 5.9.3-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
-Version         : 5.8-1
+Version         : 5.8.1-1
 Description     : A very advanced and programmable command interpreter (shell) for UNIX
 
