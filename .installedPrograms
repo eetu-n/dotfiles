@@ -754,10 +754,6 @@ Name            : python-pipenv
 Version         : 2022.1.8-2
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
-Name            : python-radon
-Version         : 5.1.0-1
-Description     : A tool that computes various metrics for Python source code
-
 Name            : python-scapy
 Version         : 2.4.5-4
 Description     : Powerful interactive packet manipulation program written in Python (library)
@@ -779,7 +775,7 @@ Version         : 4.0.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4
-Version         : 4.8.7-34
+Version         : 4.8.7-35
 Description     : A cross-platform application and UI framework
 
 Name            : qt5-multimedia
@@ -1067,7 +1063,7 @@ Version         : 4.16.0-3
 Description     : D-Bus service for applications to request thumbnails
 
 Name            : tzupdate
-Version         : 2.0.0-1
+Version         : 2.1.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
@@ -1327,7 +1323,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 11.0.2-1
+Version         : 11.1.1-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yubico-pam
