@@ -483,7 +483,7 @@ Version         : 5.16.10.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-lts
-Version         : 5.15.24-1
+Version         : 5.15.24-2
 Description     : The LTS Linux kernel and modules
 
 Name            : logrotate
@@ -1071,7 +1071,7 @@ Version         : 2.4.1-1
 Description     : Removable disk automounter using udisks
 
 Name            : unrar
-Version         : 1:6.1.4-1
+Version         : 1:6.1.5-1
 Description     : The RAR uncompression program
 
 Name            : unzip
@@ -1111,7 +1111,7 @@ Version         : 2.21-5
 Description     : A utility to show the full path of commands
 
 Name            : whois
-Version         : 5.5.11-1
+Version         : 5.5.12-1
 Description     : Intelligent WHOIS client
 
 Name            : winetricks
