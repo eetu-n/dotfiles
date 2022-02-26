@@ -3,7 +3,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.2-20
+Version         : 1.2.2-21
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -219,7 +219,7 @@ Version         : 11.0.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.7.3-2
+Version         : 1.8.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : e2fsprogs
@@ -383,7 +383,7 @@ Version         : 1.3.4-2
 Description     : A graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 8.2.4106-1
+Version         : 8.2.4464-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -495,7 +495,7 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.16.10.arch1-1
+Version         : 5.16.11.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-lts
@@ -611,7 +611,7 @@ Version         : 1.24.0-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.34.0-1
+Version         : 1.36.0-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-openconnect
@@ -655,7 +655,7 @@ Version         : 27.2.1-1
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
-Version         : 8.8p1-1
+Version         : 8.9p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : pacman
@@ -667,7 +667,7 @@ Version         : 1.4.0-4
 Description     : Contributed scripts and tools for pacman systems
 
 Name            : pam-u2f
-Version         : 1.2.0-1
+Version         : 1.2.0-2
 Description     : Universal 2nd Factor (U2F) PAM authentication module from Yubico
 
 Name            : paper-icon-theme
@@ -743,7 +743,7 @@ Version         : 23.4-1
 Description     : Miscellaneous procfs tools
 
 Name            : pulseaudio
-Version         : 15.0-2
+Version         : 15.0-4
 Description     : A featureful, general-purpose sound server
 
 Name            : pulseaudio-alsa
@@ -751,7 +751,7 @@ Version         : 1:1.2.6-3
 Description     : ALSA Configuration for PulseAudio
 
 Name            : pulseaudio-bluetooth
-Version         : 15.0-2
+Version         : 15.0-4
 Description     : Bluetooth support for PulseAudio
 
 Name            : pv
@@ -763,7 +763,7 @@ Version         : 0.18.2-7
 Description     : Clean single-source support for Python 3 and 2
 
 Name            : python-pip
-Version         : 20.3.4-4
+Version         : 21.0-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -827,7 +827,7 @@ Version         : 1.12-5
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : reflector
-Version         : 2021.11-2
+Version         : 2021.11-3
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : reiserfsprogs
@@ -891,7 +891,7 @@ Version         : 4.11.1-1
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.31.1-1
+Version         : 5.33.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
