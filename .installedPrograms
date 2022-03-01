@@ -138,6 +138,10 @@ Name            : cloc
 Version         : 1.92-1
 Description     : Count lines of code
 
+Name            : cnrdrvcups-lb-bin
+Version         : 5.40-1
+Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
+
 Name            : code
 Version         : 1.64.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
@@ -182,10 +186,6 @@ Name            : efibootmgr
 Version         : 17-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
-Name            : elm-bin
-Version         : 0.19.1-1
-Description     : Elm compiler (official binary)
-
 Name            : exa
 Version         : 0.10.1-5
 Description     : ls replacement
@@ -193,6 +193,10 @@ Description     : ls replacement
 Name            : fakeroot
 Version         : 1.27-1
 Description     : Tool for simulating superuser privileges
+
+Name            : fd
+Version         : 8.3.2-1
+Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
 Version         : 3.8-2
@@ -303,7 +307,7 @@ Version         : 1.46.2-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.3.0-5
+Version         : 7.3.0-6
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -417,6 +421,10 @@ Description     : Google Noto TTF fonts
 Name            : noto-fonts-emoji
 Version         : 20211101-1
 Description     : Google Noto emoji fonts
+
+Name            : npm
+Version         : 8.5.2-1
+Description     : A package manager for javascript
 
 Name            : openconnect
 Version         : 1:8.20-1
