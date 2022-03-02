@@ -119,7 +119,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 98.0.4758.102-2
+Version         : 99.0.4844.51-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -495,7 +495,7 @@ Version         : 2.4.1-2
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
 
 Name            : polybar
-Version         : 3.5.7-2
+Version         : 3.6.0-1
 Description     : A fast and easy-to-use status bar
 
 Name            : ponymix
