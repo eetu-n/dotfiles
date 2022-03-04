@@ -79,7 +79,7 @@ Version         : 2-2
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bat
-Version         : 0.19.0-2
+Version         : 0.20.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
@@ -91,7 +91,7 @@ Version         : 2.38-3
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
-Version         : 3.8.2-1
+Version         : 3.8.2-3
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
@@ -175,7 +175,7 @@ Version         : 11.0.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
-Version         : 1.8.0-1
+Version         : 1.8.1-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
@@ -215,7 +215,7 @@ Version         : 2:2.6.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.7.5-1
+Version         : 1.7.6-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -223,7 +223,7 @@ Version         : 0.29.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
-Version         : 11.2.0-3
+Version         : 11.2.0-4
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : git
@@ -307,7 +307,7 @@ Version         : 1.46.2-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.3.0-6
+Version         : 7.3.1-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -319,7 +319,7 @@ Version         : 2.4.6+59+gb55b1cc8-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.16.11.arch1-1
+Version         : 5.16.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -327,11 +327,11 @@ Version         : 20220209.6342082-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.16.11.arch1-1
+Version         : 5.16.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.25-1
+Version         : 5.15.26-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -423,7 +423,7 @@ Version         : 20211101-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 8.5.2-1
+Version         : 8.5.3-1
 Description     : A package manager for javascript
 
 Name            : openconnect
@@ -595,7 +595,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.33.0-1
+Version         : 5.34.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -619,7 +619,7 @@ Version         : 1.1.1-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 21.12.2-1
+Version         : 21.12.3-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -699,7 +699,7 @@ Version         : 2.1.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 2.4.1-1
+Version         : 2.4.2-1
 Description     : Removable disk automounter using udisks
 
 Name            : usbutils
@@ -731,7 +731,7 @@ Version         : 3.2-1
 Description     : A vim plugin for syntax highlighting Ansible's common filetypes
 
 Name            : virt-manager
-Version         : 3.2.0-4
+Version         : 4.0.0-1
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
@@ -739,7 +739,7 @@ Version         : 6.1.32-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.32-11
+Version         : 6.1.32-13
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
