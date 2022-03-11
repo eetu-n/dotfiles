@@ -143,7 +143,7 @@ Version         : 5.40-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.65.0-1
+Version         : 1.65.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -154,6 +154,10 @@ Name            : cups-pdf
 Version         : 3.0.1-6
 Description     : PDF printer for cups
 
+Name            : debtap
+Version         : 3.4.2-1
+Description     : A script to convert .deb packages to Arch Linux packages, focused on accuracy. Do not use it to convert packages that already exist on official repositories or can be built from AUR!
+
 Name            : discord
 Version         : 0.0.17-1
 Description     : All-in-one voice and text chat for gamers that's free and secure.
@@ -163,7 +167,7 @@ Version         : 1:20.10.12-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.3.0-1
+Version         : 2.3.3-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -171,7 +175,7 @@ Version         : 4.2-2
 Description     : DOS filesystem utilities
 
 Name            : downgrade
-Version         : 11.0.0-1
+Version         : 11.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -203,12 +207,16 @@ Version         : 3.8-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 97.0.2-1
+Version         : 98.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
 Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
+
+Name            : forticlient
+Version         : 7.0.1.0057-1
+Description     : An endpoint protection application
 
 Name            : freerdp
 Version         : 2:2.6.1-1
@@ -226,9 +234,21 @@ Name            : gcc
 Version         : 11.2.0-4
 Description     : The GNU Compiler Collection - C and C++ frontends
 
+Name            : gconf
+Version         : 3.2.6+11+g07808097-10
+Description     : An obsolete configuration database system
+
 Name            : git
 Version         : 2.35.1-1
 Description     : the fast distributed version control system
+
+Name            : git-delta
+Version         : 0.12.1-1
+Description     : Syntax-highlighting pager for git and diff output
+
+Name            : gnome-keyring
+Version         : 1:40.0-1
+Description     : Stores passwords and encryption keys
 
 Name            : gnu-free-fonts
 Version         : 20120503-8
@@ -319,7 +339,7 @@ Version         : 2.4.6+59+gb55b1cc8-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.16.12.arch1-1
+Version         : 5.16.13.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -327,11 +347,11 @@ Version         : 20220209.6342082-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.16.12.arch1-1
+Version         : 5.16.13.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.26-1
+Version         : 5.15.27-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -423,7 +443,7 @@ Version         : 20211101-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 8.5.3-1
+Version         : 8.5.4-1
 Description     : A package manager for javascript
 
 Name            : openconnect
@@ -570,6 +590,10 @@ Name            : rofi-dmenu
 Version         : 1-1
 Description     : Symlink for using Rofi as a drop-in replacement to dmenu
 
+Name            : rofi-keepassxc
+Version         : 1.4-2
+Description     : Simple keepassxc-cli frontend in rofi
+
 Name            : rsync
 Version         : 3.2.3-4
 Description     : A fast and versatile file copying tool for remote and local files
@@ -595,7 +619,7 @@ Version         : 0.1.r55.g2fa0a40-1
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.34.0-1
+Version         : 5.35.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -667,7 +691,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.6.2-1
+Version         : 91.7.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tmux
@@ -701,6 +725,10 @@ Description     : Set the system timezone based on IP geolocation
 Name            : udiskie
 Version         : 2.4.2-1
 Description     : Removable disk automounter using udisks
+
+Name            : unzip
+Version         : 6.0-18
+Description     : For extracting and viewing files in .zip archives
 
 Name            : usbutils
 Version         : 014-2
@@ -739,7 +767,7 @@ Version         : 6.1.32-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.32-13
+Version         : 6.1.32-14
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
