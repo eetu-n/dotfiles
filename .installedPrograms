@@ -7,7 +7,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.2-24
+Version         : 1.2.2-25
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -95,7 +95,7 @@ Version         : 1.07.1-4
 Description     : An arbitrary precision calculator language
 
 Name            : bdf-unifont
-Version         : 14.0.01-1
+Version         : 14.0.02-1
 Description     : GNU Unifont Glyphs
 
 Name            : bind
@@ -203,15 +203,15 @@ Version         : 0.0.17-1
 Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : discount
-Version         : 2.2.7-1
+Version         : 2.2.7-2
 Description     : A Markdown implementation written in C
 
 Name            : docker
-Version         : 1:20.10.12-1
+Version         : 1:20.10.13-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.3.2-1
+Version         : 2.3.3-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dolphin-emu
@@ -219,7 +219,7 @@ Version         : 1:5.0.r15445.db02b50d2e-4
 Description     : A Gamecube / Wii / Triforce emulator
 
 Name            : downgrade
-Version         : 11.0.0-1
+Version         : 11.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -251,7 +251,7 @@ Version         : r28.2c94d6f-1
 Description     : Display the current mouse refresh rate
 
 Name            : evince
-Version         : 41.3-1
+Version         : 41.4-1
 Description     : Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt)
 
 Name            : evtest
@@ -291,7 +291,7 @@ Version         : 4.9.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 98.0-1
+Version         : 98.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -379,11 +379,11 @@ Version         : 3.7-1
 Description     : A string search utility
 
 Name            : gst-libav
-Version         : 1.20.0-3
+Version         : 1.20.1-1
 Description     : Multimedia graph framework - libav plugin
 
 Name            : gst-plugins-good
-Version         : 1.20.0-3
+Version         : 1.20.1-1
 Description     : Multimedia graph framework - good plugins
 
 Name            : gtklp
@@ -459,7 +459,7 @@ Version         : 21.12.3-1
 Description     : A non-linear video editor for Linux using the MLT video framework
 
 Name            : kdesu
-Version         : 5.91.0-1
+Version         : 5.92.0-1
 Description     : Integration with su for elevated privileges
 
 Name            : keychain
@@ -503,11 +503,11 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.16.13.arch1-1
+Version         : 5.16.14.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-lts
-Version         : 5.15.27-1
+Version         : 5.15.28-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logrotate
@@ -563,7 +563,7 @@ Version         : 3.2.0-2
 Description     : An extensible music server written in Python
 
 Name            : mopidy-iris
-Version         : 3.60.1-1
+Version         : 3.62.0-1
 Description     : A Mopidy Web client that utilizes the Spotify and EchoNest frameworks. (Formerly Spotmop)
 
 Name            : mopidy-mpd
@@ -587,7 +587,7 @@ Version         : 0.34-2
 Description     : Minimalist command line interface to MPD
 
 Name            : mpdscribble
-Version         : 0.23-5
+Version         : 0.24-1
 Description     : MPD client which submits track info to {Libre,Last}.fm
 
 Name            : ncdu
@@ -623,11 +623,11 @@ Version         : 1.36.2-1
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-openconnect
-Version         : 1.2.7dev+65+gca4187c-1
+Version         : 1.2.8-1
 Description     : NetworkManager VPN plugin for OpenConnect
 
 Name            : networkmanager-openvpn
-Version         : 1.8.16-1
+Version         : 1.8.18-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : ninfs
@@ -663,7 +663,7 @@ Version         : 21.1-1
 Description     : Download from Usenet using .nzb files
 
 Name            : obs-studio
-Version         : 27.2.1-1
+Version         : 27.2.3-1
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
@@ -803,7 +803,7 @@ Version         : 3.5-1
 Description     : Multiplatform Serial Port Module for Python
 
 Name            : qalculate-gtk
-Version         : 4.0.0-1
+Version         : 4.1.0-1
 Description     : GTK frontend for libqalculate
 
 Name            : qt4-bin
@@ -851,7 +851,7 @@ Version         : 3.6.27-3
 Description     : Reiserfs utilities
 
 Name            : remmina
-Version         : 1:1.4.24-1
+Version         : 1:1.4.25-1
 Description     : remote desktop client written in GTK+
 
 Name            : ristretto
@@ -887,7 +887,7 @@ Version         : 14.9.23-1
 Description     : Environment for sending and receiving mail
 
 Name            : samba
-Version         : 4.15.5-1
+Version         : 4.15.6-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -911,7 +911,7 @@ Version         : 4.11.1-1
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.34.0-1
+Version         : 5.35.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -955,7 +955,7 @@ Version         : 1.9.10-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : swaylock
-Version         : 1.5-4
+Version         : 1.6-1
 Description     : Screen locker for Wayland
 
 Name            : sxhkd
@@ -967,7 +967,7 @@ Version         : 2.1.1-1
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 250.3-4
+Version         : 250.4-1
 Description     : sysvinit compat for systemd
 
 Name            : tabbed-git
@@ -983,7 +983,7 @@ Version         : 1.5.0-1
 Description     : A fast tldr client in Rust
 
 Name            : telegram-desktop
-Version         : 3.5.2-1
+Version         : 3.6.0-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -1051,7 +1051,7 @@ Version         : 4.16.10-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.6.2-1
+Version         : 91.7.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
