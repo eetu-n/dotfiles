@@ -119,7 +119,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 99.0.4844.51-1
+Version         : 99.0.4844.74-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -214,10 +214,6 @@ Name            : flex
 Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
 
-Name            : forticlient
-Version         : 7.0.1.0057-1
-Description     : An endpoint protection application
-
 Name            : freerdp
 Version         : 2:2.6.1-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
@@ -259,7 +255,7 @@ Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.17.8-1
+Version         : 2:1.18-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : groff
