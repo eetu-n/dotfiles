@@ -83,7 +83,7 @@ Version         : 0.20.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.0-1
+Version         : 9.18.1-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -675,7 +675,7 @@ Version         : 1.4.00.26453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.6.0-1
+Version         : 3.6.1-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
