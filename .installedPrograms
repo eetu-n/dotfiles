@@ -279,7 +279,7 @@ Version         : 3.1.2-1
 Description     : Interactive process viewer
 
 Name            : icaclient
-Version         : 22.2.0.20-2
+Version         : 22.3.0.24-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
