@@ -590,6 +590,10 @@ Name            : rsync
 Version         : 3.2.3-4
 Description     : A fast and versatile file copying tool for remote and local files
 
+Name            : ruby-mdless
+Version         : 1.0.14-1
+Description     : A pager like less, but for Markdown files
+
 Name            : rust
 Version         : 1:1.59.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
@@ -607,7 +611,7 @@ Version         : 0.19.0-8
 Description     : QML based X11 and Wayland display manager
 
 Name            : sddm-theme-aerial-git
-Version         : 0.1.r55.g2fa0a40-1
+Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
