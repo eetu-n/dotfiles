@@ -119,7 +119,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 99.0.4844.82-1
+Version         : 99.0.4844.84-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -167,7 +167,7 @@ Version         : 1:20.10.14-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.3.3-1
+Version         : 2.3.4-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -283,7 +283,7 @@ Version         : 22.3.0.24-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.28-1
+Version         : 7.1.0.29-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -303,7 +303,7 @@ Version         : 17.0.3.u3-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.14.1-1
+Version         : 2.14.2-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -635,7 +635,7 @@ Version         : 2.0-1
 Description     : Sound Open Firmware
 
 Name            : solaar
-Version         : 1.1.1-1
+Version         : 1.1.2-2
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
