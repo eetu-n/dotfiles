@@ -26,6 +26,10 @@ Name            : alsa-utils
 Version         : 1.2.6-1
 Description     : Advanced Linux Sound Architecture - Utilities
 
+Name            : amazon-workspaces-bin
+Version         : 4.0.1.1302-1
+Description     : Amazon Workspace Client
+
 Name            : amtterm
 Version         : 1.6-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
@@ -71,7 +75,7 @@ Version         : 0.5.5-1
 Description     : A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 
 Name            : aws-session-manager-plugin
-Version         : 1.2.279.0-1
+Version         : 1.2.295.0-1
 Description     : AWS Session Manager Plugin for aws-cli.
 
 Name            : base
@@ -119,7 +123,7 @@ Version         : 0.9.10-1
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 99.0.4844.84-1
+Version         : 100.0.4896.60-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -335,7 +339,7 @@ Version         : 2.4.7-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.16.16.arch1-1
+Version         : 5.17.1.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -343,11 +347,11 @@ Version         : 20220309.cd01f85-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.16.16.arch1-1
+Version         : 5.17.1.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.31-1
+Version         : 5.15.32-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -535,7 +539,7 @@ Version         : 21.0-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.3.24-1
+Version         : 2022.3.28-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -655,7 +659,7 @@ Version         : 1.09-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 5.16-1
+Version         : 5.17-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
@@ -703,7 +707,7 @@ Version         : 2.37+18+g9b5d1b2f-3
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 6.1.0-1
+Version         : 6.1.1-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
@@ -763,7 +767,7 @@ Version         : 6.1.32-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.32-17
+Version         : 6.1.32-19
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
