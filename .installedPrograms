@@ -223,7 +223,7 @@ Version         : 7.0.0.0018-1
 Description     : Build through the official package of FortiClient VPN
 
 Name            : freerdp
-Version         : 2:2.6.1-2
+Version         : 2:2.6.1-3
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -291,7 +291,7 @@ Version         : 22.3.0.24-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.30-1
+Version         : 7.1.0.31-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -299,7 +299,7 @@ Version         : 2.2-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
-Version         : 20220207-1
+Version         : 20220419-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : ipmitool
@@ -311,7 +311,7 @@ Version         : 18.0.1.u10-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
-Version         : 2.16.0-1
+Version         : 2.16.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -323,7 +323,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.23.5-1
+Version         : 1.23.6-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -343,7 +343,7 @@ Version         : 2.4.7-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.17.3.arch1-1
+Version         : 5.17.4.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -351,11 +351,11 @@ Version         : 20220411.705f19a-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.17.3.arch1-1
+Version         : 5.17.4.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.34-1
+Version         : 5.15.35-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -383,7 +383,7 @@ Version         : 1.4.19-1
 Description     : The GNU macro processor
 
 Name            : mailutils
-Version         : 3.14-2
+Version         : 3.15-1
 Description     : MUA command line tool (mailx)
 
 Name            : make
@@ -551,7 +551,7 @@ Version         : 21.0-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.4.8-1
+Version         : 2022.4.21-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -631,7 +631,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.39.0-1
+Version         : 5.40.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -655,7 +655,7 @@ Version         : 1.1.2-2
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 21.12.3-1
+Version         : 22.04.0-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -691,7 +691,7 @@ Version         : 1.5.00.10453-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 3.7.0-1
+Version         : 3.7.1-2
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -703,8 +703,12 @@ Version         : 4.16.11-1
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.8.0-2
+Version         : 91.8.1-1
 Description     : Standalone mail and news reader from mozilla.org
+
+Name            : tigervnc
+Version         : 1.12.0-3
+Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
 Version         : 3.2_a-1
@@ -759,7 +763,7 @@ Version         : 2.2.19-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.10.0-1
+Version         : 1.10.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -775,11 +779,11 @@ Version         : 4.0.0-1
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 6.1.32-2
+Version         : 6.1.34-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.32-23
+Version         : 6.1.34-2
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1035,6 +1039,6 @@ Version         : 5.10.3-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
-Version         : 5.8.1-1
+Version         : 5.8.1-2
 Description     : A very advanced and programmable command interpreter (shell) for UNIX
 
