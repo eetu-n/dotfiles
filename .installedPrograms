@@ -307,7 +307,7 @@ Version         : 1.8.18-7
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jdk-openjdk
-Version         : 18.0.1.u10-1
+Version         : 18.0.1.1.u2-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
@@ -631,7 +631,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.41.0-1
+Version         : 5.42.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
