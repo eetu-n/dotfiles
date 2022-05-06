@@ -311,7 +311,7 @@ Version         : 18.0.1.1.u2-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
-Version         : 2.16.2-1
+Version         : 2.16.2-2
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
