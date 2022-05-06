@@ -167,7 +167,7 @@ Version         : 0.0.17-1
 Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : docker
-Version         : 1:20.10.14-1
+Version         : 1:20.10.15-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
@@ -331,7 +331,7 @@ Version         : 1.46.2-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.3.2-2
+Version         : 7.3.3-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
