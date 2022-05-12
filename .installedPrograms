@@ -299,7 +299,7 @@ Version         : 2.2-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
-Version         : 20220419-1
+Version         : 20220510-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : ipmitool
@@ -343,7 +343,7 @@ Version         : 2.4.7-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.17.5.arch1-2
+Version         : 5.17.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -351,7 +351,7 @@ Version         : 20220411.705f19a-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.17.5.arch1-2
+Version         : 5.17.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -763,7 +763,7 @@ Version         : 2.2.19-2
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.10.2-1
+Version         : 1.10.3-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -783,7 +783,7 @@ Version         : 6.1.34-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.34-4
+Version         : 6.1.34-5
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
