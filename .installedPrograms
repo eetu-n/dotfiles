@@ -167,7 +167,7 @@ Version         : 0.0.17-1
 Description     : All-in-one voice and text chat for gamers that's free and secure.
 
 Name            : docker
-Version         : 1:20.10.15-1
+Version         : 1:20.10.16-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
@@ -211,7 +211,7 @@ Version         : 3.8-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 100.0-1
+Version         : 100.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -235,7 +235,7 @@ Version         : 0.30.0-2
 Description     : Command-line fuzzy finder
 
 Name            : gcc
-Version         : 12.1.0-1
+Version         : 12.1.0-2
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gconf
@@ -247,7 +247,7 @@ Version         : 2.36.1-1
 Description     : the fast distributed version control system
 
 Name            : git-delta
-Version         : 0.12.1-1
+Version         : 0.13.0-1
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -263,7 +263,7 @@ Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.18.1-1
+Version         : 2:1.18.2-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : groff
@@ -291,7 +291,7 @@ Version         : 22.5.0.16-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.33-1
+Version         : 7.1.0.35-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -343,19 +343,19 @@ Version         : 2.4.7-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.17.6.arch1-1
+Version         : 5.17.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20220411.705f19a-1
+Version         : 20220509.b19cbdc-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.17.6.arch1-1
+Version         : 5.17.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.38-1
+Version         : 5.15.40-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -443,7 +443,7 @@ Version         : 1:3.17.2206-7
 Description     : A Qt image viewer
 
 Name            : noto-fonts
-Version         : 20220502-1
+Version         : 20220502-2
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
@@ -463,7 +463,7 @@ Version         : 1.17.2-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
-Version         : 2.6.1-1
+Version         : 2.6.2-1
 Description     : Lightweight Directory Access Protocol (LDAP) client and server
 
 Name            : openssh
@@ -563,7 +563,7 @@ Version         : 3.7.13-1
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
-Version         : 3.9.12-1
+Version         : 3.9.13-1
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : ranger
@@ -631,7 +631,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.42.0-1
+Version         : 5.43.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -643,7 +643,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.25.1-1
+Version         : 4.26.1-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -783,7 +783,7 @@ Version         : 6.1.34-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.34-5
+Version         : 6.1.34-8
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1039,6 +1039,6 @@ Version         : 5.10.6-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
-Version         : 5.8.1-2
+Version         : 5.9-1
 Description     : A very advanced and programmable command interpreter (shell) for UNIX
 
