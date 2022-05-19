@@ -954,6 +954,10 @@ Name            : sudo
 Version         : 1.9.10-1
 Description     : Give certain users the ability to run some commands as root
 
+Name            : supercollider
+Version         : 3.12.2-1
+Description     : Platform for audio synthesis and algorithmic composition
+
 Name            : swaylock
 Version         : 1.6-1
 Description     : Screen locker for Wayland
