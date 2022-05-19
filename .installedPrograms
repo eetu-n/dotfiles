@@ -171,7 +171,7 @@ Version         : 1:20.10.16-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.5.0-1
+Version         : 2.5.1-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -279,7 +279,7 @@ Version         : 2.9.400-0
 Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
 
 Name            : helm
-Version         : 3.8.2-1
+Version         : 3.9.0-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -355,7 +355,7 @@ Version         : 5.17.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.40-1
+Version         : 5.15.41-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -579,7 +579,7 @@ Version         : 1.12-5
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : remmina
-Version         : 1:1.4.25-1
+Version         : 1:1.4.26-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
