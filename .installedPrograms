@@ -87,7 +87,7 @@ Version         : 0.20.0-2
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.2-1
+Version         : 9.18.3-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -147,7 +147,7 @@ Version         : 5.40-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.67.1-1
+Version         : 1.67.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -211,7 +211,7 @@ Version         : 3.8-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 100.0.1-1
+Version         : 100.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -251,7 +251,7 @@ Version         : 0.13.0-1
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
-Version         : 1:40.0-1
+Version         : 1:42.0-1
 Description     : Stores passwords and encryption keys
 
 Name            : gnu-free-fonts
@@ -311,7 +311,7 @@ Version         : 18.0.1.1.u2-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
-Version         : 2.16.4-1
+Version         : 2.17.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -323,7 +323,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.23.6-2
+Version         : 1.24.0-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -343,7 +343,7 @@ Version         : 2.4.7-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.17.8.arch1-1
+Version         : 5.17.9.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -351,7 +351,7 @@ Version         : 20220509.b19cbdc-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.17.8.arch1-1
+Version         : 5.17.9.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -375,7 +375,7 @@ Version         : 0.6.3-4
 Description     : Feature-rich GTK+ theme switcher of the LXDE Desktop
 
 Name            : lynis
-Version         : 3.0.7-1
+Version         : 3.0.8-1
 Description     : Security and system auditing tool to harden Unix/Linux systems
 
 Name            : m4
@@ -611,7 +611,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.60.0-1
+Version         : 1:1.61.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -655,7 +655,7 @@ Version         : 1.1.3-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 22.04.1-1
+Version         : 22.04.1-2
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -703,7 +703,7 @@ Version         : 4.16.11-2
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.9.0-1
+Version         : 91.9.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -767,7 +767,7 @@ Version         : 1.10.3-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 8.2.4827-1
+Version         : 8.2.4981-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -783,7 +783,7 @@ Version         : 6.1.34-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.34-8
+Version         : 6.1.34-9
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -819,7 +819,7 @@ Version         : 2.5.0-2
 Description     : X.org vesa video driver
 
 Name            : xorg-bdftopcf
-Version         : 1.1-2
+Version         : 1.1-3
 Description     : Convert X font from Bitmap Distribution Format to Portable Compiled Format
 
 Name            : xorg-docs
@@ -827,7 +827,7 @@ Version         : 1.7.2-1
 Description     : X.org documentations
 
 Name            : xorg-font-util
-Version         : 1.3.2-2
+Version         : 1.3.2-3
 Description     : X.Org font utilities
 
 Name            : xorg-fonts-100dpi
@@ -851,31 +851,31 @@ Version         : 1.2.2-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.3-6
+Version         : 21.1.3-7
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 21.1.3-6
+Version         : 21.1.3-7
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 21.1.3-6
+Version         : 21.1.3-7
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 21.1.3-6
+Version         : 21.1.3-7
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 21.1.3-6
+Version         : 21.1.3-7
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 21.1.3-6
+Version         : 21.1.3-7
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
-Version         : 1.1.2-2
+Version         : 1.1.2-3
 Description     : Register X sessions in system utmp/utmpx databases
 
 Name            : xorg-setxkbmap
@@ -883,11 +883,11 @@ Version         : 1.3.3-1
 Description     : Set the keyboard using the X Keyboard Extension
 
 Name            : xorg-smproxy
-Version         : 1.0.6-3
+Version         : 1.0.6-4
 Description     : Allows X applications that do not support X11R6 session management to participate in an X11R6 session
 
 Name            : xorg-x11perf
-Version         : 1.6.1-2
+Version         : 1.6.1-3
 Description     : Simple X server performance benchmarker
 
 Name            : xorg-xauth
@@ -895,11 +895,11 @@ Version         : 1.1.2-1
 Description     : X.Org authorization settings program
 
 Name            : xorg-xcmsdb
-Version         : 1.0.5-3
+Version         : 1.0.5-4
 Description     : Device Color Characterization utility for X Color Management System
 
 Name            : xorg-xcursorgen
-Version         : 1.0.7-2
+Version         : 1.0.7-3
 Description     : Create an X cursor file from PNG images
 
 Name            : xorg-xdpyinfo
@@ -907,7 +907,7 @@ Version         : 1.3.3-4
 Description     : Display information utility for X
 
 Name            : xorg-xdriinfo
-Version         : 1.0.6-2
+Version         : 1.0.6-3
 Description     : Query configuration information of DRI drivers
 
 Name            : xorg-xev
@@ -915,11 +915,11 @@ Version         : 1.2.4-1
 Description     : Print contents of X events
 
 Name            : xorg-xgamma
-Version         : 1.0.6-3
+Version         : 1.0.6-4
 Description     : Alter a monitor's gamma correction
 
 Name            : xorg-xhost
-Version         : 1.0.8-2
+Version         : 1.0.8-3
 Description     : Server access control program for X
 
 Name            : xorg-xinit
@@ -927,7 +927,7 @@ Version         : 1.4.1-3
 Description     : X.Org initialisation program
 
 Name            : xorg-xinput
-Version         : 1.6.3-2
+Version         : 1.6.3-3
 Description     : Small commandline tool to configure devices
 
 Name            : xorg-xkbcomp
@@ -935,23 +935,23 @@ Version         : 1.4.5-1
 Description     : X Keyboard description compiler
 
 Name            : xorg-xkbevd
-Version         : 1.1.4-3
+Version         : 1.1.4-4
 Description     : XKB event daemon
 
 Name            : xorg-xkbutils
-Version         : 1.0.4-4
+Version         : 1.0.4-5
 Description     : XKB utility demos
 
 Name            : xorg-xkill
-Version         : 1.0.5-2
+Version         : 1.0.5-3
 Description     : Kill a client by its X resource
 
 Name            : xorg-xlsatoms
-Version         : 1.1.3-2
+Version         : 1.1.3-3
 Description     : List interned atoms defined on server
 
 Name            : xorg-xlsclients
-Version         : 1.1.4-2
+Version         : 1.1.4-3
 Description     : List client applications running on a display
 
 Name            : xorg-xlsfonts
@@ -959,11 +959,11 @@ Version         : 1.0.7-1
 Description     : List available X fonts
 
 Name            : xorg-xmodmap
-Version         : 1.0.10-2
+Version         : 1.0.10-3
 Description     : Utility for modifying keymaps and button mappings
 
 Name            : xorg-xpr
-Version         : 1.0.5-2
+Version         : 1.0.5-3
 Description     : Print an X window dump from xwd
 
 Name            : xorg-xprop
@@ -979,19 +979,19 @@ Version         : 1.2.1-1
 Description     : X server resource database utility
 
 Name            : xorg-xrefresh
-Version         : 1.0.6-2
+Version         : 1.0.6-3
 Description     : Refresh all or part of an X screen
 
 Name            : xorg-xset
-Version         : 1.2.4-2
+Version         : 1.2.4-3
 Description     : User preference utility for X
 
 Name            : xorg-xsetroot
-Version         : 1.1.2-2
+Version         : 1.1.2-3
 Description     : Classic X utility to set your root window background to a given pattern or color
 
 Name            : xorg-xvinfo
-Version         : 1.1.4-2
+Version         : 1.1.4-3
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
@@ -1003,11 +1003,11 @@ Version         : 1.0.8-1
 Description     : X Window System image dumping utility
 
 Name            : xorg-xwininfo
-Version         : 1.1.5-2
+Version         : 1.1.5-3
 Description     : Command-line utility to print information about windows on an X server
 
 Name            : xorg-xwud
-Version         : 1.0.5-2
+Version         : 1.0.5-3
 Description     : X Window System image undumping utility
 
 Name            : xsecurelock
@@ -1035,7 +1035,7 @@ Version         : 5.1.0-3
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.10.6-1
+Version         : 5.10.6-2
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
