@@ -67,7 +67,7 @@ Version         : 1.12.1-2
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
-Version         : 1.23.11-1
+Version         : 1.24.7-1
 Description     : Universal Command Line Interface for Amazon Web Services
 
 Name            : aws-iam-authenticator-bin
@@ -123,7 +123,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 101.0.4951.64-1
+Version         : 102.0.5005.61-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -199,7 +199,7 @@ Version         : 0.10.1-5
 Description     : ls replacement
 
 Name            : fakeroot
-Version         : 1.28-1
+Version         : 1.29-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
@@ -491,7 +491,7 @@ Version         : 1.5.8-1
 Description     : PC/SC Architecture smartcard tools
 
 Name            : pgadmin4
-Version         : 4.30-3
+Version         : 4.30-4
 Description     : Comprehensive design and management interface for PostgreSQL
 
 Name            : picom
@@ -779,7 +779,7 @@ Version         : 4.0.0-1
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 6.1.34-2
+Version         : 6.1.34-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
