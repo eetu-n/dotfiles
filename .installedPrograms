@@ -263,7 +263,7 @@ Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.18.2-1
+Version         : 2:1.18.3-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : groff
@@ -711,7 +711,7 @@ Version         : 1.12.0-3
 Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
-Version         : 3.2_a-1
+Version         : 3.3-2
 Description     : A terminal multiplexer
 
 Name            : traceroute
