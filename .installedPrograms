@@ -179,7 +179,7 @@ Version         : 4.2-2
 Description     : DOS filesystem utilities
 
 Name            : downgrade
-Version         : 11.2.0-1
+Version         : 11.2.1-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : dunst
@@ -311,7 +311,7 @@ Version         : 18.0.1.1.u2-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
-Version         : 2.18.2-1
+Version         : 2.19.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
