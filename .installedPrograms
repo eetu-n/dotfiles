@@ -227,7 +227,7 @@ Version         : 1.46.5-4
 Description     : Ext2/3/4 filesystem utilities
 
 Name            : efibootmgr
-Version         : 17-2
+Version         : 18-1
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : elm-platform-bin
@@ -1243,7 +1243,7 @@ Version         : 1.2.3-3
 Description     : RandR-based backlight control application
 
 Name            : xorg-xcmsdb
-Version         : 1.0.5-4
+Version         : 1.0.6-1
 Description     : Device Color Characterization utility for X Color Management System
 
 Name            : xorg-xcursorgen
@@ -1303,11 +1303,11 @@ Version         : 1.1.5-3
 Description     : Unix manual page viewer
 
 Name            : xorg-xmodmap
-Version         : 1.0.10-3
+Version         : 1.0.11-1
 Description     : Utility for modifying keymaps and button mappings
 
 Name            : xorg-xpr
-Version         : 1.0.5-3
+Version         : 1.1.0-1
 Description     : Print an X window dump from xwd
 
 Name            : xorg-xprop
@@ -1347,7 +1347,7 @@ Version         : 1.1.5-3
 Description     : Command-line utility to print information about windows on an X server
 
 Name            : xorg-xwud
-Version         : 1.0.5-3
+Version         : 1.0.6-1
 Description     : X Window System image undumping utility
 
 Name            : xsecurelock
