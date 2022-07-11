@@ -214,10 +214,6 @@ Name            : docker-compose
 Version         : 2.3.3-1
 Description     : Fast, isolated development environments using Docker
 
-Name            : dolphin-emu
-Version         : 1:5.0.r15445.db02b50d2e-4
-Description     : A Gamecube / Wii / Triforce emulator
-
 Name            : downgrade
 Version         : 11.1.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
