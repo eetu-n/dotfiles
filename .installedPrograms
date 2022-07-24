@@ -7,7 +7,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.2-52
+Version         : 1.2.2-57
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -35,7 +35,7 @@ Version         : 1.2.7-1
 Description     : Advanced Linux Sound Architecture - Utilities
 
 Name            : ansible-core
-Version         : 2.13.1-1
+Version         : 2.13.2-1
 Description     : Radically simple IT automation platform
 
 Name            : ansible-lint
@@ -55,7 +55,7 @@ Version         : 1.6.6-7
 Description     : Arduino IDE reference documentation
 
 Name            : audacity
-Version         : 1:2.4.1-7
+Version         : 1:2.4.1-9
 Description     : A program that lets you manipulate digital audio waveforms
 
 Name            : autoconf
@@ -99,7 +99,7 @@ Version         : 14.0.04-1
 Description     : GNU Unifont Glyphs
 
 Name            : bind
-Version         : 9.18.4-1
+Version         : 9.18.5-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -111,7 +111,7 @@ Version         : 3.8.2-4
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.2.5-1
+Version         : 2.3.1-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez-hcitool
@@ -155,7 +155,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 103.0.5060.114-1
+Version         : 103.0.5060.134-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -163,7 +163,7 @@ Version         : 1.94-1
 Description     : Count lines of code
 
 Name            : code
-Version         : 1.69.0-1
+Version         : 1.69.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : coreutils
@@ -279,7 +279,7 @@ Version         : 2021.12.07-1
 Description     : Base Arch Linux files
 
 Name            : filezilla
-Version         : 3.60.1-1
+Version         : 3.60.2-1
 Description     : Fast and reliable FTP, FTPS and SFTP client
 
 Name            : findutils
@@ -303,7 +303,7 @@ Version         : v1.1.r14.g0f8a9f3-1
 Description     : Mount Nintendo Switch archives through FUSE
 
 Name            : fzf
-Version         : 0.30.0-3
+Version         : 0.31.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gawk
@@ -311,15 +311,15 @@ Version         : 5.1.1-1
 Description     : GNU version of awk
 
 Name            : gcc
-Version         : 12.1.0-2
+Version         : 12.1.0-3
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gcc-fortran
-Version         : 12.1.0-2
+Version         : 12.1.0-3
 Description     : Fortran front-end for GCC
 
 Name            : gcc-libs
-Version         : 12.1.0-2
+Version         : 12.1.0-3
 Description     : Runtime libraries shipped by GCC
 
 Name            : gdb
@@ -335,7 +335,7 @@ Version         : 2.10.32-1
 Description     : GNU Image Manipulation Program
 
 Name            : git
-Version         : 2.37.0-1
+Version         : 2.37.1-1
 Description     : the fast distributed version control system
 
 Name            : glances
@@ -411,7 +411,7 @@ Version         : 2.2-1
 Description     : A collection of common network programs
 
 Name            : inkscape
-Version         : 1.2-5
+Version         : 1.2.1-1
 Description     : Professional vector graphics editor
 
 Name            : intel-gpu-tools
@@ -435,8 +435,8 @@ Version         : 20211215-1
 Description     : Network monitoring tools, including ping
 
 Name            : java-openjfx-src
-Version         : 18.0.1.u2-1
-Description     : Java OpenJFX 17 client application platform (open-source implementation of JavaFX)
+Version         : 18.0.2.u2-1
+Description     : Java OpenJFX client application platform (open-source implementation of JavaFX) - latest version
 
 Name            : jfsutils
 Version         : 1.1.15-8
@@ -499,15 +499,15 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.18.10.arch1-1
+Version         : 5.18.14.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-lts
-Version         : 5.15.53-2
+Version         : 5.15.55-2
 Description     : The LTS Linux kernel and modules
 
 Name            : logrotate
-Version         : 3.19.0-1
+Version         : 3.20.1-1
 Description     : Rotates system logs automatically
 
 Name            : love
@@ -615,7 +615,7 @@ Version         : 1.28.0-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager
-Version         : 1.38.2-1
+Version         : 1.38.2-2
 Description     : Network connection manager and user applications
 
 Name            : networkmanager-openconnect
@@ -659,7 +659,7 @@ Version         : 21.1-1
 Description     : Download from Usenet using .nzb files
 
 Name            : obs-studio
-Version         : 27.2.4-1
+Version         : 27.2.4-2
 Description     : Free, open source software for live streaming and recording
 
 Name            : openssh
@@ -779,7 +779,7 @@ Version         : 22.1.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.6.7-1
+Version         : 2022.7.4-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-scapy
@@ -839,7 +839,7 @@ Version         : 1.12-5
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : reflector
-Version         : 2021.11-3
+Version         : 2021.11-5
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : reiserfsprogs
@@ -875,7 +875,7 @@ Version         : 1-1
 Description     : Symlink for using Rofi as a drop-in replacement to dmenu
 
 Name            : rxvt-unicode
-Version         : 9.26-3
+Version         : 9.30-1
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : s-nail
@@ -883,7 +883,7 @@ Version         : 14.9.24-1
 Description     : Environment for sending and receiving mail
 
 Name            : samba
-Version         : 4.16.2-1
+Version         : 4.16.3-1
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -907,7 +907,7 @@ Version         : 4.11.1-1
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.49.0-1
+Version         : 5.51.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -915,7 +915,7 @@ Version         : r23.c691f20-2
 Description     : Iconic bitmap font based on stlarch with additional glyphs
 
 Name            : solaar
-Version         : 1.1.4-1
+Version         : 1.1.4-2
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : soundconverter
@@ -955,7 +955,7 @@ Version         : 3.12.2-2
 Description     : Platform for audio synthesis and algorithmic composition
 
 Name            : swaylock
-Version         : 1.6-1
+Version         : 1.6-2
 Description     : Screen locker for Wayland
 
 Name            : sxhkd
@@ -967,7 +967,7 @@ Version         : 2.1.1-1
 Description     : System Utilities Based on Sysfs
 
 Name            : systemd-sysvcompat
-Version         : 251.2-1
+Version         : 251.3-1
 Description     : sysvinit compat for systemd
 
 Name            : tabbed-git
@@ -983,7 +983,7 @@ Version         : 1.5.0-1
 Description     : A fast tldr client in Rust
 
 Name            : telegram-desktop
-Version         : 4.0.2-2
+Version         : 4.0.2-4
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -1139,7 +1139,7 @@ Version         : 173.a95b047-1
 Description     : Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell
 
 Name            : virtualbox
-Version         : 6.1.34-4
+Version         : 6.1.36-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : wget
@@ -1219,7 +1219,7 @@ Version         : 1.2.2-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.3-7
+Version         : 21.1.4-1
 Description     : Xorg X server
 
 Name            : xorg-sessreg
@@ -1259,7 +1259,7 @@ Version         : 1.0.6-3
 Description     : Query configuration information of DRI drivers
 
 Name            : xorg-xev
-Version         : 1.2.4-1
+Version         : 1.2.5-1
 Description     : Print contents of X events
 
 Name            : xorg-xgamma
@@ -1283,7 +1283,7 @@ Version         : 1.1.4-4
 Description     : XKB event daemon
 
 Name            : xorg-xkbutils
-Version         : 1.0.4-5
+Version         : 1.0.5-1
 Description     : XKB utility demos
 
 Name            : xorg-xkill
@@ -1323,7 +1323,7 @@ Version         : 1.2.1-1
 Description     : X server resource database utility
 
 Name            : xorg-xrefresh
-Version         : 1.0.6-3
+Version         : 1.0.7-1
 Description     : Refresh all or part of an X screen
 
 Name            : xorg-xset
@@ -1351,7 +1351,7 @@ Version         : 1.0.6-1
 Description     : X Window System image undumping utility
 
 Name            : xsecurelock
-Version         : 1.7.0-1
+Version         : 1.7.0-2
 Description     : X11 screen lock utility with security in mind
 
 Name            : xsensors
