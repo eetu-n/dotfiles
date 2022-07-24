@@ -679,7 +679,7 @@ Version         : 1.2.1-1
 Description     : Universal 2nd Factor (U2F) PAM authentication module from Yubico
 
 Name            : paper-icon-theme
-Version         : 1.5.0-2
+Version         : 1.5.0-3
 Description     : Paper is an open source desktop theme and icon project by Sam Hewitt
 
 Name            : patch
