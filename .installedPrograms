@@ -1,5 +1,5 @@
 Name            : 1password-cli
-Version         : 2.5.1-1
+Version         : 2.6.0-1
 Description     : 1Password command line tool
 
 Name            : acpi
@@ -7,7 +7,7 @@ Version         : 1.7-3
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpi_call
-Version         : 1.2.2-57
+Version         : 1.2.2-61
 Description     : A linux kernel module that enables calls to ACPI methods through /proc/acpi/call
 
 Name            : acpid
@@ -39,7 +39,7 @@ Version         : 2.13.2-1
 Description     : Radically simple IT automation platform
 
 Name            : ansible-lint
-Version         : 6.3.0-1
+Version         : 6.4.0-1
 Description     : Checks playbooks for practices and behaviour that could potentially be improved.
 
 Name            : arandr
@@ -55,7 +55,7 @@ Version         : 1.6.6-7
 Description     : Arduino IDE reference documentation
 
 Name            : audacity
-Version         : 1:2.4.1-9
+Version         : 1:3.1.3-2
 Description     : A program that lets you manipulate digital audio waveforms
 
 Name            : autoconf
@@ -103,7 +103,7 @@ Version         : 9.18.5-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.38-6
+Version         : 2.38-7
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -155,7 +155,7 @@ Version         : 140201-4
 Description     : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file
 
 Name            : chromium
-Version         : 103.0.5060.134-1
+Version         : 104.0.5112.79-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : cloc
@@ -171,7 +171,7 @@ Version         : 9.1-1
 Description     : The basic file, shell and text manipulation utilities of the GNU operating system
 
 Name            : cryptsetup
-Version         : 2.4.3-2
+Version         : 2.5.0-1
 Description     : Userspace setup tool for transparent encryption of block devices using dm-crypt
 
 Name            : cups-pdf
@@ -211,7 +211,7 @@ Version         : 1:20.10.17-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.6.1-1
+Version         : 2.9.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : downgrade
@@ -287,7 +287,7 @@ Version         : 4.9.0-1
 Description     : GNU utilities to locate files
 
 Name            : firefox
-Version         : 102.0.1-1
+Version         : 103.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -295,7 +295,7 @@ Version         : 2.6.4-3
 Description     : A tool for generating text-scanning programs
 
 Name            : freerdp
-Version         : 2:2.7.0-1
+Version         : 2:2.8.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fuse-nx-git
@@ -303,7 +303,7 @@ Version         : v1.1.r14.g0f8a9f3-1
 Description     : Mount Nintendo Switch archives through FUSE
 
 Name            : fzf
-Version         : 0.31.0-1
+Version         : 0.32.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gawk
@@ -311,15 +311,15 @@ Version         : 5.1.1-1
 Description     : GNU version of awk
 
 Name            : gcc
-Version         : 12.1.0-3
+Version         : 12.1.1-4
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gcc-fortran
-Version         : 12.1.0-3
+Version         : 12.1.1-4
 Description     : Fortran front-end for GCC
 
 Name            : gcc-libs
-Version         : 12.1.0-3
+Version         : 12.1.1-4
 Description     : Runtime libraries shipped by GCC
 
 Name            : gdb
@@ -343,7 +343,7 @@ Version         : 3.2.5-1
 Description     : CLI curses-based monitoring tool
 
 Name            : glibc
-Version         : 2.35-6
+Version         : 2.36-1
 Description     : GNU C Library
 
 Name            : gnome-mplayer
@@ -367,7 +367,7 @@ Version         : 1.4.0-1
 Description     : A Partition Magic clone, frontend to GNU Parted
 
 Name            : gpodder
-Version         : 3.10.21-2
+Version         : 3.11.0-1
 Description     : Podcast client written in Python using GTK
 
 Name            : grep
@@ -387,7 +387,7 @@ Version         : 1.3.4-2
 Description     : A graphical frontend for cups, the linux printing system
 
 Name            : gvim
-Version         : 9.0.0000-1
+Version         : 9.0.0135-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
 
 Name            : gzip
@@ -427,7 +427,7 @@ Version         : 2.1.7-1
 Description     : A tool to measure maximum TCP bandwidth
 
 Name            : iproute2
-Version         : 5.18.0-1
+Version         : 5.19.0-1
 Description     : IP Routing Utilities
 
 Name            : iputils
@@ -467,7 +467,7 @@ Version         : 1:590-1
 Description     : A terminal based program for viewing text files
 
 Name            : lib32-mesa
-Version         : 22.1.3-1
+Version         : 22.1.4-1
 Description     : An open-source implementation of the OpenGL specification (32-bit)
 
 Name            : libmicrodns
@@ -475,11 +475,11 @@ Version         : 0.2.0-1
 Description     : Minimal mDNS resolver library
 
 Name            : libreoffice-fresh
-Version         : 7.3.4-2
+Version         : 7.3.5-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libtool
-Version         : 2.4.7-2
+Version         : 2.4.7-3
 Description     : A generic library support script
 
 Name            : libu2f-host
@@ -499,11 +499,11 @@ Version         : 1.1.1-1
 Description     : A musical instrument tuner
 
 Name            : linux
-Version         : 5.18.14.arch1-1
+Version         : 5.18.16.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-lts
-Version         : 5.15.55-2
+Version         : 5.15.58-2
 Description     : The LTS Linux kernel and modules
 
 Name            : logrotate
@@ -558,17 +558,9 @@ Name            : mopidy
 Version         : 3.3.0-1
 Description     : An extensible music server written in Python
 
-Name            : mopidy-iris
-Version         : 3.64.0-1
-Description     : A Mopidy Web client that utilizes the Spotify and EchoNest frameworks. (Formerly Spotmop)
-
 Name            : mopidy-mpd
 Version         : 3.3.0-1
 Description     : Mopidy extension for controlling playback from MPD clients
-
-Name            : mopidy-spotify
-Version         : 4.1.1-2
-Description     : Mopidy extension for playing music from Spotify
 
 Name            : moreutils
 Version         : 0.67-2
@@ -667,7 +659,7 @@ Version         : 9.0p1-1
 Description     : Premier connectivity tool for remote login with the SSH protocol
 
 Name            : pacman
-Version         : 6.0.1-5
+Version         : 6.0.1-7
 Description     : A library-based package manager with dependency support
 
 Name            : pacman-contrib
@@ -775,11 +767,11 @@ Version         : 0.18.2-7
 Description     : Clean single-source support for Python 3 and 2
 
 Name            : python-pip
-Version         : 22.1.2-1
+Version         : 22.2.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.7.4-1
+Version         : 2022.7.24-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-scapy
@@ -883,7 +875,7 @@ Version         : 14.9.24-1
 Description     : Environment for sending and receiving mail
 
 Name            : samba
-Version         : 4.16.3-1
+Version         : 4.16.4-2
 Description     : SMB Fileserver and AD Domain server
 
 Name            : scapy
@@ -907,7 +899,7 @@ Version         : 4.11.1-1
 Description     : Password and account management tool suite with support for shadow files and PAM
 
 Name            : signal-desktop
-Version         : 5.51.0-1
+Version         : 5.53.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -1051,7 +1043,7 @@ Version         : 4.16.11-2
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.11.0-1
+Version         : 91.12.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tlp
@@ -1079,7 +1071,7 @@ Version         : 2.37+18+g9b5d1b2f-3
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 6.1.1-1
+Version         : 6.1.2-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
@@ -1127,7 +1119,7 @@ Version         : 2.38-1
 Description     : Miscellaneous system utilities for Linux
 
 Name            : valgrind
-Version         : 3.19.0-4
+Version         : 3.19.0-5
 Description     : Tool to help find memory-management problems in programs
 
 Name            : vi
@@ -1163,11 +1155,11 @@ Version         : 30.pre9-3
 Description     : Tools allowing to manipulate the Wireless Extensions
 
 Name            : wireshark-cli
-Version         : 3.6.6-1
+Version         : 3.6.7-1
 Description     : Network traffic and protocol analyzer/sniffer - CLI tools and data files
 
 Name            : wireshark-qt
-Version         : 3.6.6-1
+Version         : 3.6.7-1
 Description     : Network traffic and protocol analyzer/sniffer - Qt GUI
 
 Name            : wmname
