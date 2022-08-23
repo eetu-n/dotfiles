@@ -71,7 +71,7 @@ Version         : 1.25.58-1
 Description     : Universal Command Line Interface for Amazon Web Services
 
 Name            : aws-iam-authenticator-bin
-Version         : 0.5.5-1
+Version         : 0.5.9-1
 Description     : A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 
 Name            : aws-session-manager-plugin
