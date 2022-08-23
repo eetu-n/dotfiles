@@ -67,7 +67,7 @@ Version         : 1.12.1-2
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
-Version         : 1.25.48-1
+Version         : 1.25.58-1
 Description     : Universal Command Line Interface for Amazon Web Services
 
 Name            : aws-iam-authenticator-bin
@@ -759,7 +759,7 @@ Version         : 0.12.5-2
 Description     : v4l2-loopback device – utilities only
 
 Name            : vagrant
-Version         : 2.3.0-2
+Version         : 2.3.0-4
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
