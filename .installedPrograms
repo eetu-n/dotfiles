@@ -211,7 +211,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 103.0.2-1
+Version         : 104.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -323,7 +323,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.24.3-2
+Version         : 1.24.4-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -401,10 +401,6 @@ Description     : Mobile shell, surviving disconnects with local echo and line e
 Name            : mpc
 Version         : 0.34-2
 Description     : Minimalist command line interface to MPD
-
-Name            : mpd-notification
-Version         : 0.8.6-2
-Description     : Notify about tracks played by mpd
 
 Name            : mplayer
 Version         : 38359-1
@@ -647,7 +643,7 @@ Version         : 4.27.156-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 2.2-1
+Version         : 2.2.1-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -759,7 +755,7 @@ Version         : 0.12.5-2
 Description     : v4l2-loopback device – utilities only
 
 Name            : vagrant
-Version         : 2.3.0-4
+Version         : 2.3.0-5
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
@@ -767,7 +763,7 @@ Version         : 1.11.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.0236-1
+Version         : 9.0.0246-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
