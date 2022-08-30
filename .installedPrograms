@@ -83,7 +83,7 @@ Version         : 3-1
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bat
-Version         : 0.21.0-2
+Version         : 0.21.0-3
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
@@ -99,7 +99,7 @@ Version         : 3.8.2-4
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.3.1-1
+Version         : 2.3.2-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
@@ -171,7 +171,7 @@ Version         : 1:20.10.17-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.10.0-1
+Version         : 2.10.2-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -195,7 +195,7 @@ Version         : 18-1
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : exa
-Version         : 0.10.1-5
+Version         : 0.10.1-6
 Description     : ls replacement
 
 Name            : fakeroot
@@ -247,7 +247,7 @@ Version         : 2.37.2-1
 Description     : the fast distributed version control system
 
 Name            : git-delta
-Version         : 0.13.0-1
+Version         : 0.13.0-2
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -279,7 +279,7 @@ Version         : 2.9.400-0
 Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
 
 Name            : helm
-Version         : 3.9.3-2
+Version         : 3.9.4-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -291,11 +291,11 @@ Version         : 22.7.0.20-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.45-1
+Version         : 7.1.0.47-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
-Version         : 2.2-1
+Version         : 2.3-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
@@ -343,7 +343,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.19.3.arch1-1
+Version         : 5.19.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -351,11 +351,11 @@ Version         : 20220708.be7798e-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.19.3.arch1-1
+Version         : 5.19.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.62-1
+Version         : 5.15.63-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -427,7 +427,7 @@ Version         : 1.2.8-2
 Description     : NetworkManager VPN plugin for OpenConnect
 
 Name            : networkmanager-openvpn
-Version         : 1.8.18-2
+Version         : 1.10.0-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nginx
@@ -543,11 +543,11 @@ Version         : 0.8.0-5
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-pip
-Version         : 22.2.2-1
+Version         : 22.2.2-2
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.7.24-1
+Version         : 2022.8.24-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -627,7 +627,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.55.0-1
+Version         : 5.56.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -699,7 +699,7 @@ Version         : 4.16.11-2
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 91.12.0-1
+Version         : 102.2.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -755,7 +755,7 @@ Version         : 0.12.5-2
 Description     : v4l2-loopback device – utilities only
 
 Name            : vagrant
-Version         : 2.3.0-5
+Version         : 2.3.0-7
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
@@ -763,7 +763,7 @@ Version         : 1.11.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.0246-1
+Version         : 9.0.0321-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -779,7 +779,7 @@ Version         : 6.1.36-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.36-13
+Version         : 6.1.36-15
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
