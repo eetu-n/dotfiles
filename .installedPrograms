@@ -247,7 +247,7 @@ Version         : 2.37.3-1
 Description     : the fast distributed version control system
 
 Name            : git-delta
-Version         : 0.13.0-2
+Version         : 0.14.0-2
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -347,7 +347,7 @@ Version         : 5.19.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20220708.be7798e-1
+Version         : 20220815.8413c63-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
@@ -355,7 +355,7 @@ Version         : 5.19.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.63-1
+Version         : 5.15.64-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -639,7 +639,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.27.156-1
+Version         : 4.28.171-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
