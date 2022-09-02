@@ -147,7 +147,7 @@ Version         : 5.40-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.70.2-1
+Version         : 1.71.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -187,7 +187,7 @@ Version         : 1.9.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.2.8-1
+Version         : 6.2.8-2
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -245,6 +245,10 @@ Description     : An obsolete configuration database system
 Name            : git
 Version         : 2.37.3-1
 Description     : the fast distributed version control system
+
+Name            : git-credential-keepassxc
+Version         : 0.10.0-1
+Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
 Version         : 0.14.0-2
@@ -343,7 +347,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.19.5.arch1-1
+Version         : 5.19.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -351,7 +355,7 @@ Version         : 20220815.8413c63-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.19.5.arch1-1
+Version         : 5.19.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -447,7 +451,7 @@ Version         : 20211101-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 8.18.0-1
+Version         : 8.19.0-1
 Description     : A package manager for javascript
 
 Name            : openconnect
@@ -455,7 +459,7 @@ Version         : 1:9.01-2
 Description     : Open client for Cisco AnyConnect VPN
 
 Name            : openfortivpn
-Version         : 1.17.3-1
+Version         : 1.18.0-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
@@ -627,7 +631,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.56.0-1
+Version         : 5.57.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -775,11 +779,11 @@ Version         : 4.1.0-1
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 6.1.36-1
+Version         : 6.1.38-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.36-15
+Version         : 6.1.38-2
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
