@@ -103,15 +103,15 @@ Version         : 2.3.2-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.65-2
+Version         : 5.65-3
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.65-2
+Version         : 5.65-3
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.65-2
+Version         : 5.65-3
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : breeze-dark-flat
@@ -123,7 +123,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 105.0.5195.52-1
+Version         : 105.0.5195.102-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -143,11 +143,11 @@ Version         : 1.94-1
 Description     : Count lines of code
 
 Name            : cnrdrvcups-lb-bin
-Version         : 5.40-1
+Version         : 5.50-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.71.0-1
+Version         : 1.71.0-2
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -187,7 +187,7 @@ Version         : 1.9.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : easyeffects
-Version         : 6.2.8-2
+Version         : 6.3.0-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -211,7 +211,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 104.0.1-1
+Version         : 104.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -279,7 +279,7 @@ Version         : 1.1.3-1
 Description     : System monitoring dashboard for terminal
 
 Name            : hdx-realtime-media-engine
-Version         : 2.9.400-0
+Version         : 2.9.500-1
 Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
 
 Name            : helm
@@ -295,7 +295,7 @@ Version         : 22.7.0.20-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.47-1
+Version         : 7.1.0.47-2
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -307,7 +307,7 @@ Version         : 20220809-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : ipmitool
-Version         : 1.8.18-7
+Version         : 1.8.19-1
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jdk-openjdk
@@ -315,7 +315,7 @@ Version         : 18.0.2.1.u0-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
-Version         : 2.25.2-1
+Version         : 2.25.3-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -335,7 +335,7 @@ Version         : 1.48.4-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.4.0-2
+Version         : 7.4.0-3
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -347,7 +347,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.19.6.arch1-1
+Version         : 5.19.7.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -355,11 +355,11 @@ Version         : 20220815.8413c63-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.19.6.arch1-1
+Version         : 5.19.7.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.64-1
+Version         : 5.15.65-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -451,7 +451,7 @@ Version         : 20211101-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 8.19.0-1
+Version         : 8.19.1-1
 Description     : A package manager for javascript
 
 Name            : openconnect
@@ -503,19 +503,19 @@ Version         : 2.0.2-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.56-1
+Version         : 1:0.3.57-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.56-1
+Version         : 1:0.3.57-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.56-1
+Version         : 1:0.3.57-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.56-1
+Version         : 1:0.3.57-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -535,7 +535,7 @@ Version         : 2.14-1
 Description     : A tool to diagnose issues with power consumption and power management
 
 Name            : pyenv
-Version         : 2.3.3-1
+Version         : 2.3.4-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -763,11 +763,11 @@ Version         : 2.3.0-7
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.11.2-1
+Version         : 1.11.3-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.0321-1
+Version         : 9.0.0354-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -783,7 +783,7 @@ Version         : 6.1.38-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.38-2
+Version         : 6.1.38-3
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
