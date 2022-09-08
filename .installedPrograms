@@ -83,7 +83,7 @@ Version         : 3-1
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bat
-Version         : 0.21.0-3
+Version         : 0.22.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
@@ -123,7 +123,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 105.0.5195.102-1
+Version         : 105.0.5195.102-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -327,7 +327,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.24.4-1
+Version         : 1.25.0-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -483,7 +483,7 @@ Version         : 2.7.6-8
 Description     : A utility to apply patch files to original sources
 
 Name            : pavucontrol
-Version         : 1:5.0+r35+g964f298-1
+Version         : 1:5.0+r61+gee77d86-2
 Description     : PulseAudio Volume Control
 
 Name            : pcsc-tools
@@ -551,7 +551,7 @@ Version         : 22.2.2-2
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.8.24-1
+Version         : 2022.9.4-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
