@@ -215,7 +215,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 104.0.2-1
+Version         : 105.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
