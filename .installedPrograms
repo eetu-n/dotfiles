@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 105.0.5195.125-2
+Version         : 105.0.5195.125-3
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -559,7 +559,7 @@ Version         : 22.2.2-2
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.9.20-1
+Version         : 2022.9.21-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
