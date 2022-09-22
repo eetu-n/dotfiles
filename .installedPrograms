@@ -215,7 +215,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 105.0-1
+Version         : 105.0-2
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -287,7 +287,7 @@ Version         : 2.9.500-1
 Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
 
 Name            : helm
-Version         : 3.9.4-1
+Version         : 3.10.0-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -299,7 +299,7 @@ Version         : 22.7.0.20-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.48-1
+Version         : 7.1.0.48-2
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -351,7 +351,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.19.9.arch1-1
+Version         : 5.19.10.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -359,7 +359,7 @@ Version         : 20220815.8413c63-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.19.9.arch1-1
+Version         : 5.19.10.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -639,7 +639,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.59.0-1
+Version         : 5.60.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -711,7 +711,7 @@ Version         : 4.16.11-2
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.2.2-1
+Version         : 102.3.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -791,7 +791,7 @@ Version         : 6.1.38-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.38-5
+Version         : 6.1.38-6
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
