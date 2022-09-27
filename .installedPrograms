@@ -67,7 +67,7 @@ Version         : 1.12.1-2
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
-Version         : 1.25.71-1
+Version         : 1.25.81-1
 Description     : Universal Command Line Interface for Amazon Web Services
 
 Name            : aws-iam-authenticator-bin
@@ -87,7 +87,7 @@ Version         : 0.22.1-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.6-1
+Version         : 9.18.7-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -215,7 +215,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 105.0-2
+Version         : 105.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -231,7 +231,7 @@ Version         : 2:2.8.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.8.4-1
+Version         : 1.8.5-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -299,7 +299,7 @@ Version         : 22.7.0.20-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.48-2
+Version         : 7.1.0.49-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -331,7 +331,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.25.1-1
+Version         : 1.25.2-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -339,7 +339,7 @@ Version         : 1.48.4-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.4.1-2
+Version         : 7.4.1-3
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -351,19 +351,19 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.19.10.arch1-1
+Version         : 5.19.11.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20220815.8413c63-1
+Version         : 20220913.f09bebf-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.19.10.arch1-1
+Version         : 5.19.11.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.69-1
+Version         : 5.15.70-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -375,7 +375,7 @@ Version         : 3.20.1-1
 Description     : Rotates system logs automatically
 
 Name            : lsof
-Version         : 4.95.0-1
+Version         : 4.96.3-1
 Description     : Lists open files for running Unix processes
 
 Name            : lxappearance
@@ -451,7 +451,7 @@ Version         : 20220607-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
-Version         : 20220906-1
+Version         : 20220920-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
@@ -559,7 +559,7 @@ Version         : 22.2.2-2
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2022.9.21-1
+Version         : 2022.9.24-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -611,7 +611,7 @@ Version         : 1.4-2
 Description     : Simple keepassxc-cli frontend in rofi
 
 Name            : rsync
-Version         : 3.2.6-1
+Version         : 3.2.6-2
 Description     : A fast and versatile file copying tool for remote and local files
 
 Name            : ruby-mdless
@@ -619,7 +619,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.63.0-1
+Version         : 1:1.64.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -655,7 +655,7 @@ Version         : 4.28.171-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 2.2.1-1
+Version         : 2.2.2-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -699,7 +699,7 @@ Version         : 1.5.00.23861-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 4.1.1-1
+Version         : 4.2.0-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -791,7 +791,7 @@ Version         : 6.1.38-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.38-6
+Version         : 6.1.38-7
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1019,7 +1019,7 @@ Version         : 1.0.6-1
 Description     : X Window System image undumping utility
 
 Name            : xsecurelock
-Version         : 1.7.0-2
+Version         : 1.8.0-1
 Description     : X11 screen lock utility with security in mind
 
 Name            : xsel
