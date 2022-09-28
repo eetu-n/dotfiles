@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 105.0.5195.125-3
+Version         : 106.0.5249.61-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -319,7 +319,7 @@ Version         : 18.0.2.1.u0-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
-Version         : 2.26.1-1
+Version         : 2.26.2-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
