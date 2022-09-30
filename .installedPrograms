@@ -295,7 +295,7 @@ Version         : 3.2.1-1
 Description     : Interactive process viewer
 
 Name            : icaclient
-Version         : 22.7.0.20-1
+Version         : 22.9.0.21-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
@@ -351,7 +351,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.19.11.arch1-1
+Version         : 5.19.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -359,11 +359,11 @@ Version         : 20220913.f09bebf-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.19.11.arch1-1
+Version         : 5.19.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.70-1
+Version         : 5.15.71-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -539,7 +539,7 @@ Version         : 14.5-1
 Description     : Sophisticated object-relational DBMS
 
 Name            : powertop
-Version         : 2.14-1
+Version         : 2.15-1
 Description     : A tool to diagnose issues with power consumption and power management
 
 Name            : pyenv
@@ -595,7 +595,7 @@ Version         : 1.3.0.0-2
 Description     : A protocol plugin for Remmina to open a RDP connection with rdesktop.
 
 Name            : reptyr
-Version         : 0.8.0-1
+Version         : 0.9.0-1
 Description     : Utility for taking an existing running program and attaching it to a new terminal
 
 Name            : ristretto
@@ -639,7 +639,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.60.0-1
+Version         : 5.61.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -791,7 +791,7 @@ Version         : 6.1.38-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.38-7
+Version         : 6.1.38-8
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
