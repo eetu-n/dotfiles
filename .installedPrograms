@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 106.0.5249.61-1
+Version         : 106.0.5249.91-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -175,7 +175,7 @@ Version         : 1:20.10.18-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.11.1-1
+Version         : 2.11.2-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -215,7 +215,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 105.0.1-1
+Version         : 105.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -235,7 +235,7 @@ Version         : 1.8.5-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.33.0-1
+Version         : 0.34.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -247,11 +247,11 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.37.3-1
+Version         : 2.38.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
-Version         : 0.10.0-1
+Version         : 0.10.1-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
@@ -319,7 +319,7 @@ Version         : 18.0.2.1.u0-1
 Description     : OpenJDK Java 18 development kit
 
 Name            : jfrog-cli
-Version         : 2.26.2-1
+Version         : 2.27.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -351,7 +351,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 5.19.12.arch1-1
+Version         : 5.19.13.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -359,7 +359,7 @@ Version         : 20220913.f09bebf-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 5.19.12.arch1-1
+Version         : 5.19.13.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -447,7 +447,7 @@ Version         : 1:3.17.2206-8
 Description     : A Qt image viewer
 
 Name            : noto-fonts
-Version         : 20220607-1
+Version         : 20220810-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
@@ -639,7 +639,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.61.0-1
+Version         : 5.61.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -691,7 +691,7 @@ Version         : 0.6.2-2
 Description     : Simple X hotkey daemon
 
 Name            : tealdeer
-Version         : 1.5.0-1
+Version         : 1.6.0-1
 Description     : A fast tldr client in Rust
 
 Name            : teams
@@ -699,7 +699,7 @@ Version         : 1.5.00.23861-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 4.2.0-1
+Version         : 4.2.4-1
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
@@ -711,7 +711,7 @@ Version         : 4.16.11-2
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.3.0-1
+Version         : 102.3.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -771,7 +771,7 @@ Version         : 2.3.0-7
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.11.3-1
+Version         : 1.11.4-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -791,7 +791,7 @@ Version         : 6.1.38-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 6.1.38-8
+Version         : 6.1.38-9
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
