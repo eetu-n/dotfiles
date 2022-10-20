@@ -247,7 +247,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.38.0-1
+Version         : 2.38.1-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -315,8 +315,8 @@ Version         : 1.8.19-1
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jdk-openjdk
-Version         : 18.0.2.1.u0-1
-Description     : OpenJDK Java 18 development kit
+Version         : 19.0.1.u10-2
+Description     : OpenJDK Java 19 development kit
 
 Name            : jfrog-cli
 Version         : 2.27.1-1
@@ -571,11 +571,11 @@ Version         : 0.5.4-3
 Description     : Python Zabbix API
 
 Name            : python37
-Version         : 3.7.14-1
+Version         : 3.7.15-1
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
-Version         : 3.9.14-1
+Version         : 3.9.15-1
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : ranger
