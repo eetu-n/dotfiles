@@ -167,8 +167,8 @@ Version         : 3.5.1-1
 Description     : A script to convert .deb packages to Arch Linux packages, focused on accuracy. Do not use it to convert packages that already exist on official repositories or can be built from AUR!
 
 Name            : discord
-Version         : 0.0.21-1
-Description     : All-in-one voice and text chat for gamers that's free and secure.
+Version         : 0.0.21-2
+Description     : All-in-one voice and text chat for gamers
 
 Name            : docker
 Version         : 1:20.10.21-1
@@ -287,7 +287,7 @@ Version         : 2.9.500-1
 Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
 
 Name            : helm
-Version         : 3.10.0-1
+Version         : 3.10.1-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -323,7 +323,7 @@ Version         : 2.28.2-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
-Version         : 2.7.1-1
+Version         : 2.7.4-1
 Description     : Cross-platform community-driven port of Keepass password manager
 
 Name            : keychain
@@ -351,7 +351,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.0.5.arch1-1
+Version         : 6.0.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -359,11 +359,11 @@ Version         : 20220913.f09bebf-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.0.5.arch1-1
+Version         : 6.0.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.75-1
+Version         : 5.15.76-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -511,19 +511,19 @@ Version         : 2.0.2-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.59-2
+Version         : 1:0.3.59-3
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.59-2
+Version         : 1:0.3.59-3
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.59-2
+Version         : 1:0.3.59-3
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.59-2
+Version         : 1:0.3.59-3
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -595,7 +595,7 @@ Version         : 1:1.4.27-2
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
-Version         : 1.3.0.0-2
+Version         : 1.3.0.0-3
 Description     : A protocol plugin for Remmina to open a RDP connection with rdesktop.
 
 Name            : reptyr
@@ -795,7 +795,7 @@ Version         : 7.0.2-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.2-4
+Version         : 7.0.2-5
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -887,7 +887,7 @@ Version         : 21.1.4-1
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
-Version         : 1.1.2-3
+Version         : 1.1.3-1
 Description     : Register X sessions in system utmp/utmpx databases
 
 Name            : xorg-setxkbmap
@@ -899,7 +899,7 @@ Version         : 1.0.7-1
 Description     : Allows X applications that do not support X11R6 session management to participate in an X11R6 session
 
 Name            : xorg-x11perf
-Version         : 1.6.1-3
+Version         : 1.6.2-1
 Description     : Simple X server performance benchmarker
 
 Name            : xorg-xauth
@@ -999,7 +999,7 @@ Version         : 1.2.4-3
 Description     : User preference utility for X
 
 Name            : xorg-xsetroot
-Version         : 1.1.2-3
+Version         : 1.1.3-1
 Description     : Classic X utility to set your root window background to a given pattern or color
 
 Name            : xorg-xvinfo
@@ -1007,7 +1007,7 @@ Version         : 1.1.4-3
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
-Version         : 22.1.4-2
+Version         : 22.1.4-3
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
