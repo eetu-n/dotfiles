@@ -99,7 +99,7 @@ Version         : 3.8.2-4
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.3.2-1
+Version         : 2.3.3-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
@@ -215,7 +215,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 106.0.2-1
+Version         : 106.0.3-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
