@@ -331,7 +331,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.25.3-1
+Version         : 1.25.4-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -351,15 +351,15 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.0.7.arch1-1
+Version         : 6.0.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20220913.f09bebf-1
+Version         : 20221109.60310c2-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.0.7.arch1-1
+Version         : 6.0.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -795,7 +795,7 @@ Version         : 7.0.2-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.2-6
+Version         : 7.0.2-7
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1047,7 +1047,7 @@ Version         : 5.1.0-3
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.12.2-1
+Version         : 5.12.6-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
