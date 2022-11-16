@@ -15,7 +15,7 @@ Version         : 1.11-3
 Description     : Apple TV4 HD aerial movies in 2k
 
 Name            : alacritty
-Version         : 0.11.0-1
+Version         : 0.11.0-2
 Description     : A cross-platform, GPU-accelerated terminal emulator
 
 Name            : alsa-firmware
@@ -55,7 +55,7 @@ Version         : 2.71-1
 Description     : A GNU tool for automatically configuring source code
 
 Name            : autocutsel
-Version         : 0.10.1-1
+Version         : 0.10.1-2
 Description     : synchronizes the two copy/paste buffers mainly used by X applications
 
 Name            : automake
@@ -67,7 +67,7 @@ Version         : 1.12.1-2
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
-Version         : 1.25.97-1
+Version         : 1.25.97-2
 Description     : Universal Command Line Interface for Amazon Web Services
 
 Name            : aws-iam-authenticator-bin
@@ -103,15 +103,15 @@ Version         : 2.3.4-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.65-3
+Version         : 5.66-1
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.65-3
+Version         : 5.66-1
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.65-3
+Version         : 5.66-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
@@ -151,7 +151,7 @@ Version         : 5.50-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.73.0-1
+Version         : 1.73.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -159,7 +159,7 @@ Version         : 1.73.0-1
 Description     : Enable vscode marketplace in Code OSS
 
 Name            : cups-pdf
-Version         : 3.0.1-6
+Version         : 3.0.1-7
 Description     : PDF printer for cups
 
 Name            : debtap
@@ -207,7 +207,7 @@ Version         : 1.30.1-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
-Version         : 8.5.2-1
+Version         : 8.5.3-1
 Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
@@ -215,7 +215,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 106.0.5-1
+Version         : 107.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -363,7 +363,7 @@ Version         : 6.0.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.77-1
+Version         : 5.15.78-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -415,7 +415,7 @@ Version         : 38359-1
 Description     : Media player for Linux
 
 Name            : mpv
-Version         : 1:0.34.1-5
+Version         : 1:0.35.0-2
 Description     : a free, open source, and cross-platform media player
 
 Name            : mtpfs
@@ -435,7 +435,7 @@ Version         : 1.2.8-2
 Description     : NetworkManager VPN plugin for OpenConnect
 
 Name            : networkmanager-openvpn
-Version         : 1.10.0-1
+Version         : 1.10.2-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nginx
@@ -503,27 +503,27 @@ Version         : 4.30-4
 Description     : Comprehensive design and management interface for PostgreSQL
 
 Name            : picom
-Version         : 9.1-3
+Version         : 10-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pinta
-Version         : 2.0.2-1
+Version         : 2.0.2-2
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.59-5
+Version         : 1:0.3.60-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.59-5
+Version         : 1:0.3.60-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.59-5
+Version         : 1:0.3.60-2
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.59-5
+Version         : 1:0.3.60-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -531,7 +531,7 @@ Version         : 1.8.0-1
 Description     : Package compiler and linker metadata toolkit
 
 Name            : playerctl
-Version         : 2.4.1-2
+Version         : 2.4.1-3
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
 
 Name            : polybar
@@ -587,7 +587,7 @@ Version         : r7.0623491-1
 Description     : Base64 encoder written in rust
 
 Name            : redshift
-Version         : 1.12-5
+Version         : 1.12-6
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : remmina
@@ -643,7 +643,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.63.1-1
+Version         : 5.63.1-2
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -655,7 +655,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.28.184-1
+Version         : 4.29.144-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -715,7 +715,7 @@ Version         : 4.16.11-2
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.4.2-1
+Version         : 102.5.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -771,7 +771,7 @@ Version         : 0.12.7-2
 Description     : v4l2-loopback device – utilities only
 
 Name            : vagrant
-Version         : 2.3.2-2
+Version         : 2.3.2-3
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
@@ -843,11 +843,11 @@ Version         : 1.3.3-1
 Description     : X.Org font utilities
 
 Name            : xorg-fonts-100dpi
-Version         : 1.0.3-7
+Version         : 1.0.3-8
 Description     : X.org 100dpi fonts
 
 Name            : xorg-fonts-75dpi
-Version         : 1.0.3-7
+Version         : 1.0.3-8
 Description     : X.org 75dpi fonts
 
 Name            : xorg-fonts-encodings
@@ -947,7 +947,7 @@ Version         : 1.4.5-1
 Description     : X Keyboard description compiler
 
 Name            : xorg-xkbevd
-Version         : 1.1.4-4
+Version         : 1.1.5-1
 Description     : XKB event daemon
 
 Name            : xorg-xkbutils
@@ -955,15 +955,15 @@ Version         : 1.0.5-1
 Description     : XKB utility demos
 
 Name            : xorg-xkill
-Version         : 1.0.5-3
+Version         : 1.0.6-1
 Description     : Kill a client by its X resource
 
 Name            : xorg-xlsatoms
-Version         : 1.1.3-3
+Version         : 1.1.4-1
 Description     : List interned atoms defined on server
 
 Name            : xorg-xlsclients
-Version         : 1.1.4-3
+Version         : 1.1.5-1
 Description     : List client applications running on a display
 
 Name            : xorg-xlsfonts
@@ -1035,7 +1035,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 11.3.0-1
+Version         : 11.3.1-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
