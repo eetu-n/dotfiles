@@ -227,7 +227,7 @@ Version         : 7.0.0.0018-2
 Description     : Build through the official package of FortiClient VPN
 
 Name            : freerdp
-Version         : 2:2.8.1-3
+Version         : 2:2.9.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -363,7 +363,7 @@ Version         : 6.0.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.78-1
+Version         : 5.15.79-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -507,23 +507,23 @@ Version         : 10-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pinta
-Version         : 2.0.2-2
+Version         : 2.0.2-3
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.60-2
+Version         : 1:0.3.60-3
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.60-2
+Version         : 1:0.3.60-3
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.60-2
+Version         : 1:0.3.60-3
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.60-2
+Version         : 1:0.3.60-3
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -575,7 +575,7 @@ Version         : 3.7.15-1
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
-Version         : 3.9.15-1
+Version         : 3.9.15-2
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : ranger
@@ -775,7 +775,7 @@ Version         : 2.3.2-3
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.12.0-1
+Version         : 1.12.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
