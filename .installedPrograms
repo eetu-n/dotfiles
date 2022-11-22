@@ -571,7 +571,7 @@ Version         : 0.5.4-3
 Description     : Python Zabbix API
 
 Name            : python37
-Version         : 3.7.15-1
+Version         : 3.7.15-2
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
