@@ -175,7 +175,7 @@ Version         : 1:20.10.21-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.12.2-1
+Version         : 2.13.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -186,9 +186,17 @@ Name            : downgrade
 Version         : 11.2.1-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
+Name            : duf
+Version         : 0.8.1-2
+Description     : Disk Usage/Free Utility
+
 Name            : dunst
 Version         : 1.9.0-1
 Description     : Customizable and lightweight notification-daemon
+
+Name            : dust
+Version         : 0.8.3-1
+Description     : A more intuitive version of du in rust
 
 Name            : easyeffects
 Version         : 7.0.0-1
@@ -273,6 +281,10 @@ Description     : GNU rewrite of netcat, the network piping application
 Name            : go
 Version         : 2:1.19.3-1
 Description     : Core compiler tools for the Go programming language
+
+Name            : gping
+Version         : 1.4.0-1
+Description     : Ping, but with a graph
 
 Name            : groff
 Version         : 1.22.4-7
@@ -542,9 +554,17 @@ Name            : postgresql
 Version         : 14.5-4
 Description     : Sophisticated object-relational DBMS
 
+Name            : powershell-bin
+Version         : 7.3.0-1
+Description     : A cross-platform automation and configuration tool/framework (binary package)
+
 Name            : powertop
 Version         : 2.15-1
 Description     : A tool to diagnose issues with power consumption and power management
+
+Name            : procs
+Version         : 0.13.3-1
+Description     : A modern replacement for ps written in Rust
 
 Name            : pyenv
 Version         : 2.3.6-1
