@@ -335,7 +335,7 @@ Version         : 1.25.4-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.48.4-2
+Version         : 1.48.5-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
@@ -355,7 +355,7 @@ Version         : 6.0.9.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20221109.60310c2-1
+Version         : 20221109.60310c2-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
@@ -503,7 +503,7 @@ Version         : 4.30-4
 Description     : Comprehensive design and management interface for PostgreSQL
 
 Name            : picom
-Version         : 10-1
+Version         : 10.1-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pinta
