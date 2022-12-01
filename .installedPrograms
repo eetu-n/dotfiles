@@ -571,7 +571,7 @@ Version         : 0.13.3-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : pyenv
-Version         : 2.3.6-1
+Version         : 2.3.7-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -667,7 +667,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 5.63.1-2
+Version         : 6.0.0-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
