@@ -39,7 +39,7 @@ Version         : 0.1.10-7
 Description     : Provide a simple visual front end for XRandR 1.2.
 
 Name            : arc-gtk-theme
-Version         : 20220405-1
+Version         : 20220405-2
 Description     : A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell
 
 Name            : arc-icon-theme
@@ -47,7 +47,7 @@ Version         : 20161122-3
 Description     : Arc icon theme. Official releases only.
 
 Name            : arc-solid-gtk-theme
-Version         : 20220405-1
+Version         : 20220405-2
 Description     : A flat theme for GTK 3, GTK 2 and Gnome-Shell (without transparency)
 
 Name            : autoconf
@@ -91,7 +91,7 @@ Version         : 9.18.9-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.39-3
+Version         : 2.39-4
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 108.0.5359.71-1
+Version         : 108.0.5359.98-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -151,7 +151,7 @@ Version         : 5.50-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.73.1-1
+Version         : 1.74.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -167,7 +167,7 @@ Version         : 3.5.1-1
 Description     : A script to convert .deb packages to Arch Linux packages, focused on accuracy. Do not use it to convert packages that already exist on official repositories or can be built from AUR!
 
 Name            : discord
-Version         : 0.0.21-2
+Version         : 0.0.22-1
 Description     : All-in-one voice and text chat for gamers
 
 Name            : docker
@@ -175,7 +175,7 @@ Version         : 1:20.10.21-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.13.0-1
+Version         : 2.14.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -215,7 +215,7 @@ Version         : 1.30.1-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
-Version         : 8.5.3-1
+Version         : 8.6.0-1
 Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
@@ -223,7 +223,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 107.0.1-1
+Version         : 108.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -239,7 +239,7 @@ Version         : 2:2.9.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.8.7-2
+Version         : 1.8.8-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -255,7 +255,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.38.1-2
+Version         : 2.39.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -263,7 +263,7 @@ Version         : 0.11.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
-Version         : 0.14.0-2
+Version         : 0.15.1-1
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -279,11 +279,11 @@ Version         : 0.7.1-8
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.19.3-1
+Version         : 2:1.19.4-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
-Version         : 1.4.0-1
+Version         : 1.6.0-1
 Description     : Ping, but with a graph
 
 Name            : groff
@@ -311,11 +311,11 @@ Version         : 3.2.1-1
 Description     : Interactive process viewer
 
 Name            : icaclient
-Version         : 22.11.0.19-1
+Version         : 22.12.0.12-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.52-1
+Version         : 7.1.0.54-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -347,7 +347,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.25.4-1
+Version         : 1.25.5-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -355,7 +355,7 @@ Version         : 1.48.6-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.4.3-1
+Version         : 7.4.3-3
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -367,7 +367,7 @@ Version         : 2.4.7-5
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.0.10.arch2-1
+Version         : 6.0.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -375,11 +375,11 @@ Version         : 20221109.60310c2-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.0.10.arch2-1
+Version         : 6.0.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.80-1
+Version         : 5.15.82-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -415,7 +415,7 @@ Version         : 4.3-5
 Description     : GNU make utility to maintain groups of programs
 
 Name            : mopidy
-Version         : 3.4.0-1
+Version         : 3.4.1-1
 Description     : An extensible music server written in Python
 
 Name            : mosh
@@ -427,7 +427,7 @@ Version         : 0.34-2
 Description     : Minimalist command line interface to MPD
 
 Name            : mplayer
-Version         : 38359-1
+Version         : 38407-1
 Description     : Media player for Linux
 
 Name            : mpv
@@ -571,7 +571,7 @@ Version         : 0.13.3-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : pyenv
-Version         : 2.3.7-1
+Version         : 2.3.8-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -591,7 +591,7 @@ Version         : 2022.11.30-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
-Version         : 0.5.4-3
+Version         : 0.5.5-1
 Description     : Python Zabbix API
 
 Name            : python37
@@ -615,7 +615,7 @@ Version         : 1.12-6
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : remmina
-Version         : 1:1.4.27-4
+Version         : 1:1.4.28-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -667,7 +667,7 @@ Version         : 0.1.r59.g06beb74-2
 Description     : SDDM theme with Apple TV Aerial videos
 
 Name            : signal-desktop
-Version         : 6.0.0-1
+Version         : 6.0.1-1
 Description     : Signal Private Messenger for Linux
 
 Name            : siji-git
@@ -683,7 +683,7 @@ Version         : 4.29.149-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 2.2.2-1
+Version         : 2.2.3-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -691,7 +691,7 @@ Version         : 1.1.7-2
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 22.08.3-1
+Version         : 22.12.0-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -727,11 +727,11 @@ Version         : 1.5.00.23861-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : telegram-desktop
-Version         : 4.3.4-1
+Version         : 4.4.1-3
 Description     : Official Telegram Desktop client
 
 Name            : texinfo
-Version         : 7.0-1
+Version         : 7.0.1-1
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : thunar
@@ -787,7 +787,7 @@ Version         : 1.5.1-1
 Description     : base64-like encoder/decoder for URL percent-encoding
 
 Name            : usbutils
-Version         : 015-1
+Version         : 015-2
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : v4l2loopback-dkms
@@ -823,7 +823,7 @@ Version         : 7.0.4-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.4-3
+Version         : 7.0.4-5
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -855,7 +855,7 @@ Version         : 3.20211022.1-1
 Description     : Command-line X11 automation tool
 
 Name            : xf86-video-vesa
-Version         : 2.5.0-3
+Version         : 2.6.0-1
 Description     : X.org vesa video driver
 
 Name            : xmlstarlet
@@ -867,7 +867,7 @@ Version         : 1.1.1-1
 Description     : Convert X font from Bitmap Distribution Format to Portable Compiled Format
 
 Name            : xorg-docs
-Version         : 1.7.2-1
+Version         : 1.7.2-2
 Description     : X.org documentations
 
 Name            : xorg-font-util
@@ -943,7 +943,7 @@ Version         : 1.0.6-1
 Description     : Device Color Characterization utility for X Color Management System
 
 Name            : xorg-xcursorgen
-Version         : 1.0.7-3
+Version         : 1.0.8-1
 Description     : Create an X cursor file from PNG images
 
 Name            : xorg-xdpyinfo
@@ -959,15 +959,15 @@ Version         : 1.2.5-1
 Description     : Print contents of X events
 
 Name            : xorg-xgamma
-Version         : 1.0.6-4
+Version         : 1.0.7-1
 Description     : Alter a monitor's gamma correction
 
 Name            : xorg-xhost
-Version         : 1.0.8-3
+Version         : 1.0.9-1
 Description     : Server access control program for X
 
 Name            : xorg-xinit
-Version         : 1.4.1-3
+Version         : 1.4.2-1
 Description     : X.Org initialisation program
 
 Name            : xorg-xinput
@@ -975,7 +975,7 @@ Version         : 1.6.3-3
 Description     : Small commandline tool to configure devices
 
 Name            : xorg-xkbcomp
-Version         : 1.4.5-1
+Version         : 1.4.6-1
 Description     : X Keyboard description compiler
 
 Name            : xorg-xkbevd
@@ -1011,11 +1011,11 @@ Version         : 1.1.0-1
 Description     : Print an X window dump from xwd
 
 Name            : xorg-xprop
-Version         : 1.2.5-1
+Version         : 1.2.6-1
 Description     : Property displayer for X
 
 Name            : xorg-xrandr
-Version         : 1.5.1-2
+Version         : 1.5.2-1
 Description     : Primitive command line interface to RandR extension
 
 Name            : xorg-xrdb
@@ -1027,7 +1027,7 @@ Version         : 1.0.7-1
 Description     : Refresh all or part of an X screen
 
 Name            : xorg-xset
-Version         : 1.2.4-3
+Version         : 1.2.5-1
 Description     : User preference utility for X
 
 Name            : xorg-xsetroot
@@ -1035,7 +1035,7 @@ Version         : 1.1.3-1
 Description     : Classic X utility to set your root window background to a given pattern or color
 
 Name            : xorg-xvinfo
-Version         : 1.1.4-3
+Version         : 1.1.5-1
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
