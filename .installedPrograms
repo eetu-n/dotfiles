@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 108.0.5359.98-2
+Version         : 108.0.5359.124-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -283,7 +283,7 @@ Version         : 2:1.19.4-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
-Version         : 1.6.0-1
+Version         : 1.6.1-1
 Description     : Ping, but with a graph
 
 Name            : groff
@@ -379,7 +379,7 @@ Version         : 6.0.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.82-1
+Version         : 5.15.83-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -739,7 +739,7 @@ Version         : 4.16.11-2
 Description     : Modern file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.5.1-1
+Version         : 102.6.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -807,7 +807,7 @@ Version         : 1.12.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.0910-1
+Version         : 9.0.1046-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -895,27 +895,27 @@ Version         : 1.2.2-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.4-1
+Version         : 21.1.5-1
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 21.1.4-1
+Version         : 21.1.5-1
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 21.1.4-1
+Version         : 21.1.5-1
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 21.1.4-1
+Version         : 21.1.5-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 21.1.4-1
+Version         : 21.1.5-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 21.1.4-1
+Version         : 21.1.5-1
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
@@ -1039,7 +1039,7 @@ Version         : 1.1.5-1
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
-Version         : 22.1.5-1
+Version         : 22.1.6-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
@@ -1083,6 +1083,6 @@ Version         : 5.12.9-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
-Version         : 5.9-1
+Version         : 5.9-2
 Description     : A very advanced and programmable command interpreter (shell) for UNIX
 
