@@ -87,7 +87,7 @@ Version         : 0.22.1-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.9-1
+Version         : 9.18.10-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -275,7 +275,7 @@ Version         : 20120503-8
 Description     : A free family of scalable outline fonts
 
 Name            : gnu-netcat
-Version         : 0.7.1-8
+Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
@@ -595,11 +595,11 @@ Version         : 0.5.5-1
 Description     : Python Zabbix API
 
 Name            : python37
-Version         : 3.7.15-2
+Version         : 3.7.16-1
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
-Version         : 3.9.15-2
+Version         : 3.9.16-2
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : ranger
@@ -707,7 +707,7 @@ Version         : 1.09-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 6.1-1
+Version         : 6.1-2
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
