@@ -831,7 +831,7 @@ Version         : 2.21-5
 Description     : A utility to show the full path of commands
 
 Name            : wpa_supplicant
-Version         : 2:2.10-7
+Version         : 2:2.10-8
 Description     : A utility providing key negotiation for WPA wireless networks
 
 Name            : x11-ssh-askpass
