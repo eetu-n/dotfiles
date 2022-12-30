@@ -50,12 +50,6 @@ colors:
     cyan:    '#78DCE8'
     white:   '#FCFCFA'
 
-# Background opacity
-#
-# Window opacity as a floating point number from `0.0` to `1.0`.
-# The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 1.0
-
 live_config_reload: true
 
 selection:
@@ -63,6 +57,7 @@ selection:
 
 window:
   dynamic_title: true
+  opacity: 1.0
 
 mouse:
   # Click settings
