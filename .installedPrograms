@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 108.0.5359.124-1
+Version         : 109.0.5414.74-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -151,7 +151,7 @@ Version         : 5.60.10-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.74.2-1
+Version         : 1.74.3-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -531,19 +531,19 @@ Version         : 2.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.63-4
+Version         : 1:0.3.63-6
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.63-4
+Version         : 1:0.3.63-6
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.63-4
+Version         : 1:0.3.63-6
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.63-4
+Version         : 1:0.3.63-6
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -575,7 +575,7 @@ Version         : 0.13.3-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : pyenv
-Version         : 2.3.9-1
+Version         : 2.3.10-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -651,7 +651,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.66.0-1
+Version         : 1:1.66.1-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -659,7 +659,7 @@ Version         : 9.31-1
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : scrot
-Version         : 1.7-1
+Version         : 1.8-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
@@ -731,7 +731,7 @@ Version         : 7.0.1-1
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : thunar
-Version         : 4.18.1-1
+Version         : 4.18.2-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
@@ -1075,7 +1075,7 @@ Version         : 5.1.0-3
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.13.3-1
+Version         : 5.13.4-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
