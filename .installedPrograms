@@ -63,7 +63,7 @@ Version         : 1.16.5-1
 Description     : A GNU tool for automatically creating Makefiles
 
 Name            : autorandr
-Version         : 1.12.1-2
+Version         : 1.13.1-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
@@ -91,7 +91,7 @@ Version         : 9.18.10-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.39-4
+Version         : 2.40-1
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -166,10 +166,6 @@ Name            : debtap
 Version         : 3.5.1-1
 Description     : A script to convert .deb packages to Arch Linux packages, focused on accuracy. Do not use it to convert packages that already exist on official repositories or can be built from AUR!
 
-Name            : discord
-Version         : 0.0.22-1
-Description     : All-in-one voice and text chat for gamers
-
 Name            : docker
 Version         : 1:20.10.22-1
 Description     : Pack, ship and run any application as a lightweight container
@@ -223,7 +219,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 108.0.2-1
+Version         : 109.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -239,7 +235,7 @@ Version         : 2:2.9.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.8.9-1
+Version         : 1.8.9-2
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -247,7 +243,7 @@ Version         : 0.35.1-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
-Version         : 12.2.0-1
+Version         : 12.2.1-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gconf
@@ -255,7 +251,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.39.0-1
+Version         : 2.39.1-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -279,11 +275,11 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.19.4-1
+Version         : 2:1.19.5-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
-Version         : 1.6.3-1
+Version         : 1.7.0-1
 Description     : Ping, but with a graph
 
 Name            : groff
@@ -331,7 +327,7 @@ Version         : 1.8.19-2
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jdk-openjdk
-Version         : 19.0.1.u10-3
+Version         : 19.0.2.u7-2
 Description     : OpenJDK Java 19 development kit
 
 Name            : jfrog-cli
@@ -351,11 +347,11 @@ Version         : 1.25.5-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.48.6-1
+Version         : 1.48.6-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.4.3-4
+Version         : 7.4.4-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -363,11 +359,11 @@ Version         : 12.1.51-8
 Description     : C API package allowing third-party developers to write applications that utilize the Spotify music streaming service
 
 Name            : libtool
-Version         : 2.4.7-5
+Version         : 2.4.7+4+g1ec8fa28-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.1.4.arch1-1
+Version         : 6.1.6.arch1-3
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -375,11 +371,11 @@ Version         : 20221214.f3c283e-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.1.4.arch1-1
+Version         : 6.1.6.arch1-3
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.86-1
+Version         : 5.15.89-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -431,7 +427,7 @@ Version         : 38407-1
 Description     : Media player for Linux
 
 Name            : mpv
-Version         : 1:0.35.0-4
+Version         : 1:0.35.0-5
 Description     : a free, open source, and cross-platform media player
 
 Name            : mtpfs
@@ -531,19 +527,19 @@ Version         : 2.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.63-6
+Version         : 1:0.3.64-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.63-6
+Version         : 1:0.3.64-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.63-6
+Version         : 1:0.3.64-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.63-6
+Version         : 1:0.3.64-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -559,7 +555,7 @@ Version         : 3.6.3-2
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
-Version         : 14.6-1
+Version         : 14.6-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
@@ -575,7 +571,7 @@ Version         : 0.13.3-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : pyenv
-Version         : 2.3.10-1
+Version         : 2.3.11-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -651,7 +647,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.66.1-1
+Version         : 1:1.66.1-2
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -747,7 +743,7 @@ Version         : 3.3_a-2
 Description     : A terminal multiplexer
 
 Name            : traceroute
-Version         : 2.1.0-5
+Version         : 2.1.1-1
 Description     : Tracks the route taken by packets over an IP network
 
 Name            : ttf-dejavu
@@ -803,7 +799,7 @@ Version         : 1.12.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.1046-1
+Version         : 9.0.1182-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -815,11 +811,11 @@ Version         : 4.1.0-1
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 7.0.4-3
+Version         : 7.0.6-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.4-10
+Version         : 7.0.6-1
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
