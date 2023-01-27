@@ -63,7 +63,7 @@ Version         : 1.16.5-1
 Description     : A GNU tool for automatically creating Makefiles
 
 Name            : autorandr
-Version         : 1.13.1-1
+Version         : 1.13.3-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
@@ -91,7 +91,7 @@ Version         : 9.18.10-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.40-1
+Version         : 2.40-2
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -115,7 +115,7 @@ Version         : 5.66-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
-Version         : 0.7.1-1
+Version         : 0.8.0-1
 Description     : A graphical process/system monitor
 
 Name            : breeze-dark-flat
@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 109.0.5414.74-1
+Version         : 109.0.5414.119-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -135,7 +135,7 @@ Version         : 4.3-1
 Description     : Lightweight NTP client and server
 
 Name            : clamav
-Version         : 0.105.1-2
+Version         : 1.0.0-1
 Description     : Anti-virus toolkit for Unix
 
 Name            : clamtk
@@ -167,15 +167,15 @@ Version         : 3.5.1-1
 Description     : A script to convert .deb packages to Arch Linux packages, focused on accuracy. Do not use it to convert packages that already exist on official repositories or can be built from AUR!
 
 Name            : docker
-Version         : 1:20.10.22-1
+Version         : 1:20.10.23-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-compose
-Version         : 2.14.2-1
+Version         : 2.15.1-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
-Version         : 4.2-2
+Version         : 4.2-3
 Description     : DOS filesystem utilities
 
 Name            : downgrade
@@ -223,7 +223,7 @@ Version         : 109.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
-Version         : 2.6.4-3
+Version         : 2.6.4-4
 Description     : A tool for generating text-scanning programs
 
 Name            : forticlient-vpn
@@ -235,11 +235,11 @@ Version         : 2:2.9.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.8.9-2
+Version         : 1.8.10-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.35.1-1
+Version         : 0.37.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -299,7 +299,7 @@ Version         : 2.9.500-1
 Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
 
 Name            : helm
-Version         : 3.10.3-1
+Version         : 3.11.0-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -311,7 +311,7 @@ Version         : 22.12.0.12-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.0.57-2
+Version         : 7.1.0.58-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -331,7 +331,7 @@ Version         : 19.0.2.u7-2
 Description     : OpenJDK Java 19 development kit
 
 Name            : jfrog-cli
-Version         : 2.32.0-1
+Version         : 2.34.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -343,7 +343,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.25.5-1
+Version         : 1.26.1-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -351,7 +351,7 @@ Version         : 1.48.6-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.4.4-1
+Version         : 7.4.5-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -363,19 +363,19 @@ Version         : 2.4.7+4+g1ec8fa28-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.1.6.arch1-3
+Version         : 6.1.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20221214.f3c283e-1
+Version         : 20230117.7e4f0ed-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.1.6.arch1-3
+Version         : 6.1.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.89-1
+Version         : 5.15.90-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -387,7 +387,7 @@ Version         : 3.21.0-2
 Description     : Rotates system logs automatically
 
 Name            : lsof
-Version         : 4.96.5-1
+Version         : 4.98.0-1
 Description     : Lists open files for running Unix processes
 
 Name            : lxappearance
@@ -399,7 +399,7 @@ Version         : 3.0.8-1
 Description     : Security and system auditing tool to harden Unix/Linux systems
 
 Name            : m4
-Version         : 1.4.19-1
+Version         : 1.4.19-2
 Description     : The GNU macro processor
 
 Name            : mailutils
@@ -435,7 +435,7 @@ Version         : 1.1-4
 Description     : A FUSE filesystem that supports reading and writing from any MTP device
 
 Name            : ncmpcpp
-Version         : 0.9.2-9
+Version         : 0.9.2-10
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : neovim
@@ -459,7 +459,7 @@ Version         : 1.22.1-2
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nomacs
-Version         : 1:3.17.2206-11
+Version         : 1:3.17.2206-12
 Description     : A Qt image viewer
 
 Name            : noto-fonts
@@ -495,7 +495,7 @@ Version         : 9.1p1-3
 Description     : SSH protocol implementation for remote login, command execution and file transfer
 
 Name            : p7zip
-Version         : 1:17.04-3
+Version         : 1:17.04-4
 Description     : Command-line file archiver with high compression ratio
 
 Name            : paper-icon-theme
@@ -551,7 +551,7 @@ Version         : 2.4.1-3
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
 
 Name            : polybar
-Version         : 3.6.3-2
+Version         : 3.6.3-3
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
@@ -559,7 +559,7 @@ Version         : 14.6-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.3.1-1
+Version         : 7.3.2-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
@@ -651,7 +651,7 @@ Version         : 9.31-1
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : scrot
-Version         : 1.8-1
+Version         : 1.8.1-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
@@ -691,7 +691,7 @@ Version         : 2.1.3-3
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.1.84.716-4
+Version         : 1:1.1.84.716-8
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -703,7 +703,7 @@ Version         : 6.1-2
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.12.p1-1
+Version         : 1.9.12.p2-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -719,15 +719,15 @@ Version         : 1.5.00.23861-1
 Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
 
 Name            : texinfo
-Version         : 7.0.1-1
+Version         : 7.0.2-1
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : thunar
-Version         : 4.18.2-1
+Version         : 4.18.3-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.6.1-1
+Version         : 102.7.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -811,7 +811,7 @@ Version         : 7.0.6-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.6-1
+Version         : 7.0.6-3
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1067,7 +1067,7 @@ Version         : 5.1.0-3
 Description     : Yubico Authenticator for Desktop
 
 Name            : zoom
-Version         : 5.13.4-1
+Version         : 5.13.5-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
