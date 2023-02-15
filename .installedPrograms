@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 110.0.5481.77-2
+Version         : 110.0.5481.100-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -155,7 +155,7 @@ Version         : 1.75.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
-Version         : 1.73.0-1
+Version         : 1.75.1-1
 Description     : Enable vscode marketplace in Code OSS
 
 Name            : cups-pdf
@@ -227,7 +227,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 109.0.1-1
+Version         : 110.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -259,7 +259,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.39.1-1
+Version         : 2.39.2-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -599,7 +599,7 @@ Version         : 0.8.0-5
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-pip
-Version         : 22.3.1-1
+Version         : 23.0-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
