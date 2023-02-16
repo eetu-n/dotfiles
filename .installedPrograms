@@ -331,7 +331,7 @@ Version         : 2.3-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
-Version         : 20221108-1
+Version         : 20230214-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : ipmitool
@@ -375,7 +375,7 @@ Version         : 2.4.7+4+g1ec8fa28-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.1.11.arch1-1
+Version         : 6.1.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -383,11 +383,11 @@ Version         : 20230117.7e4f0ed-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.1.11.arch1-1
+Version         : 6.1.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.93-1
+Version         : 5.15.94-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -587,7 +587,7 @@ Version         : 0.13.4-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : pyenv
-Version         : 2.3.12-1
+Version         : 2.3.13-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -827,7 +827,7 @@ Version         : 7.0.6-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.6-7
+Version         : 7.0.6-8
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
