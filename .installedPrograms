@@ -127,7 +127,7 @@ Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 110.0.5481.100-1
+Version         : 110.0.5481.177-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -175,7 +175,7 @@ Version         : 1:23.0.1-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.10.0-1
+Version         : 0.10.3-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
@@ -239,7 +239,7 @@ Version         : 7.0.0.0018-2
 Description     : Build through the official package of FortiClient VPN
 
 Name            : freerdp
-Version         : 2:2.9.0-1
+Version         : 2:2.10.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -283,7 +283,7 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.20-1
+Version         : 2:1.20.1-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
@@ -307,7 +307,7 @@ Version         : 2.9.500-1
 Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
 
 Name            : helm
-Version         : 3.11.0-1
+Version         : 3.11.1-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -343,7 +343,7 @@ Version         : 19.0.2.u7-2
 Description     : OpenJDK Java 19 development kit
 
 Name            : jfrog-cli
-Version         : 2.34.1-1
+Version         : 2.34.3-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -379,7 +379,7 @@ Version         : 6.1.12.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20230117.7e4f0ed-1
+Version         : 20230210.bf4115c-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
@@ -387,7 +387,7 @@ Version         : 6.1.12.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 5.15.94-1
+Version         : 6.1.13-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -439,7 +439,7 @@ Version         : 38407-1
 Description     : Media player for Linux
 
 Name            : mpv
-Version         : 1:0.35.1-1
+Version         : 1:0.35.1-2
 Description     : a free, open source, and cross-platform media player
 
 Name            : mtpfs
@@ -503,7 +503,7 @@ Version         : 1.19.0-2
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
-Version         : 2.6.3-2
+Version         : 2.6.4-1
 Description     : Lightweight Directory Access Protocol (LDAP) client and server
 
 Name            : openssh
@@ -511,7 +511,7 @@ Version         : 9.2p1-1
 Description     : SSH protocol implementation for remote login, command execution and file transfer
 
 Name            : p7zip
-Version         : 1:17.04-4
+Version         : 1:17.05-1
 Description     : Command-line file archiver with high compression ratio
 
 Name            : paper-icon-theme
@@ -543,19 +543,19 @@ Version         : 2.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.65-6
+Version         : 1:0.3.66-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.65-6
+Version         : 1:0.3.66-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.65-6
+Version         : 1:0.3.66-2
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.65-6
+Version         : 1:0.3.66-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -599,11 +599,11 @@ Version         : 0.8.0-5
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-pip
-Version         : 23.0-1
+Version         : 23.0.1-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.2.4-1
+Version         : 2023.2.18-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -625,6 +625,10 @@ Description     : Simple, vim-like file manager
 Name            : redshift
 Version         : 1.12-6
 Description     : Adjusts the color temperature of your screen according to your surroundings.
+
+Name            : reflector
+Version         : 2021.11-5
+Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : remmina
 Version         : 1:1.4.29-1
@@ -719,7 +723,7 @@ Version         : 6.1-2
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.12.p2-2
+Version         : 1.9.13-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -730,20 +734,16 @@ Name            : tealdeer
 Version         : 1.6.1-1
 Description     : A fast tldr client in Rust
 
-Name            : teams
-Version         : 1.5.00.23861-1
-Description     : Microsoft Teams for Linux is your chat-centered workspace in Office 365
-
 Name            : texinfo
 Version         : 7.0.2-2
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : thunar
-Version         : 4.18.3-1
+Version         : 4.18.4-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.7.2-1
+Version         : 102.8.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -763,7 +763,7 @@ Version         : 2.37+18+g9b5d1b2f-3
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 6.2.1-1
+Version         : 6.3.0-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-liberation
@@ -807,11 +807,11 @@ Version         : 2.3.4-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.12.3-1
+Version         : 1.12.3-2
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.1302-1
+Version         : 9.0.1337-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -875,7 +875,7 @@ Version         : 1.7.2-2
 Description     : X.org documentations
 
 Name            : xorg-font-util
-Version         : 1.3.3-1
+Version         : 1.4.0-1
 Description     : X.Org font utilities
 
 Name            : xorg-fonts-100dpi
@@ -1075,7 +1075,7 @@ Version         : 11.3.2-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
-Version         : 3.1.0-1
+Version         : 3.1.1-1
 Description     : Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 
 Name            : yubioath-desktop
