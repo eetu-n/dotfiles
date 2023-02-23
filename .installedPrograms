@@ -1,5 +1,5 @@
 Name            : 1password-cli
-Version         : 2.13.1-1
+Version         : 2.14.0-1
 Description     : 1Password command line tool
 
 Name            : acpi
@@ -1075,7 +1075,7 @@ Version         : 2.1.5-1
 Description     : Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
 
 Name            : ttf-monaco
-Version         : 6.1-6
+Version         : 6.1-7
 Description     : The Monaco monospaced sans-serif typeface with special characters added
 
 Name            : ttf-ms-fonts
