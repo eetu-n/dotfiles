@@ -87,7 +87,7 @@ Version         : 0.22.1-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.11-1
+Version         : 9.18.12-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -135,7 +135,7 @@ Version         : 4.3-1
 Description     : Lightweight NTP client and server
 
 Name            : clamav
-Version         : 1.0.0-1
+Version         : 1.0.1-1
 Description     : Anti-virus toolkit for Unix
 
 Name            : clamtk
@@ -203,7 +203,7 @@ Version         : 0.8.4-1
 Description     : A more intuitive version of du in rust
 
 Name            : easyeffects
-Version         : 7.0.0-2
+Version         : 7.0.1-1
 Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
@@ -219,7 +219,7 @@ Version         : 1.31-2
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
-Version         : 8.6.0-1
+Version         : 8.7.0-1
 Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
@@ -243,11 +243,11 @@ Version         : 2:2.10.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.8.10-1
+Version         : 1.8.12-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.37.0-1
+Version         : 0.38.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -343,7 +343,7 @@ Version         : 19.0.2.u7-2
 Description     : OpenJDK Java 19 development kit
 
 Name            : jfrog-cli
-Version         : 2.34.3-1
+Version         : 2.34.5-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -375,7 +375,7 @@ Version         : 2.4.7+4+g1ec8fa28-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.1.12.arch1-1
+Version         : 6.2.1.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -383,11 +383,11 @@ Version         : 20230210.bf4115c-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.1.12.arch1-1
+Version         : 6.2.1.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.13-1
+Version         : 6.1.14-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -419,7 +419,7 @@ Version         : 3.15-3
 Description     : MUA command line tool (mailx)
 
 Name            : make
-Version         : 4.4-1
+Version         : 4.4.1-1
 Description     : GNU make utility to maintain groups of programs
 
 Name            : mopidy
@@ -499,7 +499,7 @@ Version         : 1:9.01-2
 Description     : Open client for Cisco AnyConnect VPN
 
 Name            : openfortivpn
-Version         : 1.19.0-2
+Version         : 1.20.1-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
@@ -571,11 +571,11 @@ Version         : 3.6.3-3
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
-Version         : 15.1-3
+Version         : 15.2-1
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.3.2-1
+Version         : 7.3.3-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
@@ -707,7 +707,7 @@ Version         : 22.12.2-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
-Version         : 2.1.3-4
+Version         : 2.1.3-5
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
@@ -723,7 +723,7 @@ Version         : 6.1-2
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.13-1
+Version         : 1.9.13.p1-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -827,7 +827,7 @@ Version         : 7.0.6-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.6-8
+Version         : 7.0.6-10
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -879,7 +879,7 @@ Version         : 1.4.0-1
 Description     : X.Org font utilities
 
 Name            : xorg-fonts-100dpi
-Version         : 1.0.3-8
+Version         : 1.0.4-1
 Description     : X.org 100dpi fonts
 
 Name            : xorg-fonts-75dpi
