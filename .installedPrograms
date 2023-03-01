@@ -355,7 +355,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.26.1-1
+Version         : 1.26.2-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
