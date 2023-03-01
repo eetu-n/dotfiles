@@ -227,7 +227,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 110.0-1
+Version         : 110.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -719,11 +719,11 @@ Version         : 1.10-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 6.1-2
+Version         : 6.2-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.13.p1-1
+Version         : 1.9.13.p2-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -743,7 +743,7 @@ Version         : 4.18.4-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.8.0-1
+Version         : 102.8.0-2
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -823,7 +823,7 @@ Version         : 4.1.0-1
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 7.0.6-1
+Version         : 7.0.6-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
@@ -1087,7 +1087,7 @@ Version         : 3.0-10
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.13.7-1
+Version         : 5.13.10-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
