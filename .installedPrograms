@@ -126,6 +126,10 @@ Name            : bspwm
 Version         : 0.9.10-2
 Description     : Tiling window manager based on binary space partitioning
 
+Name            : cef-standard
+Version         : 99.2.14-1
+Description     : Chromium Embedded Framework standard release
+
 Name            : chromium
 Version         : 110.0.5481.177-1
 Description     : A web browser built for speed, simplicity, and security
@@ -479,7 +483,7 @@ Version         : 1:3.17.2206-12
 Description     : A Qt image viewer
 
 Name            : noto-fonts
-Version         : 20230201-1
+Version         : 20230301-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-emoji
@@ -586,8 +590,12 @@ Name            : procs
 Version         : 0.13.4-1
 Description     : A modern replacement for ps written in Rust
 
+Name            : pulse-secure
+Version         : 22.3r1.0_b18209-1
+Description     : Ivanti Secure Access Client
+
 Name            : pyenv
-Version         : 2.3.13-1
+Version         : 2.3.14-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -703,7 +711,7 @@ Version         : 1.1.8-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 22.12.2-1
+Version         : 22.12.3-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -807,7 +815,7 @@ Version         : 2.3.4-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.12.3-2
+Version         : 1.13.0-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -879,15 +887,15 @@ Version         : 1.4.0-1
 Description     : X.Org font utilities
 
 Name            : xorg-fonts-100dpi
-Version         : 1.0.4-1
+Version         : 1.0.4-2
 Description     : X.org 100dpi fonts
 
 Name            : xorg-fonts-75dpi
-Version         : 1.0.3-8
+Version         : 1.0.4-1
 Description     : X.org 75dpi fonts
 
 Name            : xorg-fonts-encodings
-Version         : 1.0.6-1
+Version         : 1.0.7-1
 Description     : X.org font encoding files
 
 Name            : xorg-iceauth
@@ -927,7 +935,7 @@ Version         : 1.1.3-1
 Description     : Register X sessions in system utmp/utmpx databases
 
 Name            : xorg-setxkbmap
-Version         : 1.3.3-1
+Version         : 1.3.3-2
 Description     : Set the keyboard using the X Keyboard Extension
 
 Name            : xorg-smproxy
