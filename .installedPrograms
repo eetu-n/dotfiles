@@ -87,7 +87,7 @@ Version         : 0.22.1-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.12-1
+Version         : 9.18.12-2
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -131,7 +131,7 @@ Version         : 99.2.14-1
 Description     : Chromium Embedded Framework standard release
 
 Name            : chromium
-Version         : 110.0.5481.177-1
+Version         : 111.0.5563.64-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -155,7 +155,7 @@ Version         : 5.60.10-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.75.1-1
+Version         : 1.76.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -205,10 +205,6 @@ Description     : Customizable and lightweight notification-daemon
 Name            : dust
 Version         : 0.8.4-1
 Description     : A more intuitive version of du in rust
-
-Name            : easyeffects
-Version         : 7.0.1-1
-Description     : Audio Effects for Pipewire applications
 
 Name            : efibootmgr
 Version         : 18-1
@@ -331,7 +327,7 @@ Version         : 7.1.0.62-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
-Version         : 2.3-1
+Version         : 2.4-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
@@ -379,7 +375,7 @@ Version         : 2.4.7+4+g1ec8fa28-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.2.1.arch1-1
+Version         : 6.2.2.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -387,11 +383,11 @@ Version         : 20230210.bf4115c-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.2.1.arch1-1
+Version         : 6.2.2.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.14-1
+Version         : 6.1.15-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -587,7 +583,7 @@ Version         : 2.15-1
 Description     : A tool to diagnose issues with power consumption and power management
 
 Name            : procs
-Version         : 0.13.4-1
+Version         : 0.14.0-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : pulse-secure
@@ -763,7 +759,7 @@ Version         : 3.3_a-3
 Description     : Terminal multiplexer
 
 Name            : traceroute
-Version         : 2.1.1-1
+Version         : 2.1.2-1
 Description     : Tracks the route taken by packets over an IP network
 
 Name            : ttf-dejavu
@@ -835,7 +831,7 @@ Version         : 7.0.6-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.6-10
+Version         : 7.0.6-11
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1095,7 +1091,7 @@ Version         : 3.0-10
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.13.10-1
+Version         : 5.13.11-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
