@@ -67,7 +67,7 @@ Version         : 1.13.3-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli
-Version         : 1.25.97-2
+Version         : 1.27.89-1
 Description     : Universal Command Line Interface for Amazon Web Services
 
 Name            : aws-iam-authenticator-bin
@@ -123,7 +123,7 @@ Version         : 1.2-1
 Description     : Breeze Dark, but opaque and not shadowed
 
 Name            : bspwm
-Version         : 0.9.10-2
+Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : cef-standard
@@ -155,7 +155,7 @@ Version         : 5.60.10-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.76.1-1
+Version         : 1.76.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -199,11 +199,11 @@ Version         : 0.8.1-2
 Description     : Disk Usage/Free Utility
 
 Name            : dunst
-Version         : 1.9.0-1
+Version         : 1.9.1-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : dust
-Version         : 0.8.4-1
+Version         : 0.8.5-1
 Description     : A more intuitive version of du in rust
 
 Name            : efibootmgr
@@ -227,7 +227,7 @@ Version         : 3.9.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 110.0.1-3
+Version         : 111.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -235,7 +235,7 @@ Version         : 2.6.4-4
 Description     : A tool for generating text-scanning programs
 
 Name            : forticlient-vpn
-Version         : 7.0.7.0246-1
+Version         : 7.0.7.0246-2
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
@@ -259,7 +259,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.39.2-1
+Version         : 2.40.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -283,7 +283,7 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.20.1-1
+Version         : 2:1.20.2-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
@@ -291,7 +291,7 @@ Version         : 1.8.0-1
 Description     : Ping, but with a graph
 
 Name            : groff
-Version         : 1.22.4-7
+Version         : 1.22.4-10
 Description     : GNU troff text-formatting system
 
 Name            : groovy
@@ -302,10 +302,6 @@ Name            : gtop
 Version         : 1.1.3-1
 Description     : System monitoring dashboard for terminal
 
-Name            : hdx-realtime-media-engine
-Version         : 2.9.500-1
-Description     : Plug-In for Citrix Receiver to support clear, crisp high-definition audio-video calls, particularly with Microsoft Skype® for Business.
-
 Name            : helm
 Version         : 3.11.1-1
 Description     : The Kubernetes Package Manager
@@ -315,7 +311,7 @@ Version         : 3.2.2-1
 Description     : Interactive process viewer
 
 Name            : hyperfine
-Version         : 1.15.0-1
+Version         : 1.16.0-1
 Description     : A command-line benchmarking tool
 
 Name            : icaclient
@@ -323,7 +319,7 @@ Version         : 23.2.0.10-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.2-1
+Version         : 7.1.1.3-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -343,7 +339,7 @@ Version         : 19.0.2.u7-2
 Description     : OpenJDK Java 19 development kit
 
 Name            : jfrog-cli
-Version         : 2.34.6-1
+Version         : 2.35.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -375,7 +371,7 @@ Version         : 2.4.7+4+g1ec8fa28-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.2.2.arch2-1
+Version         : 6.2.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -383,11 +379,11 @@ Version         : 20230210.bf4115c-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.2.2.arch2-1
+Version         : 6.2.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.15-1
+Version         : 6.1.19-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -539,23 +535,23 @@ Version         : 10.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pinta
-Version         : 2.1-1
+Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.66-2
+Version         : 1:0.3.67-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.66-2
+Version         : 1:0.3.67-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.66-2
+Version         : 1:0.3.67-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.66-2
+Version         : 1:0.3.67-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -591,7 +587,7 @@ Version         : 22.3r1.0_b18209-1
 Description     : Ivanti Secure Access Client
 
 Name            : pyenv
-Version         : 2.3.14-1
+Version         : 2.3.15-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -667,7 +663,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.67.1-1
+Version         : 1:1.68.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -727,11 +723,11 @@ Version         : 6.2-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.13.p2-1
+Version         : 1.9.13.p3-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
-Version         : 0.6.2-2
+Version         : 0.6.2-3
 Description     : Simple X hotkey daemon
 
 Name            : tealdeer
@@ -747,11 +743,11 @@ Version         : 4.18.4-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.8.0-2
+Version         : 102.9.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
-Version         : 1.13.0-1
+Version         : 1.13.1-1
 Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
@@ -831,7 +827,7 @@ Version         : 7.0.6-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.6-12
+Version         : 7.0.6-16
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
