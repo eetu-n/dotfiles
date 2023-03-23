@@ -183,7 +183,7 @@ Version         : 0.10.4-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.16.0-1
+Version         : 2.17.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -383,7 +383,7 @@ Version         : 6.2.7.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.20-1
+Version         : 6.1.21-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -435,7 +435,7 @@ Version         : 38412-1
 Description     : Media player for Linux
 
 Name            : mpv
-Version         : 1:0.35.1-3
+Version         : 1:0.35.1-4
 Description     : a free, open source, and cross-platform media player
 
 Name            : mtpfs
