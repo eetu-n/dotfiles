@@ -27,7 +27,7 @@ Version         : 1.2.8-1
 Description     : Advanced Linux Sound Architecture - Utilities
 
 Name            : amazon-workspaces-bin
-Version         : 4.5.0.2006-1
+Version         : 4.5.0.2006-3
 Description     : Amazon Workspace Client
 
 Name            : amtterm
@@ -583,7 +583,7 @@ Version         : 9.1.R14-1
 Description     : Pulse Secure VPN client.
 
 Name            : pyenv
-Version         : 2.3.16-1
+Version         : 2.3.17-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -803,7 +803,7 @@ Version         : 2.3.4-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.13.0-1
+Version         : 1.13.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
