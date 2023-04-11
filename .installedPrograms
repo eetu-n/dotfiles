@@ -219,7 +219,7 @@ Version         : 8.7.0-1
 Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
-Version         : 3.9.1-2
+Version         : 3.10-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
@@ -315,7 +315,7 @@ Version         : 23.3.0.32-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.5-1
+Version         : 7.1.1.6-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -367,7 +367,7 @@ Version         : 2.4.7+4+g1ec8fa28-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.2.9.arch1-1
+Version         : 6.2.10.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -375,11 +375,11 @@ Version         : 20230210.bf4115c-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.2.9.arch1-1
+Version         : 6.2.10.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.22-1
+Version         : 6.1.23-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -823,7 +823,7 @@ Version         : 7.0.6-3
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.6-19
+Version         : 7.0.6-20
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1047,7 +1047,7 @@ Version         : 1.0.8-1
 Description     : X Window System image dumping utility
 
 Name            : xorg-xwininfo
-Version         : 1.1.5-3
+Version         : 1.1.6-1
 Description     : Command-line utility to print information about windows on an X server
 
 Name            : xorg-xwud
