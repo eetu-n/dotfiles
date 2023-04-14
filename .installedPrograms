@@ -223,7 +223,7 @@ Version         : 3.10-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 111.0.1-1
+Version         : 112.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -522,10 +522,6 @@ Name            : pcsc-tools
 Version         : 1.6.2-1
 Description     : PC/SC Architecture smartcard tools
 
-Name            : pgadmin4
-Version         : 4.30-4
-Description     : Comprehensive design and management interface for PostgreSQL
-
 Name            : picom
 Version         : 10.2-1
 Description     : X compositor that may fix tearing issues
@@ -535,19 +531,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.68-1
+Version         : 1:0.3.68-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.68-1
+Version         : 1:0.3.68-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.68-1
+Version         : 1:0.3.68-2
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.68-1
+Version         : 1:0.3.68-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -667,7 +663,7 @@ Version         : 9.31-1
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : scrot
-Version         : 1.8.1-1
+Version         : 1.9-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
@@ -687,7 +683,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.29.149-1
+Version         : 4.31.155-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -739,7 +735,7 @@ Version         : 4.18.4-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.9.1-1
+Version         : 102.10.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -1067,7 +1063,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 12.0.3-1
+Version         : 12.0.4-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
