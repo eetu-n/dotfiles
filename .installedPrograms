@@ -335,7 +335,7 @@ Version         : 20.0.1.u9-3
 Description     : OpenJDK Java 20 development kit
 
 Name            : jfrog-cli
-Version         : 2.37.0-1
+Version         : 2.37.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
