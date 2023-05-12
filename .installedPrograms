@@ -239,7 +239,7 @@ Version         : 2:2.10.0-3
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.8.14-1
+Version         : 1.8.15-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -691,7 +691,7 @@ Version         : 4.32.122-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 2.2.4-1
+Version         : 2.2.5-1
 Description     : Sound Open Firmware
 
 Name            : solaar
