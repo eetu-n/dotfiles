@@ -115,7 +115,7 @@ Version         : 5.66-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
-Version         : 0.9.1-1
+Version         : 0.9.1-2
 Description     : A graphical process/system monitor
 
 Name            : breeze-dark-flat
@@ -171,7 +171,7 @@ Version         : 2.1.3.1-3
 Description     : Diffing pdf files visually or textually
 
 Name            : docker
-Version         : 1:23.0.6-1
+Version         : 1:24.0.0-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
@@ -179,7 +179,7 @@ Version         : 0.10.4-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.18.0-1
+Version         : 2.18.1-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -299,7 +299,7 @@ Version         : 1.1.3-1
 Description     : System monitoring dashboard for terminal
 
 Name            : helm
-Version         : 3.11.3-1
+Version         : 3.12.0-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -335,11 +335,11 @@ Version         : 20.0.1.u9-3
 Description     : OpenJDK Java 20 development kit
 
 Name            : jfrog-cli
-Version         : 2.37.1-1
+Version         : 2.37.3-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
-Version         : 2.7.5-1
+Version         : 2.7.5-2
 Description     : Cross-platform community-driven port of Keepass password manager
 
 Name            : keychain
@@ -379,7 +379,7 @@ Version         : 6.3.2.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.28-1
+Version         : 6.1.29-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -563,7 +563,7 @@ Version         : 3.6.3-3
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
-Version         : 15.2-2
+Version         : 15.3-1
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
