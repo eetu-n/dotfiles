@@ -15,7 +15,7 @@ Version         : 1.11-3
 Description     : Apple TV4 HD aerial movies in 2k
 
 Name            : alacritty
-Version         : 0.12.0-1
+Version         : 0.12.1-1
 Description     : A cross-platform, GPU-accelerated terminal emulator
 
 Name            : alsa-firmware
@@ -87,11 +87,11 @@ Version         : 0.23.0-3
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.14-1
+Version         : 9.18.15-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.40-5
+Version         : 2.40-6
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -127,7 +127,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 113.0.5672.126-1
+Version         : 114.0.5735.45-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -175,7 +175,7 @@ Version         : 1:24.0.0-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.10.4-1
+Version         : 0.10.5-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
@@ -223,7 +223,7 @@ Version         : 3.10-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 113.0.1-1
+Version         : 113.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -243,7 +243,7 @@ Version         : 1.9.1-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.40.0-1
+Version         : 0.41.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -283,7 +283,7 @@ Version         : 2:1.20.4-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
-Version         : 1.8.0-1
+Version         : 1.12.0-1
 Description     : Ping, but with a graph
 
 Name            : groff
@@ -315,7 +315,7 @@ Version         : 23.3.0.32-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.9-1
+Version         : 7.1.1.10-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -323,7 +323,7 @@ Version         : 2.4-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
-Version         : 20230516-1
+Version         : 20230516.a-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : ipmitool
@@ -367,7 +367,7 @@ Version         : 2.4.7+4+g1ec8fa28-3
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.3.2.arch1-1
+Version         : 6.3.4.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -375,11 +375,11 @@ Version         : 20230404.2e92a49f-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.3.2.arch1-1
+Version         : 6.3.4.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.29-1
+Version         : 6.1.30-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -459,7 +459,7 @@ Version         : 1.32.0-2
 Description     : Applet for managing network connections
 
 Name            : networkmanager-openconnect
-Version         : 1.2.8-2
+Version         : 1.2.10-1
 Description     : NetworkManager VPN plugin for OpenConnect
 
 Name            : networkmanager-openvpn
@@ -467,7 +467,7 @@ Version         : 1.10.2-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nginx
-Version         : 1.22.1-2
+Version         : 1.24.0-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nomacs
@@ -491,7 +491,7 @@ Version         : 5.10.0-1
 Description     : Package manager for .NET.
 
 Name            : openconnect
-Version         : 1:9.10-1
+Version         : 1:9.12-1
 Description     : Open client for Cisco AnyConnect VPN
 
 Name            : openfortivpn
@@ -515,7 +515,7 @@ Version         : 1.5.0-3
 Description     : Paper is an open source desktop theme and icon project by Sam Hewitt
 
 Name            : patch
-Version         : 2.7.6-9
+Version         : 2.7.6-10
 Description     : A utility to apply patch files to original sources
 
 Name            : pavucontrol
@@ -535,19 +535,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.70-2
+Version         : 1:0.3.71-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.70-2
+Version         : 1:0.3.71-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.70-2
+Version         : 1:0.3.71-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.70-2
+Version         : 1:0.3.71-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -583,7 +583,7 @@ Version         : 9.1.R14-1
 Description     : Pulse Secure VPN client.
 
 Name            : pyenv
-Version         : 2.3.17-3
+Version         : 2.3.18-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -599,7 +599,7 @@ Version         : 23.1.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.4.29-1
+Version         : 2023.5.19-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -739,7 +739,7 @@ Version         : 4.18.6-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 102.11.0-1
+Version         : 102.11.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -803,11 +803,11 @@ Version         : 2.3.4-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.13.1-1
+Version         : 1.13.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.1506-1
+Version         : 9.0.1572-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -823,7 +823,7 @@ Version         : 7.0.8-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.8-8
+Version         : 7.0.8-10
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
