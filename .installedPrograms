@@ -335,7 +335,7 @@ Version         : 20.0.1.u9-3
 Description     : OpenJDK Java 20 development kit
 
 Name            : jfrog-cli
-Version         : 2.37.3-1
+Version         : 2.38.2-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -383,7 +383,7 @@ Version         : 6.1.30-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
-Version         : 0.3.1-2
+Version         : 0.3.2-1
 Description     : An unofficial driver for Logitech HID++>2.0 mice and keyboard
 
 Name            : logrotate
@@ -1067,7 +1067,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 12.0.4-1
+Version         : 12.0.5-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
