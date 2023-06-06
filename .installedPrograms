@@ -127,7 +127,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 114.0.5735.90-1
+Version         : 114.0.5735.106-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -147,7 +147,7 @@ Version         : 1.96-1
 Description     : Count lines of code
 
 Name            : cnrdrvcups-lb-bin
-Version         : 5.60.10-1
+Version         : 5.70.13-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
@@ -259,11 +259,11 @@ Version         : 2.41.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
-Version         : 0.12.0-1
+Version         : 0.13.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
-Version         : 0.15.1-2
+Version         : 0.16.5-1
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -307,11 +307,11 @@ Version         : 3.2.2-1
 Description     : Interactive process viewer
 
 Name            : hyperfine
-Version         : 1.16.1-1
+Version         : 1.17.0-1
 Description     : A command-line benchmarking tool
 
 Name            : icaclient
-Version         : 23.3.0.32-1
+Version         : 23.5.0.58-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
@@ -335,7 +335,7 @@ Version         : 20.0.1.u9-3
 Description     : OpenJDK Java 20 development kit
 
 Name            : jfrog-cli
-Version         : 2.38.2-1
+Version         : 2.39.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -367,7 +367,7 @@ Version         : 2.4.7+4+g1ec8fa28-3
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.3.5.arch1-1
+Version         : 6.3.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -375,11 +375,11 @@ Version         : 20230404.2e92a49f-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.3.5.arch1-1
+Version         : 6.3.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.31-1
+Version         : 6.1.32-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -463,7 +463,7 @@ Version         : 1.2.10-1
 Description     : NetworkManager VPN plugin for OpenConnect
 
 Name            : networkmanager-openvpn
-Version         : 1.10.2-1
+Version         : 1.10.2-2
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nginx
@@ -599,7 +599,7 @@ Version         : 23.1.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.5.19-1
+Version         : 2023.6.2-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
@@ -659,7 +659,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.69.0-3
+Version         : 1:1.70.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -747,7 +747,7 @@ Version         : 1.13.1-1
 Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
-Version         : 3.3_a-3
+Version         : 3.3_a-7
 Description     : Terminal multiplexer
 
 Name            : traceroute
@@ -823,7 +823,7 @@ Version         : 7.0.8-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.8-14
+Version         : 7.0.8-15
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1019,7 +1019,7 @@ Version         : 1.5.2-1
 Description     : Primitive command line interface to RandR extension
 
 Name            : xorg-xrdb
-Version         : 1.2.1-1
+Version         : 1.2.2-1
 Description     : X server resource database utility
 
 Name            : xorg-xrefresh
@@ -1043,7 +1043,7 @@ Version         : 23.1.1-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
-Version         : 1.0.8-1
+Version         : 1.0.9-1
 Description     : X Window System image dumping utility
 
 Name            : xorg-xwininfo
@@ -1083,7 +1083,7 @@ Version         : 3.0-10
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.14.7-1
+Version         : 5.14.10-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
