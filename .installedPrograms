@@ -279,7 +279,7 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.20.4-2
+Version         : 2:1.20.5-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
@@ -455,7 +455,7 @@ Version         : 2.10-2
 Description     : Configuration tools for Linux networking
 
 Name            : network-manager-applet
-Version         : 1.32.0-2
+Version         : 1.32.0-3
 Description     : Applet for managing network connections
 
 Name            : networkmanager-openconnect
@@ -1039,7 +1039,7 @@ Version         : 1.1.5-1
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
-Version         : 23.1.1-1
+Version         : 23.1.2-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
