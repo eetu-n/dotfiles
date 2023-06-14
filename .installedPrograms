@@ -335,7 +335,7 @@ Version         : 20.0.1.u9-3
 Description     : OpenJDK Java 20 development kit
 
 Name            : jfrog-cli
-Version         : 2.39.1-1
+Version         : 2.40.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -471,7 +471,7 @@ Version         : 1.24.0-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nomacs
-Version         : 1:3.17.2206-12
+Version         : 1:3.17.2282-1
 Description     : A Qt image viewer
 
 Name            : noto-fonts
@@ -607,11 +607,11 @@ Version         : 0.5.6-1
 Description     : Python Zabbix API
 
 Name            : python37
-Version         : 3.7.16-1
+Version         : 3.7.17-1
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
-Version         : 3.9.16-2
+Version         : 3.9.16-4
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : ranger
@@ -687,7 +687,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.32.122-1
+Version         : 4.32.127-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
