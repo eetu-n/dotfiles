@@ -175,7 +175,7 @@ Version         : 1:24.0.2-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.10.5-1
+Version         : 0.11.0-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
@@ -243,7 +243,7 @@ Version         : 1.9.2-2
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.41.1-1
+Version         : 0.42.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -347,7 +347,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.27.2-1
+Version         : 1.27.3-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
