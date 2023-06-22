@@ -367,7 +367,7 @@ Version         : 2.4.7+4+g1ec8fa28-3
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.3.8.arch1-1
+Version         : 6.3.9.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -375,7 +375,7 @@ Version         : 20230404.2e92a49f-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.3.8.arch1-1
+Version         : 6.3.9.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -823,7 +823,7 @@ Version         : 7.0.8-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.8-17
+Version         : 7.0.8-18
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1083,7 +1083,7 @@ Version         : 3.0-10
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.14.10-1
+Version         : 5.15.0-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
