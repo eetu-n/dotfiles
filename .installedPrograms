@@ -423,7 +423,7 @@ Version         : 3.4.1-3
 Description     : An extensible music server written in Python
 
 Name            : mosh
-Version         : 1.4.0-2
+Version         : 1.4.0-3
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
@@ -567,7 +567,7 @@ Version         : 15.3-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.3.4-1
+Version         : 7.3.5-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
@@ -1087,6 +1087,6 @@ Version         : 5.15.2-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
-Version         : 5.9-3
+Version         : 5.9-4
 Description     : A very advanced and programmable command interpreter (shell) for UNIX
 
