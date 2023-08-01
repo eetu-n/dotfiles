@@ -27,7 +27,7 @@ Version         : 1.2.9-1
 Description     : Advanced Linux Sound Architecture - Utilities
 
 Name            : amazon-workspaces-bin
-Version         : 4.6.0.4187-1
+Version         : 4.6.0.4187-2
 Description     : Amazon Workspace Client
 
 Name            : amtterm
@@ -35,7 +35,7 @@ Version         : 1.7-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
 
 Name            : android-studio
-Version         : 2022.2.1.20-1
+Version         : 2022.3.1.18-1
 Description     : The official Android IDE (Stable branch)
 
 Name            : arandr
@@ -315,7 +315,7 @@ Version         : 1.17.0-1
 Description     : A command-line benchmarking tool
 
 Name            : icaclient
-Version         : 23.5.0.58-1
+Version         : 23.7.0.17-2
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
@@ -339,7 +339,7 @@ Version         : 20.0.2.u9-3
 Description     : OpenJDK Java 20 development kit
 
 Name            : jfrog-cli
-Version         : 2.42.0-1
+Version         : 2.44.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -387,7 +387,7 @@ Version         : 6.1.39-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
-Version         : 0.3.2-1
+Version         : 0.3.3-1
 Description     : An unofficial driver for Logitech HID++>2.0 mice and keyboard
 
 Name            : logrotate
@@ -475,7 +475,7 @@ Version         : 1.24.0-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nomacs
-Version         : 1:3.17.2282-2
+Version         : 1:3.17.2282-3
 Description     : A Qt image viewer
 
 Name            : noto-fonts
@@ -691,7 +691,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.32.127-1
+Version         : 4.33.73-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -847,7 +847,7 @@ Version         : 0.13-4
 Description     : Command line interface to the X11 clipboard
 
 Name            : xcursor-breeze
-Version         : 1:5.22.5-1
+Version         : 1:5.27.6-1
 Description     : KDE Plasma 5 'Breeze' cursor theme. This package is for usage in non-KDE Plasma desktops.
 
 Name            : xdo
@@ -1087,7 +1087,7 @@ Version         : 3.0-10
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.15.2-1
+Version         : 5.15.5-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
