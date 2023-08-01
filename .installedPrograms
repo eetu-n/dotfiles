@@ -34,6 +34,10 @@ Name            : amtterm
 Version         : 1.7-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
 
+Name            : android-studio
+Version         : 2022.2.1.20-1
+Description     : The official Android IDE (Stable branch)
+
 Name            : arandr
 Version         : 0.1.11-2
 Description     : Provide a simple visual front end for XRandR 1.2.
