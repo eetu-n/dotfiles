@@ -807,7 +807,7 @@ Version         : 2.3.6-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.14.0-1
+Version         : 1.14.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
