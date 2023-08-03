@@ -571,7 +571,7 @@ Version         : 15.3-5
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.3.5-1
+Version         : 7.3.6-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
