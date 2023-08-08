@@ -95,7 +95,7 @@ Version         : 9.18.17-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.41-2
+Version         : 2.41-3
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -119,7 +119,7 @@ Version         : 5.68-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
-Version         : 0.9.3-1
+Version         : 0.9.4-1
 Description     : A graphical process/system monitor
 
 Name            : breeze-dark-flat
@@ -227,7 +227,7 @@ Version         : 3.10-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 116.0-1
+Version         : 116.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -319,7 +319,7 @@ Version         : 23.7.0.17-2
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.15-1
+Version         : 7.1.1.15-2
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -355,7 +355,7 @@ Version         : 1.27.4-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.48.6-6
+Version         : 1.48.6-7
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
@@ -371,7 +371,7 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.4.7.arch1-3
+Version         : 6.4.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -379,7 +379,7 @@ Version         : 20230625.ee91452d-5
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.4.7.arch1-3
+Version         : 6.4.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -403,7 +403,7 @@ Version         : 0.6.3-4
 Description     : Feature-rich GTK+ theme switcher of the LXDE Desktop
 
 Name            : lynis
-Version         : 3.0.8-1
+Version         : 3.0.9-1
 Description     : Security and system auditing tool to harden Unix/Linux systems
 
 Name            : m4
@@ -503,7 +503,7 @@ Version         : 1.20.5-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
-Version         : 2.6.4-2
+Version         : 2.6.6-1
 Description     : Lightweight Directory Access Protocol (LDAP) client and server
 
 Name            : openssh
@@ -539,19 +539,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.76-2
+Version         : 1:0.3.77-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.76-2
+Version         : 1:0.3.77-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.76-2
+Version         : 1:0.3.77-1
 Description     : Low-latency audio/video router and processor - JACK support
 
 Name            : pipewire-pulse
-Version         : 1:0.3.76-2
+Version         : 1:0.3.77-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -663,11 +663,11 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.71.0-1
+Version         : 1:1.71.1-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
-Version         : 9.31-3
+Version         : 9.31-4
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : scrot
@@ -675,7 +675,7 @@ Version         : 1.10-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
-Version         : 0.20.0-1
+Version         : 0.20.0-2
 Description     : QML based X11 and Wayland display manager
 
 Name            : sddm-theme-aerial-git
@@ -691,7 +691,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.33.73-1
+Version         : 4.33.84-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -811,7 +811,7 @@ Version         : 1.14.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.1676-1
+Version         : 9.0.1678-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -827,7 +827,7 @@ Version         : 7.0.10-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.10-7
+Version         : 7.0.10-8
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
