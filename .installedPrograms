@@ -54,6 +54,18 @@ Name            : arc-solid-gtk-theme
 Version         : 20221218-1
 Description     : A flat theme for GTK 3, GTK 2 and Gnome-Shell (without transparency)
 
+Name            : arduino
+Version         : 1:1.8.19-2
+Description     : Arduino prototyping platform SDK
+
+Name            : arduino-cli
+Version         : 0.32.2-1
+Description     : Arduino command line interface
+
+Name            : arduino-ide-bin
+Version         : 2.1.1-1
+Description     : Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.
+
 Name            : autoconf
 Version         : 2.71-4
 Description     : A GNU tool for automatically configuring source code
@@ -155,7 +167,7 @@ Version         : 5.70.13-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.79.2-1
+Version         : 1.81.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -283,7 +295,7 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.20.7-1
+Version         : 2:1.21.0-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : gping
@@ -327,7 +339,7 @@ Version         : 2.4-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
-Version         : 20230613-1
+Version         : 20230808-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : ipmitool
@@ -618,6 +630,10 @@ Name            : python39
 Version         : 3.9.17-2
 Description     : Major release 3.9 of the Python high-level programming language
 
+Name            : qt4-bin
+Version         : 4.8.7-35
+Description     : Prebuilt binary for Qt4. Alternative for faster installing.
+
 Name            : ranger
 Version         : 1.9.3-9
 Description     : Simple, vim-like file manager
@@ -773,6 +789,10 @@ Description     : Font family which aims at metric compatibility with Arial, Tim
 Name            : ttf-ms-fonts
 Version         : 2.0-12
 Description     : Core TTF Fonts from Microsoft
+
+Name            : ttymidi
+Version         : 0.60-1
+Description     : MIDI for your serial devices
 
 Name            : tzupdate
 Version         : 2.1.0-1
