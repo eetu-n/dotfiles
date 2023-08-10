@@ -383,19 +383,19 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.4.8.arch1-1
+Version         : 6.4.9.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20230625.ee91452d-5
+Version         : 20230804.7be2766d-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.4.8.arch1-1
+Version         : 6.4.9.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.43-1
+Version         : 6.1.44-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -763,7 +763,7 @@ Version         : 115.1.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
-Version         : 1.13.1-1
+Version         : 1.13.1-2
 Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
@@ -847,7 +847,7 @@ Version         : 7.0.10-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.10-8
+Version         : 7.0.10-9
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
