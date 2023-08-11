@@ -191,7 +191,7 @@ Version         : 1:24.0.5-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.11.0-1
+Version         : 0.11.2-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
@@ -519,7 +519,7 @@ Version         : 2.6.6-1
 Description     : Lightweight Directory Access Protocol (LDAP) client and server
 
 Name            : openssh
-Version         : 9.3p2-1
+Version         : 9.4p1-1
 Description     : SSH protocol implementation for remote login, command execution and file transfer
 
 Name            : p7zip
