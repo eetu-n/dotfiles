@@ -143,7 +143,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 115.0.5790.170-1
+Version         : 116.0.5845.96-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -297,6 +297,10 @@ Description     : GNU rewrite of netcat, the network piping application
 Name            : go
 Version         : 2:1.21.0-1
 Description     : Core compiler tools for the Go programming language
+
+Name            : google-chrome
+Version         : 115.0.5790.170-1
+Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
 Version         : 1.14.0-1
