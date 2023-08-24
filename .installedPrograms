@@ -399,7 +399,7 @@ Version         : 6.4.11.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.46-1
+Version         : 6.1.47-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
