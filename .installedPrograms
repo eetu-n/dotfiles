@@ -355,7 +355,7 @@ Version         : 20.0.2.u9-3
 Description     : OpenJDK Java 20 development kit
 
 Name            : jfrog-cli
-Version         : 2.45.0-1
+Version         : 2.46.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -375,7 +375,7 @@ Version         : 1.50.1-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.5.5-1
+Version         : 7.6.0-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -387,7 +387,7 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.4.11.arch2-1
+Version         : 6.4.10.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -619,7 +619,7 @@ Version         : 23.2.1-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.8.20-1
+Version         : 2023.8.23-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-zabbix-api
