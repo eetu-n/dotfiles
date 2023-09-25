@@ -83,7 +83,7 @@ Version         : 1.14-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.13.15-1
+Version         : 2.13.21-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -143,7 +143,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 117.0.5938.92-1
+Version         : 117.0.5938.92-2
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -223,7 +223,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.13.0-1
+Version         : 0.13.1-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -335,11 +335,11 @@ Version         : 23.8.0.39-2
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.17-1
+Version         : 7.1.1.18-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
-Version         : 2.4-1
+Version         : 2.4-2
 Description     : A collection of common network programs
 
 Name            : intel-ucode
@@ -351,8 +351,8 @@ Version         : 1.8.19-2
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jdk-openjdk
-Version         : 20.0.2.u9-3
-Description     : OpenJDK Java 20 development kit
+Version         : 21.u35-3
+Description     : OpenJDK Java 21 development kit
 
 Name            : jfrog-cli
 Version         : 2.48.0-1
@@ -399,7 +399,7 @@ Version         : 6.5.4.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.54-1
+Version         : 6.1.55-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -655,7 +655,7 @@ Version         : 2023-1
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : remmina
-Version         : 1:1.4.32-1
+Version         : 1:1.4.33-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -679,7 +679,7 @@ Version         : 1.4-2
 Description     : Simple keepassxc-cli frontend in rofi
 
 Name            : rsync
-Version         : 3.2.7-4
+Version         : 3.2.7-6
 Description     : A fast and versatile file copying tool for remote and local files
 
 Name            : ruby-mdless
@@ -723,7 +723,7 @@ Version         : 2.2.6-1
 Description     : Sound Open Firmware
 
 Name            : solaar
-Version         : 1.1.9-2
+Version         : 1.1.10-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
@@ -767,7 +767,7 @@ Version         : 4.18.7-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.2.2-1
+Version         : 115.2.3-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
