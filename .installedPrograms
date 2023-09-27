@@ -239,7 +239,7 @@ Version         : 3.10-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 117.0.1-1
+Version         : 118.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -375,7 +375,7 @@ Version         : 1.50.1-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.6.1-1
+Version         : 7.6.2-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -395,7 +395,7 @@ Version         : 20230804.7be2766d-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.5.4.arch2-1
+Version         : 6.5.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -411,7 +411,7 @@ Version         : 3.21.0-2
 Description     : Rotates system logs automatically
 
 Name            : lsof
-Version         : 4.98.0-1
+Version         : 4.98.0-2
 Description     : Lists open files for running Unix processes
 
 Name            : lxappearance
@@ -835,7 +835,7 @@ Version         : 2.3.7-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.14.3-2
+Version         : 1.15.0-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -855,7 +855,7 @@ Version         : 7.0.10-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.10-18
+Version         : 7.0.10-19
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1119,7 +1119,7 @@ Version         : 3.0-10
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.16.0-1
+Version         : 5.16.1-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
