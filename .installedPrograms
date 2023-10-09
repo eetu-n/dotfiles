@@ -387,7 +387,7 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.4.10.arch1-1
+Version         : 6.5.6.arch2-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
