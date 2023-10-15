@@ -83,7 +83,7 @@ Version         : 1.14-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.13.21-1
+Version         : 2.13.25-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -95,7 +95,7 @@ Version         : 1.2.463.0-1
 Description     : AWS Session Manager Plugin for aws-cli.
 
 Name            : base
-Version         : 3-1
+Version         : 3-2
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bat
@@ -143,7 +143,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 118.0.5993.54-1
+Version         : 118.0.5993.70-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -167,7 +167,7 @@ Version         : 5.70.13-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.83.0-1
+Version         : 1.83.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -195,7 +195,7 @@ Version         : 0.11.2-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.20.3-1
+Version         : 2.22.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -223,7 +223,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.14.1-1
+Version         : 0.14.2-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -239,7 +239,7 @@ Version         : 3.10.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 118.0.1-1
+Version         : 118.0.2-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -295,11 +295,11 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.21.2-1
+Version         : 2:1.21.3-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 117.0.5938.149-1
+Version         : 118.0.5993.70-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -355,11 +355,11 @@ Version         : 21.u35-3
 Description     : OpenJDK Java 21 development kit
 
 Name            : jfrog-cli
-Version         : 2.50.0-1
+Version         : 2.50.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
-Version         : 2.7.6-1
+Version         : 2.7.6-2
 Description     : Cross-platform community-driven port of Keepass password manager
 
 Name            : keychain
@@ -399,7 +399,7 @@ Version         : 6.5.6.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.56-1
+Version         : 6.1.57-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -467,7 +467,7 @@ Version         : 0.9.2-12
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : neovim
-Version         : 0.9.2-1
+Version         : 0.9.4-2
 Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
 
 Name            : net-tools
@@ -487,11 +487,11 @@ Version         : 1.10.2-3
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nginx
-Version         : 1.24.0-2
+Version         : 1.24.0-3
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nomacs
-Version         : 1:3.17.2285-2
+Version         : 1:3.17.2287-1
 Description     : A Qt image viewer
 
 Name            : noto-fonts
@@ -511,7 +511,7 @@ Version         : 6.5.0-1
 Description     : Package manager for .NET.
 
 Name            : obsidian
-Version         : 1.4.14-1
+Version         : 1.4.16-1
 Description     : A powerful knowledge base that works on top of a local folder of plain text Markdown files
 
 Name            : openconnect
@@ -523,7 +523,7 @@ Version         : 1.20.5-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
-Version         : 2.6.6-1
+Version         : 2.6.6-2
 Description     : Lightweight Directory Access Protocol (LDAP) client and server
 
 Name            : openssh
@@ -550,6 +550,10 @@ Name            : pcsc-tools
 Version         : 1.6.2-1
 Description     : PC/SC Architecture smartcard tools
 
+Name            : pdfgrep
+Version         : 2.1.2-3
+Description     : A tool to search text in PDF files
+
 Name            : picom
 Version         : 10.2-1
 Description     : X compositor that may fix tearing issues
@@ -559,19 +563,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.81-1
+Version         : 1:0.3.82-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.81-1
+Version         : 1:0.3.82-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.81-1
+Version         : 1:0.3.82-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:0.3.81-1
+Version         : 1:0.3.82-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -591,7 +595,7 @@ Version         : 15.4-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.3.7-1
+Version         : 7.3.8-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
@@ -639,7 +643,7 @@ Version         : 3.7.17-1
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
-Version         : 3.9.18-1
+Version         : 3.9.18-2
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : qt4-bin
@@ -659,7 +663,7 @@ Version         : 2023-1
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : remmina
-Version         : 1:1.4.33-2
+Version         : 1:1.4.33-3
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -731,7 +735,7 @@ Version         : 1.1.10-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 23.08.1-1
+Version         : 23.08.2-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -739,7 +743,7 @@ Version         : 2.1.3-7
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.2.20.1210-3
+Version         : 1:1.2.22.982-3
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -791,7 +795,7 @@ Version         : 4.18.7-2
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.3.1-1
+Version         : 115.3.2-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -831,7 +835,7 @@ Version         : 2.1.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 2.4.2-2
+Version         : 2.5.0-1
 Description     : Removable disk automounter using udisks
 
 Name            : unzip
@@ -859,11 +863,11 @@ Version         : 2.3.7-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.15.0-1
+Version         : 1.15.0-2
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.2002-1
+Version         : 9.0.2010-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -879,7 +883,7 @@ Version         : 7.0.10-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.10-21
+Version         : 7.0.10-22
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
