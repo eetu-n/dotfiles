@@ -99,7 +99,7 @@ Version         : 3-2
 Description     : Minimal package set to define a basic Arch Linux installation
 
 Name            : bat
-Version         : 0.23.0-3
+Version         : 0.24.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
@@ -399,7 +399,7 @@ Version         : 6.5.6.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.57-1
+Version         : 6.1.58-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -623,7 +623,7 @@ Version         : 0.8.0-7
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-numpy
-Version         : 1.26.0-3
+Version         : 1.26.1-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
