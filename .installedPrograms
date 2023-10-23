@@ -83,7 +83,7 @@ Version         : 1.14-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.13.25-1
+Version         : 2.13.28-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -134,16 +134,12 @@ Name            : bottom
 Version         : 0.9.6-1
 Description     : A graphical process/system monitor
 
-Name            : breeze-dark-flat
-Version         : 1.2-1
-Description     : Breeze Dark, but opaque and not shadowed
-
 Name            : bspwm
 Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 118.0.5993.70-1
+Version         : 118.0.5993.88-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -223,7 +219,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.14.2-1
+Version         : 0.15.0-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -231,7 +227,7 @@ Version         : 1.32.1-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
-Version         : 8.7.0-2
+Version         : 8.7.1-1
 Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
@@ -299,7 +295,7 @@ Version         : 2:1.21.3-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 118.0.5993.70-1
+Version         : 118.0.5993.88-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -335,7 +331,7 @@ Version         : 23.9.0.24-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.20-1
+Version         : 7.1.1.21-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -355,7 +351,7 @@ Version         : 21.u35-3
 Description     : OpenJDK Java 21 development kit
 
 Name            : jfrog-cli
-Version         : 2.50.1-1
+Version         : 2.50.4-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -367,7 +363,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.28.2-1
+Version         : 1.28.3-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -387,7 +383,7 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.5.6.arch2-1
+Version         : 6.5.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -395,11 +391,11 @@ Version         : 20230804.7be2766d-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.5.6.arch2-1
+Version         : 6.5.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.58-1
+Version         : 6.1.59-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -507,7 +503,7 @@ Version         : 20220920-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 10.2.0-1
+Version         : 10.2.1-1
 Description     : A package manager for JavaScript
 
 Name            : nuget
@@ -551,7 +547,7 @@ Version         : 1:5.0+r64+geba9ca6-1
 Description     : PulseAudio Volume Control
 
 Name            : pcsc-tools
-Version         : 1.6.2-1
+Version         : 1.7.0-1
 Description     : PC/SC Architecture smartcard tools
 
 Name            : pdfgrep
@@ -567,19 +563,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.82-1
+Version         : 1:0.3.83-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.82-1
+Version         : 1:0.3.83-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.82-1
+Version         : 1:0.3.83-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:0.3.82-1
+Version         : 1:0.3.83-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -607,11 +603,11 @@ Version         : 2.15-1
 Description     : A tool to diagnose issues with power consumption and power management
 
 Name            : procs
-Version         : 0.14.1-1
+Version         : 0.14.3-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : progress
-Version         : 0.16-1
+Version         : 0.17-1
 Description     : Shows running coreutils basic commands and displays stats
 
 Name            : pulsesecure
@@ -619,7 +615,7 @@ Version         : 9.1.R14-1
 Description     : Pulse Secure VPN client.
 
 Name            : pyenv
-Version         : 1:2.3.29-1
+Version         : 1:2.3.31-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -635,11 +631,11 @@ Version         : 1.26.1-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
-Version         : 23.2.1-1
+Version         : 23.3.1-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.9.8-1
+Version         : 2023.10.3-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-poetry
@@ -651,7 +647,7 @@ Version         : 2.1.1-1
 Description     : A TUI to recover overwritten or deleted data.
 
 Name            : python-textual
-Version         : 0.38.1-3
+Version         : 0.40.0-1
 Description     : Modern Text User Interface framework
 
 Name            : python-zabbix-api
@@ -819,7 +815,7 @@ Version         : 4.18.7-2
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.3.2-1
+Version         : 115.3.3-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -891,7 +887,7 @@ Version         : 0.12.7-2
 Description     : v4l2-loopback device – utilities only
 
 Name            : vagrant
-Version         : 2.3.7-1
+Version         : 2.4.0-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
@@ -911,11 +907,11 @@ Version         : 4.1.0-2
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 7.0.10-2
+Version         : 7.0.12-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.10-22
+Version         : 7.0.12-2
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
@@ -1179,7 +1175,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.16.2-1
+Version         : 5.16.5-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
