@@ -498,6 +498,10 @@ Name            : noto-fonts
 Version         : 1:23.10.1-1
 Description     : Google Noto TTF fonts
 
+Name            : noto-fonts-cjk
+Version         : 20230817-1
+Description     : Google Noto CJK fonts
+
 Name            : noto-fonts-emoji
 Version         : 20220920-1
 Description     : Google Noto emoji fonts
@@ -838,6 +842,10 @@ Name            : ttf-font-awesome
 Version         : 6.4.2-1
 Description     : Iconic font designed for Bootstrap
 
+Name            : ttf-hanazono
+Version         : 20170904-4
+Description     : A free Japanese kanji font, which contains about 78,685 characters (and 2 SPACEs) defined in ISO/IEC 10646 standard / the Unicode standard.
+
 Name            : ttf-liberation
 Version         : 2.1.5-1
 Description     : Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
@@ -845,6 +853,10 @@ Description     : Font family which aims at metric compatibility with Arial, Tim
 Name            : ttf-ms-fonts
 Version         : 2.0-12
 Description     : Core TTF Fonts from Microsoft
+
+Name            : ttf-sazanami
+Version         : 20040629-11
+Description     : Japanese fonts
 
 Name            : ttymidi
 Version         : 0.60-1
