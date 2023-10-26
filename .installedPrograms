@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 118.0.5993.88-1
+Version         : 118.0.5993.117-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -219,7 +219,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.15.0-1
+Version         : 0.15.1-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -235,7 +235,7 @@ Version         : 3.10.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 118.0.2-1
+Version         : 119.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -295,7 +295,7 @@ Version         : 2:1.21.3-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 118.0.5993.88-1
+Version         : 118.0.5993.117-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -395,7 +395,7 @@ Version         : 6.5.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.59-1
+Version         : 6.1.60-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -635,7 +635,7 @@ Version         : 23.3.1-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.10.3-1
+Version         : 2023.10.24-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-poetry
@@ -787,7 +787,7 @@ Version         : 1.6.1-1
 Description     : A fast tldr client in Rust
 
 Name            : texinfo
-Version         : 7.0.3-1
+Version         : 7.1-1
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : texlive-bin
@@ -811,7 +811,7 @@ Version         : 2023.66594-19
 Description     : TeX Live - Mathematics, natural sciences, computer science packages
 
 Name            : thunar
-Version         : 4.18.7-2
+Version         : 4.18.8-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
@@ -875,7 +875,7 @@ Version         : 1.5.1-1
 Description     : base64-like encoder/decoder for URL percent-encoding
 
 Name            : usbutils
-Version         : 015-3
+Version         : 016-2
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : v4l2loopback-dkms
@@ -891,7 +891,7 @@ Version         : 2.4.0-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.15.0-2
+Version         : 1.15.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -987,27 +987,27 @@ Version         : 1.2.2-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.8-2
+Version         : 21.1.9-1
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 21.1.8-2
+Version         : 21.1.9-1
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 21.1.8-2
+Version         : 21.1.9-1
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 21.1.8-2
+Version         : 21.1.9-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 21.1.8-2
+Version         : 21.1.9-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 21.1.8-2
+Version         : 21.1.9-1
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
@@ -1131,7 +1131,7 @@ Version         : 1.1.5-1
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
-Version         : 23.2.1-1
+Version         : 23.2.2-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
