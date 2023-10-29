@@ -183,7 +183,7 @@ Version         : 2.1.3.1-3
 Description     : Diffing pdf files visually or textually
 
 Name            : docker
-Version         : 1:24.0.6-1
+Version         : 1:24.0.7-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
@@ -191,7 +191,7 @@ Version         : 0.11.2-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.22.0-1
+Version         : 2.23.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -595,7 +595,7 @@ Version         : 15.4-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.3.8-1
+Version         : 7.3.9-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
