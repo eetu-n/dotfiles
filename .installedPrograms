@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 118.0.5993.117-1
+Version         : 119.0.6045.59-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -147,7 +147,7 @@ Version         : 4.4-1
 Description     : Lightweight NTP client and server
 
 Name            : clamav
-Version         : 1.2.0-1
+Version         : 1.2.1-1
 Description     : Anti-virus toolkit for Unix
 
 Name            : clamtk
@@ -255,7 +255,7 @@ Version         : 1.9.6-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.42.0-1
+Version         : 0.43.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -383,7 +383,7 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.5.8.arch1-1
+Version         : 6.5.9.arch2-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -391,7 +391,7 @@ Version         : 20230804.7be2766d-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.5.8.arch1-1
+Version         : 6.5.9.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -531,7 +531,7 @@ Version         : 9.5p1-1
 Description     : SSH protocol implementation for remote login, command execution and file transfer
 
 Name            : p7zip
-Version         : 1:17.05-1
+Version         : 1:17.05-2
 Description     : Command-line file archiver with high compression ratio
 
 Name            : paper-icon-theme
@@ -815,7 +815,7 @@ Version         : 4.18.8-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.3.3-1
+Version         : 115.4.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -895,11 +895,11 @@ Version         : 1.15.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.2010-1
+Version         : 9.0.2070-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
-Version         : 3.3-2
+Version         : 3.4-1
 Description     : A vim plugin for syntax highlighting Ansible's common filetypes
 
 Name            : virt-manager
@@ -911,7 +911,7 @@ Version         : 7.0.12-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.12-2
+Version         : 7.0.12-4
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : which
