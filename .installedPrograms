@@ -387,7 +387,7 @@ Version         : 6.5.9.arch2-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20230804.7be2766d-2
+Version         : 20230918.3672ccab-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
@@ -1175,7 +1175,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.16.5-1
+Version         : 5.16.6-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
