@@ -914,6 +914,10 @@ Name            : virtualbox-host-modules-arch
 Version         : 7.0.12-4
 Description     : Virtualbox host kernel modules for Arch Kernel
 
+Name            : vmware-horizon-client
+Version         : 2309-2
+Description     : VMware Horizon Client connect to VMware Horizon virtual desktop
+
 Name            : which
 Version         : 2.21-6
 Description     : A utility to show the full path of commands
