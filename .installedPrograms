@@ -27,7 +27,7 @@ Version         : 1.2.10-1
 Description     : Advanced Linux Sound Architecture - Utilities
 
 Name            : amazon-workspaces-bin
-Version         : 4.6.0.4187-2
+Version         : 4.7.0.4312-1
 Description     : Amazon Workspace Client
 
 Name            : amtterm
@@ -35,7 +35,7 @@ Version         : 1.7-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
 
 Name            : android-studio
-Version         : 2022.3.1.20-1
+Version         : 2022.3.1.21-1
 Description     : The official Android IDE (Stable branch)
 
 Name            : arandr
@@ -83,7 +83,7 @@ Version         : 1.14-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.13.28-1
+Version         : 2.13.33-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 119.0.6045.59-1
+Version         : 119.0.6045.123-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -163,7 +163,7 @@ Version         : 5.70.13-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.83.1-1
+Version         : 1.84.2-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-marketplace
@@ -219,11 +219,11 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.15.1-1
+Version         : 0.15.3-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
-Version         : 1.32.1-1
+Version         : 1.32.2-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
@@ -235,7 +235,7 @@ Version         : 3.10.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 119.0-1
+Version         : 119.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -251,7 +251,7 @@ Version         : 2:2.11.2-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.6-1
+Version         : 1.9.7-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -267,11 +267,11 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.42.0-1
+Version         : 2.42.1-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
-Version         : 0.13.0-1
+Version         : 0.14.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
@@ -291,24 +291,20 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.21.3-1
+Version         : 2:1.21.4-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 118.0.5993.117-1
+Version         : 119.0.6045.123-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
-Version         : 1.14.0-1
+Version         : 1.15.1-1
 Description     : Ping, but with a graph
 
 Name            : groff
 Version         : 1.23.0-5
 Description     : GNU troff text-formatting system
-
-Name            : groovy
-Version         : 4.0.15-1
-Description     : Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
 
 Name            : gtop
 Version         : 1.1.5-1
@@ -346,12 +342,8 @@ Name            : ipmitool
 Version         : 1.8.19-2
 Description     : Command-line interface to IPMI-enabled devices
 
-Name            : jdk-openjdk
-Version         : 21.u35-3
-Description     : OpenJDK Java 21 development kit
-
 Name            : jfrog-cli
-Version         : 2.50.4-1
+Version         : 2.51.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : keepassxc
@@ -383,19 +375,19 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.5.9.arch2-1
+Version         : 6.6.1.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20230918.3672ccab-1
+Version         : 20231030.2b304bfe-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.5.9.arch2-1
+Version         : 6.6.1.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.60-1
+Version         : 6.1.62-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -430,16 +422,12 @@ Name            : make
 Version         : 4.4.1-2
 Description     : GNU make utility to maintain groups of programs
 
-Name            : maven
-Version         : 3.8.7-1
-Description     : Java project management and project comprehension tool
-
 Name            : mopidy
 Version         : 3.4.1-3
 Description     : An extensible music server written in Python
 
 Name            : mosh
-Version         : 1.4.0-5
+Version         : 1.4.0-6
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
@@ -491,7 +479,7 @@ Version         : 1:3.17.2287-1
 Description     : A Qt image viewer
 
 Name            : noto-fonts
-Version         : 1:23.10.1-1
+Version         : 1:23.11.1-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-cjk
@@ -503,7 +491,7 @@ Version         : 20220920-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 10.2.1-1
+Version         : 10.2.3-2
 Description     : A package manager for JavaScript
 
 Name            : nuget
@@ -563,19 +551,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.83-1
+Version         : 1:0.3.84-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.83-1
+Version         : 1:0.3.84-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.83-1
+Version         : 1:0.3.84-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:0.3.83-1
+Version         : 1:0.3.84-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -587,7 +575,7 @@ Version         : 2.4.1-3
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
 
 Name            : polybar
-Version         : 3.6.3-3
+Version         : 3.7.0-1
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
@@ -615,7 +603,7 @@ Version         : 9.1.R14-1
 Description     : Pulse Secure VPN client.
 
 Name            : pyenv
-Version         : 1:2.3.31-1
+Version         : 1:2.3.32-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -639,7 +627,7 @@ Version         : 2023.10.24-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-poetry
-Version         : 1.6.1-2
+Version         : 1.7.0-1
 Description     : Python dependency management and packaging made easy
 
 Name            : python-recoverpy
@@ -647,7 +635,7 @@ Version         : 2.1.1-1
 Description     : A TUI to recover overwritten or deleted data.
 
 Name            : python-textual
-Version         : 0.40.0-1
+Version         : 0.41.0-1
 Description     : Modern Text User Interface framework
 
 Name            : python-zabbix-api
@@ -663,7 +651,7 @@ Version         : 3.9.18-2
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : qpwgraph
-Version         : 0.5.3-1
+Version         : 0.6.0-1
 Description     : PipeWire Graph Qt GUI Interface
 
 Name            : qt4-bin
@@ -743,11 +731,11 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.34.121-1
+Version         : 4.35.126-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 2023.09-1
+Version         : 2023.09.1-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -755,7 +743,7 @@ Version         : 1.1.10-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 23.08.2-1
+Version         : 23.08.3-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -771,11 +759,11 @@ Version         : 1.10-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 6.5-1
+Version         : 6.6-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.14.p3-1
+Version         : 1.9.15.p2-1
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -815,7 +803,7 @@ Version         : 4.18.8-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.4.1-1
+Version         : 115.4.2-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -859,7 +847,7 @@ Version         : 0.60-1
 Description     : MIDI for your serial devices
 
 Name            : tzupdate
-Version         : 2.1.0-1
+Version         : 3.1.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
@@ -875,7 +863,7 @@ Version         : 1.5.1-1
 Description     : base64-like encoder/decoder for URL percent-encoding
 
 Name            : usbutils
-Version         : 016-2
+Version         : 017-1
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : v4l2loopback-dkms
@@ -911,7 +899,7 @@ Version         : 7.0.12-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.12-4
+Version         : 7.0.12-6
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : vmware-horizon-client
