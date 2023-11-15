@@ -83,7 +83,7 @@ Version         : 1.14-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.13.33-1
+Version         : 2.13.35-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -103,7 +103,7 @@ Version         : 0.24.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.19-1
+Version         : 9.18.20-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 119.0.6045.123-1
+Version         : 119.0.6045.159-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -251,7 +251,7 @@ Version         : 2:2.11.2-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.7-1
+Version         : 1.9.8-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -295,7 +295,7 @@ Version         : 2:1.21.4-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 119.0.6045.123-1
+Version         : 119.0.6045.159-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -335,8 +335,16 @@ Version         : 2.4-2
 Description     : A collection of common network programs
 
 Name            : intel-ucode
-Version         : 20230808-1
+Version         : 20231114-1
 Description     : Microcode update files for Intel CPUs
+
+Name            : intellij-idea-ultimate-edition
+Version         : 2023.2.5-2
+Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
+
+Name            : intellij-idea-ultimate-edition-jre
+Version         : 2023.2.5-2
+Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
 Version         : 1.8.19-2
@@ -345,6 +353,10 @@ Description     : Command-line interface to IPMI-enabled devices
 Name            : jfrog-cli
 Version         : 2.51.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
+
+Name            : jre-openjdk
+Version         : 21.u35-8
+Description     : OpenJDK Java 21 full runtime environment
 
 Name            : keepassxc
 Version         : 2.7.6-2
