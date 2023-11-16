@@ -191,7 +191,7 @@ Version         : 0.11.2-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.23.0-1
+Version         : 2.23.1-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -219,7 +219,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.15.3-1
+Version         : 0.16.0-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -503,7 +503,7 @@ Version         : 20220920-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 10.2.3-2
+Version         : 10.2.4-1
 Description     : A package manager for JavaScript
 
 Name            : nuget
@@ -563,19 +563,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.84-1
+Version         : 1:0.3.85-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.84-1
+Version         : 1:0.3.85-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.84-1
+Version         : 1:0.3.85-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:0.3.84-1
+Version         : 1:0.3.85-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -635,7 +635,7 @@ Version         : 23.3.1-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.10.24-1
+Version         : 2023.11.15-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-poetry
@@ -747,7 +747,7 @@ Version         : 4.35.126-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 2023.09.1-1
+Version         : 2023.09.2-1
 Description     : Sound Open Firmware
 
 Name            : solaar
