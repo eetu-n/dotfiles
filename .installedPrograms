@@ -35,7 +35,7 @@ Version         : 1.7-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
 
 Name            : android-studio
-Version         : 2022.3.1.21-1
+Version         : 2022.3.1.22-1
 Description     : The official Android IDE (Stable branch)
 
 Name            : arandr
@@ -187,7 +187,7 @@ Version         : 1:24.0.7-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.11.2-1
+Version         : 0.12.0-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
@@ -251,7 +251,7 @@ Version         : 2:2.11.2-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.8-1
+Version         : 1.9.8-3
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -367,7 +367,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.28.3-1
+Version         : 1.28.4-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -499,7 +499,7 @@ Version         : 20230817-1
 Description     : Google Noto CJK fonts
 
 Name            : noto-fonts-emoji
-Version         : 20220920-1
+Version         : 1:2.040-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
@@ -595,7 +595,7 @@ Version         : 15.4-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.3.9-1
+Version         : 7.4.0-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
@@ -715,7 +715,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.73.0-1
+Version         : 1:1.74.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -787,7 +787,7 @@ Version         : 1.6.1-1
 Description     : A fast tldr client in Rust
 
 Name            : texinfo
-Version         : 7.1-1
+Version         : 7.1-2
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : texlive-bin
@@ -815,7 +815,7 @@ Version         : 4.18.8-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.4.2-1
+Version         : 115.4.3-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -895,7 +895,7 @@ Version         : 1.15.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.2070-1
+Version         : 9.0.2112-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
