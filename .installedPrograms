@@ -219,7 +219,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.16.0-1
+Version         : 0.16.1-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -235,7 +235,7 @@ Version         : 3.10.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 119.0.1-1
+Version         : 120.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -251,7 +251,7 @@ Version         : 2:2.11.2-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.8-3
+Version         : 1.9.9-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -267,7 +267,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.42.1-1
+Version         : 2.43.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -354,10 +354,6 @@ Name            : jfrog-cli
 Version         : 2.51.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
-Name            : jre-openjdk
-Version         : 21.u35-8
-Description     : OpenJDK Java 21 full runtime environment
-
 Name            : keepassxc
 Version         : 2.7.6-2
 Description     : Cross-platform community-driven port of Keepass password manager
@@ -387,19 +383,19 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.6.1.arch1-1
+Version         : 6.6.2.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20231030.2b304bfe-1
+Version         : 20231110.74158e7a-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.6.1.arch1-1
+Version         : 6.6.2.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.62-1
+Version         : 6.1.63-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -433,6 +429,10 @@ Description     : MUA command line tool (mailx)
 Name            : make
 Version         : 4.4.1-2
 Description     : GNU make utility to maintain groups of programs
+
+Name            : maven
+Version         : 3.8.7-1
+Description     : Java project management and project comprehension tool
 
 Name            : mopidy
 Version         : 3.4.1-3
@@ -519,7 +519,7 @@ Version         : 1:9.12-1
 Description     : Open client for Cisco AnyConnect VPN
 
 Name            : openfortivpn
-Version         : 1.20.5-1
+Version         : 1.21.0-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
@@ -627,7 +627,7 @@ Version         : 0.8.0-7
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-numpy
-Version         : 1.26.1-1
+Version         : 1.26.2-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
@@ -763,7 +763,7 @@ Version         : 2.1.3-7
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.2.22.982-3
+Version         : 1:1.2.25.1011-1
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -815,7 +815,7 @@ Version         : 4.18.8-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.4.3-1
+Version         : 115.5.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -895,7 +895,7 @@ Version         : 1.15.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.0.2112-1
+Version         : 9.0.2121-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -911,7 +911,7 @@ Version         : 7.0.12-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.12-6
+Version         : 7.0.12-7
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : vmware-horizon-client
@@ -1179,7 +1179,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.16.6-1
+Version         : 5.16.10-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
