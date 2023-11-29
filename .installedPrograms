@@ -191,7 +191,7 @@ Version         : 0.12.0-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.23.1-1
+Version         : 2.23.3-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -295,11 +295,11 @@ Version         : 2:1.21.4-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 119.0.6045.159-1
+Version         : 119.0.6045.199-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
-Version         : 1.15.1-1
+Version         : 1.16.0-1
 Description     : Ping, but with a graph
 
 Name            : groff
@@ -371,7 +371,7 @@ Version         : 1.50.1-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.6.2-3
+Version         : 7.6.3-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -383,7 +383,7 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.6.2.arch1-1
+Version         : 6.6.3.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -391,11 +391,11 @@ Version         : 20231110.74158e7a-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.6.2.arch1-1
+Version         : 6.6.3.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.63-1
+Version         : 6.1.64-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -407,7 +407,7 @@ Version         : 3.21.0-2
 Description     : Rotates system logs automatically
 
 Name            : lsof
-Version         : 4.98.0-2
+Version         : 4.99.0-1
 Description     : Lists open files for running Unix processes
 
 Name            : lxappearance
@@ -499,7 +499,7 @@ Version         : 20230817-1
 Description     : Google Noto CJK fonts
 
 Name            : noto-fonts-emoji
-Version         : 1:2.040-1
+Version         : 1:2.041-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
@@ -563,23 +563,23 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:0.3.85-1
+Version         : 1:1.0.0-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:0.3.85-1
+Version         : 1:1.0.0-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:0.3.85-1
+Version         : 1:1.0.0-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:0.3.85-1
+Version         : 1:1.0.0-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
-Version         : 1.8.1-1
+Version         : 2.0.3-1
 Description     : Package compiler and linker metadata toolkit
 
 Name            : playerctl
@@ -587,7 +587,7 @@ Version         : 2.4.1-3
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
 
 Name            : polybar
-Version         : 3.7.0-1
+Version         : 3.7.1-1
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
@@ -603,7 +603,7 @@ Version         : 2.15-1
 Description     : A tool to diagnose issues with power consumption and power management
 
 Name            : procs
-Version         : 0.14.3-1
+Version         : 0.14.4-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : progress
@@ -615,7 +615,7 @@ Version         : 9.1.R14-1
 Description     : Pulse Secure VPN client.
 
 Name            : pyenv
-Version         : 1:2.3.32-1
+Version         : 1:2.3.33-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-jmespath
@@ -643,7 +643,7 @@ Version         : 1.7.0-1
 Description     : Python dependency management and packaging made easy
 
 Name            : python-recoverpy
-Version         : 2.1.1-1
+Version         : 2.1.4-1
 Description     : A TUI to recover overwritten or deleted data.
 
 Name            : python-textual
@@ -751,7 +751,7 @@ Version         : 2023.09.2-1
 Description     : Sound Open Firmware
 
 Name            : solaar
-Version         : 1.1.10-1
+Version         : 1.1.10-2
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
@@ -815,7 +815,7 @@ Version         : 4.18.8-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.5.0-1
+Version         : 115.5.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -835,7 +835,7 @@ Version         : 2.37+18+g9b5d1b2f-4
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 6.4.2-1
+Version         : 6.5.0-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-hanazono
@@ -911,11 +911,11 @@ Version         : 7.0.12-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.12-7
+Version         : 7.0.12-8
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : vmware-horizon-client
-Version         : 2309-2
+Version         : 2309.1-1
 Description     : VMware Horizon Client connect to VMware Horizon virtual desktop
 
 Name            : which
