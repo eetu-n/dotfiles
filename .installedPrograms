@@ -219,7 +219,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.16.1-1
+Version         : 0.16.2-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -235,7 +235,7 @@ Version         : 3.10.1-2
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 120.0-1
+Version         : 120.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -255,7 +255,7 @@ Version         : 1.9.9-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.43.0-1
+Version         : 0.44.1-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -499,7 +499,7 @@ Version         : 20230817-1
 Description     : Google Noto CJK fonts
 
 Name            : noto-fonts-emoji
-Version         : 1:2.041-1
+Version         : 1:2.042-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
@@ -645,10 +645,6 @@ Description     : Python dependency management and packaging made easy
 Name            : python-recoverpy
 Version         : 2.1.4-1
 Description     : A TUI to recover overwritten or deleted data.
-
-Name            : python-textual
-Version         : 0.41.0-1
-Description     : Modern Text User Interface framework
 
 Name            : python-zabbix-api
 Version         : 0.5.6-1
@@ -835,7 +831,7 @@ Version         : 2.37+18+g9b5d1b2f-4
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 6.5.0-1
+Version         : 6.5.1-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-hanazono
@@ -1163,7 +1159,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 12.1.3-1
+Version         : 12.2.0-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
