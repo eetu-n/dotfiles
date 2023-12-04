@@ -255,7 +255,7 @@ Version         : 2:2.11.2-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.9-1
+Version         : 1.9.10-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -331,7 +331,7 @@ Version         : 23.9.0.24-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.21-1
+Version         : 7.1.1.22-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -407,7 +407,7 @@ Version         : 6.6.3.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.64-1
+Version         : 6.1.65-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -575,19 +575,19 @@ Version         : 2.1.1-1
 Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
 
 Name            : pipewire
-Version         : 1:1.0.0-1
+Version         : 1:1.0.0-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.0.0-1
+Version         : 1:1.0.0-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.0.0-1
+Version         : 1:1.0.0-2
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.0.0-1
+Version         : 1:1.0.0-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
