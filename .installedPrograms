@@ -674,9 +674,9 @@ Name            : python-pygame
 Version         : 2.4.0-1
 Description     : Python game library
 
-Name            : python-pytorch
+Name            : python-pytorch-opt-cuda
 Version         : 2.1.1-2
-Description     : Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Description     : Tensors and Dynamic neural networks in Python with strong GPU acceleration (with CUDA and AVX2 CPU optimizations)
 
 Name            : python-recoverpy
 Version         : 2.1.4-1
