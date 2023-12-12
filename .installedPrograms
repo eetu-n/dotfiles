@@ -119,15 +119,15 @@ Version         : 2.3.5-2
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.70-1
+Version         : 5.70-2
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.70-1
+Version         : 5.70-2
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.70-1
+Version         : 5.70-2
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 119.0.6045.199-1
+Version         : 120.0.6099.71-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -163,15 +163,15 @@ Version         : 5.70.13-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.84.2-1
+Version         : 1.85.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
-Version         : 1.83.0-1
+Version         : 1.85.0-1
 Description     : Unblock some features in Code OSS
 
 Name            : code-marketplace
-Version         : 1.83.0-1
+Version         : 1.85.0-1
 Description     : Enable vscode marketplace in Code OSS
 
 Name            : cups-pdf
@@ -223,7 +223,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.16.2-1
+Version         : 0.16.3-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -235,7 +235,7 @@ Version         : 8.7.1-1
 Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
-Version         : 3.10.1-2
+Version         : 3.10.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
@@ -295,11 +295,11 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.21.4-1
+Version         : 2:1.21.5-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 119.0.6045.199-1
+Version         : 120.0.6099.71-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -331,7 +331,7 @@ Version         : 23.9.0.24-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.22-1
+Version         : 7.1.1.23-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -343,11 +343,11 @@ Version         : 20231114-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2023.2.5-2
+Version         : 2023.3-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2023.2.5-2
+Version         : 2023.3-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -355,11 +355,11 @@ Version         : 1.8.19-2
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jfrog-cli
-Version         : 2.51.1-1
+Version         : 2.52.2-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
-Version         : 2.11.1-1
+Version         : 2.12.1-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
@@ -379,11 +379,11 @@ Version         : 1.28.4-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.50.1-2
+Version         : 1.50.1-3
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 7.6.3-3
+Version         : 7.6.4-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -395,19 +395,19 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.6.3.arch1-1
+Version         : 6.6.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20231110.74158e7a-1
+Version         : 20231211.f2e52a1c-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.6.3.arch1-1
+Version         : 6.6.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.1.65-1
+Version         : 6.1.67-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -515,7 +515,7 @@ Version         : 1:2.042-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 10.2.4-1
+Version         : 10.2.5-1
 Description     : A package manager for JavaScript
 
 Name            : nuget
@@ -570,10 +570,6 @@ Name            : picom
 Version         : 10.2-1
 Description     : X compositor that may fix tearing issues
 
-Name            : pinta
-Version         : 2.1.1-1
-Description     : Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
-
 Name            : pipewire
 Version         : 1:1.0.0-2
 Description     : Low-latency audio/video router and processor
@@ -591,7 +587,7 @@ Version         : 1:1.0.0-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
-Version         : 2.0.3-1
+Version         : 2.1.0-2
 Description     : Package compiler and linker metadata toolkit
 
 Name            : playerctl
@@ -603,7 +599,7 @@ Version         : 3.7.1-1
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
-Version         : 15.4-2
+Version         : 16.1-1
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
@@ -627,7 +623,7 @@ Version         : 9.1.R14-1
 Description     : Pulse Secure VPN client.
 
 Name            : pyenv
-Version         : 1:2.3.33-1
+Version         : 1:2.3.35-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-gymnasium
@@ -747,7 +743,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.74.0-1
+Version         : 1:1.74.1-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -775,7 +771,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.35.126-1
+Version         : 4.35.131-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -787,7 +783,7 @@ Version         : 1.1.10-2
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 23.08.3-1
+Version         : 23.08.4-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -795,7 +791,7 @@ Version         : 2.1.3-7
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.2.25.1011-1
+Version         : 1:1.2.26.1187-1
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -943,7 +939,7 @@ Version         : 7.0.12-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.12-8
+Version         : 7.0.12-11
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : vmware-horizon-client
