@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 120.0.6099.71-1
+Version         : 120.0.6099.109-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -223,7 +223,7 @@ Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
 Name            : eza
-Version         : 0.16.3-1
+Version         : 0.17.0-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -299,7 +299,7 @@ Version         : 2:1.21.5-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 120.0.6099.71-1
+Version         : 120.0.6099.109-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -343,11 +343,11 @@ Version         : 20231114-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2023.3-1
+Version         : 2023.3.1-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2023.3-1
+Version         : 2023.3.1-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -843,7 +843,7 @@ Version         : 4.18.8-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.5.1-1
+Version         : 115.5.2-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -1019,27 +1019,27 @@ Version         : 1.2.2-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.9-1
+Version         : 21.1.10-1
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 21.1.9-1
+Version         : 21.1.10-1
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 21.1.9-1
+Version         : 21.1.10-1
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 21.1.9-1
+Version         : 21.1.10-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 21.1.9-1
+Version         : 21.1.10-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 21.1.9-1
+Version         : 21.1.10-1
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
