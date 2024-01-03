@@ -255,7 +255,7 @@ Version         : 2:2.11.4-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.10-1
+Version         : 1.9.11-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
