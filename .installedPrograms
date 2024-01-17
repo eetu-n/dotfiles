@@ -83,7 +83,7 @@ Version         : 1.14-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.15.4-1
+Version         : 2.15.10-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -119,15 +119,15 @@ Version         : 2.3.5-2
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.71-3
+Version         : 5.72-2
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.71-3
+Version         : 5.72-2
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.71-3
+Version         : 5.72-2
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 120.0.6099.216-1
+Version         : 120.0.6099.224-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -195,7 +195,7 @@ Version         : 0.12.1-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.23.3-1
+Version         : 2.24.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -259,7 +259,7 @@ Version         : 1.9.11-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.44.1-1
+Version         : 0.45.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -299,7 +299,7 @@ Version         : 2:1.21.6-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 120.0.6099.216-1
+Version         : 120.0.6099.224-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -359,7 +359,7 @@ Version         : 2.52.9-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
-Version         : 2.12.4-1
+Version         : 2.12.5-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
@@ -379,7 +379,7 @@ Version         : 1.29.0-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.50.1-3
+Version         : 1.50.1-4
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
@@ -395,7 +395,7 @@ Version         : 2.4.7+4+g1ec8fa28-6
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.6.10.arch1-1
+Version         : 6.7.arch3-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -403,11 +403,11 @@ Version         : 20231211.f2e52a1c-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.6.10.arch1-1
+Version         : 6.7.arch3-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.11-1
+Version         : 6.6.12-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -571,19 +571,19 @@ Version         : 10.2-1
 Description     : X compositor that may fix tearing issues
 
 Name            : pipewire
-Version         : 1:1.0.0-2
+Version         : 1:1.0.1-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.0.0-2
+Version         : 1:1.0.1-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.0.0-2
+Version         : 1:1.0.1-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.0.0-2
+Version         : 1:1.0.1-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -655,7 +655,7 @@ Version         : 1.26.3-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
-Version         : 23.3.2-1
+Version         : 23.3.2-2
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -931,11 +931,11 @@ Version         : 4.1.0-2
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virtualbox
-Version         : 7.0.12-1
+Version         : 7.0.14-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.12-15
+Version         : 7.0.14-1
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : vmware-horizon-client
@@ -1015,27 +1015,27 @@ Version         : 1.2.2-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.10-1
+Version         : 21.1.11-1
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 21.1.10-1
+Version         : 21.1.11-1
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 21.1.10-1
+Version         : 21.1.11-1
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 21.1.10-1
+Version         : 21.1.11-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 21.1.10-1
+Version         : 21.1.11-1
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 21.1.10-1
+Version         : 21.1.11-1
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
@@ -1159,7 +1159,7 @@ Version         : 1.1.5-1
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
-Version         : 23.2.3-1
+Version         : 23.2.4-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
