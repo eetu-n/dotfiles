@@ -195,7 +195,7 @@ Version         : 0.12.1-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.24.0-1
+Version         : 2.24.1-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -399,7 +399,7 @@ Version         : 6.7.arch3-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20231211.f2e52a1c-1
+Version         : 20240115.9b6d0b08-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
