@@ -222,6 +222,10 @@ Name            : efibootmgr
 Version         : 18-2
 Description     : Linux user-space application to modify the EFI Boot Manager
 
+Name            : evcxr_repl
+Version         : 0.17.0-1
+Description     : A Rust REPL based on evcxr
+
 Name            : eza
 Version         : 0.17.1-1
 Description     : A modern replacement for ls (community fork of exa)
