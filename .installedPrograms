@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 120.0.6099.224-1
+Version         : 121.0.6167.71-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -255,7 +255,7 @@ Version         : 2:2.11.4-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.11-1
+Version         : 1.9.11-2
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -375,7 +375,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : kubectl
-Version         : 1.29.0-1
+Version         : 1.29.1-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -463,7 +463,7 @@ Version         : 38448-1
 Description     : Media player for Linux
 
 Name            : mpv
-Version         : 1:0.37.0-1
+Version         : 1:0.37.0-2
 Description     : a free, open source, and cross-platform media player
 
 Name            : mtpfs
@@ -739,7 +739,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.75.0-1
+Version         : 1:1.75.0-2
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
