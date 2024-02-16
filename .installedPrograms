@@ -63,7 +63,7 @@ Version         : 0.35.2-1
 Description     : Arduino command line interface
 
 Name            : arduino-ide-bin
-Version         : 2.2.1-1
+Version         : 2.3.1-1
 Description     : Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.
 
 Name            : autoconf
@@ -195,7 +195,7 @@ Version         : 0.12.1-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.24.5-1
+Version         : 2.24.6-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -303,7 +303,7 @@ Version         : 2:1.22.0-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 121.0.6167.139-1
+Version         : 121.0.6167.184-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -347,11 +347,11 @@ Version         : 20231114-2
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2023.3.3-1
+Version         : 2023.3.4-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2023.3.3-1
+Version         : 2023.3.4-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -767,7 +767,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.36.138-1
+Version         : 4.36.140-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
