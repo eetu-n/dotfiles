@@ -23,7 +23,7 @@ Version         : 1.2.4-3
 Description     : Firmware binaries for loader programs in alsa-tools and hotplug firmware loader
 
 Name            : alsa-utils
-Version         : 1.2.10-1
+Version         : 1.2.11-1
 Description     : Advanced Linux Sound Architecture - Utilities
 
 Name            : amazon-workspaces-bin
@@ -83,7 +83,7 @@ Version         : 1.14-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.15.17-1
+Version         : 2.15.19-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -103,7 +103,7 @@ Version         : 0.24.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.21-1
+Version         : 9.18.24-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -115,7 +115,7 @@ Version         : 3.8.2-6
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.3.5-2
+Version         : 2.3.5-3
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 121.0.6167.139-2
+Version         : 122.0.6261.39-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -227,7 +227,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.0-1
+Version         : 0.18.3-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -243,7 +243,7 @@ Version         : 3.10.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 122.0-1
+Version         : 122.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -259,7 +259,7 @@ Version         : 2:2.11.4-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.12-1
+Version         : 1.9.13-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -275,7 +275,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.43.0-1
+Version         : 2.43.2-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -299,7 +299,7 @@ Version         : 0.7.1-9
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.21.6-1
+Version         : 2:1.22.0-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
@@ -319,7 +319,7 @@ Version         : 1.1.5-1
 Description     : System monitoring dashboard for terminal
 
 Name            : helm
-Version         : 3.13.3-1
+Version         : 3.14.0-1
 Description     : The Kubernetes Package Manager
 
 Name            : htop
@@ -335,7 +335,7 @@ Version         : 23.11.0.82-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.27-1
+Version         : 7.1.1.28-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -367,7 +367,7 @@ Version         : 2.12.5-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
-Version         : 4.1.0-1
+Version         : 4.1.1-1
 Description     : JupyterLab computational environment
 
 Name            : keepassxc
@@ -399,7 +399,7 @@ Version         : 2.4.7+4+g1ec8fa28-7
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.7.3.arch1-2
+Version         : 6.7.4.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -407,11 +407,11 @@ Version         : 20240115.9b6d0b08-2
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.7.3.arch1-2
+Version         : 6.7.4.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.15-2
+Version         : 6.6.16-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -571,8 +571,8 @@ Version         : 2.1.2-3
 Description     : A tool to search text in PDF files
 
 Name            : picom
-Version         : 11.1-1
-Description     : X compositor that may fix tearing issues
+Version         : 11.2-1
+Description     : A lightweight compositor for X11
 
 Name            : pipewire
 Version         : 1:1.0.3-1
@@ -651,15 +651,15 @@ Version         : 0.8.0-7
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-numpy
-Version         : 1.26.3-1
+Version         : 1.26.4-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
-Version         : 23.3.2-2
+Version         : 24.0-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2023.12.0-1
+Version         : 2023.12.1-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-poetry
@@ -707,7 +707,7 @@ Version         : 2023-1
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : remmina
-Version         : 1:1.4.33-3
+Version         : 1:1.4.34-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -739,7 +739,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.75.0-2
+Version         : 1:1.76.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -751,7 +751,7 @@ Version         : 1.10-1
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
-Version         : 0.20.0-2
+Version         : 0.20.0-4
 Description     : QML based X11 and Wayland display manager
 
 Name            : sddm-theme-aerial-git
@@ -779,7 +779,7 @@ Version         : 1.1.10-2
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 23.08.4-1
+Version         : 23.08.5-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -847,7 +847,7 @@ Version         : 1.13.1-3
 Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
-Version         : 3.3_a-7
+Version         : 3.4-3
 Description     : Terminal multiplexer
 
 Name            : traceroute
@@ -887,7 +887,7 @@ Version         : 3.1.0-1
 Description     : Set the system timezone based on IP geolocation
 
 Name            : udiskie
-Version         : 2.5.1-1
+Version         : 2.5.2-1
 Description     : Removable disk automounter using udisks
 
 Name            : unzip
@@ -919,7 +919,7 @@ Version         : 1.15.5-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0000-1
+Version         : 9.1.0080-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -935,7 +935,7 @@ Version         : 7.0.14-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.14-6
+Version         : 7.0.14-7
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : vmware-horizon-client
