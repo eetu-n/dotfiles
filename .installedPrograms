@@ -63,7 +63,7 @@ Version         : 0.35.2-1
 Description     : Arduino command line interface
 
 Name            : arduino-ide-bin
-Version         : 2.3.1-1
+Version         : 2.3.2-1
 Description     : Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.
 
 Name            : autoconf
@@ -303,7 +303,7 @@ Version         : 2:1.22.0-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 121.0.6167.184-1
+Version         : 122.0.6261.57-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -787,7 +787,7 @@ Version         : 2.1.3-7
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.2.26.1187-1
+Version         : 1:1.2.26.1187-2
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -1187,7 +1187,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 12.2.0-1
+Version         : 12.3.0-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
