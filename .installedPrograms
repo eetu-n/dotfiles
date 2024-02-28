@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 122.0.6261.57-1
+Version         : 122.0.6261.94-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -227,7 +227,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.3-1
+Version         : 0.18.4-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -259,7 +259,7 @@ Version         : 2:2.11.4-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.13-2
+Version         : 1.9.14-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -275,7 +275,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.43.2-1
+Version         : 2.44.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -303,7 +303,7 @@ Version         : 2:1.22.0-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 122.0.6261.57-1
+Version         : 122.0.6261.94-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -339,7 +339,7 @@ Version         : 23.11.0.82-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.28-1
+Version         : 7.1.1.29-2
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -363,7 +363,7 @@ Version         : 1.8.19-2
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : jfrog-cli
-Version         : 2.52.10-1
+Version         : 2.53.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -382,6 +382,10 @@ Name            : keychain
 Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
+Name            : krita
+Version         : 5.2.2-5
+Description     : Edit and paint images
+
 Name            : kubectl
 Version         : 1.29.2-1
 Description     : A command line tool for communicating with a Kubernetes API server
@@ -391,7 +395,7 @@ Version         : 1.52.0-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 24.2.0-1
+Version         : 24.2.0-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -403,7 +407,7 @@ Version         : 2.4.7+4+g1ec8fa28-7
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.7.5.arch1-1
+Version         : 6.7.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -411,11 +415,11 @@ Version         : 20240220.97b693d2-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.7.5.arch1-1
+Version         : 6.7.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.17-1
+Version         : 6.6.18-1
 Description     : The LTS Linux kernel and modules
 
 Name            : logiops
@@ -531,7 +535,7 @@ Version         : 6.5.0-1
 Description     : Package manager for .NET.
 
 Name            : obsidian
-Version         : 1.5.3-4
+Version         : 1.5.8-2
 Description     : A powerful knowledge base that works on top of a local folder of plain text Markdown files
 
 Name            : openconnect
@@ -707,7 +711,7 @@ Version         : 2023-1
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : remmina
-Version         : 1:1.4.34-1
+Version         : 1:1.4.35-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -787,7 +791,7 @@ Version         : 2.1.3-7
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.2.26.1187-2
+Version         : 1:1.2.31.1205-2
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -795,7 +799,7 @@ Version         : 1.10-1
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 6.6-1
+Version         : 6.7-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
@@ -839,7 +843,7 @@ Version         : 4.18.10-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.7.0-2
+Version         : 115.8.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -935,7 +939,7 @@ Version         : 7.0.14-2
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-modules-arch
-Version         : 7.0.14-8
+Version         : 7.0.14-9
 Description     : Virtualbox host kernel modules for Arch Kernel
 
 Name            : vmware-horizon-client
@@ -1203,7 +1207,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 5.17.5-1
+Version         : 5.17.10-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
