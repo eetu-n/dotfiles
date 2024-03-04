@@ -79,7 +79,7 @@ Version         : 1.16.5-2
 Description     : A GNU tool for automatically creating Makefiles
 
 Name            : autorandr
-Version         : 1.14-1
+Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
@@ -163,7 +163,7 @@ Version         : 5.80.04-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.86.2-1
+Version         : 1.87.0-2
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
@@ -391,7 +391,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : krita
-Version         : 5.2.2-5
+Version         : 5.2.2-7
 Description     : Edit and paint images
 
 Name            : kubectl
@@ -399,7 +399,7 @@ Version         : 1.29.2-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.52.0-1
+Version         : 1.52.0-2
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
@@ -415,7 +415,7 @@ Version         : 2.4.7+4+g1ec8fa28-7
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.7.6.arch1-2
+Version         : 6.7.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -423,15 +423,15 @@ Version         : 20240220.97b693d2-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.7.6.arch1-2
+Version         : 6.7.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.18-1
+Version         : 6.6.20-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.18-1
+Version         : 6.6.20-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -583,7 +583,7 @@ Version         : 1.7.1-1
 Description     : PC/SC Architecture smartcard tools
 
 Name            : pdfgrep
-Version         : 2.1.2-3
+Version         : 2.1.2-4
 Description     : A tool to search text in PDF files
 
 Name            : picom
@@ -679,7 +679,7 @@ Version         : 2023.12.1-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-poetry
-Version         : 1.8.1-1
+Version         : 1.8.2-1
 Description     : Python dependency management and packaging made easy
 
 Name            : python-pygame
@@ -1023,7 +1023,7 @@ Version         : 1.0.4-1
 Description     : X.org 75dpi fonts
 
 Name            : xorg-fonts-encodings
-Version         : 1.0.7-1
+Version         : 1.1.0-1
 Description     : X.org font encoding files
 
 Name            : xorg-iceauth
@@ -1031,7 +1031,7 @@ Version         : 1.0.9-1
 Description     : ICE authority file utility
 
 Name            : xorg-mkfontscale
-Version         : 1.2.2-1
+Version         : 1.2.3-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
@@ -1075,7 +1075,7 @@ Version         : 1.6.2-1
 Description     : Simple X server performance benchmarker
 
 Name            : xorg-xauth
-Version         : 1.1.2-1
+Version         : 1.1.3-1
 Description     : X.Org authorization settings program
 
 Name            : xorg-xcmsdb
@@ -1095,7 +1095,7 @@ Version         : 1.0.7-1
 Description     : Query configuration information of DRI drivers
 
 Name            : xorg-xev
-Version         : 1.2.5-1
+Version         : 1.2.6-1
 Description     : Print contents of X events
 
 Name            : xorg-xgamma
@@ -1139,7 +1139,7 @@ Version         : 1.1.5-1
 Description     : List client applications running on a display
 
 Name            : xorg-xlsfonts
-Version         : 1.0.7-1
+Version         : 1.0.8-1
 Description     : List available X fonts
 
 Name            : xorg-xmodmap
