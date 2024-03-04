@@ -63,7 +63,7 @@ Version         : 0.35.2-1
 Description     : Arduino command line interface
 
 Name            : arduino-ide-bin
-Version         : 2.3.2-1
+Version         : 2.3.2-2
 Description     : Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.
 
 Name            : autoconf
@@ -167,11 +167,11 @@ Version         : 1.87.0-2
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
-Version         : 1.85.0-1
+Version         : 1.87.0-2
 Description     : Unblock some features in Code OSS
 
 Name            : code-marketplace
-Version         : 1.85.0-1
+Version         : 1.87.0-2
 Description     : Enable vscode marketplace in Code OSS
 
 Name            : cups-pdf
@@ -523,7 +523,7 @@ Version         : 1.24.0-3
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nomacs
-Version         : 1:3.17.2287-2
+Version         : 1:3.17.2295-2
 Description     : A Qt image viewer
 
 Name            : noto-fonts
@@ -623,7 +623,7 @@ Version         : 16.1-5
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.4.1-1
+Version         : 7.4.1-2
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
@@ -647,7 +647,7 @@ Version         : 1:2.3.36-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-imageio
-Version         : 2.33.1-1
+Version         : 2.34.0-1
 Description     : a Python library that provides an easy interface to read and write a wide range of image data
 
 Name            : python-ipdb
