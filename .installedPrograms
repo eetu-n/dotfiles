@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 122.0.6261.94-1
+Version         : 122.0.6261.111-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -195,7 +195,7 @@ Version         : 1:25.0.3-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.12.1-1
+Version         : 0.13.0-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
@@ -231,7 +231,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.5-1
+Version         : 0.18.6-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -247,7 +247,7 @@ Version         : 3.10.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 123.0-1
+Version         : 123.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -375,11 +375,11 @@ Version         : 2.53.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
-Version         : 2.12.5-1
+Version         : 2.13.0-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
-Version         : 4.1.2-1
+Version         : 4.1.3-1
 Description     : JupyterLab computational environment
 
 Name            : keepassxc
@@ -651,7 +651,7 @@ Version         : 2.34.0-1
 Description     : a Python library that provides an easy interface to read and write a wide range of image data
 
 Name            : python-ipdb
-Version         : 0.13.13-1
+Version         : 0.13.13-2
 Description     : IPython-enabled pdb
 
 Name            : python-jmespath
@@ -703,7 +703,7 @@ Version         : 3.9.18-2
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : qemu-full
-Version         : 8.2.1-2
+Version         : 8.2.2-1
 Description     : A full QEMU setup
 
 Name            : qpwgraph
@@ -791,7 +791,7 @@ Version         : 4.36.140-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
-Version         : 2023.12-1
+Version         : 2023.12.1-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -859,7 +859,7 @@ Version         : 4.18.10-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.8.0-1
+Version         : 115.8.1-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -939,7 +939,7 @@ Version         : 1.15.6-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0080-1
+Version         : 9.1.0151-2
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -949,6 +949,10 @@ Description     : A vim plugin for syntax highlighting Ansible's common filetype
 Name            : virt-manager
 Version         : 4.1.0-2
 Description     : Desktop user interface for managing virtual machines
+
+Name            : virt-viewer
+Version         : 11.0-2
+Description     : A lightweight interface for interacting with the graphical display of virtualized guest OS.
 
 Name            : virtualbox
 Version         : 7.0.14-2
@@ -1147,7 +1151,7 @@ Version         : 1.0.11-1
 Description     : Utility for modifying keymaps and button mappings
 
 Name            : xorg-xpr
-Version         : 1.1.0-1
+Version         : 1.2.0-1
 Description     : Print an X window dump from xwd
 
 Name            : xorg-xprop
@@ -1163,7 +1167,7 @@ Version         : 1.2.2-1
 Description     : X server resource database utility
 
 Name            : xorg-xrefresh
-Version         : 1.0.7-1
+Version         : 1.1.0-1
 Description     : Refresh all or part of an X screen
 
 Name            : xorg-xset
