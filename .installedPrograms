@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 122.0.6261.128-1
+Version         : 123.0.6312.46-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -219,7 +219,7 @@ Version         : 1.10.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : dust
-Version         : 0.9.0-1
+Version         : 0.9.0-2
 Description     : A more intuitive version of du in rust
 
 Name            : efibootmgr
@@ -247,7 +247,7 @@ Version         : 3.10.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 123.0.1-1
+Version         : 124.0-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -287,11 +287,11 @@ Version         : 0.14.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
-Version         : 0.16.5-1
+Version         : 0.17.0-1
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
-Version         : 1:46.1-1
+Version         : 1:46.1-2
 Description     : Stores passwords and encryption keys
 
 Name            : gnu-free-fonts
@@ -379,7 +379,7 @@ Version         : 2.13.0-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
-Version         : 4.1.4-1
+Version         : 4.1.5-1
 Description     : JupyterLab computational environment
 
 Name            : keepassxc
@@ -395,7 +395,7 @@ Version         : 5.2.2-8
 Description     : Edit and paint images
 
 Name            : kubectl
-Version         : 1.29.2-1
+Version         : 1.29.3-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
@@ -403,7 +403,7 @@ Version         : 1.52.0-3
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 24.2.1-3
+Version         : 24.2.1-4
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -415,7 +415,7 @@ Version         : 2.4.7+4+g1ec8fa28-7
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.7.9.arch1-1
+Version         : 6.8.1.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -423,15 +423,15 @@ Version         : 20240312.3b128b60-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.7.9.arch1-1
+Version         : 6.8.1.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.21-1
+Version         : 6.6.22-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.21-1
+Version         : 6.6.22-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -607,7 +607,7 @@ Version         : 1:1.0.4-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
-Version         : 2.1.0-2
+Version         : 2.1.1-1
 Description     : Package compiler and linker metadata toolkit
 
 Name            : playerctl
@@ -875,7 +875,7 @@ Version         : 2.1.5-1
 Description     : Tracks the route taken by packets over an IP network
 
 Name            : ttf-dejavu
-Version         : 2.37+18+g9b5d1b2f-6
+Version         : 2.37+18+g9b5d1b2f-7
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
@@ -1039,27 +1039,27 @@ Version         : 1.2.3-1
 Description     : Create an index of scalable font files for X
 
 Name            : xorg-server
-Version         : 21.1.11-1
+Version         : 21.1.11-2
 Description     : Xorg X server
 
 Name            : xorg-server-common
-Version         : 21.1.11-1
+Version         : 21.1.11-2
 Description     : Xorg server common files
 
 Name            : xorg-server-devel
-Version         : 21.1.11-1
+Version         : 21.1.11-2
 Description     : Development files for the X.Org X server
 
 Name            : xorg-server-xephyr
-Version         : 21.1.11-1
+Version         : 21.1.11-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xnest
-Version         : 21.1.11-1
+Version         : 21.1.11-2
 Description     : A nested X server that runs as an X application
 
 Name            : xorg-server-xvfb
-Version         : 21.1.11-1
+Version         : 21.1.11-2
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
