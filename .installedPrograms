@@ -103,7 +103,7 @@ Version         : 0.24.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.24-1
+Version         : 9.18.25-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 123.0.6312.46-1
+Version         : 123.0.6312.58-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -181,6 +181,10 @@ Description     : PDF printer for cups
 Name            : debtap
 Version         : 3.5.1-1
 Description     : A script to convert .deb packages to Arch Linux packages, focused on accuracy. Do not use it to convert packages that already exist on official repositories or can be built from AUR!
+
+Name            : debugedit
+Version         : 5.0-5
+Description     : Tool to mangle source locations in .debug files
 
 Name            : diffpdf
 Version         : 2.1.3.1-4
@@ -231,7 +235,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.7-1
+Version         : 0.18.8-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -835,23 +839,23 @@ Version         : 7.1-2
 Description     : GNU documentation system for on-line information and printed output
 
 Name            : texlive-bin
-Version         : 2023.66984-19
+Version         : 2024.0-1
 Description     : TeX Live binaries
 
 Name            : texlive-latex
-Version         : 2023.66594-20
+Version         : 2024.0-2
 Description     : TeX Live - LaTeX fundamental packages
 
 Name            : texlive-latexextra
-Version         : 2023.66594-20
+Version         : 2024.0-2
 Description     : TeX Live - LaTeX additional packages
 
 Name            : texlive-latexrecommended
-Version         : 2023.66594-20
+Version         : 2024.0-2
 Description     : TeX Live - LaTeX recommended packages
 
 Name            : texlive-mathscience
-Version         : 2023.66594-20
+Version         : 2024.0-2
 Description     : TeX Live - Mathematics, natural sciences, computer science packages
 
 Name            : thunar
