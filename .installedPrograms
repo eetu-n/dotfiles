@@ -359,11 +359,11 @@ Version         : 20240312-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2023.3.5-1
+Version         : 2023.3.6-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2023.3.5-1
+Version         : 2023.3.6-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -479,7 +479,7 @@ Version         : 3.4.2-1
 Description     : An extensible music server written in Python
 
 Name            : mosh
-Version         : 1.4.0-6
+Version         : 1.4.0-8
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
@@ -719,7 +719,7 @@ Version         : 4.8.7-35
 Description     : Prebuilt binary for Qt4. Alternative for faster installing.
 
 Name            : ranger
-Version         : 1.9.3-9
+Version         : 1.9.3-10
 Description     : Simple, vim-like file manager
 
 Name            : redshift
@@ -763,7 +763,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.76.0-2
+Version         : 1:1.77.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -803,7 +803,7 @@ Version         : 1.1.11-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 24.02.0-2
+Version         : 24.02.1-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -863,7 +863,7 @@ Version         : 4.18.10-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 115.8.1-1
+Version         : 115.9.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
