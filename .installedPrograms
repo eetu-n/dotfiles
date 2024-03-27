@@ -15,7 +15,7 @@ Version         : 1.11-3
 Description     : Apple TV4 HD aerial movies in 2k
 
 Name            : alacritty
-Version         : 0.13.1-1
+Version         : 0.13.2-1
 Description     : A cross-platform, GPU-accelerated terminal emulator
 
 Name            : alsa-firmware
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 123.0.6312.58-1
+Version         : 123.0.6312.86-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -195,7 +195,7 @@ Version         : 2.90-1
 Description     : Lightweight, easy to configure DNS forwarder and DHCP server
 
 Name            : docker
-Version         : 1:25.0.4-1
+Version         : 1:26.0.0-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
@@ -203,7 +203,7 @@ Version         : 0.13.1-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.24.7-1
+Version         : 2.26.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -223,7 +223,7 @@ Version         : 1.10.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : dust
-Version         : 0.9.0-2
+Version         : 1.0.0-2
 Description     : A more intuitive version of du in rust
 
 Name            : efibootmgr
@@ -235,7 +235,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.8-1
+Version         : 0.18.9-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -251,7 +251,7 @@ Version         : 3.10.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 124.0-1
+Version         : 124.0.1-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -263,7 +263,7 @@ Version         : 7.0.7.0246-2
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
-Version         : 2:2.11.4-1
+Version         : 2:3.4.0-5
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -271,7 +271,7 @@ Version         : 1.9.15-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.48.0-1
+Version         : 0.48.1-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
@@ -291,7 +291,7 @@ Version         : 0.14.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
-Version         : 0.17.0-1
+Version         : 0.17.0-2
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -311,7 +311,7 @@ Version         : 2:1.22.1-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 123.0.6312.58-1
+Version         : 123.0.6312.86-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -327,7 +327,7 @@ Version         : 1.1.5-1
 Description     : System monitoring dashboard for terminal
 
 Name            : helm
-Version         : 3.14.2-1
+Version         : 3.14.3-1
 Description     : The Kubernetes Package Manager
 
 Name            : helvum
@@ -407,7 +407,7 @@ Version         : 1.52.0-3
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 24.2.1-4
+Version         : 24.2.1-5
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -503,7 +503,7 @@ Version         : 0.9.2-16
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : neovim
-Version         : 0.9.5-2
+Version         : 0.9.5-4
 Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
 
 Name            : net-tools
@@ -551,7 +551,7 @@ Version         : 6.5.0-1
 Description     : Package manager for .NET.
 
 Name            : obsidian
-Version         : 1.5.8-2
+Version         : 1.5.11-1
 Description     : A powerful knowledge base that works on top of a local folder of plain text Markdown files
 
 Name            : openconnect
@@ -587,7 +587,7 @@ Version         : 1.7.1-1
 Description     : PC/SC Architecture smartcard tools
 
 Name            : pdfgrep
-Version         : 2.1.2-4
+Version         : 2.2.0-1
 Description     : A tool to search text in PDF files
 
 Name            : picom
@@ -595,19 +595,19 @@ Version         : 11.2-1
 Description     : A lightweight compositor for X11
 
 Name            : pipewire
-Version         : 1:1.0.4-1
+Version         : 1:1.0.4-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.0.4-1
+Version         : 1:1.0.4-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.0.4-1
+Version         : 1:1.0.4-2
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.0.4-1
+Version         : 1:1.0.4-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -703,7 +703,7 @@ Version         : 3.7.17-1
 Description     : Major release 3.7 of the Python high-level programming language
 
 Name            : python39
-Version         : 3.9.18-2
+Version         : 3.9.19-1
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : qemu-full
@@ -731,7 +731,7 @@ Version         : 2023-1
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : remmina
-Version         : 1:1.4.35-1
+Version         : 1:1.4.35-2
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -791,7 +791,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.36.140-1
+Version         : 4.37.94-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -843,19 +843,19 @@ Version         : 2024.0-1
 Description     : TeX Live binaries
 
 Name            : texlive-latex
-Version         : 2024.0-2
+Version         : 2024.0-3
 Description     : TeX Live - LaTeX fundamental packages
 
 Name            : texlive-latexextra
-Version         : 2024.0-2
+Version         : 2024.0-3
 Description     : TeX Live - LaTeX additional packages
 
 Name            : texlive-latexrecommended
-Version         : 2024.0-2
+Version         : 2024.0-3
 Description     : TeX Live - LaTeX recommended packages
 
 Name            : texlive-mathscience
-Version         : 2024.0-2
+Version         : 2024.0-3
 Description     : TeX Live - Mathematics, natural sciences, computer science packages
 
 Name            : thunar
@@ -927,11 +927,11 @@ Version         : 017-1
 Description     : A collection of USB tools to query connected USB devices
 
 Name            : v4l2loopback-dkms
-Version         : 0.12.7-2
+Version         : 0.13.1-1
 Description     : v4l2-loopback device – module sources
 
 Name            : v4l2loopback-utils
-Version         : 0.12.7-2
+Version         : 0.13.1-1
 Description     : v4l2-loopback device – utilities only
 
 Name            : vagrant
@@ -939,7 +939,7 @@ Version         : 2.4.1-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.15.6-1
+Version         : 1.16.0-1
 Description     : A tool for managing secrets
 
 Name            : vim
@@ -1015,7 +1015,7 @@ Version         : 1.1.1-1
 Description     : Convert X font from Bitmap Distribution Format to Portable Compiled Format
 
 Name            : xorg-docs
-Version         : 1.7.2-2
+Version         : 1.7.3-1
 Description     : X.org documentations
 
 Name            : xorg-font-util
@@ -1215,7 +1215,7 @@ Version         : 0.4.4-2
 Description     : Outputs X window titles
 
 Name            : yay-bin
-Version         : 12.3.4-1
+Version         : 12.3.5-1
 Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yq
