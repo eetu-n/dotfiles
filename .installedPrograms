@@ -379,7 +379,7 @@ Version         : 1:1.8.10-1
 Description     : Linux kernel packet control tool (using nft interface)
 
 Name            : jdk17-openjdk
-Version         : 17.0.10.u7-1
+Version         : 17.0.10.u7-3
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
@@ -427,7 +427,7 @@ Version         : 2.4.7+4+g1ec8fa28-7
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.8.2.arch2-1
+Version         : 6.8.4.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -435,15 +435,15 @@ Version         : 20240312.3b128b60-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.8.2.arch2-1
+Version         : 6.8.4.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.24-1
+Version         : 6.6.25-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.24-1
+Version         : 6.6.25-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -767,7 +767,7 @@ Version         : 1.4-2
 Description     : Simple keepassxc-cli frontend in rofi
 
 Name            : rsync
-Version         : 3.2.7-6
+Version         : 3.3.0-1
 Description     : A fast and versatile file copying tool for remote and local files
 
 Name            : ruby-mdless
