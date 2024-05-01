@@ -35,7 +35,7 @@ Version         : 1.7-1
 Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
 
 Name            : android-studio
-Version         : 2023.2.1.25-1
+Version         : 2023.3.1.18-1
 Description     : The official Android IDE (Stable branch)
 
 Name            : arandr
@@ -59,7 +59,7 @@ Version         : 1:1.8.19-2
 Description     : Arduino prototyping platform SDK
 
 Name            : arduino-cli
-Version         : 0.35.2-1
+Version         : 0.35.3-1
 Description     : Arduino command line interface
 
 Name            : arduino-ide-bin
@@ -83,7 +83,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.15.40-5
+Version         : 2.15.42-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -103,7 +103,7 @@ Version         : 0.24.0-1
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.26-1
+Version         : 9.18.26-2
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 124.0.6367.91-1
+Version         : 124.0.6367.118-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -251,7 +251,7 @@ Version         : 3.10.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 125.0.2-1
+Version         : 125.0.3-1
 Description     : Standalone web browser from mozilla.org
 
 Name            : flex
@@ -283,7 +283,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.44.0-1
+Version         : 2.45.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -311,7 +311,7 @@ Version         : 2:1.22.2-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 124.0.6367.91-1
+Version         : 124.0.6367.118-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -339,7 +339,7 @@ Version         : 0.5.1-1
 Description     : GTK patchbay for PipeWire
 
 Name            : htop
-Version         : 3.3.0-1
+Version         : 3.3.0-2
 Description     : Interactive process viewer
 
 Name            : hyperfine
@@ -363,11 +363,11 @@ Version         : 20240312-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2024.1-1
+Version         : 2024.1.1-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2024.1-1
+Version         : 2024.1.1-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -427,7 +427,7 @@ Version         : 2.4.7+4+g1ec8fa28-7
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.8.7.arch1-2
+Version         : 6.8.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -435,7 +435,7 @@ Version         : 20240409.1addd7dc-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.8.7.arch1-2
+Version         : 6.8.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -511,7 +511,7 @@ Version         : 1.1-4
 Description     : A FUSE filesystem that supports reading and writing from any MTP device
 
 Name            : ncmpcpp
-Version         : 0.9.2-17
+Version         : 0.9.2-18
 Description     : Almost exact clone of ncmpc with some new features
 
 Name            : neovim
@@ -543,7 +543,7 @@ Version         : 1:3.17.2295-3
 Description     : A Qt image viewer
 
 Name            : noto-fonts
-Version         : 1:24.4.1-1
+Version         : 1:24.5.1-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-cjk
@@ -579,7 +579,7 @@ Version         : 2.6.7-2
 Description     : Lightweight Directory Access Protocol (LDAP) client and server
 
 Name            : openssh
-Version         : 9.7p1-1
+Version         : 9.7p1-2
 Description     : SSH protocol implementation for remote login, command execution and file transfer
 
 Name            : p7zip
@@ -763,7 +763,7 @@ Version         : 1.4-2
 Description     : Simple keepassxc-cli frontend in rofi
 
 Name            : rsync
-Version         : 3.3.0-1
+Version         : 3.3.0-2
 Description     : A fast and versatile file copying tool for remote and local files
 
 Name            : ruby-mdless
@@ -779,7 +779,7 @@ Version         : 9.31-4
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : scrot
-Version         : 1.10-2
+Version         : 1.10-3
 Description     : Simple command-line screenshot utility for X
 
 Name            : sddm
@@ -799,7 +799,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.37.101-1
+Version         : 4.38.115-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : sof-firmware
@@ -867,7 +867,7 @@ Version         : 2024.2-1
 Description     : TeX Live - Mathematics, natural sciences, computer science packages
 
 Name            : thunar
-Version         : 4.18.10-1
+Version         : 4.18.10-2
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
@@ -879,7 +879,7 @@ Version         : 1.13.1-3
 Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
-Version         : 3.4-6
+Version         : 3.4-7
 Description     : Terminal multiplexer
 
 Name            : traceroute
@@ -951,7 +951,7 @@ Version         : 1.16.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0378-1
+Version         : 9.1.0380-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -995,7 +995,7 @@ Version         : 1.2.4.1-7
 Description     : Lightweight passphrase dialog for SSH
 
 Name            : xclip
-Version         : 0.13-4
+Version         : 0.13-5
 Description     : Command line interface to the X11 clipboard
 
 Name            : xcursor-breeze
