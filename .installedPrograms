@@ -259,7 +259,7 @@ Version         : 2.6.4-5
 Description     : A tool for generating text-scanning programs
 
 Name            : forticlient-vpn
-Version         : 7.0.7.0246-2
+Version         : 7.2.2.0753-2
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
