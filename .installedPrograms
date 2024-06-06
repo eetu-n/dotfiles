@@ -235,7 +235,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.16-1
+Version         : 0.18.17-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -739,7 +739,7 @@ Version         : 1.9.3-11
 Description     : Simple, vim-like file manager
 
 Name            : redshift
-Version         : 1.12-11
+Version         : 1.12-12
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : reflector
@@ -963,7 +963,7 @@ Version         : 2.4.1-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.16.2-1
+Version         : 1.16.3-1
 Description     : A tool for managing secrets
 
 Name            : vim
