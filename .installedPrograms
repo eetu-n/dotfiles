@@ -562,6 +562,10 @@ Name            : npm
 Version         : 10.8.1-1
 Description     : A package manager for JavaScript
 
+Name            : nsxiv
+Version         : 32-4
+Description     : Neo (or New or Not) Simple (or Small or Suckless) X Image Viewer
+
 Name            : nuget
 Version         : 6.5.0-1
 Description     : Package manager for .NET.
@@ -749,10 +753,6 @@ Description     : A protocol plugin for Remmina to open a RDP connection with rd
 Name            : reptyr
 Version         : 0.10.0-1
 Description     : Utility for taking an existing running program and attaching it to a new terminal
-
-Name            : ristretto
-Version         : 0.13.2-1
-Description     : A fast and lightweight picture viewer for Xfce
 
 Name            : rofi-dmenu
 Version         : 2.0.0-1
