@@ -139,7 +139,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 126.0.6478.114-1
+Version         : 126.0.6478.126-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -311,7 +311,7 @@ Version         : 2:1.22.4-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 126.0.6478.114-1
+Version         : 126.0.6478.126-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -383,7 +383,7 @@ Version         : 17.0.11.u9-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.58.2-1
+Version         : 2.59.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -403,7 +403,7 @@ Version         : 2.8.5-2
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : krita
-Version         : 5.2.2-10
+Version         : 5.2.3-1
 Description     : Edit and paint images
 
 Name            : kubectl
@@ -546,10 +546,6 @@ Name            : nix-docs
 Version         : 2.23.0-1
 Description     : A purely functional package manager (documentation)
 
-Name            : nomacs
-Version         : 1:3.17.2295-3
-Description     : A Qt image viewer
-
 Name            : noto-fonts
 Version         : 1:24.6.1-1
 Description     : Google Noto TTF fonts
@@ -569,10 +565,6 @@ Description     : A package manager for JavaScript
 Name            : nuget
 Version         : 6.5.0-1
 Description     : Package manager for .NET.
-
-Name            : obsidian
-Version         : 1.6.3-2
-Description     : A powerful knowledge base that works on top of a local folder of plain text Markdown files
 
 Name            : openconnect
 Version         : 1:9.12-1
@@ -687,7 +679,7 @@ Version         : 1.2.1-1
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-numpy
-Version         : 1.26.4-2
+Version         : 2.0.0-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
@@ -825,10 +817,6 @@ Description     : Sound Open Firmware
 Name            : solaar
 Version         : 1.1.13-1
 Description     : Linux device manager for a wide range of Logitech devices
-
-Name            : spectacle
-Version         : 24.05.1-2
-Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
 Version         : 2.1.3-8
