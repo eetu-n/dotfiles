@@ -650,10 +650,6 @@ Name            : progress
 Version         : 0.17-1
 Description     : Shows running coreutils basic commands and displays stats
 
-Name            : pulsesecure
-Version         : 9.1.R14-1
-Description     : Pulse Secure VPN client.
-
 Name            : pyenv
 Version         : 1:2.4.3-1
 Description     : Easily switch between multiple versions of Python
