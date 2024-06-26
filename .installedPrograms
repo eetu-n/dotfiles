@@ -30,10 +30,6 @@ Name            : amazon-workspaces-bin
 Version         : 4.7.0.4312-1
 Description     : Amazon Workspace Client
 
-Name            : amtterm
-Version         : 1.7-1
-Description     : Tools to connect to Intel AMT enabled machines via Serial-Over-LAN
-
 Name            : android-studio
 Version         : 2024.1.1.11-1
 Description     : The official Android IDE (Stable branch)
