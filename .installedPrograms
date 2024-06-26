@@ -482,10 +482,6 @@ Name            : maven
 Version         : 3.9.8-1
 Description     : Java project management and project comprehension tool
 
-Name            : maven39
-Version         : 3.9.6-1
-Description     : Java project management and project comprehension tool (v3.9)
-
 Name            : mopidy
 Version         : 3.4.2-2
 Description     : An extensible music server written in Python
