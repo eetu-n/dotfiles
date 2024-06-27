@@ -231,7 +231,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.19-1
+Version         : 0.18.20-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -247,7 +247,7 @@ Version         : 3.10.2-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 127.0.1-1
+Version         : 127.0.2-1
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -387,7 +387,7 @@ Version         : 2.14.1-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
-Version         : 4.2.2-1
+Version         : 4.2.3-1
 Description     : JupyterLab computational environment
 
 Name            : keepassxc
@@ -935,7 +935,7 @@ Version         : 2.4.1-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.16.3-1
+Version         : 1.17.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
