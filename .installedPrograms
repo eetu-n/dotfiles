@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.0-1
+Version         : 2.17.4-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -254,6 +254,10 @@ Name            : flex
 Version         : 2.6.4-5
 Description     : A tool for generating text-scanning programs
 
+Name            : foot
+Version         : 1.17.2-1
+Description     : Fast, lightweight, and minimalistic Wayland terminal emulator
+
 Name            : forticlient-vpn
 Version         : 7.4.0.1636-1
 Description     : Build through the official package of FortiClient VPN only
@@ -379,7 +383,7 @@ Version         : 17.0.11.u9-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.59.0-1
+Version         : 2.59.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -531,11 +535,11 @@ Version         : 1.26.1-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nix
-Version         : 2.23.0-1
+Version         : 2.23.1-1
 Description     : A purely functional package manager
 
 Name            : nix-docs
-Version         : 2.23.0-1
+Version         : 2.23.1-1
 Description     : A purely functional package manager (documentation)
 
 Name            : noto-fonts
@@ -787,7 +791,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.38.125-1
+Version         : 4.39.88-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : snapd
@@ -965,6 +969,10 @@ Description     : VirtualBox Host kernel modules sources
 Name            : vmware-horizon-client
 Version         : 2312.1-1
 Description     : VMware Horizon Client connect to VMware Horizon virtual desktop
+
+Name            : weston
+Version         : 13.0.1-1
+Description     : Reference implementation of a Wayland compositor
 
 Name            : which
 Version         : 2.21-6
