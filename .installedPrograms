@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.4-1
+Version         : 2.17.6-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -171,7 +171,7 @@ Version         : 1.90.0-1
 Description     : Enable vscode marketplace in Code OSS
 
 Name            : cups-pdf
-Version         : 3.0.1-7
+Version         : 3.0.1-8
 Description     : PDF printer for cups
 
 Name            : debtap
@@ -191,7 +191,7 @@ Version         : 2.90-1
 Description     : Lightweight, easy to configure DNS forwarder and DHCP server
 
 Name            : docker
-Version         : 1:26.1.4-1
+Version         : 1:27.0.3-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
@@ -231,7 +231,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.20-1
+Version         : 0.18.21-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -427,7 +427,7 @@ Version         : 2.5.0+14+g9a4a0261-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.9.6.arch1-1
+Version         : 6.9.7.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -435,15 +435,15 @@ Version         : 20240610.9c10a208-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.9.6.arch1-1
+Version         : 6.9.7.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.35-2
+Version         : 6.6.36-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.35-2
+Version         : 6.6.36-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -543,7 +543,7 @@ Version         : 2.23.1-1
 Description     : A purely functional package manager (documentation)
 
 Name            : noto-fonts
-Version         : 1:24.6.1-1
+Version         : 1:24.7.1-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-cjk
@@ -575,11 +575,11 @@ Version         : 1.22.0-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
-Version         : 2.6.7-2
+Version         : 2.6.8-1
 Description     : Lightweight Directory Access Protocol (LDAP) client and server
 
 Name            : openssh
-Version         : 9.7p1-2
+Version         : 9.8p1-1
 Description     : SSH protocol implementation for remote login, command execution and file transfer
 
 Name            : p7zip
@@ -607,19 +607,19 @@ Version         : 11.2-1
 Description     : A lightweight compositor for X11
 
 Name            : pipewire
-Version         : 1:1.0.7-2
+Version         : 1:1.2.0-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.0.7-2
+Version         : 1:1.2.0-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.0.7-2
+Version         : 1:1.2.0-2
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.0.7-2
+Version         : 1:1.2.0-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -635,7 +635,7 @@ Version         : 3.7.1-1
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
-Version         : 16.2-4
+Version         : 16.3-1
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
@@ -655,7 +655,7 @@ Version         : 0.17-1
 Description     : Shows running coreutils basic commands and displays stats
 
 Name            : pyenv
-Version         : 1:2.4.3-1
+Version         : 1:2.4.5-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-imageio
@@ -715,7 +715,7 @@ Version         : 9.0.1-1
 Description     : A full QEMU setup
 
 Name            : qpwgraph
-Version         : 0.7.2-1
+Version         : 0.7.4-1
 Description     : PipeWire Graph Qt GUI Interface
 
 Name            : ranger
