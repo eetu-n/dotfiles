@@ -127,7 +127,7 @@ Version         : 5.76-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
-Version         : 0.9.6-1
+Version         : 0.9.6-2
 Description     : A graphical process/system monitor
 
 Name            : bspwm
@@ -211,7 +211,7 @@ Version         : 11.3.0-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 
 Name            : duf
-Version         : 0.8.1-2
+Version         : 0.8.1-3
 Description     : Disk Usage/Free Utility
 
 Name            : dunst
@@ -955,7 +955,7 @@ Version         : 4.1.0-3
 Description     : Desktop user interface for managing virtual machines
 
 Name            : virt-viewer
-Version         : 11.0-2
+Version         : 11.0-3
 Description     : A lightweight interface for interacting with the graphical display of virtualized guest OS.
 
 Name            : virtualbox
