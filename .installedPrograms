@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.6-1
+Version         : 2.17.8-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -159,7 +159,7 @@ Version         : 5.80.04-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.90.0-1
+Version         : 1.91.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
@@ -203,7 +203,7 @@ Version         : 2.28.1-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
-Version         : 4.2-3
+Version         : 4.2-4
 Description     : DOS filesystem utilities
 
 Name            : downgrade
@@ -263,7 +263,7 @@ Version         : 7.4.0.1636-1
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
-Version         : 2:3.5.1-3
+Version         : 2:3.6.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -307,7 +307,7 @@ Version         : 0.7.1-10
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.22.4-1
+Version         : 2:1.22.5-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
@@ -375,7 +375,7 @@ Version         : 1.8.19-2
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : iptables-nft
-Version         : 1:1.8.10-1
+Version         : 1:1.8.10-2
 Description     : Linux kernel packet control tool (using nft interface)
 
 Name            : jdk17-openjdk
@@ -399,7 +399,7 @@ Version         : 2.7.9-1
 Description     : Cross-platform community-driven port of Keepass password manager
 
 Name            : keychain
-Version         : 2.8.5-2
+Version         : 2.8.5-3
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : krita
@@ -679,7 +679,7 @@ Version         : 2.0.0-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
-Version         : 24.0-2
+Version         : 24.1.1-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -1235,7 +1235,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 6.1.0-1
+Version         : 6.1.1-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
