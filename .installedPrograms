@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.8-1
+Version         : 2.17.9-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -263,7 +263,7 @@ Version         : 7.4.0.1636-1
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
-Version         : 2:3.6.0-1
+Version         : 2:3.6.2-2
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -427,7 +427,7 @@ Version         : 2.5.0+14+g9a4a0261-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.9.7.arch1-1
+Version         : 6.9.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -435,15 +435,15 @@ Version         : 20240610.9c10a208-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.9.7.arch1-1
+Version         : 6.9.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.36-1
+Version         : 6.6.37-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.36-1
+Version         : 6.6.37-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -499,7 +499,7 @@ Version         : 38542-2
 Description     : Media player for Linux
 
 Name            : mpv
-Version         : 1:0.38.0-5
+Version         : 1:0.38.0-6
 Description     : a free, open source, and cross-platform media player
 
 Name            : mtpfs
@@ -535,11 +535,11 @@ Version         : 1.26.1-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nix
-Version         : 2.23.1-1
+Version         : 2.23.2-1
 Description     : A purely functional package manager
 
 Name            : nix-docs
-Version         : 2.23.1-1
+Version         : 2.23.2-1
 Description     : A purely functional package manager (documentation)
 
 Name            : noto-fonts
@@ -635,7 +635,7 @@ Version         : 3.7.1-1
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
-Version         : 16.3-1
+Version         : 16.3-2
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
@@ -655,7 +655,7 @@ Version         : 0.17-1
 Description     : Shows running coreutils basic commands and displays stats
 
 Name            : pyenv
-Version         : 1:2.4.5-1
+Version         : 1:2.4.6-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-imageio
@@ -763,7 +763,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.79.0-1
+Version         : 1:1.79.0-3
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -805,6 +805,10 @@ Description     : Sound Open Firmware
 Name            : solaar
 Version         : 1.1.13-1
 Description     : Linux device manager for a wide range of Logitech devices
+
+Name            : spectacle
+Version         : 24.05.2-1
+Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
 Version         : 2.1.3-8
@@ -943,7 +947,7 @@ Version         : 1.17.1-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0496-1
+Version         : 9.1.0532-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -987,7 +991,7 @@ Version         : 2:2.10-8
 Description     : A utility providing key negotiation for WPA wireless networks
 
 Name            : x11-ssh-askpass
-Version         : 1.2.4.1-7
+Version         : 1.2.4.1-8
 Description     : Lightweight passphrase dialog for SSH
 
 Name            : xclip
