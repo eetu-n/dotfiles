@@ -115,15 +115,15 @@ Version         : 2.4.2-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
-Version         : 5.76-1
+Version         : 5.77-1
 Description     : Daemons for the bluetooth protocol stack
 
 Name            : bluez-hid2hci
-Version         : 5.76-1
+Version         : 5.77-1
 Description     : Put HID proxying bluetooth HCI's into HCI mode
 
 Name            : bluez-utils
-Version         : 5.76-1
+Version         : 5.77-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
@@ -263,7 +263,7 @@ Version         : 7.4.0.1636-1
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
-Version         : 2:3.6.2-2
+Version         : 2:3.6.3-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -395,7 +395,7 @@ Version         : 4.2.3-1
 Description     : JupyterLab computational environment
 
 Name            : keepassxc
-Version         : 2.7.9-1
+Version         : 2.7.9-2
 Description     : Cross-platform community-driven port of Keepass password manager
 
 Name            : keychain
@@ -431,7 +431,7 @@ Version         : 6.9.8.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20240610.9c10a208-1
+Version         : 20240703.e94a2a3b-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
@@ -439,11 +439,11 @@ Version         : 6.9.8.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.37-1
+Version         : 6.6.38-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.37-1
+Version         : 6.6.38-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -535,11 +535,11 @@ Version         : 1.26.1-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nix
-Version         : 2.23.2-1
+Version         : 2.23.3-1
 Description     : A purely functional package manager
 
 Name            : nix-docs
-Version         : 2.23.2-1
+Version         : 2.23.3-1
 Description     : A purely functional package manager (documentation)
 
 Name            : noto-fonts
@@ -655,7 +655,7 @@ Version         : 0.17-1
 Description     : Shows running coreutils basic commands and displays stats
 
 Name            : pyenv
-Version         : 1:2.4.6-1
+Version         : 1:2.4.7-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-imageio
