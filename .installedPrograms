@@ -247,7 +247,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 127.0.2-1
+Version         : 128.0-1
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -291,7 +291,7 @@ Version         : 0.14.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
-Version         : 0.17.0-3
+Version         : 0.17.0-5
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -555,8 +555,8 @@ Version         : 1:2.042-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 10.8.1-1
-Description     : A package manager for JavaScript
+Version         : 10.8.2-1
+Description     : JavaScript package manager
 
 Name            : nsxiv
 Version         : 32-4
@@ -679,7 +679,7 @@ Version         : 2.0.0-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
-Version         : 24.1.1-1
+Version         : 24.1.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -943,7 +943,7 @@ Version         : 2.4.1-1
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.17.1-1
+Version         : 1.17.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
