@@ -1,9 +1,9 @@
 Name            : acpi
-Version         : 1.7-3
+Version         : 1.7-4
 Description     : Client for battery, power, and thermal readings
 
 Name            : acpilight
-Version         : 1.2-2
+Version         : 1.2-3
 Description     : a backward-compatible xbacklight replacement based on ACPI
 
 Name            : adobe-base-14-fonts
@@ -19,7 +19,7 @@ Version         : 0.13.2-2
 Description     : A cross-platform, GPU-accelerated terminal emulator
 
 Name            : alsa-firmware
-Version         : 1.2.4-3
+Version         : 1.2.4-4
 Description     : Firmware binaries for loader programs in alsa-tools and hotplug firmware loader
 
 Name            : alsa-utils
@@ -71,7 +71,7 @@ Version         : 0.10.1-2
 Description     : synchronizes the two copy/paste buffers mainly used by X applications
 
 Name            : automake
-Version         : 1.16.5-2
+Version         : 1.17-1
 Description     : A GNU tool for automatically creating Makefiles
 
 Name            : autorandr
@@ -103,7 +103,7 @@ Version         : 9.18.27-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.42+r91+g6224493e457-1
+Version         : 2.42+r195+g29ae8b8ea71-1
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -135,7 +135,7 @@ Version         : 0.9.10-3
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 126.0.6478.126-1
+Version         : 127.0.6533.57-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -159,7 +159,7 @@ Version         : 5.80.04-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.91.0-1
+Version         : 1.91.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
@@ -195,11 +195,11 @@ Version         : 1:27.0.3-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.15.1-1
+Version         : 0.16.1-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.28.1-1
+Version         : 2.29.0-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -219,7 +219,7 @@ Version         : 1.11.0-1
 Description     : Customizable and lightweight notification-daemon
 
 Name            : dust
-Version         : 1.0.0-3
+Version         : 1.1.1-1
 Description     : A more intuitive version of du in rust
 
 Name            : efibootmgr
@@ -231,7 +231,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.21-1
+Version         : 0.18.22-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -247,7 +247,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 128.0-1
+Version         : 128.0-2
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -267,15 +267,15 @@ Version         : 2:3.6.3-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.21-2
+Version         : 1.9.21-3
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.53.0-1
+Version         : 0.54.0-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
-Version         : 14.1.1+r58+gfc9fb69ad62-1
+Version         : 14.1.1+r309+gbb34b7eda1f-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gconf
@@ -295,7 +295,7 @@ Version         : 0.17.0-5
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
-Version         : 1:46.1-2
+Version         : 1:46.2-1
 Description     : Stores passwords and encryption keys
 
 Name            : gnu-free-fonts
@@ -319,7 +319,7 @@ Version         : 1.16.1-1
 Description     : Ping, but with a graph
 
 Name            : gradle
-Version         : 8.8-1
+Version         : 8.9-1
 Description     : Powerful build system for the JVM
 
 Name            : groff
@@ -327,11 +327,11 @@ Version         : 1.23.0-6
 Description     : GNU troff text-formatting system
 
 Name            : gtop
-Version         : 1.1.5-1
+Version         : 1.1.5-2
 Description     : System monitoring dashboard for terminal
 
 Name            : helm
-Version         : 3.15.2-1
+Version         : 3.15.3-1
 Description     : The Kubernetes Package Manager
 
 Name            : helvum
@@ -351,7 +351,7 @@ Version         : 24.5.0.76-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.34-1
+Version         : 7.1.1.35-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -371,7 +371,7 @@ Version         : 2024.1.4-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
-Version         : 1.8.19-2
+Version         : 1.8.19-4
 Description     : Command-line interface to IPMI-enabled devices
 
 Name            : iptables-nft
@@ -379,7 +379,7 @@ Version         : 1:1.8.10-2
 Description     : Linux kernel packet control tool (using nft interface)
 
 Name            : jdk17-openjdk
-Version         : 17.0.11.u9-1
+Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
@@ -387,15 +387,15 @@ Version         : 2.59.1-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
-Version         : 2.14.1-1
+Version         : 2.14.2-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
-Version         : 4.2.3-1
+Version         : 4.2.4-1
 Description     : JupyterLab computational environment
 
 Name            : keepassxc
-Version         : 2.7.9-2
+Version         : 2.7.9-3
 Description     : Cross-platform community-driven port of Keepass password manager
 
 Name            : keychain
@@ -415,7 +415,7 @@ Version         : 1.52.0-6
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 24.2.4-2
+Version         : 24.2.5-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -423,11 +423,11 @@ Version         : 12.1.51-8
 Description     : C API package allowing third-party developers to write applications that utilize the Spotify music streaming service
 
 Name            : libtool
-Version         : 2.5.0+14+g9a4a0261-1
+Version         : 2.5.0+14+g9a4a0261-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.9.8.arch1-1
+Version         : 6.10.arch1-2
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -435,15 +435,15 @@ Version         : 20240703.e94a2a3b-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.9.8.arch1-1
+Version         : 6.10.arch1-2
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.38-1
+Version         : 6.6.40-2
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.38-1
+Version         : 6.6.40-2
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -451,7 +451,7 @@ Version         : 0.3.4-1
 Description     : An unofficial driver for Logitech HID++>2.0 mice and keyboard
 
 Name            : logrotate
-Version         : 3.21.0-2
+Version         : 3.22.0-1
 Description     : Rotates system logs automatically
 
 Name            : lsof
@@ -459,7 +459,7 @@ Version         : 4.99.3-2
 Description     : Lists open files for running Unix processes
 
 Name            : lxappearance
-Version         : 0.6.3-4
+Version         : 0.6.3-5
 Description     : Feature-rich GTK+ theme switcher of the LXDE Desktop
 
 Name            : lynis
@@ -503,7 +503,7 @@ Version         : 1:0.38.0-6
 Description     : a free, open source, and cross-platform media player
 
 Name            : mtpfs
-Version         : 1.1-4
+Version         : 1.1-5
 Description     : A FUSE filesystem that supports reading and writing from any MTP device
 
 Name            : ncmpcpp
@@ -523,7 +523,7 @@ Version         : 1.36.0-1
 Description     : Applet for managing network connections
 
 Name            : networkmanager-openconnect
-Version         : 1.2.10-1
+Version         : 1.2.10-2
 Description     : NetworkManager VPN plugin for OpenConnect
 
 Name            : networkmanager-openvpn
@@ -563,11 +563,11 @@ Version         : 32-4
 Description     : Neo (or New or Not) Simple (or Small or Suckless) X Image Viewer
 
 Name            : nuget
-Version         : 6.5.0-1
+Version         : 6.5.0-2
 Description     : Package manager for .NET.
 
 Name            : openconnect
-Version         : 1:9.12-1
+Version         : 1:9.12-2
 Description     : Open client for Cisco AnyConnect VPN
 
 Name            : openfortivpn
@@ -607,19 +607,19 @@ Version         : 11.2-1
 Description     : A lightweight compositor for X11
 
 Name            : pipewire
-Version         : 1:1.2.0-2
+Version         : 1:1.2.1-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.2.0-2
+Version         : 1:1.2.1-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.2.0-2
+Version         : 1:1.2.1-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.2.0-2
+Version         : 1:1.2.1-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -635,7 +635,7 @@ Version         : 3.7.1-1
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
-Version         : 16.3-2
+Version         : 16.3-3
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
@@ -643,7 +643,7 @@ Version         : 7.4.3-2
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
-Version         : 2.15-1
+Version         : 2.15-2
 Description     : A tool to diagnose issues with power consumption and power management
 
 Name            : procs
@@ -711,11 +711,11 @@ Version         : 3.9.19-1
 Description     : Major release 3.9 of the Python high-level programming language
 
 Name            : qemu-full
-Version         : 9.0.1-1
+Version         : 9.0.2-1
 Description     : A full QEMU setup
 
 Name            : qpwgraph
-Version         : 0.7.4-1
+Version         : 0.7.5-1
 Description     : PipeWire Graph Qt GUI Interface
 
 Name            : ranger
@@ -739,7 +739,7 @@ Version         : 1.3.0.0-4
 Description     : A protocol plugin for Remmina to open a RDP connection with rdesktop
 
 Name            : reptyr
-Version         : 0.10.0-1
+Version         : 0.10.0-2
 Description     : Utility for taking an existing running program and attaching it to a new terminal
 
 Name            : rofi-dmenu
@@ -767,7 +767,7 @@ Version         : 1:1.79.0-3
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
-Version         : 9.31-4
+Version         : 9.31-5
 Description     : Unicode enabled rxvt-clone terminal emulator (urxvt)
 
 Name            : scrot
@@ -799,7 +799,7 @@ Version         : 2.63-1
 Description     : Service and tools for management of snap packages.
 
 Name            : sof-firmware
-Version         : 2024.03-1
+Version         : 2024.06-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -819,7 +819,7 @@ Version         : 1:1.2.40.599-1
 Description     : A proprietary music streaming service
 
 Name            : sshpass
-Version         : 1.10-1
+Version         : 1.10-2
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
@@ -827,7 +827,7 @@ Version         : 6.9-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
-Version         : 1.9.15.p5-1
+Version         : 1.9.15.p5-2
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
@@ -835,7 +835,7 @@ Version         : 0.6.2-3
 Description     : Simple X hotkey daemon
 
 Name            : tealdeer
-Version         : 1.6.1-1
+Version         : 1.6.1-2
 Description     : A fast tldr client in Rust
 
 Name            : texinfo
@@ -875,7 +875,7 @@ Version         : 1.13.1-5
 Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
 
 Name            : tmux
-Version         : 3.4-8
+Version         : 3.4-9
 Description     : Terminal multiplexer
 
 Name            : traceroute
@@ -887,7 +887,7 @@ Version         : 2.37+18+g9b5d1b2f-7
 Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
 
 Name            : ttf-font-awesome
-Version         : 6.5.2-1
+Version         : 6.6.0-1
 Description     : Iconic font designed for Bootstrap
 
 Name            : ttf-hanazono
@@ -895,7 +895,7 @@ Version         : 20170904-4
 Description     : A free Japanese kanji font, which contains about 78,685 characters (and 2 SPACEs) defined in ISO/IEC 10646 standard / the Unicode standard.
 
 Name            : ttf-liberation
-Version         : 2.1.5-1
+Version         : 2.1.5-2
 Description     : Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
 
 Name            : ttf-ms-fonts
@@ -963,11 +963,11 @@ Version         : 11.0-3
 Description     : A lightweight interface for interacting with the graphical display of virtualized guest OS.
 
 Name            : virtualbox
-Version         : 7.0.18-1
+Version         : 7.0.20-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-dkms
-Version         : 7.0.18-1
+Version         : 7.0.20-1
 Description     : VirtualBox Host kernel modules sources
 
 Name            : vmware-horizon-client
@@ -983,7 +983,7 @@ Version         : 2.21-6
 Description     : A utility to show the full path of commands
 
 Name            : wmname
-Version         : 0.1-5
+Version         : 0.1-6
 Description     : A utility to set the name of your window manager
 
 Name            : wpa_supplicant
@@ -1003,11 +1003,11 @@ Version         : 1:6.0.4-2
 Description     : KDE Plasma 6 'Breeze' cursor theme. This package is for usage in non-KDE Plasma desktops.
 
 Name            : xdo
-Version         : 0.5.7-2
+Version         : 0.5.7-3
 Description     : Utility for performing actions on windows in X
 
 Name            : xdotool
-Version         : 3.20211022.1-1
+Version         : 3.20211022.1-2
 Description     : Command-line X11 automation tool
 
 Name            : xf86-video-vesa
@@ -1015,11 +1015,11 @@ Version         : 2.6.0-2
 Description     : X.org vesa video driver
 
 Name            : xmlstarlet
-Version         : 1.6.1-3
+Version         : 1.6.1-4
 Description     : A set of tools to transform, query, validate, and edit XML documents
 
 Name            : xorg-bdftopcf
-Version         : 1.1.1-1
+Version         : 1.1.1-2
 Description     : Convert X font from Bitmap Distribution Format to Portable Compiled Format
 
 Name            : xorg-docs
@@ -1027,15 +1027,15 @@ Version         : 1.7.3-2
 Description     : X.org documentations
 
 Name            : xorg-font-util
-Version         : 1.4.1-1
+Version         : 1.4.1-2
 Description     : X.Org font utilities
 
 Name            : xorg-fonts-100dpi
-Version         : 1.0.4-2
+Version         : 1.0.4-3
 Description     : X.org 100dpi fonts
 
 Name            : xorg-fonts-75dpi
-Version         : 1.0.4-1
+Version         : 1.0.4-2
 Description     : X.org 75dpi fonts
 
 Name            : xorg-fonts-encodings
@@ -1075,19 +1075,19 @@ Version         : 21.1.13-1
 Description     : Virtual framebuffer X server
 
 Name            : xorg-sessreg
-Version         : 1.1.3-1
+Version         : 1.1.3-2
 Description     : Register X sessions in system utmp/utmpx databases
 
 Name            : xorg-setxkbmap
-Version         : 1.3.4-1
+Version         : 1.3.4-2
 Description     : Set the keyboard using the X Keyboard Extension
 
 Name            : xorg-smproxy
-Version         : 1.0.7-1
+Version         : 1.0.7-2
 Description     : Allows X applications that do not support X11R6 session management to participate in an X11R6 session
 
 Name            : xorg-x11perf
-Version         : 1.6.2-1
+Version         : 1.6.2-2
 Description     : Simple X server performance benchmarker
 
 Name            : xorg-xauth
@@ -1095,19 +1095,19 @@ Version         : 1.1.3-1
 Description     : X.Org authorization settings program
 
 Name            : xorg-xcmsdb
-Version         : 1.0.6-1
+Version         : 1.0.6-2
 Description     : Device Color Characterization utility for X Color Management System
 
 Name            : xorg-xcursorgen
-Version         : 1.0.8-1
+Version         : 1.0.8-2
 Description     : Create an X cursor file from PNG images
 
 Name            : xorg-xdpyinfo
-Version         : 1.3.4-1
+Version         : 1.3.4-2
 Description     : Display information utility for X
 
 Name            : xorg-xdriinfo
-Version         : 1.0.7-1
+Version         : 1.0.7-2
 Description     : Query configuration information of DRI drivers
 
 Name            : xorg-xev
@@ -1115,19 +1115,19 @@ Version         : 1.2.6-1
 Description     : Print contents of X events
 
 Name            : xorg-xgamma
-Version         : 1.0.7-1
+Version         : 1.0.7-2
 Description     : Alter a monitor's gamma correction
 
 Name            : xorg-xhost
-Version         : 1.0.9-1
+Version         : 1.0.9-2
 Description     : Server access control program for X
 
 Name            : xorg-xinit
-Version         : 1.4.2-1
+Version         : 1.4.2-2
 Description     : X.Org initialisation program
 
 Name            : xorg-xinput
-Version         : 1.6.4-1
+Version         : 1.6.4-2
 Description     : Small commandline tool to configure devices
 
 Name            : xorg-xkbcomp
@@ -1135,7 +1135,7 @@ Version         : 1.4.7-1
 Description     : X Keyboard description compiler
 
 Name            : xorg-xkbevd
-Version         : 1.1.5-1
+Version         : 1.1.5-2
 Description     : XKB event daemon
 
 Name            : xorg-xkbutils
@@ -1143,15 +1143,15 @@ Version         : 1.0.6-1
 Description     : XKB utility demos
 
 Name            : xorg-xkill
-Version         : 1.0.6-1
+Version         : 1.0.6-2
 Description     : Kill a client by its X resource
 
 Name            : xorg-xlsatoms
-Version         : 1.1.4-1
+Version         : 1.1.4-2
 Description     : List interned atoms defined on server
 
 Name            : xorg-xlsclients
-Version         : 1.1.5-1
+Version         : 1.1.5-2
 Description     : List client applications running on a display
 
 Name            : xorg-xlsfonts
@@ -1159,7 +1159,7 @@ Version         : 1.0.8-1
 Description     : List available X fonts
 
 Name            : xorg-xmodmap
-Version         : 1.0.11-1
+Version         : 1.0.11-2
 Description     : Utility for modifying keymaps and button mappings
 
 Name            : xorg-xpr
@@ -1171,11 +1171,11 @@ Version         : 1.2.7-1
 Description     : Property displayer for X
 
 Name            : xorg-xrandr
-Version         : 1.5.2-1
+Version         : 1.5.2-2
 Description     : Primitive command line interface to RandR extension
 
 Name            : xorg-xrdb
-Version         : 1.2.2-1
+Version         : 1.2.2-2
 Description     : X server resource database utility
 
 Name            : xorg-xrefresh
@@ -1183,31 +1183,31 @@ Version         : 1.1.0-1
 Description     : Refresh all or part of an X screen
 
 Name            : xorg-xset
-Version         : 1.2.5-1
+Version         : 1.2.5-2
 Description     : User preference utility for X
 
 Name            : xorg-xsetroot
-Version         : 1.1.3-1
+Version         : 1.1.3-2
 Description     : Classic X utility to set your root window background to a given pattern or color
 
 Name            : xorg-xvinfo
-Version         : 1.1.5-1
+Version         : 1.1.5-2
 Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
 
 Name            : xorg-xwayland
-Version         : 24.1.0-1
+Version         : 24.1.1-1
 Description     : run X clients under wayland
 
 Name            : xorg-xwd
-Version         : 1.0.9-1
+Version         : 1.0.9-2
 Description     : X Window System image dumping utility
 
 Name            : xorg-xwininfo
-Version         : 1.1.6-1
+Version         : 1.1.6-2
 Description     : Command-line utility to print information about windows on an X server
 
 Name            : xorg-xwud
-Version         : 1.0.6-1
+Version         : 1.0.6-2
 Description     : X Window System image undumping utility
 
 Name            : xsecurelock
@@ -1215,7 +1215,7 @@ Version         : 1.9.0-1
 Description     : X11 screen lock utility with security in mind
 
 Name            : xsel
-Version         : 1.2.1-1
+Version         : 1.2.1-2
 Description     : Command-line program for getting and setting the contents of the X selection
 
 Name            : xtitle
