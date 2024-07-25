@@ -31,7 +31,7 @@ Version         : 4.7.0.4312-1
 Description     : Amazon Workspace Client
 
 Name            : android-studio
-Version         : 2024.1.1.11-1
+Version         : 2024.1.1.12-1
 Description     : The official Android IDE (Stable branch)
 
 Name            : arandr
@@ -79,11 +79,11 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.11-1
+Version         : 2.17.17-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
-Version         : 0.6.14-1
+Version         : 0.6.22-1
 Description     : A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 
 Name            : aws-session-manager-plugin
@@ -111,7 +111,7 @@ Version         : 3.8.2-6
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.4.2-1
+Version         : 2.4.2-2
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
@@ -231,7 +231,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.22-1
+Version         : 0.18.23-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -311,7 +311,7 @@ Version         : 2:1.22.5-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 126.0.6478.126-1
+Version         : 127.0.6533.72-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -383,7 +383,7 @@ Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.59.1-1
+Version         : 2.61.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -571,7 +571,7 @@ Version         : 1:9.12-2
 Description     : Open client for Cisco AnyConnect VPN
 
 Name            : openfortivpn
-Version         : 1.22.0-1
+Version         : 1.22.1-1
 Description     : An open implementation of Fortinet's proprietary PPP+SSL VPN solution
 
 Name            : openldap
@@ -639,7 +639,7 @@ Version         : 16.3-3
 Description     : Sophisticated object-relational DBMS
 
 Name            : powershell-bin
-Version         : 7.4.3-2
+Version         : 7.4.4-1
 Description     : A cross-platform automation and configuration tool/framework (binary package)
 
 Name            : powertop
@@ -659,7 +659,7 @@ Version         : 1:2.4.8-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-imageio
-Version         : 2.34.1-2
+Version         : 2.34.2-1
 Description     : a Python library that provides an easy interface to read and write a wide range of image data
 
 Name            : python-ipdb
@@ -815,7 +815,7 @@ Version         : 2.1.3-8
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.2.40.599-1
+Version         : 1:1.2.42.290-1
 Description     : A proprietary music streaming service
 
 Name            : sshpass
