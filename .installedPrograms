@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.17-1
+Version         : 2.17.18-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -111,7 +111,7 @@ Version         : 3.8.2-6
 Description     : The GNU general-purpose parser generator
 
 Name            : blueman
-Version         : 2.4.2-2
+Version         : 2.4.3-1
 Description     : GTK+ Bluetooth Manager
 
 Name            : bluez
@@ -127,11 +127,11 @@ Version         : 5.77-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
-Version         : 0.9.6-2
+Version         : 0.9.7-1
 Description     : A graphical process/system monitor
 
 Name            : bspwm
-Version         : 0.9.10-3
+Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
@@ -191,11 +191,11 @@ Version         : 2.90-1
 Description     : Lightweight, easy to configure DNS forwarder and DHCP server
 
 Name            : docker
-Version         : 1:27.0.3-1
+Version         : 1:27.1.1-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
-Version         : 0.16.1-1
+Version         : 0.16.2-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
@@ -247,7 +247,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 128.0.2-1
+Version         : 128.0.3-1
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -267,7 +267,7 @@ Version         : 2:3.6.3-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.21-3
+Version         : 1.9.22-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -315,7 +315,7 @@ Version         : 127.0.6533.72-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
-Version         : 1.16.1-1
+Version         : 1.17.3-1
 Description     : Ping, but with a graph
 
 Name            : gradle
@@ -351,7 +351,7 @@ Version         : 24.5.0.76-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.35-1
+Version         : 7.1.1.36-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -383,7 +383,7 @@ Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.61.0-1
+Version         : 2.61.2-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -423,11 +423,11 @@ Version         : 12.1.51-8
 Description     : C API package allowing third-party developers to write applications that utilize the Spotify music streaming service
 
 Name            : libtool
-Version         : 2.5.0+14+g9a4a0261-2
+Version         : 2.5.1-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.arch1-2
+Version         : 6.10.2.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -435,15 +435,15 @@ Version         : 20240703.e94a2a3b-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.arch1-2
+Version         : 6.10.2.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.41-1
+Version         : 6.6.42-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.41-1
+Version         : 6.6.42-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -675,7 +675,7 @@ Version         : 1.2.1-1
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-numpy
-Version         : 2.0.0-1
+Version         : 2.0.1-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
@@ -723,7 +723,7 @@ Version         : 1.9.3-11
 Description     : Simple, vim-like file manager
 
 Name            : redshift
-Version         : 1.12-12
+Version         : 1.12-13
 Description     : Adjusts the color temperature of your screen according to your surroundings.
 
 Name            : reflector
@@ -763,7 +763,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.79.0-3
+Version         : 1:1.80.0-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -871,11 +871,11 @@ Version         : 115.13.0-2
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
-Version         : 1.13.1-5
-Description     : Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
+Version         : 1.14.0-1
+Description     : Suite of VNC servers and clients based on the VNC 4 branch of TightVNC
 
 Name            : tmux
-Version         : 3.4-9
+Version         : 3.4-10
 Description     : Terminal multiplexer
 
 Name            : traceroute
@@ -971,7 +971,7 @@ Version         : 7.0.20-1
 Description     : VirtualBox Host kernel modules sources
 
 Name            : vmware-horizon-client
-Version         : 2312.1-1
+Version         : 2406-1
 Description     : VMware Horizon Client connect to VMware Horizon virtual desktop
 
 Name            : weston
@@ -987,7 +987,7 @@ Version         : 0.1-6
 Description     : A utility to set the name of your window manager
 
 Name            : wpa_supplicant
-Version         : 2:2.11-1
+Version         : 2:2.11-2
 Description     : A utility providing key negotiation for WPA wireless networks
 
 Name            : x11-ssh-askpass
@@ -1239,7 +1239,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 6.1.1-1
+Version         : 6.1.5-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
