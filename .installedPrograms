@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.18-1
+Version         : 2.17.19-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -647,7 +647,7 @@ Version         : 2.15-2
 Description     : A tool to diagnose issues with power consumption and power management
 
 Name            : procs
-Version         : 0.14.5-3
+Version         : 0.14.6-1
 Description     : A modern replacement for ps written in Rust
 
 Name            : progress
