@@ -99,11 +99,11 @@ Version         : 0.24.0-2
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.18.28-1
+Version         : 9.20.0-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.42+r195+g29ae8b8ea71-1
+Version         : 2.42+r207+g8a6764d35e5-1
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -127,7 +127,7 @@ Version         : 5.77-1
 Description     : Development and debugging utilities for the bluetooth protocol stack
 
 Name            : bottom
-Version         : 0.9.7-1
+Version         : 0.10.2-1
 Description     : A graphical process/system monitor
 
 Name            : bspwm
@@ -135,7 +135,7 @@ Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 127.0.6533.72-1
+Version         : 127.0.6533.88-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -159,7 +159,7 @@ Version         : 5.80.04-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.91.1-1
+Version         : 1.92.0-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
@@ -231,7 +231,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.18.23-1
+Version         : 0.18.24-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -255,7 +255,7 @@ Version         : 2.6.4-5
 Description     : A tool for generating text-scanning programs
 
 Name            : foot
-Version         : 1.17.2-1
+Version         : 1.18.0-1
 Description     : Fast, lightweight, and minimalistic Wayland terminal emulator
 
 Name            : forticlient-vpn
@@ -267,15 +267,15 @@ Version         : 2:3.6.3-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.22-1
+Version         : 1.9.23-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
-Version         : 0.54.0-1
+Version         : 0.54.3-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
-Version         : 14.1.1+r309+gbb34b7eda1f-1
+Version         : 14.2.1+r26+g14fa2b2ae7f-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gconf
@@ -283,7 +283,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.45.2-1
+Version         : 2.46.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -325,6 +325,10 @@ Description     : Powerful build system for the JVM
 Name            : groff
 Version         : 1.23.0-6
 Description     : GNU troff text-formatting system
+
+Name            : groovy
+Version         : 4.0.18-1
+Description     : Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
 
 Name            : gtop
 Version         : 1.1.5-2
@@ -423,11 +427,11 @@ Version         : 12.1.51-8
 Description     : C API package allowing third-party developers to write applications that utilize the Spotify music streaming service
 
 Name            : libtool
-Version         : 2.5.1-1
+Version         : 2.5.1-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.2.arch1-1
+Version         : 6.10.3.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -435,15 +439,15 @@ Version         : 20240703.e94a2a3b-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.2.arch1-1
+Version         : 6.10.3.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.42-1
+Version         : 6.6.44-2
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.42-1
+Version         : 6.6.44-2
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -543,7 +547,7 @@ Version         : 2.23.3-1
 Description     : A purely functional package manager (documentation)
 
 Name            : noto-fonts
-Version         : 1:24.7.1-1
+Version         : 1:24.8.1-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-cjk
@@ -607,19 +611,19 @@ Version         : 11.2-1
 Description     : A lightweight compositor for X11
 
 Name            : pipewire
-Version         : 1:1.2.1-1
+Version         : 1:1.2.2-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.2.1-1
+Version         : 1:1.2.2-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.2.1-1
+Version         : 1:1.2.2-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.2.1-1
+Version         : 1:1.2.2-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -831,7 +835,7 @@ Version         : 1.9.15.p5-2
 Description     : Give certain users the ability to run some commands as root
 
 Name            : sxhkd
-Version         : 0.6.2-3
+Version         : 0.6.2-4
 Description     : Simple X hotkey daemon
 
 Name            : tealdeer
@@ -863,7 +867,7 @@ Version         : 2024.2-2
 Description     : TeX Live - Mathematics, natural sciences, computer science packages
 
 Name            : thunar
-Version         : 4.18.10-2
+Version         : 4.18.11-1
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
@@ -947,7 +951,7 @@ Version         : 1.17.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0611-1
+Version         : 9.1.0648-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -1087,7 +1091,7 @@ Version         : 1.0.7-2
 Description     : Allows X applications that do not support X11R6 session management to participate in an X11R6 session
 
 Name            : xorg-x11perf
-Version         : 1.6.2-2
+Version         : 1.7.0-1
 Description     : Simple X server performance benchmarker
 
 Name            : xorg-xauth
