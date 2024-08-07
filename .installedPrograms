@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.19-1
+Version         : 2.17.23-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -103,7 +103,7 @@ Version         : 9.20.0-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
-Version         : 2.42+r207+g8a6764d35e5-1
+Version         : 2.43+r4+g7999dae6961-1
 Description     : A set of programs to assemble and manipulate binary and object files
 
 Name            : bison
@@ -135,7 +135,7 @@ Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 127.0.6533.88-1
+Version         : 127.0.6533.99-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -247,7 +247,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 128.0.3-1
+Version         : 129.0-1
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -259,7 +259,7 @@ Version         : 1.18.0-1
 Description     : Fast, lightweight, and minimalistic Wayland terminal emulator
 
 Name            : forticlient-vpn
-Version         : 7.4.0.1636-1
+Version         : 7.4.0.1636-2
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
@@ -275,7 +275,7 @@ Version         : 0.54.3-1
 Description     : Command-line fuzzy finder
 
 Name            : gcc
-Version         : 14.2.1+r26+g14fa2b2ae7f-1
+Version         : 14.2.1+r32+geccf707e5ce-1
 Description     : The GNU Compiler Collection - C and C++ frontends
 
 Name            : gconf
@@ -311,7 +311,7 @@ Version         : 2:1.22.5-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 127.0.6533.72-1
+Version         : 127.0.6533.99-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -367,11 +367,11 @@ Version         : 20240531-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2024.1.4-1
+Version         : 2024.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2024.1.4-1
+Version         : 2024.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -387,7 +387,7 @@ Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.61.2-1
+Version         : 2.63.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -431,7 +431,7 @@ Version         : 2.5.1-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.3.arch1-1
+Version         : 6.10.3.arch1-2
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -439,15 +439,15 @@ Version         : 20240703.e94a2a3b-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.3.arch1-1
+Version         : 6.10.3.arch1-2
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.44-2
+Version         : 6.6.44-3
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.44-2
+Version         : 6.6.44-3
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -491,7 +491,7 @@ Version         : 3.4.2-2
 Description     : An extensible music server written in Python
 
 Name            : mosh
-Version         : 1.4.0-11
+Version         : 1.4.0-12
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
@@ -1243,7 +1243,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 6.1.5-1
+Version         : 6.1.6-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
