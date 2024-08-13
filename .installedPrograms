@@ -31,7 +31,7 @@ Version         : 4.7.0.4312-1
 Description     : Amazon Workspace Client
 
 Name            : android-studio
-Version         : 2024.1.1.12-1
+Version         : 2024.1.1.13-1
 Description     : The official Android IDE (Stable branch)
 
 Name            : arandr
@@ -151,7 +151,7 @@ Version         : 6.18-1
 Description     : Easy to use, light-weight, on-demand virus scanner for Linux systems
 
 Name            : cloc
-Version         : 2.00-1
+Version         : 2.02-1
 Description     : Count lines of code
 
 Name            : cnrdrvcups-lb-bin
@@ -159,7 +159,7 @@ Version         : 5.80.04-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.92.0-1
+Version         : 1.92.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
@@ -263,7 +263,7 @@ Version         : 7.4.0.1636-2
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
-Version         : 2:3.6.3-1
+Version         : 2:3.7.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -415,11 +415,11 @@ Version         : 1.30.3-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.52.0-6
+Version         : 1.52.1-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 24.2.5-1
+Version         : 24.2.5-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -431,7 +431,7 @@ Version         : 2.5.1-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.3.arch1-2
+Version         : 6.10.4.arch2-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -439,15 +439,15 @@ Version         : 20240703.e94a2a3b-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.3.arch1-2
+Version         : 6.10.4.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.44-3
+Version         : 6.6.45-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.44-3
+Version         : 6.6.45-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -659,7 +659,7 @@ Version         : 0.17-1
 Description     : Shows running coreutils basic commands and displays stats
 
 Name            : pyenv
-Version         : 1:2.4.8-1
+Version         : 1:2.4.10-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-imageio
@@ -683,7 +683,7 @@ Version         : 2.0.1-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
-Version         : 24.1.2-1
+Version         : 24.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
@@ -767,7 +767,7 @@ Version         : 1.0.14-1
 Description     : A pager like less, but for Markdown files
 
 Name            : rust
-Version         : 1:1.80.0-1
+Version         : 1:1.80.1-1
 Description     : Systems programming language focused on safety, speed and concurrency
 
 Name            : rxvt-unicode
@@ -827,7 +827,7 @@ Version         : 1.10-2
 Description     : Fool ssh into accepting an interactive password non-interactively
 
 Name            : strace
-Version         : 6.9-1
+Version         : 6.10-1
 Description     : A diagnostic, debugging and instructional userspace tracer
 
 Name            : sudo
@@ -943,7 +943,7 @@ Version         : 0.13.2-1
 Description     : v4l2-loopback device – utilities only
 
 Name            : vagrant
-Version         : 2.4.1-1
+Version         : 2.4.1-2
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
@@ -951,7 +951,7 @@ Version         : 1.17.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0648-1
+Version         : 9.1.0672-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
