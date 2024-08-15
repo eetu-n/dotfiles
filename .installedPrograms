@@ -135,7 +135,7 @@ Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 127.0.6533.99-1
+Version         : 127.0.6533.119-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -247,7 +247,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 129.0-1
+Version         : 129.0.1-2
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -255,7 +255,7 @@ Version         : 2.6.4-5
 Description     : A tool for generating text-scanning programs
 
 Name            : foot
-Version         : 1.18.0-1
+Version         : 1.18.1-1
 Description     : Fast, lightweight, and minimalistic Wayland terminal emulator
 
 Name            : forticlient-vpn
@@ -307,7 +307,7 @@ Version         : 0.7.1-10
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.22.6-1
+Version         : 2:1.23.0-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
@@ -319,7 +319,7 @@ Version         : 1.17.3-1
 Description     : Ping, but with a graph
 
 Name            : gradle
-Version         : 8.9-1
+Version         : 8.10-1
 Description     : Powerful build system for the JVM
 
 Name            : groff
@@ -363,7 +363,7 @@ Version         : 2.5-1
 Description     : A collection of common network programs
 
 Name            : intel-ucode
-Version         : 20240531-1
+Version         : 20240813-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
@@ -415,7 +415,7 @@ Version         : 1.30.3-1
 Description     : A command line tool for communicating with a Kubernetes API server
 
 Name            : libguestfs
-Version         : 1.52.1-1
+Version         : 1.52.2-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
@@ -435,7 +435,7 @@ Version         : 6.10.4.arch2-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
-Version         : 20240703.e94a2a3b-1
+Version         : 20240809.59460076-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
@@ -443,11 +443,11 @@ Version         : 6.10.4.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.45-1
+Version         : 6.6.46-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.45-1
+Version         : 6.6.46-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
