@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.23-1
+Version         : 2.17.31-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -235,7 +235,7 @@ Version         : 0.19.0-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
-Version         : 1.35-1
+Version         : 1.35.1-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
@@ -387,7 +387,7 @@ Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.63.1-1
+Version         : 2.63.2-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -431,7 +431,7 @@ Version         : 2.5.1-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.4.arch2-1
+Version         : 6.10.5.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -439,7 +439,7 @@ Version         : 20240809.59460076-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.4.arch2-1
+Version         : 6.10.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
@@ -611,19 +611,19 @@ Version         : 11.2-1
 Description     : A lightweight compositor for X11
 
 Name            : pipewire
-Version         : 1:1.2.2-1
+Version         : 1:1.2.2-2
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.2.2-1
+Version         : 1:1.2.2-2
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.2.2-1
+Version         : 1:1.2.2-2
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.2.2-1
+Version         : 1:1.2.2-2
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -631,7 +631,7 @@ Version         : 2.1.1-1
 Description     : Package compiler and linker metadata toolkit
 
 Name            : playerctl
-Version         : 2.4.1-3
+Version         : 2.4.1-4
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
 
 Name            : polybar
