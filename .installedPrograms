@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.31-1
+Version         : 2.17.35-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -99,7 +99,7 @@ Version         : 0.24.0-2
 Description     : Cat clone with syntax highlighting and git integration
 
 Name            : bind
-Version         : 9.20.0-1
+Version         : 9.20.1-1
 Description     : A complete, highly portable implementation of the DNS protocol
 
 Name            : binutils
@@ -135,7 +135,7 @@ Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 128.0.6613.36-1
+Version         : 128.0.6613.84-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -191,7 +191,7 @@ Version         : 2.90-1
 Description     : Lightweight, easy to configure DNS forwarder and DHCP server
 
 Name            : docker
-Version         : 1:27.1.1-1
+Version         : 1:27.1.2-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
@@ -199,7 +199,7 @@ Version         : 0.16.2-1
 Description     : Docker CLI plugin for extended build capabilities with BuildKit
 
 Name            : docker-compose
-Version         : 2.29.1-1
+Version         : 2.29.2-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
@@ -235,7 +235,7 @@ Version         : 0.19.0-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
-Version         : 1.35.1-1
+Version         : 1.36-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
@@ -247,7 +247,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 129.0.1-2
+Version         : 129.0.2-1
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -267,7 +267,7 @@ Version         : 2:3.7.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.23-1
+Version         : 1.9.24-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -291,7 +291,7 @@ Version         : 0.14.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
-Version         : 0.17.0-5
+Version         : 0.18.0-1
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -311,7 +311,7 @@ Version         : 2:1.23.0-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 127.0.6533.119-1
+Version         : 128.0.6613.84-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -367,11 +367,11 @@ Version         : 20240813-2
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2024.2.0.1-1
+Version         : 2024.2.0.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2024.2.0.1-1
+Version         : 2024.2.0.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -431,7 +431,7 @@ Version         : 2.5.1-2
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.5.arch1-1
+Version         : 6.10.6.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -439,15 +439,15 @@ Version         : 20240809.59460076-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.5.arch1-1
+Version         : 6.10.6.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.46-1
+Version         : 6.6.47-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.46-1
+Version         : 6.6.47-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -535,7 +535,7 @@ Version         : 1.12.0-1
 Description     : NetworkManager VPN plugin for OpenVPN
 
 Name            : nginx
-Version         : 1.26.1-1
+Version         : 1.26.2-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nix
@@ -635,7 +635,7 @@ Version         : 2.4.1-4
 Description     : mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
 
 Name            : polybar
-Version         : 3.7.1-1
+Version         : 3.7.2-1
 Description     : A fast and easy-to-use status bar
 
 Name            : postgresql
@@ -719,7 +719,7 @@ Version         : 9.0.2-1
 Description     : A full QEMU setup
 
 Name            : qpwgraph
-Version         : 0.7.5-1
+Version         : 0.7.7-1
 Description     : PipeWire Graph Qt GUI Interface
 
 Name            : ranger
@@ -795,7 +795,7 @@ Version         : 0.4.0-1
 Description     : A FUSE filesystem that supports reading/writing from MTP devices
 
 Name            : slack-desktop
-Version         : 4.39.88-1
+Version         : 4.39.95-1
 Description     : Slack Desktop (Beta) for Linux
 
 Name            : snapd
@@ -973,10 +973,6 @@ Description     : Powerful x86 virtualization for enterprise as well as home use
 Name            : virtualbox-host-dkms
 Version         : 7.0.20-1
 Description     : VirtualBox Host kernel modules sources
-
-Name            : vmware-horizon-client
-Version         : 2406-1
-Description     : VMware Horizon Client connect to VMware Horizon virtual desktop
 
 Name            : weston
 Version         : 13.0.1-1
