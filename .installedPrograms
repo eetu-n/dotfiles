@@ -79,7 +79,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.35-1
+Version         : 2.17.42-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -135,7 +135,7 @@ Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 128.0.6613.84-1
+Version         : 128.0.6613.113-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -191,7 +191,7 @@ Version         : 2.90-1
 Description     : Lightweight, easy to configure DNS forwarder and DHCP server
 
 Name            : docker
-Version         : 1:27.1.2-1
+Version         : 1:27.2.0-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
@@ -203,7 +203,7 @@ Version         : 2.29.2-1
 Description     : Fast, isolated development environments using Docker
 
 Name            : dosfstools
-Version         : 4.2-4
+Version         : 4.2-5
 Description     : DOS filesystem utilities
 
 Name            : downgrade
@@ -231,7 +231,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.19.0-1
+Version         : 0.19.1-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -239,7 +239,7 @@ Version         : 1.36-1
 Description     : Tool for simulating superuser privileges
 
 Name            : fd
-Version         : 10.1.0-1
+Version         : 10.2.0-1
 Description     : Simple, fast and user-friendly alternative to find
 
 Name            : feh
@@ -263,7 +263,7 @@ Version         : 7.4.0.1636-2
 Description     : Build through the official package of FortiClient VPN only
 
 Name            : freerdp
-Version         : 2:3.7.0-1
+Version         : 2:3.8.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
@@ -283,7 +283,7 @@ Version         : 3.2.6+11+g07808097-10
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.46.0-1
+Version         : 2.46.0-2
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -291,7 +291,7 @@ Version         : 0.14.0-1
 Description     : git-credential-keepassxc is a Git credential helper that allows Git (and shell scripts) to get/store logins from/to KeePassXC
 
 Name            : git-delta
-Version         : 0.18.0-1
+Version         : 0.18.1-1
 Description     : Syntax-highlighting pager for git and diff output
 
 Name            : gnome-keyring
@@ -323,7 +323,7 @@ Version         : 8.10-1
 Description     : Powerful build system for the JVM
 
 Name            : groff
-Version         : 1.23.0-6
+Version         : 1.23.0-7
 Description     : GNU troff text-formatting system
 
 Name            : groovy
@@ -355,7 +355,7 @@ Version         : 24.5.0.76-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.36-1
+Version         : 7.1.1.37-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -395,7 +395,7 @@ Version         : 2.14.2-1
 Description     : Provides the backend for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila
 
 Name            : jupyterlab
-Version         : 4.2.4-1
+Version         : 4.2.5-1
 Description     : JupyterLab computational environment
 
 Name            : keepassxc
@@ -419,7 +419,7 @@ Version         : 1.52.2-1
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 24.8.0-1
+Version         : 24.8.0-2
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
@@ -427,11 +427,11 @@ Version         : 12.1.51-8
 Description     : C API package allowing third-party developers to write applications that utilize the Spotify music streaming service
 
 Name            : libtool
-Version         : 2.5.1-2
+Version         : 2.5.2+r1+g2fe3a3e2-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.6.arch1-1
+Version         : 6.10.7.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -439,15 +439,15 @@ Version         : 20240809.59460076-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.6.arch1-1
+Version         : 6.10.7.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.47-1
+Version         : 6.6.48-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.47-1
+Version         : 6.6.48-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
@@ -483,7 +483,7 @@ Version         : 4.4.1-2
 Description     : GNU make utility to maintain groups of programs
 
 Name            : maven
-Version         : 3.9.8-1
+Version         : 3.9.9-1
 Description     : Java project management and project comprehension tool
 
 Name            : mopidy
@@ -539,15 +539,15 @@ Version         : 1.26.2-1
 Description     : Lightweight HTTP server and IMAP/POP3 proxy server
 
 Name            : nix
-Version         : 2.23.3-1
+Version         : 2.23.3-2
 Description     : A purely functional package manager
 
 Name            : nix-docs
-Version         : 2.23.3-1
+Version         : 2.23.3-2
 Description     : A purely functional package manager (documentation)
 
 Name            : noto-fonts
-Version         : 1:24.8.1-1
+Version         : 1:24.9.1-1
 Description     : Google Noto TTF fonts
 
 Name            : noto-fonts-cjk
@@ -559,7 +559,7 @@ Version         : 1:2.042-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 10.8.2-1
+Version         : 10.8.3-1
 Description     : JavaScript package manager
 
 Name            : nsxiv
@@ -611,19 +611,19 @@ Version         : 11.2-1
 Description     : A lightweight compositor for X11
 
 Name            : pipewire
-Version         : 1:1.2.2-2
+Version         : 1:1.2.3-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.2.2-2
+Version         : 1:1.2.3-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.2.2-2
+Version         : 1:1.2.3-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.2.2-2
+Version         : 1:1.2.3-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -811,7 +811,7 @@ Version         : 1.1.13-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 24.05.2-1
+Version         : 24.08.0-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -951,7 +951,7 @@ Version         : 1.17.2-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0672-1
+Version         : 9.1.0707-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
