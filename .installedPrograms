@@ -83,7 +83,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.51-2
+Version         : 2.17.56-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -315,7 +315,7 @@ Version         : 2:1.23.1-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 128.0.6613.137-1
+Version         : 129.0.6668.58-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -371,11 +371,11 @@ Version         : 20240910-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2024.2.1-1
+Version         : 2024.2.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2024.2.1-1
+Version         : 2024.2.2-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -391,7 +391,7 @@ Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.67.0-1
+Version         : 2.68.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -1238,9 +1238,13 @@ Name            : xtitle
 Version         : 0.4.4-2
 Description     : Outputs X window titles
 
-Name            : yay-bin
-Version         : 12.3.5-1
-Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
+Name            : yay
+Version         : 12.4.2-1
+Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
+
+Name            : yay-debug
+Version         : 12.4.2-1
+Description     : Detached debugging symbols for yay
 
 Name            : yq
 Version         : 3.4.3-1
