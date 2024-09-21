@@ -1238,9 +1238,9 @@ Name            : xtitle
 Version         : 0.4.4-2
 Description     : Outputs X window titles
 
-Name            : yay
+Name            : yay-bin
 Version         : 12.4.2-1
-Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
+Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.
 
 Name            : yay-debug
 Version         : 12.4.2-1
