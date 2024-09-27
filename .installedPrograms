@@ -423,7 +423,7 @@ Version         : 1.52.2-3
 Description     : Access and modify virtual machine disk images
 
 Name            : libreoffice-fresh
-Version         : 24.8.1-2
+Version         : 24.8.2-1
 Description     : LibreOffice branch which contains new features and program enhancements
 
 Name            : libspotify
