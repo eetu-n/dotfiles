@@ -59,7 +59,7 @@ Version         : 1.0.3-1
 Description     : Arduino command line interface
 
 Name            : arduino-ide-bin
-Version         : 2.3.2-2
+Version         : 2.3.3-1
 Description     : Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.
 
 Name            : audacity
@@ -83,7 +83,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.57-1
+Version         : 2.17.60-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -139,7 +139,7 @@ Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 129.0.6668.58-1
+Version         : 129.0.6668.70-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -195,7 +195,7 @@ Version         : 2.90-1
 Description     : Lightweight, easy to configure DNS forwarder and DHCP server
 
 Name            : docker
-Version         : 1:27.2.1-1
+Version         : 1:27.3.1-1
 Description     : Pack, ship and run any application as a lightweight container
 
 Name            : docker-buildx
@@ -235,7 +235,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.19.4-1
+Version         : 0.20.0-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -251,7 +251,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 130.0.1-1
+Version         : 130.0.1-2
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -271,7 +271,7 @@ Version         : 2:3.8.0-1
 Description     : Free implementation of the Remote Desktop Protocol (RDP)
 
 Name            : fwupd
-Version         : 1.9.24-1
+Version         : 1.9.25-1
 Description     : Simple daemon to allow session software to update firmware
 
 Name            : fzf
@@ -315,7 +315,7 @@ Version         : 2:1.23.1-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 129.0.6668.58-1
+Version         : 129.0.6668.70-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -323,7 +323,7 @@ Version         : 1.17.3-1
 Description     : Ping, but with a graph
 
 Name            : gradle
-Version         : 8.10.1-1
+Version         : 8.10.2-1
 Description     : Powerful build system for the JVM
 
 Name            : groff
@@ -371,11 +371,11 @@ Version         : 20240910-1
 Description     : Microcode update files for Intel CPUs
 
 Name            : intellij-idea-ultimate-edition
-Version         : 2024.2.2-1
+Version         : 2024.2.3-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : intellij-idea-ultimate-edition-jre
-Version         : 2024.2.2-1
+Version         : 2024.2.3-1
 Description     : An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
 
 Name            : ipmitool
@@ -391,7 +391,7 @@ Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.68.0-1
+Version         : 2.69.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -503,7 +503,7 @@ Version         : 3.4.2-2
 Description     : An extensible music server written in Python
 
 Name            : mosh
-Version         : 1.4.0-14
+Version         : 1.4.0-15
 Description     : Mobile shell, surviving disconnects with local echo and line editing
 
 Name            : mpc
@@ -835,7 +835,7 @@ Version         : 2.1.3-8
 Description     : Command line interface for testing internet bandwidth using speedtest.net
 
 Name            : spotify
-Version         : 1:1.2.45.454-1
+Version         : 1:1.2.47.364-1
 Description     : A proprietary music streaming service
 
 Name            : sshpass
@@ -867,19 +867,19 @@ Version         : 2024.2-3
 Description     : TeX Live binaries
 
 Name            : texlive-latex
-Version         : 2024.2-2
+Version         : 2024.2-3
 Description     : TeX Live - LaTeX fundamental packages
 
 Name            : texlive-latexextra
-Version         : 2024.2-2
+Version         : 2024.2-3
 Description     : TeX Live - LaTeX additional packages
 
 Name            : texlive-latexrecommended
-Version         : 2024.2-2
+Version         : 2024.2-3
 Description     : TeX Live - LaTeX recommended packages
 
 Name            : texlive-mathscience
-Version         : 2024.2-2
+Version         : 2024.2-3
 Description     : TeX Live - Mathematics, natural sciences, computer science packages
 
 Name            : thunar
@@ -963,7 +963,7 @@ Version         : 2.4.1-2
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.17.5-1
+Version         : 1.17.6-1
 Description     : A tool for managing secrets
 
 Name            : vim
