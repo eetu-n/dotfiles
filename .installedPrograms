@@ -315,7 +315,7 @@ Version         : 2:1.23.2-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
-Version         : 129.0.6668.70-1
+Version         : 129.0.6668.100-1
 Description     : The popular web browser by Google (Stable Channel)
 
 Name            : gping
@@ -1267,7 +1267,7 @@ Version         : 3.0-11
 Description     : Compressor/archiver for creating and modifying zipfiles
 
 Name            : zoom
-Version         : 6.2.0-1
+Version         : 6.2.3-1
 Description     : Video Conferencing and Web Conferencing Service
 
 Name            : zsh
