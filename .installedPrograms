@@ -31,7 +31,7 @@ Version         : 4.7.0.4312-1
 Description     : Amazon Workspace Client
 
 Name            : android-studio
-Version         : 2024.1.2.13-1
+Version         : 2024.2.1.9-1
 Description     : The official Android IDE (Stable branch)
 
 Name            : arandr
@@ -83,7 +83,7 @@ Version         : 1.15-1
 Description     : Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 
 Name            : aws-cli-v2
-Version         : 2.17.60-1
+Version         : 2.18.4-1
 Description     : Unified command line interface for Amazon Web Services (version 2)
 
 Name            : aws-iam-authenticator-bin
@@ -139,7 +139,7 @@ Version         : 0.9.10-4
 Description     : Tiling window manager based on binary space partitioning
 
 Name            : chromium
-Version         : 129.0.6668.70-1
+Version         : 129.0.6668.100-1
 Description     : A web browser built for speed, simplicity, and security
 
 Name            : chrony
@@ -147,7 +147,7 @@ Version         : 4.5-3
 Description     : Lightweight NTP client and server
 
 Name            : clamav
-Version         : 1.3.1-1
+Version         : 1.4.1-1
 Description     : Anti-virus toolkit for Unix
 
 Name            : clamtk
@@ -163,15 +163,15 @@ Version         : 5.80.04-1
 Description     : CUPS Canon UFR II LIPSLX CARPS2 printer driver for LBP iR MF ImageCLASS ImageRUNNER Laser Shot i-SENSYS ImagePRESS ADVANCE printers and copiers
 
 Name            : code
-Version         : 1.93.1-1
+Version         : 1.94.1-1
 Description     : The Open Source build of Visual Studio Code (vscode) editor
 
 Name            : code-features
-Version         : 1.90.0-1
+Version         : 1.93.1-1
 Description     : Unblock some features in Code OSS
 
 Name            : code-marketplace
-Version         : 1.90.0-1
+Version         : 1.93.1-1
 Description     : Enable vscode marketplace in Code OSS
 
 Name            : cups-pdf
@@ -235,7 +235,7 @@ Version         : 0.17.0-1
 Description     : A Rust REPL based on evcxr
 
 Name            : eza
-Version         : 0.20.0-1
+Version         : 0.20.2-1
 Description     : A modern replacement for ls (community fork of exa)
 
 Name            : fakeroot
@@ -251,7 +251,7 @@ Version         : 3.10.3-1
 Description     : Fast and light imlib2-based image viewer
 
 Name            : firefox
-Version         : 130.0.1-2
+Version         : 131.0.2-1
 Description     : Fast, Private & Safe Web Browser
 
 Name            : flex
@@ -287,7 +287,7 @@ Version         : 3.2.6+11+g07808097-11
 Description     : An obsolete configuration database system
 
 Name            : git
-Version         : 2.46.2-1
+Version         : 2.47.0-1
 Description     : the fast distributed version control system
 
 Name            : git-credential-keepassxc
@@ -311,7 +311,7 @@ Version         : 0.7.1-10
 Description     : GNU rewrite of netcat, the network piping application
 
 Name            : go
-Version         : 2:1.23.1-1
+Version         : 2:1.23.2-1
 Description     : Core compiler tools for the Go programming language
 
 Name            : google-chrome
@@ -338,6 +338,10 @@ Name            : gtop
 Version         : 1.1.5-2
 Description     : System monitoring dashboard for terminal
 
+Name            : haruna
+Version         : 1.2.1-1
+Description     : Video player built with Qt/QML on top of libmpv
+
 Name            : helm
 Version         : 3.16.1-1
 Description     : The Kubernetes Package Manager
@@ -355,11 +359,11 @@ Version         : 1.18.0-2
 Description     : A command-line benchmarking tool
 
 Name            : icaclient
-Version         : 24.5.0.76-1
+Version         : 24.8.0.98-1
 Description     : Citrix Workspace App (a.k.a. ICAClient, Citrix Receiver)
 
 Name            : imagemagick
-Version         : 7.1.1.38-3
+Version         : 7.1.1.39-1
 Description     : An image viewing/manipulation program
 
 Name            : inetutils
@@ -391,7 +395,7 @@ Version         : 17.0.12.u7-1
 Description     : OpenJDK Java 17 development kit
 
 Name            : jfrog-cli
-Version         : 2.69.0-1
+Version         : 2.70.0-1
 Description     : Simple interface to Artifactory, Bintray and Mission Control
 
 Name            : jupyter-server
@@ -411,7 +415,7 @@ Version         : 2.8.5-3
 Description     : A front-end to ssh-agent, allowing one long-running ssh-agent process per system, rather than per login
 
 Name            : krita
-Version         : 5.2.5-2
+Version         : 5.2.6-2
 Description     : Edit and paint images
 
 Name            : kubectl
@@ -435,11 +439,11 @@ Version         : 3.3.6-10
 Description     : Legacy GNU Standard C++ library version 3
 
 Name            : libtool
-Version         : 2.5.2+r1+g2fe3a3e2-1
+Version         : 2.5.3-1
 Description     : A generic library support script
 
 Name            : linux
-Version         : 6.10.10.arch1-1
+Version         : 6.11.3.arch1-1
 Description     : The Linux kernel and modules
 
 Name            : linux-firmware
@@ -447,19 +451,19 @@ Version         : 20240909.552ed9b8-1
 Description     : Firmware files for Linux
 
 Name            : linux-headers
-Version         : 6.10.10.arch1-1
+Version         : 6.11.3.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 
 Name            : linux-lts
-Version         : 6.6.52-1
+Version         : 6.6.56-1
 Description     : The LTS Linux kernel and modules
 
 Name            : linux-lts-headers
-Version         : 6.6.52-1
+Version         : 6.6.56-1
 Description     : Headers and scripts for building modules for the LTS Linux kernel
 
 Name            : logiops
-Version         : 0.3.4-1
+Version         : 0.3.5-1
 Description     : An unofficial driver for Logitech HID++>2.0 mice and keyboard
 
 Name            : logrotate
@@ -475,7 +479,7 @@ Version         : 0.6.3-5
 Description     : Feature-rich GTK+ theme switcher of the LXDE Desktop
 
 Name            : lynis
-Version         : 3.1.1-1
+Version         : 3.1.2-1
 Description     : Security and system auditing tool to harden Unix/Linux systems
 
 Name            : m4
@@ -527,11 +531,11 @@ Version         : 0.10-1
 Description     : Featureful ncurses based MPD client inspired by ncmpc
 
 Name            : neovim
-Version         : 0.10.1-5
+Version         : 0.10.2-2
 Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
 
 Name            : net-tools
-Version         : 2.10-2
+Version         : 2.10-3
 Description     : Configuration tools for Linux networking
 
 Name            : network-manager-applet
@@ -567,11 +571,11 @@ Version         : 20230817-2
 Description     : Google Noto CJK fonts
 
 Name            : noto-fonts-emoji
-Version         : 1:2.042-1
+Version         : 1:2.047-1
 Description     : Google Noto emoji fonts
 
 Name            : npm
-Version         : 10.8.3-1
+Version         : 10.9.0-1
 Description     : JavaScript package manager
 
 Name            : nsxiv
@@ -579,7 +583,7 @@ Version         : 32-4
 Description     : Neo (or New or Not) Simple (or Small or Suckless) X Image Viewer
 
 Name            : nuget
-Version         : 6.5.0-2
+Version         : 6.11.1-1
 Description     : Package manager for .NET.
 
 Name            : openconnect
@@ -619,23 +623,23 @@ Version         : 2.2.0-4
 Description     : A tool to search text in PDF files
 
 Name            : picom
-Version         : 11.2-1
+Version         : 12.2-1
 Description     : A lightweight compositor for X11
 
 Name            : pipewire
-Version         : 1:1.2.4-1
+Version         : 1:1.2.5-1
 Description     : Low-latency audio/video router and processor
 
 Name            : pipewire-alsa
-Version         : 1:1.2.4-1
+Version         : 1:1.2.5-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
 
 Name            : pipewire-jack
-Version         : 1:1.2.4-1
+Version         : 1:1.2.5-1
 Description     : Low-latency audio/video router and processor - JACK replacement
 
 Name            : pipewire-pulse
-Version         : 1:1.2.4-1
+Version         : 1:1.2.5-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
 
 Name            : pkgconf
@@ -675,7 +679,7 @@ Version         : 0.4.5-1
 Description     : Pipewire volume control for GNOME
 
 Name            : pyenv
-Version         : 1:2.4.13-1
+Version         : 1:2.4.14-1
 Description     : Easily switch between multiple versions of Python
 
 Name            : python-imageio
@@ -691,11 +695,11 @@ Version         : 1.0.1-4
 Description     : A query language for JSON
 
 Name            : python-netaddr
-Version         : 1.2.1-1
+Version         : 1.2.1-2
 Description     : Pure Python network address representation and manipulation library
 
 Name            : python-numpy
-Version         : 2.1.1-1
+Version         : 2.1.2-1
 Description     : Scientific tools for Python
 
 Name            : python-pip
@@ -703,7 +707,7 @@ Version         : 24.2-1
 Description     : The PyPA recommended tool for installing Python packages
 
 Name            : python-pipenv
-Version         : 2024.0.3-1
+Version         : 2024.1.0-1
 Description     : Sacred Marriage of Pipfile, Pip, & Virtualenv.
 
 Name            : python-poetry
@@ -751,7 +755,7 @@ Version         : 2023-2
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
 
 Name            : remmina
-Version         : 1:1.4.35-4
+Version         : 1:1.4.36-1
 Description     : remote desktop client written in GTK+
 
 Name            : remmina-plugin-rdesktop
@@ -765,6 +769,10 @@ Description     : Utility for taking an existing running program and attaching i
 Name            : rofi-dmenu
 Version         : 2.0.0-1
 Description     : Symlink for using Rofi as a drop-in replacement to dmenu
+
+Name            : rofi-emoji
+Version         : 3.4.1-1
+Description     : A Rofi plugin for selecting emojis
 
 Name            : rofi-keepassxc
 Version         : 1.4-2
@@ -819,7 +827,7 @@ Version         : 2.65.1-1
 Description     : Service and tools for management of snap packages.
 
 Name            : sof-firmware
-Version         : 2024.06-1
+Version         : 2024.09-1
 Description     : Sound Open Firmware
 
 Name            : solaar
@@ -827,7 +835,7 @@ Version         : 1.1.13-1
 Description     : Linux device manager for a wide range of Logitech devices
 
 Name            : spectacle
-Version         : 24.08.1-1
+Version         : 24.08.2-1
 Description     : KDE screenshot capture utility
 
 Name            : speedtest-cli
@@ -855,7 +863,7 @@ Version         : 0.6.2-4
 Description     : Simple X hotkey daemon
 
 Name            : tealdeer
-Version         : 1.6.1-2
+Version         : 1.7.0-1
 Description     : A fast tldr client in Rust
 
 Name            : texinfo
@@ -887,7 +895,7 @@ Version         : 4.18.11-2
 Description     : Modern, fast and easy-to-use file manager for Xfce
 
 Name            : thunderbird
-Version         : 128.2.3-1
+Version         : 128.3.0-1
 Description     : Standalone mail and news reader from mozilla.org
 
 Name            : tigervnc
@@ -895,7 +903,7 @@ Version         : 1.14.0-1
 Description     : Suite of VNC servers and clients based on the VNC 4 branch of TightVNC
 
 Name            : tmux
-Version         : 3.4-10
+Version         : 3.5_a-1
 Description     : Terminal multiplexer
 
 Name            : traceroute
@@ -963,11 +971,11 @@ Version         : 2.4.1-2
 Description     : Build and distribute virtualized development environments
 
 Name            : vault
-Version         : 1.17.6-1
+Version         : 1.18.0-1
 Description     : A tool for managing secrets
 
 Name            : vim
-Version         : 9.1.0740-1
+Version         : 9.1.0764-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
 
 Name            : vim-ansible
@@ -983,11 +991,11 @@ Version         : 11.0-3
 Description     : A lightweight interface for interacting with the graphical display of virtualized guest OS.
 
 Name            : virtualbox
-Version         : 7.1.0-1
+Version         : 7.1.2-1
 Description     : Powerful x86 virtualization for enterprise as well as home use
 
 Name            : virtualbox-host-dkms
-Version         : 7.1.0-1
+Version         : 7.1.2-1
 Description     : VirtualBox Host kernel modules sources
 
 Name            : weston
